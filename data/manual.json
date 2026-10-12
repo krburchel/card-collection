@@ -1,0 +1,4 @@
+{
+ "_note": "Cards Rare Candy can't track (e.g. baseball). Same fields as rarecandy.json; id must be unique and start with 'm:'.",
+ "cards": []
+}
