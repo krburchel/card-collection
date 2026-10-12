@@ -1,5 +1,5 @@
 // Network-first for everything so new syncs show up immediately; cache is the offline fallback.
-const CACHE = "cc-v2";
+const CACHE = "cc-v3";
 const SHELL = ["./", "index.html", "manifest.json", "icon-192.png"];
 
 self.addEventListener("install", e => {
@@ -32,7 +32,7 @@ self.addEventListener("fetch", e => {
 
   // Strip cache-busting query so data files have one cache entry each
   const key = url.pathname.endsWith(".json") ? url.origin + url.pathname : req;
-  e.respondWith(fetch(req).then(res => {
+  e.respondWith(fetch(req, { cache: "no-cache" }).then(res => {
     if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(key, copy)); }
     return res;
   }).catch(() => caches.match(key)));

@@ -4,35 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Card Collection</title>
-<meta name="theme-color" content="#14121f">
+<meta name="theme-color" content="#100e1a">
+<meta name="color-scheme" content="dark">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <style>
 :root {
-  --bg: #f6f5fa; --surface: #ffffff; --surface-2: #efedf6; --border: #e0dcec;
-  --ink: #1b1828; --ink-2: #555068; --ink-3: #8a859c;
-  --accent: #5b4bdb; --accent-ink: #ffffff; --accent-soft: #e7e3fd;
-  --bar: #6f60e6; --bar-track: #e7e4f3; --gain: #1f8a4c; --loss: #c43c3c;
-  --shadow: 0 1px 2px rgba(20,16,40,.06), 0 4px 14px rgba(20,16,40,.06);
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #100e1a; --surface: #1a1727; --surface-2: #231f33; --border: #2e2943;
-    --ink: #eeecf6; --ink-2: #b4afc6; --ink-3: #7e7894;
-    --accent: #8c7ff5; --accent-ink: #120f22; --accent-soft: #2b2550;
-    --bar: #8c7ff5; --bar-track: #2a253c; --gain: #4cc47e; --loss: #ef6b6b;
-    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.25);
-  }
-}
-:root[data-theme="dark"] {
+  color-scheme: dark;
   --bg: #100e1a; --surface: #1a1727; --surface-2: #231f33; --border: #2e2943;
   --ink: #eeecf6; --ink-2: #b4afc6; --ink-3: #7e7894;
   --accent: #8c7ff5; --accent-ink: #120f22; --accent-soft: #2b2550;
   --bar: #8c7ff5; --bar-track: #2a253c; --gain: #4cc47e; --loss: #ef6b6b;
   --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.25);
 }
+html { background: var(--bg); }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body {
@@ -81,6 +68,8 @@ nav.tabs button[aria-selected="true"] { color: var(--ink); border-color: var(--a
   background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 8px 10px;
 }
 .controls select { flex: 0 1 auto; max-width: 100%; }
+.controls select option { background: var(--surface); color: var(--ink); }
+.toggle input { accent-color: var(--accent); }
 .toggle { display: inline-flex; gap: 6px; align-items: center; color: var(--ink-2); font-size: 14px; cursor: pointer; }
 .count { color: var(--ink-3); font-size: 13px; margin-left: auto; }
 
