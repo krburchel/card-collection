@@ -1,5 +1,5 @@
 // Network-first for everything so new syncs show up immediately; cache is the offline fallback.
-const CACHE = "cc-v3";
+const CACHE = "cc-v4";
 const SHELL = ["./", "index.html", "manifest.json", "icon-192.png"];
 
 self.addEventListener("install", e => {

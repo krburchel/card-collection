@@ -1,0 +1,167 @@
+{
+ "setId": "489zdDmzAFddx2I0",
+ "name": "Mega Evolution Energies",
+ "fetchedOn": "2026-10-13",
+ "cards": [
+  {
+   "id": "rc:wb6mxydrF0RlgckN",
+   "name": "Basic Grass Energy",
+   "number": "001",
+   "rarity": "",
+   "price": 0.18,
+   "img": "https://images.scrydex.com/pokemon/mee-1/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-1/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-grass-energy-1/wb6mxydrF0RlgckN"
+  },
+  {
+   "id": "rc:QHxiWIoUNX4LRLjg",
+   "name": "Basic Fire Energy",
+   "number": "002",
+   "rarity": "",
+   "price": 0.24,
+   "img": "https://images.scrydex.com/pokemon/mee-2/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-2/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-fire-energy-2/QHxiWIoUNX4LRLjg"
+  },
+  {
+   "id": "rc:5cKGiBKvwJsvcKvx",
+   "name": "Basic Water Energy",
+   "number": "003",
+   "rarity": "",
+   "price": 0.14,
+   "img": "https://images.scrydex.com/pokemon/mee-3/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-3/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-water-energy-3/5cKGiBKvwJsvcKvx"
+  },
+  {
+   "id": "rc:RZsDJfkzOpCwy9yV",
+   "name": "Basic Lightning Energy",
+   "number": "004",
+   "rarity": "",
+   "price": 0.13,
+   "img": "https://images.scrydex.com/pokemon/mee-4/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-4/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-lightning-energy-4/RZsDJfkzOpCwy9yV"
+  },
+  {
+   "id": "rc:6uvUbxhTPDDYbIO6",
+   "name": "Basic Psychic Energy",
+   "number": "005",
+   "rarity": "",
+   "price": 0.2,
+   "img": "https://images.scrydex.com/pokemon/mee-5/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-5/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-psychic-energy-5/6uvUbxhTPDDYbIO6"
+  },
+  {
+   "id": "rc:lAuxY9wwRPvbpym7",
+   "name": "Basic Fighting Energy",
+   "number": "006",
+   "rarity": "",
+   "price": 0.19,
+   "img": "https://images.scrydex.com/pokemon/mee-6/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-6/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-fighting-energy-6/lAuxY9wwRPvbpym7"
+  },
+  {
+   "id": "rc:knBzTk0nj4vm5Nsg",
+   "name": "Basic Darkness Energy",
+   "number": "007",
+   "rarity": "",
+   "price": 0.22,
+   "img": "https://images.scrydex.com/pokemon/mee-7/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-7/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-darkness-energy-7/knBzTk0nj4vm5Nsg"
+  },
+  {
+   "id": "rc:vDDmDV92UreKKb7b",
+   "name": "Basic Metal Energy",
+   "number": "008",
+   "rarity": "",
+   "price": 0.12,
+   "img": "https://images.scrydex.com/pokemon/mee-8/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-8/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-metal-energy-8/vDDmDV92UreKKb7b"
+  },
+  {
+   "id": "rc:e7kYrAqeCTIZbISV",
+   "name": "Basic Grass Energy",
+   "number": "009",
+   "rarity": "Common",
+   "price": 0.16,
+   "img": "https://images.scrydex.com/pokemon/mee-9/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-9/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-grass-energy-9/e7kYrAqeCTIZbISV"
+  },
+  {
+   "id": "rc:9F7imAt2UjAAK2zx",
+   "name": "Basic Fire Energy",
+   "number": "010",
+   "rarity": "Common",
+   "price": 0.14,
+   "img": "https://images.scrydex.com/pokemon/mee-10/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-10/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-fire-energy-10/9F7imAt2UjAAK2zx"
+  },
+  {
+   "id": "rc:9dsxT3QlXwqM0DMN",
+   "name": "Basic Water Energy",
+   "number": "011",
+   "rarity": "Common",
+   "price": 0.16,
+   "img": "https://images.scrydex.com/pokemon/mee-11/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-11/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-water-energy-11/9dsxT3QlXwqM0DMN"
+  },
+  {
+   "id": "rc:yVyZ0MzckeSxsVLo",
+   "name": "Basic Lightning Energy",
+   "number": "012",
+   "rarity": "Common",
+   "price": 0.15,
+   "img": "https://images.scrydex.com/pokemon/mee-12/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-12/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-lightning-energy-12/yVyZ0MzckeSxsVLo"
+  },
+  {
+   "id": "rc:VUZgFg3TO9cUuCpM",
+   "name": "Basic Psychic Energy",
+   "number": "013",
+   "rarity": "Common",
+   "price": 0.17,
+   "img": "https://images.scrydex.com/pokemon/mee-13/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-13/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-psychic-energy-13/VUZgFg3TO9cUuCpM"
+  },
+  {
+   "id": "rc:QF9vB4s4blbztrBn",
+   "name": "Basic Fighting Energy",
+   "number": "014",
+   "rarity": "Common",
+   "price": 0.19,
+   "img": "https://images.scrydex.com/pokemon/mee-14/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-14/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-fighting-energy-14/QF9vB4s4blbztrBn"
+  },
+  {
+   "id": "rc:HlX3ACJPuClZ56oy",
+   "name": "Basic Darkness Energy",
+   "number": "015",
+   "rarity": "Common",
+   "price": 0.16,
+   "img": "https://images.scrydex.com/pokemon/mee-15/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-15/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-darkness-energy-15/HlX3ACJPuClZ56oy"
+  },
+  {
+   "id": "rc:hdNLbeIm3Gv32djj",
+   "name": "Basic Metal Energy",
+   "number": "016",
+   "rarity": "Common",
+   "price": 0.17,
+   "img": "https://images.scrydex.com/pokemon/mee-16/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/mee-16/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-metal-energy-16/hdNLbeIm3Gv32djj"
+  }
+ ]
+}
