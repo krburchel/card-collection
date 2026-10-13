@@ -226,6 +226,15 @@ const money = n => n == null ? "—" : "$" + n.toLocaleString(undefined, { minim
 const moneyShort = n => n >= 1000 ? "$" + (n / 1000).toFixed(n >= 10000 ? 0 : 1) + "k" : "$" + Math.round(n);
 const num = n => n.toLocaleString();
 const owned = c => (c.price || 0) * c.qty;
+// Prefer our backed-up copy in images/cards/; fall back to Rare Candy's image host if it's missing
+function cardImg(c, large, attrs = "") {
+  const local = large ? (c.imgLargeFile || c.imgFile) : c.imgFile;
+  const remote = large ? (c.imgLarge || c.img) : c.img;
+  const src = local || remote;
+  if (!src) return "";
+  const fb = local && remote ? ` onerror="this.onerror=null;this.src='${esc(remote)}'"` : "";
+  return `<img src="${esc(src)}"${fb} ${attrs}>`;
+}
 const cardNo = c => parseInt(String(c.number).replace(/^\D+/, ""), 10) || 0;
 
 const store = {
@@ -387,7 +396,7 @@ function drawGrid() {
 }
 
 function cardTile(c) {
-  const img = c.img ? `<img src="${esc(c.img)}" alt="" loading="lazy" decoding="async">` : `<div class="ph">${esc(c.name)}</div>`;
+  const img = cardImg(c, false, `alt="" loading="lazy" decoding="async"`) || `<div class="ph">${esc(c.name)}</div>`;
   return `<button class="card" data-id="${esc(c.id)}">
     <div class="img">${img}${c.qty > 1 ? `<span class="qty">×${c.qty}</span>` : ""}</div>
     <div class="nm" title="${esc(c.name)}">${esc(c.name)}</div>
@@ -437,9 +446,10 @@ async function renderSetDetail(setId) {
     $("#main").innerHTML = `<button class="back" data-back>← All sets</button><div class="empty">This set's card list hasn't synced yet. It refreshes once a day.</div>`;
     return;
   }
-  const ownedQty = new Map(mine.map(c => [c.id, c.qty]));
+  const ownedById = new Map(mine.map(c => [c.id, c]));
   const list = data.cards.map(c => ({
-    ...c, set: data.name, setId, brand: meta.brand || "", qty: ownedQty.get(c.id) || 0,
+    ...c, set: data.name, setId, brand: meta.brand || "", qty: ownedById.get(c.id)?.qty || 0,
+    imgFile: ownedById.get(c.id)?.imgFile, imgLargeFile: ownedById.get(c.id)?.imgLargeFile,
     ...parseNo(c.number),
   }));
   const printed = list.find(c => c.printed)?.printed;
@@ -497,7 +507,7 @@ async function renderSetDetail(setId) {
     state.setShown = list;
     $("#scount").textContent = `${shown.length} cards · ${money(shown.reduce((a, c) => a + (c.price || 0), 0))}`;
     $("#sgrid").innerHTML = shown.length ? shown.map(c => c.qty ? cardTile(c) : `<button class="card missing" data-id="${esc(c.id)}">
-      <div class="img">${c.img ? `<img src="${esc(c.img)}" alt="" loading="lazy" decoding="async">` : `<div class="ph">${esc(c.name)}</div>`}<span class="need">Need</span></div>
+      <div class="img">${cardImg(c, false, `alt="" loading="lazy" decoding="async"`) || `<div class="ph">${esc(c.name)}</div>`}<span class="need">Need</span></div>
       <div class="nm" title="${esc(c.name)}">${esc(c.name)}</div>
       <div class="meta">#${esc(c.number)} · ${esc(c.rarity)}</div>
       <div class="pr"><b>${money(c.price)}</b></div></button>`).join("")
@@ -523,7 +533,7 @@ function renderInsights() {
   const maxR = Math.max(...rarList.map(([, r]) => r.v), 1);
 
   const li = (c, right) => `<div class="li" data-id="${esc(c.id)}">
-    ${c.img ? `<img src="${esc(c.img)}" alt="" loading="lazy">` : `<img alt="">`}
+    ${cardImg(c, false, `alt="" loading="lazy"`) || `<img alt="">`}
     <div class="a"><div>${esc(c.name)}</div><div class="m">${esc(c.set)}${c.number ? " · #" + esc(c.number) : ""} · ${esc(c.rarity)}</div></div>
     <div class="p">${right}</div></div>`;
 
@@ -647,7 +657,7 @@ function openCard(id) {
   if (!c) return;
   const dlg = $("#dlg");
   dlg.innerHTML = `<div class="dlg">
-    <div class="big" ${c.img ? `style="background:url('${esc(c.img)}') center/cover"` : ""}>${c.imgLarge || c.img ? `<img src="${esc(c.imgLarge || c.img)}" alt="${esc(c.name)}">` : `<div class="ph">${esc(c.name)}</div>`}</div>
+    <div class="big" ${c.imgFile || c.img ? `style="background:url('${esc(c.imgFile || c.img)}') center/cover"` : ""}>${cardImg(c, true, `alt="${esc(c.name)}"`) || `<div class="ph">${esc(c.name)}</div>`}</div>
     <div>
       <h3>${esc(c.name)}</h3>
       <div style="color:var(--ink-3)">${esc(c.set)}${c.number ? " · #" + esc(c.number) : ""}</div>

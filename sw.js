@@ -1,5 +1,5 @@
 // Network-first for everything so new syncs show up immediately; cache is the offline fallback.
-const CACHE = "cc-v4";
+const CACHE = "cc-v5";
 const SHELL = ["./", "index.html", "manifest.json", "icon-192.png"];
 
 self.addEventListener("install", e => {
@@ -17,7 +17,7 @@ self.addEventListener("fetch", e => {
   if (req.method !== "GET") return;
   const url = new URL(req.url);
   const sameOrigin = url.origin === location.origin;
-  const isCardImage = url.hostname === "images.scrydex.com";
+  const isCardImage = url.hostname === "images.scrydex.com" || (sameOrigin && url.pathname.includes("/images/cards/"));
   if (!sameOrigin && !isCardImage) return;
 
   // Card images never change: cache-first

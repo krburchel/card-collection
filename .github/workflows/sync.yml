@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Accept a big drop in card count (e.g. you really sold/removed cards)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -17,15 +22,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/sync_rarecandy.py
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - run: python scripts/sync_rarecandy.py
+        env:
+          FORCE_SYNC: ${{ inputs.force && '1' || '0' }}
       - name: Commit if changed
         run: |
-          if git diff --quiet -- data; then
+          if [ -z "$(git status --porcelain -- data images)" ]; then
             echo "Nothing to commit"
             exit 0
           fi
           git config user.name "card-sync-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data images
           git commit -m "Sync Rare Candy collection"
           git push

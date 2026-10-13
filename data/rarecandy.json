@@ -1,6 +1,6 @@
 {
  "username": "Kburchtree",
- "updatedAt": "2026-10-13T01:39:04Z",
+ "updatedAt": "2026-10-13T01:47:57Z",
  "cards": [
   {
    "id": "rc:02i6k3ig4MIxa5AT",
@@ -22,7 +22,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-96/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-96/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/drowzee-96/02i6k3ig4MIxa5AT"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/drowzee-96/02i6k3ig4MIxa5AT",
+   "imgFile": "images/cards/02i6k3ig4MIxa5AT-s.webp",
+   "imgLargeFile": "images/cards/02i6k3ig4MIxa5AT-l.webp"
   },
   {
    "id": "rc:03A63NE63Q5uI9xx",
@@ -44,7 +46,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-99/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-99/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-99/03A63NE63Q5uI9xx"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-99/03A63NE63Q5uI9xx",
+   "imgFile": "images/cards/03A63NE63Q5uI9xx-s.webp",
+   "imgLargeFile": "images/cards/03A63NE63Q5uI9xx-l.webp"
   },
   {
    "id": "rc:03WdqqUKztmDWJxq",
@@ -66,7 +70,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-40/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ceruledge-40/03WdqqUKztmDWJxq"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ceruledge-40/03WdqqUKztmDWJxq",
+   "imgFile": "images/cards/03WdqqUKztmDWJxq-s.webp",
+   "imgLargeFile": "images/cards/03WdqqUKztmDWJxq-l.webp"
   },
   {
    "id": "rc:0QxPyGetA9eVXsMs",
@@ -88,7 +94,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-42/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/copperajah-42/0QxPyGetA9eVXsMs"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/copperajah-42/0QxPyGetA9eVXsMs",
+   "imgFile": "images/cards/0QxPyGetA9eVXsMs-s.webp",
+   "imgLargeFile": "images/cards/0QxPyGetA9eVXsMs-l.webp"
   },
   {
    "id": "rc:0XxZLSunbgsXvNVB",
@@ -110,7 +118,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-23/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-23/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/ekans-23/0XxZLSunbgsXvNVB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/ekans-23/0XxZLSunbgsXvNVB",
+   "imgFile": "images/cards/0XxZLSunbgsXvNVB-s.webp",
+   "imgLargeFile": "images/cards/0XxZLSunbgsXvNVB-l.webp"
   },
   {
    "id": "rc:0giY1KXaGbI3eRL0",
@@ -132,7 +142,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-114/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-114/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/tangela-114/0giY1KXaGbI3eRL0"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/tangela-114/0giY1KXaGbI3eRL0",
+   "imgFile": "images/cards/0giY1KXaGbI3eRL0-s.webp",
+   "imgLargeFile": "images/cards/0giY1KXaGbI3eRL0-l.webp"
   },
   {
    "id": "rc:0nf52u4oDZmTryAd",
@@ -154,7 +166,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-154/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-154/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-old-amber-154/0nf52u4oDZmTryAd"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-old-amber-154/0nf52u4oDZmTryAd",
+   "imgFile": "images/cards/0nf52u4oDZmTryAd-s.webp",
+   "imgLargeFile": "images/cards/0nf52u4oDZmTryAd-l.webp"
   },
   {
    "id": "rc:0sErxJvOeRbhmy1B",
@@ -176,7 +190,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-127/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-127/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/pinsir-127/0sErxJvOeRbhmy1B"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/pinsir-127/0sErxJvOeRbhmy1B",
+   "imgFile": "images/cards/0sErxJvOeRbhmy1B-s.webp",
+   "imgLargeFile": "images/cards/0sErxJvOeRbhmy1B-l.webp"
   },
   {
    "id": "rc:0w8CI3aMaKpPRvW4",
@@ -198,7 +214,9 @@
    "qty": 9,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-90/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-90/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/shellder-90/0w8CI3aMaKpPRvW4"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/shellder-90/0w8CI3aMaKpPRvW4",
+   "imgFile": "images/cards/0w8CI3aMaKpPRvW4-s.webp",
+   "imgLargeFile": "images/cards/0w8CI3aMaKpPRvW4-l.webp"
   },
   {
    "id": "rc:1NLJBBM9RW8SHQi1",
@@ -220,7 +238,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-162/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-162/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/grabber-162/1NLJBBM9RW8SHQi1"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/grabber-162/1NLJBBM9RW8SHQi1",
+   "imgFile": "images/cards/1NLJBBM9RW8SHQi1-s.webp",
+   "imgLargeFile": "images/cards/1NLJBBM9RW8SHQi1-l.webp"
   },
   {
    "id": "rc:1dzcSzF3tplm9ZYw",
@@ -242,7 +262,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-61/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-61/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sneasel-61/1dzcSzF3tplm9ZYw"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sneasel-61/1dzcSzF3tplm9ZYw",
+   "imgFile": "images/cards/1dzcSzF3tplm9ZYw-s.webp",
+   "imgLargeFile": "images/cards/1dzcSzF3tplm9ZYw-l.webp"
   },
   {
    "id": "rc:26BJfiu6WZFaNQrf",
@@ -264,7 +286,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-103/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-103/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/exeggutor-103/26BJfiu6WZFaNQrf"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/exeggutor-103/26BJfiu6WZFaNQrf",
+   "imgFile": "images/cards/26BJfiu6WZFaNQrf-s.webp",
+   "imgLargeFile": "images/cards/26BJfiu6WZFaNQrf-l.webp"
   },
   {
    "id": "rc:2BNMehVbWsCV7ydS",
@@ -286,7 +310,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-69/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-69/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/duraludon-69/2BNMehVbWsCV7ydS"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/duraludon-69/2BNMehVbWsCV7ydS",
+   "imgFile": "images/cards/2BNMehVbWsCV7ydS-s.webp",
+   "imgLargeFile": "images/cards/2BNMehVbWsCV7ydS-l.webp"
   },
   {
    "id": "rc:2HeF2WzKOsJRgnyj",
@@ -308,7 +334,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-52/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/meowth-52/2HeF2WzKOsJRgnyj"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/meowth-52/2HeF2WzKOsJRgnyj",
+   "imgFile": "images/cards/2HeF2WzKOsJRgnyj-s.webp",
+   "imgLargeFile": "images/cards/2HeF2WzKOsJRgnyj-l.webp"
   },
   {
    "id": "rc:2NOMxQYKcyrX4JOb",
@@ -330,7 +358,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-164/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-164/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/protective-goggles-164/2NOMxQYKcyrX4JOb"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/protective-goggles-164/2NOMxQYKcyrX4JOb",
+   "imgFile": "images/cards/2NOMxQYKcyrX4JOb-s.webp",
+   "imgLargeFile": "images/cards/2NOMxQYKcyrX4JOb-l.webp"
   },
   {
    "id": "rc:2PiQIYSkag7BU13N",
@@ -352,7 +382,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-22/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/fearow-22/2PiQIYSkag7BU13N"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/fearow-22/2PiQIYSkag7BU13N",
+   "imgFile": "images/cards/2PiQIYSkag7BU13N-s.webp",
+   "imgLargeFile": "images/cards/2PiQIYSkag7BU13N-l.webp"
   },
   {
    "id": "rc:2WrQVOoFErrVHE6y",
@@ -374,7 +406,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-6/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/charizard-ex-6/2WrQVOoFErrVHE6y"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/charizard-ex-6/2WrQVOoFErrVHE6y",
+   "imgFile": "images/cards/2WrQVOoFErrVHE6y-s.webp",
+   "imgLargeFile": "images/cards/2WrQVOoFErrVHE6y-l.webp"
   },
   {
    "id": "rc:2hrk630u1qfGjGdo",
@@ -396,7 +430,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-15/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/litleo-15/2hrk630u1qfGjGdo"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/litleo-15/2hrk630u1qfGjGdo",
+   "imgFile": "images/cards/2hrk630u1qfGjGdo-s.webp",
+   "imgLargeFile": "images/cards/2hrk630u1qfGjGdo-l.webp"
   },
   {
    "id": "rc:2jqX3F2b6TreKZHy",
@@ -418,7 +454,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-63/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-63/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mabosstiff-63/2jqX3F2b6TreKZHy"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mabosstiff-63/2jqX3F2b6TreKZHy",
+   "imgFile": "images/cards/2jqX3F2b6TreKZHy-s.webp",
+   "imgLargeFile": "images/cards/2jqX3F2b6TreKZHy-l.webp"
   },
   {
    "id": "rc:2lBVKxJe6VAvdYHV",
@@ -440,7 +478,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-9/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/iron-moth-9/2lBVKxJe6VAvdYHV"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/iron-moth-9/2lBVKxJe6VAvdYHV",
+   "imgFile": "images/cards/2lBVKxJe6VAvdYHV-s.webp",
+   "imgLargeFile": "images/cards/2lBVKxJe6VAvdYHV-l.webp"
   },
   {
    "id": "rc:2ljFsYaYU7ifoIdt",
@@ -462,7 +502,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-109/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-109/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/koffing-109/2ljFsYaYU7ifoIdt"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/koffing-109/2ljFsYaYU7ifoIdt",
+   "imgFile": "images/cards/2ljFsYaYU7ifoIdt-s.webp",
+   "imgLargeFile": "images/cards/2ljFsYaYU7ifoIdt-l.webp"
   },
   {
    "id": "rc:2s7AhLaS0lvdXZ1M",
@@ -484,7 +526,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-82/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-82/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/magneton-82/2s7AhLaS0lvdXZ1M"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/magneton-82/2s7AhLaS0lvdXZ1M",
+   "imgFile": "images/cards/2s7AhLaS0lvdXZ1M-s.webp",
+   "imgLargeFile": "images/cards/2s7AhLaS0lvdXZ1M-l.webp"
   },
   {
    "id": "rc:3H8VGtMrY5W2qTWu",
@@ -506,7 +550,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-100/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-100/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/voltorb-100/3H8VGtMrY5W2qTWu"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/voltorb-100/3H8VGtMrY5W2qTWu",
+   "imgFile": "images/cards/3H8VGtMrY5W2qTWu-s.webp",
+   "imgLargeFile": "images/cards/3H8VGtMrY5W2qTWu-l.webp"
   },
   {
    "id": "rc:3JmtJzYXrsXXycrS",
@@ -528,7 +574,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-67/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-67/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gholdengo-67/3JmtJzYXrsXXycrS"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gholdengo-67/3JmtJzYXrsXXycrS",
+   "imgFile": "images/cards/3JmtJzYXrsXXycrS-s.webp",
+   "imgLargeFile": "images/cards/3JmtJzYXrsXXycrS-l.webp"
   },
   {
    "id": "rc:3PIPBx7IlQv7voOT",
@@ -550,7 +598,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-75/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/graveler-75/3PIPBx7IlQv7voOT"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/graveler-75/3PIPBx7IlQv7voOT",
+   "imgFile": "images/cards/3PIPBx7IlQv7voOT-s.webp",
+   "imgLargeFile": "images/cards/3PIPBx7IlQv7voOT-l.webp"
   },
   {
    "id": "rc:3TvKtVULlZ5D8ozu",
@@ -572,7 +622,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-155/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-155/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/big-air-balloon-155/3TvKtVULlZ5D8ozu"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/big-air-balloon-155/3TvKtVULlZ5D8ozu",
+   "imgFile": "images/cards/3TvKtVULlZ5D8ozu-s.webp",
+   "imgLargeFile": "images/cards/3TvKtVULlZ5D8ozu-l.webp"
   },
   {
    "id": "rc:3daeEE8TAn0y5f8I",
@@ -594,7 +646,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-123/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-123/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/scyther-123/3daeEE8TAn0y5f8I"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/scyther-123/3daeEE8TAn0y5f8I",
+   "imgFile": "images/cards/3daeEE8TAn0y5f8I-s.webp",
+   "imgLargeFile": "images/cards/3daeEE8TAn0y5f8I-l.webp"
   },
   {
    "id": "rc:4AvJlh4MKmHZqPYw",
@@ -616,7 +670,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-44/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-44/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/munkidori-44/4AvJlh4MKmHZqPYw"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/munkidori-44/4AvJlh4MKmHZqPYw",
+   "imgFile": "images/cards/4AvJlh4MKmHZqPYw-s.webp",
+   "imgLargeFile": "images/cards/4AvJlh4MKmHZqPYw-l.webp"
   },
   {
    "id": "rc:4QjA8pFqz0v5Btqr",
@@ -638,7 +694,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-25/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-25/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/pikachu-25/4QjA8pFqz0v5Btqr"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/pikachu-25/4QjA8pFqz0v5Btqr",
+   "imgFile": "images/cards/4QjA8pFqz0v5Btqr-s.webp",
+   "imgLargeFile": "images/cards/4QjA8pFqz0v5Btqr-l.webp"
   },
   {
    "id": "rc:4S6fMz7BzMDUnnuG",
@@ -660,7 +718,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-91/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-91/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ultra-ball-91/4S6fMz7BzMDUnnuG"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ultra-ball-91/4S6fMz7BzMDUnnuG",
+   "imgFile": "images/cards/4S6fMz7BzMDUnnuG-s.webp",
+   "imgLargeFile": "images/cards/4S6fMz7BzMDUnnuG-l.webp"
   },
   {
    "id": "rc:4iS2JMeq3jf6B9Ll",
@@ -682,7 +742,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-93/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-93/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/amarys-93/4iS2JMeq3jf6B9Ll"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/amarys-93/4iS2JMeq3jf6B9Ll",
+   "imgFile": "images/cards/4iS2JMeq3jf6B9Ll-s.webp",
+   "imgLargeFile": "images/cards/4iS2JMeq3jf6B9Ll-l.webp"
   },
   {
    "id": "rc:4okMY8sYsgK0Mt0v",
@@ -704,7 +766,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-33/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/swoobat-33/4okMY8sYsgK0Mt0v"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/swoobat-33/4okMY8sYsgK0Mt0v",
+   "imgFile": "images/cards/4okMY8sYsgK0Mt0v-s.webp",
+   "imgLargeFile": "images/cards/4okMY8sYsgK0Mt0v-l.webp"
   },
   {
    "id": "rc:4s6ZISIdJVaAwbFf",
@@ -726,7 +790,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-176/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-176/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwhirl-176/4s6ZISIdJVaAwbFf"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwhirl-176/4s6ZISIdJVaAwbFf",
+   "imgFile": "images/cards/4s6ZISIdJVaAwbFf-s.webp",
+   "imgLargeFile": "images/cards/4s6ZISIdJVaAwbFf-l.webp"
   },
   {
    "id": "rc:4zL1onTctjgI785f",
@@ -748,7 +814,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-70/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-70/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/weepinbell-70/4zL1onTctjgI785f"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/weepinbell-70/4zL1onTctjgI785f",
+   "imgFile": "images/cards/4zL1onTctjgI785f-s.webp",
+   "imgLargeFile": "images/cards/4zL1onTctjgI785f-l.webp"
   },
   {
    "id": "rc:65KhATFEhdlNHmME",
@@ -770,7 +838,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-143/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-143/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/snorlax-143/65KhATFEhdlNHmME"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/snorlax-143/65KhATFEhdlNHmME",
+   "imgFile": "images/cards/65KhATFEhdlNHmME-s.webp",
+   "imgLargeFile": "images/cards/65KhATFEhdlNHmME-l.webp"
   },
   {
    "id": "rc:6Fz8BOZvpWQeVVyB",
@@ -792,7 +862,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-18/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-18/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/slowpoke-18/6Fz8BOZvpWQeVVyB"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/slowpoke-18/6Fz8BOZvpWQeVVyB",
+   "imgFile": "images/cards/6Fz8BOZvpWQeVVyB-s.webp",
+   "imgLargeFile": "images/cards/6Fz8BOZvpWQeVVyB-l.webp"
   },
   {
    "id": "rc:6K0N5I6KvzCNkqUu",
@@ -814,7 +886,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-51/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clobbopus-51/6K0N5I6KvzCNkqUu"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clobbopus-51/6K0N5I6KvzCNkqUu",
+   "imgFile": "images/cards/6K0N5I6KvzCNkqUu-s.webp",
+   "imgLargeFile": "images/cards/6K0N5I6KvzCNkqUu-l.webp"
   },
   {
    "id": "rc:6NEWg5JyfyMU9xdg",
@@ -836,7 +910,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-20/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-20/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/raticate-20/6NEWg5JyfyMU9xdg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/raticate-20/6NEWg5JyfyMU9xdg",
+   "imgFile": "images/cards/6NEWg5JyfyMU9xdg-s.webp",
+   "imgLargeFile": "images/cards/6NEWg5JyfyMU9xdg-l.webp"
   },
   {
    "id": "rc:6oAYt1XwS5ghz42p",
@@ -858,7 +934,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-83/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/farfetchd-83/6oAYt1XwS5ghz42p"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/farfetchd-83/6oAYt1XwS5ghz42p",
+   "imgFile": "images/cards/6oAYt1XwS5ghz42p-s.webp",
+   "imgLargeFile": "images/cards/6oAYt1XwS5ghz42p-l.webp"
   },
   {
    "id": "rc:7FV3knJPWfMNeeWQ",
@@ -880,7 +958,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-122/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-122/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-122/7FV3knJPWfMNeeWQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-122/7FV3knJPWfMNeeWQ",
+   "imgFile": "images/cards/7FV3knJPWfMNeeWQ-s.webp",
+   "imgLargeFile": "images/cards/7FV3knJPWfMNeeWQ-l.webp"
   },
   {
    "id": "rc:7XF7wqcXNaFulp3a",
@@ -902,7 +982,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-106/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-106/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/hitmonlee-106/7XF7wqcXNaFulp3a"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/hitmonlee-106/7XF7wqcXNaFulp3a",
+   "imgFile": "images/cards/7XF7wqcXNaFulp3a-s.webp",
+   "imgLargeFile": "images/cards/7XF7wqcXNaFulp3a-l.webp"
   },
   {
    "id": "rc:7cwhykGvqZCRgUAv",
@@ -924,7 +1006,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-224/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-224/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wugtrio-224/7cwhykGvqZCRgUAv"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wugtrio-224/7cwhykGvqZCRgUAv",
+   "imgFile": "images/cards/7cwhykGvqZCRgUAv-s.webp",
+   "imgLargeFile": "images/cards/7cwhykGvqZCRgUAv-l.webp"
   },
   {
    "id": "rc:7rLIc2F5TbVOqZQv",
@@ -946,7 +1030,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-37/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-37/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dusknoir-37/7rLIc2F5TbVOqZQv"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dusknoir-37/7rLIc2F5TbVOqZQv",
+   "imgFile": "images/cards/7rLIc2F5TbVOqZQv-s.webp",
+   "imgLargeFile": "images/cards/7rLIc2F5TbVOqZQv-l.webp"
   },
   {
    "id": "rc:7yPF4y4uOeou3Ve2",
@@ -968,7 +1054,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-59/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/arcanine-59/7yPF4y4uOeou3Ve2"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/arcanine-59/7yPF4y4uOeou3Ve2",
+   "imgFile": "images/cards/7yPF4y4uOeou3Ve2-s.webp",
+   "imgLargeFile": "images/cards/7yPF4y4uOeou3Ve2-l.webp"
   },
   {
    "id": "rc:82kWmjSGTR1jzlN8",
@@ -990,7 +1078,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-125/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-125/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-125/82kWmjSGTR1jzlN8"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-125/82kWmjSGTR1jzlN8",
+   "imgFile": "images/cards/82kWmjSGTR1jzlN8-s.webp",
+   "imgLargeFile": "images/cards/82kWmjSGTR1jzlN8-l.webp"
   },
   {
    "id": "rc:88AnOkUlROH9vFjI",
@@ -1012,7 +1102,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-17/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-17/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/frigibax-17/88AnOkUlROH9vFjI"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/frigibax-17/88AnOkUlROH9vFjI",
+   "imgFile": "images/cards/88AnOkUlROH9vFjI-s.webp",
+   "imgLargeFile": "images/cards/88AnOkUlROH9vFjI-l.webp"
   },
   {
    "id": "rc:8EzwfdyVgRe6ncDg",
@@ -1034,7 +1126,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-32/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-32/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoran-32/8EzwfdyVgRe6ncDg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoran-32/8EzwfdyVgRe6ncDg",
+   "imgFile": "images/cards/8EzwfdyVgRe6ncDg-s.webp",
+   "imgLargeFile": "images/cards/8EzwfdyVgRe6ncDg-l.webp"
   },
   {
    "id": "rc:8fN3tpEtkRvpXj78",
@@ -1056,7 +1150,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-64/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-64/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/varoom-64/8fN3tpEtkRvpXj78"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/varoom-64/8fN3tpEtkRvpXj78",
+   "imgFile": "images/cards/8fN3tpEtkRvpXj78-s.webp",
+   "imgLargeFile": "images/cards/8fN3tpEtkRvpXj78-l.webp"
   },
   {
    "id": "rc:8pfhJbybNZkkAVeh",
@@ -1078,7 +1174,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-86/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/regigigas-86/8pfhJbybNZkkAVeh"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/regigigas-86/8pfhJbybNZkkAVeh",
+   "imgFile": "images/cards/8pfhJbybNZkkAVeh-s.webp",
+   "imgLargeFile": "images/cards/8pfhJbybNZkkAVeh-l.webp"
   },
   {
    "id": "rc:98TfqN4cKtAM650h",
@@ -1100,7 +1198,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-119/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-119/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/prime-catcher-119/98TfqN4cKtAM650h"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/prime-catcher-119/98TfqN4cKtAM650h",
+   "imgFile": "images/cards/98TfqN4cKtAM650h-s.webp",
+   "imgLargeFile": "images/cards/98TfqN4cKtAM650h-l.webp"
   },
   {
    "id": "rc:99W26cThOarTHUUR",
@@ -1122,7 +1222,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-75/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/squawkabilly-ex-75/99W26cThOarTHUUR"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/squawkabilly-ex-75/99W26cThOarTHUUR",
+   "imgFile": "images/cards/99W26cThOarTHUUR-s.webp",
+   "imgLargeFile": "images/cards/99W26cThOarTHUUR-l.webp"
   },
   {
    "id": "rc:9DASjFZoYy5C1pzz",
@@ -1144,7 +1246,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-55/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-55/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/golduck-55/9DASjFZoYy5C1pzz"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/golduck-55/9DASjFZoYy5C1pzz",
+   "imgFile": "images/cards/9DASjFZoYy5C1pzz-s.webp",
+   "imgLargeFile": "images/cards/9DASjFZoYy5C1pzz-l.webp"
   },
   {
    "id": "rc:9IcuZFZpNaEWfiHK",
@@ -1166,7 +1270,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-69/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-69/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/bellsprout-69/9IcuZFZpNaEWfiHK"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/bellsprout-69/9IcuZFZpNaEWfiHK",
+   "imgFile": "images/cards/9IcuZFZpNaEWfiHK-s.webp",
+   "imgLargeFile": "images/cards/9IcuZFZpNaEWfiHK-l.webp"
   },
   {
    "id": "rc:9MhUNxlPIgXLfJxs",
@@ -1188,7 +1294,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-59/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/janines-secret-art-59/9MhUNxlPIgXLfJxs"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/janines-secret-art-59/9MhUNxlPIgXLfJxs",
+   "imgFile": "images/cards/9MhUNxlPIgXLfJxs-s.webp",
+   "imgLargeFile": "images/cards/9MhUNxlPIgXLfJxs-l.webp"
   },
   {
    "id": "rc:9kJiiuKsIU66HpLu",
@@ -1210,7 +1318,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-118/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-118/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/goldeen-118/9kJiiuKsIU66HpLu"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/goldeen-118/9kJiiuKsIU66HpLu",
+   "imgFile": "images/cards/9kJiiuKsIU66HpLu-s.webp",
+   "imgLargeFile": "images/cards/9kJiiuKsIU66HpLu-l.webp"
   },
   {
    "id": "rc:9opZuEnNKIdCf27X",
@@ -1232,7 +1342,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-130/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-130/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/gyarados-130/9opZuEnNKIdCf27X"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/gyarados-130/9opZuEnNKIdCf27X",
+   "imgFile": "images/cards/9opZuEnNKIdCf27X-s.webp",
+   "imgLargeFile": "images/cards/9opZuEnNKIdCf27X-l.webp"
   },
   {
    "id": "rc:9s1UlgnSBNpO0Iko",
@@ -1254,7 +1366,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-3/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/rowlet-3/9s1UlgnSBNpO0Iko"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/rowlet-3/9s1UlgnSBNpO0Iko",
+   "imgFile": "images/cards/9s1UlgnSBNpO0Iko-s.webp",
+   "imgLargeFile": "images/cards/9s1UlgnSBNpO0Iko-l.webp"
   },
   {
    "id": "rc:A80gtCeiOJYdZlZW",
@@ -1276,7 +1390,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-141/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-141/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/kabutops-141/A80gtCeiOJYdZlZW"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/kabutops-141/A80gtCeiOJYdZlZW",
+   "imgFile": "images/cards/A80gtCeiOJYdZlZW-s.webp",
+   "imgLargeFile": "images/cards/A80gtCeiOJYdZlZW-l.webp"
   },
   {
    "id": "rc:ABJj9SRNSJOP8aRw",
@@ -1298,7 +1414,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-9/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/magmar-9/ABJj9SRNSJOP8aRw"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/magmar-9/ABJj9SRNSJOP8aRw",
+   "imgFile": "images/cards/ABJj9SRNSJOP8aRw-s.webp",
+   "imgLargeFile": "images/cards/ABJj9SRNSJOP8aRw-l.webp"
   },
   {
    "id": "rc:ACltT1M6xmEJ9UKK",
@@ -1320,7 +1438,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-189/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-189/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/golem-ex-189/ACltT1M6xmEJ9UKK"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/golem-ex-189/ACltT1M6xmEJ9UKK",
+   "imgFile": "images/cards/ACltT1M6xmEJ9UKK-s.webp",
+   "imgLargeFile": "images/cards/ACltT1M6xmEJ9UKK-l.webp"
   },
   {
    "id": "rc:AYFU9vrhh86ZBMSZ",
@@ -1342,7 +1462,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-214/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-214/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-214/AYFU9vrhh86ZBMSZ"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-214/AYFU9vrhh86ZBMSZ",
+   "imgFile": "images/cards/AYFU9vrhh86ZBMSZ-s.webp",
+   "imgLargeFile": "images/cards/AYFU9vrhh86ZBMSZ-l.webp"
   },
   {
    "id": "rc:AytIOTW8xCB0trqs",
@@ -1364,7 +1486,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-73/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-73/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/tandemaus-73/AytIOTW8xCB0trqs"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/tandemaus-73/AytIOTW8xCB0trqs",
+   "imgFile": "images/cards/AytIOTW8xCB0trqs-s.webp",
+   "imgLargeFile": "images/cards/AytIOTW8xCB0trqs-l.webp"
   },
   {
    "id": "rc:B5wpO92V3KEk09L8",
@@ -1386,7 +1510,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-28/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-28/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kirlia-28/B5wpO92V3KEk09L8"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kirlia-28/B5wpO92V3KEk09L8",
+   "imgFile": "images/cards/B5wpO92V3KEk09L8-s.webp",
+   "imgLargeFile": "images/cards/B5wpO92V3KEk09L8-l.webp"
   },
   {
    "id": "rc:BI3x6JAO9MWddyue",
@@ -1408,7 +1534,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-89/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hawlucha-89/BI3x6JAO9MWddyue"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hawlucha-89/BI3x6JAO9MWddyue",
+   "imgFile": "images/cards/BI3x6JAO9MWddyue-s.webp",
+   "imgLargeFile": "images/cards/BI3x6JAO9MWddyue-l.webp"
   },
   {
    "id": "rc:BNYxWLB6HeN3Ed39",
@@ -1430,7 +1558,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-85/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-85/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/fan-rotom-85/BNYxWLB6HeN3Ed39"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/fan-rotom-85/BNYxWLB6HeN3Ed39",
+   "imgFile": "images/cards/BNYxWLB6HeN3Ed39-s.webp",
+   "imgLargeFile": "images/cards/BNYxWLB6HeN3Ed39-l.webp"
   },
   {
    "id": "rc:BUEV771cnRsb9Vds",
@@ -1452,7 +1582,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-35/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-35/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/duskull-35/BUEV771cnRsb9Vds"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/duskull-35/BUEV771cnRsb9Vds",
+   "imgFile": "images/cards/BUEV771cnRsb9Vds-s.webp",
+   "imgLargeFile": "images/cards/BUEV771cnRsb9Vds-l.webp"
   },
   {
    "id": "rc:BsMpMgnegowvD21S",
@@ -1474,7 +1606,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-70/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-70/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/archaludon-70/BsMpMgnegowvD21S"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/archaludon-70/BsMpMgnegowvD21S",
+   "imgFile": "images/cards/BsMpMgnegowvD21S-s.webp",
+   "imgLargeFile": "images/cards/BsMpMgnegowvD21S-l.webp"
   },
   {
    "id": "rc:C2gEFw4KR3deV9vz",
@@ -1496,7 +1630,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-15/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/armarouge-15/C2gEFw4KR3deV9vz"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/armarouge-15/C2gEFw4KR3deV9vz",
+   "imgFile": "images/cards/C2gEFw4KR3deV9vz-s.webp",
+   "imgLargeFile": "images/cards/C2gEFw4KR3deV9vz-l.webp"
   },
   {
    "id": "rc:CWLamXXyRGhjFmtk",
@@ -1518,7 +1654,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-46/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-46/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-boulder-46/CWLamXXyRGhjFmtk"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-boulder-46/CWLamXXyRGhjFmtk",
+   "imgFile": "images/cards/CWLamXXyRGhjFmtk-s.webp",
+   "imgLargeFile": "images/cards/CWLamXXyRGhjFmtk-l.webp"
   },
   {
    "id": "rc:ConhAWSwwl9BKGtZ",
@@ -1540,7 +1678,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-65/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-65/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/alakazam-ex-65/ConhAWSwwl9BKGtZ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/alakazam-ex-65/ConhAWSwwl9BKGtZ",
+   "imgFile": "images/cards/ConhAWSwwl9BKGtZ-s.webp",
+   "imgLargeFile": "images/cards/ConhAWSwwl9BKGtZ-l.webp"
   },
   {
    "id": "rc:D3h1wUKpcEYa8Xwi",
@@ -1562,7 +1702,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-140/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-140/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/kabuto-140/D3h1wUKpcEYa8Xwi"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/kabuto-140/D3h1wUKpcEYa8Xwi",
+   "imgFile": "images/cards/D3h1wUKpcEYa8Xwi-s.webp",
+   "imgLargeFile": "images/cards/D3h1wUKpcEYa8Xwi-l.webp"
   },
   {
    "id": "rc:D4ijkYkI2OOOUteW",
@@ -1584,7 +1726,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-85/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-85/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dodrio-85/D4ijkYkI2OOOUteW"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dodrio-85/D4ijkYkI2OOOUteW",
+   "imgFile": "images/cards/D4ijkYkI2OOOUteW-s.webp",
+   "imgLargeFile": "images/cards/D4ijkYkI2OOOUteW-l.webp"
   },
   {
    "id": "rc:D7kJNJeZqXeofa87",
@@ -1606,7 +1750,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-55/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-55/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/great-tusk-55/D7kJNJeZqXeofa87"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/great-tusk-55/D7kJNJeZqXeofa87",
+   "imgFile": "images/cards/D7kJNJeZqXeofa87-s.webp",
+   "imgLargeFile": "images/cards/D7kJNJeZqXeofa87-l.webp"
   },
   {
    "id": "rc:DUNNYZqTO4VqVpYy",
@@ -1628,7 +1774,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-88/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-88/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/grimer-88/DUNNYZqTO4VqVpYy"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/grimer-88/DUNNYZqTO4VqVpYy",
+   "imgFile": "images/cards/DUNNYZqTO4VqVpYy-s.webp",
+   "imgLargeFile": "images/cards/DUNNYZqTO4VqVpYy-l.webp"
   },
   {
    "id": "rc:E2enATCR0wzGFnOB",
@@ -1650,7 +1798,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-46/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-46/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/paras-46/E2enATCR0wzGFnOB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/paras-46/E2enATCR0wzGFnOB",
+   "imgFile": "images/cards/E2enATCR0wzGFnOB-s.webp",
+   "imgLargeFile": "images/cards/E2enATCR0wzGFnOB-l.webp"
   },
   {
    "id": "rc:EF1q6GDfEX86HfI7",
@@ -1672,7 +1822,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-62/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-62/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/houndour-62/EF1q6GDfEX86HfI7"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/houndour-62/EF1q6GDfEX86HfI7",
+   "imgFile": "images/cards/EF1q6GDfEX86HfI7-s.webp",
+   "imgLargeFile": "images/cards/EF1q6GDfEX86HfI7-l.webp"
   },
   {
    "id": "rc:EdztnhiMG2etXBZC",
@@ -1694,7 +1846,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-26/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/slither-wing-26/EdztnhiMG2etXBZC"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/slither-wing-26/EdztnhiMG2etXBZC",
+   "imgFile": "images/cards/EdztnhiMG2etXBZC-s.webp",
+   "imgLargeFile": "images/cards/EdztnhiMG2etXBZC-l.webp"
   },
   {
    "id": "rc:EmOWz4FoUhiFjLcD",
@@ -1716,7 +1870,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-83/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/buneary-83/EmOWz4FoUhiFjLcD"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/buneary-83/EmOWz4FoUhiFjLcD",
+   "imgFile": "images/cards/EmOWz4FoUhiFjLcD-s.webp",
+   "imgLargeFile": "images/cards/EmOWz4FoUhiFjLcD-l.webp"
   },
   {
    "id": "rc:EpsIX5hZl0ofvrlP",
@@ -1738,7 +1894,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-57/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-57/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/okidogi-57/EpsIX5hZl0ofvrlP"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/okidogi-57/EpsIX5hZl0ofvrlP",
+   "imgFile": "images/cards/EpsIX5hZl0ofvrlP-s.webp",
+   "imgLargeFile": "images/cards/EpsIX5hZl0ofvrlP-l.webp"
   },
   {
    "id": "rc:Euwk20XLXQPQsbVe",
@@ -1760,7 +1918,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-63/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-63/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/houndoom-63/Euwk20XLXQPQsbVe"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/houndoom-63/Euwk20XLXQPQsbVe",
+   "imgFile": "images/cards/Euwk20XLXQPQsbVe-s.webp",
+   "imgLargeFile": "images/cards/Euwk20XLXQPQsbVe-l.webp"
   },
   {
    "id": "rc:F18GdcebOZa7hd3Z",
@@ -1782,7 +1942,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-150/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-150/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/mewtwo-150/F18GdcebOZa7hd3Z"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/mewtwo-150/F18GdcebOZa7hd3Z",
+   "imgFile": "images/cards/F18GdcebOZa7hd3Z-s.webp",
+   "imgLargeFile": "images/cards/F18GdcebOZa7hd3Z-l.webp"
   },
   {
    "id": "rc:FCSDaECeMXI47VqC",
@@ -1804,7 +1966,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-158/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-158/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/daisys-help-158/FCSDaECeMXI47VqC"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/daisys-help-158/FCSDaECeMXI47VqC",
+   "imgFile": "images/cards/FCSDaECeMXI47VqC-s.webp",
+   "imgLargeFile": "images/cards/FCSDaECeMXI47VqC-l.webp"
   },
   {
    "id": "rc:FTv4iMwm6PIYuIiT",
@@ -1826,7 +1990,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-130/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-130/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/techno-radar-130/FTv4iMwm6PIYuIiT"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/techno-radar-130/FTv4iMwm6PIYuIiT",
+   "imgFile": "images/cards/FTv4iMwm6PIYuIiT-s.webp",
+   "imgLargeFile": "images/cards/FTv4iMwm6PIYuIiT-l.webp"
   },
   {
    "id": "rc:FW0qoxUHVl0KLQhN",
@@ -1848,7 +2014,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-139/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-139/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/omastar-139/FW0qoxUHVl0KLQhN"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/omastar-139/FW0qoxUHVl0KLQhN",
+   "imgFile": "images/cards/FW0qoxUHVl0KLQhN-s.webp",
+   "imgLargeFile": "images/cards/FW0qoxUHVl0KLQhN-l.webp"
   },
   {
    "id": "rc:FZUYyS8dul1AvF0f",
@@ -1870,7 +2038,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-87/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-87/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dewgong-87/FZUYyS8dul1AvF0f"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dewgong-87/FZUYyS8dul1AvF0f",
+   "imgFile": "images/cards/FZUYyS8dul1AvF0f-s.webp",
+   "imgLargeFile": "images/cards/FZUYyS8dul1AvF0f-l.webp"
   },
   {
    "id": "rc:Fc0OobrKLbQNnW5U",
@@ -1892,7 +2062,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-113/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-113/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/chansey-113/Fc0OobrKLbQNnW5U"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/chansey-113/Fc0OobrKLbQNnW5U",
+   "imgFile": "images/cards/Fc0OobrKLbQNnW5U-s.webp",
+   "imgLargeFile": "images/cards/Fc0OobrKLbQNnW5U-l.webp"
   },
   {
    "id": "rc:G1I8zCrU9zlxWIj1",
@@ -1914,7 +2086,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-105/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/marowak-105/G1I8zCrU9zlxWIj1"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/marowak-105/G1I8zCrU9zlxWIj1",
+   "imgFile": "images/cards/G1I8zCrU9zlxWIj1-s.webp",
+   "imgLargeFile": "images/cards/G1I8zCrU9zlxWIj1-l.webp"
   },
   {
    "id": "rc:GAEP1d17u6XTtpiC",
@@ -1936,7 +2110,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-119/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-119/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/seaking-119/GAEP1d17u6XTtpiC"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/seaking-119/GAEP1d17u6XTtpiC",
+   "imgFile": "images/cards/GAEP1d17u6XTtpiC-s.webp",
+   "imgLargeFile": "images/cards/GAEP1d17u6XTtpiC-l.webp"
   },
   {
    "id": "rc:GEjZSuQzxasJS0F7",
@@ -1958,7 +2134,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-172/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-172/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/caterpie-172/GEjZSuQzxasJS0F7"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/caterpie-172/GEjZSuQzxasJS0F7",
+   "imgFile": "images/cards/GEjZSuQzxasJS0F7-s.webp",
+   "imgLargeFile": "images/cards/GEjZSuQzxasJS0F7-l.webp"
   },
   {
    "id": "rc:GHl4BF9fFbbomcm8",
@@ -1980,7 +2158,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-128/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-128/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/scoop-up-cyclone-128/GHl4BF9fFbbomcm8"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/scoop-up-cyclone-128/GHl4BF9fFbbomcm8",
+   "imgFile": "images/cards/GHl4BF9fFbbomcm8-s.webp",
+   "imgLargeFile": "images/cards/GHl4BF9fFbbomcm8-l.webp"
   },
   {
    "id": "rc:GIxrd0JRzmvfvEqV",
@@ -2002,7 +2182,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-11/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-11/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/numel-11/GIxrd0JRzmvfvEqV"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/numel-11/GIxrd0JRzmvfvEqV",
+   "imgFile": "images/cards/GIxrd0JRzmvfvEqV-s.webp",
+   "imgLargeFile": "images/cards/GIxrd0JRzmvfvEqV-l.webp"
   },
   {
    "id": "rc:GQZNmUHxEK1VuVQf",
@@ -2024,7 +2206,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-1/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pineco-1/GQZNmUHxEK1VuVQf"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pineco-1/GQZNmUHxEK1VuVQf",
+   "imgFile": "images/cards/GQZNmUHxEK1VuVQf-s.webp",
+   "imgLargeFile": "images/cards/GQZNmUHxEK1VuVQf-l.webp"
   },
   {
    "id": "rc:GQrjRgl82PrlPhOC",
@@ -2046,7 +2230,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-87/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-87/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/shaymin-87/GQrjRgl82PrlPhOC"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/shaymin-87/GQrjRgl82PrlPhOC",
+   "imgFile": "images/cards/GQrjRgl82PrlPhOC-s.webp",
+   "imgLargeFile": "images/cards/GQrjRgl82PrlPhOC-l.webp"
   },
   {
    "id": "rc:GUg3NsmAFYSjbrAP",
@@ -2068,7 +2254,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-74/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/eevee-74/GUg3NsmAFYSjbrAP"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/eevee-74/GUg3NsmAFYSjbrAP",
+   "imgFile": "images/cards/GUg3NsmAFYSjbrAP-s.webp",
+   "imgLargeFile": "images/cards/GUg3NsmAFYSjbrAP-l.webp"
   },
   {
    "id": "rc:HAnmFuZ4qkVH5Xzi",
@@ -2090,7 +2278,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-43/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-43/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flutter-mane-43/HAnmFuZ4qkVH5Xzi"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flutter-mane-43/HAnmFuZ4qkVH5Xzi",
+   "imgFile": "images/cards/HAnmFuZ4qkVH5Xzi-s.webp",
+   "imgLargeFile": "images/cards/HAnmFuZ4qkVH5Xzi-l.webp"
   },
   {
    "id": "rc:HICcHRIWdEKNSb5v",
@@ -2112,7 +2302,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-153/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-153/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-helix-fossil-153/HICcHRIWdEKNSb5v"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-helix-fossil-153/HICcHRIWdEKNSb5v",
+   "imgFile": "images/cards/HICcHRIWdEKNSb5v-s.webp",
+   "imgLargeFile": "images/cards/HICcHRIWdEKNSb5v-l.webp"
   },
   {
    "id": "rc:HQKg4RtnpgHfYPer",
@@ -2134,7 +2326,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-71/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-71/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dreepy-71/HQKg4RtnpgHfYPer"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dreepy-71/HQKg4RtnpgHfYPer",
+   "imgFile": "images/cards/HQKg4RtnpgHfYPer-s.webp",
+   "imgLargeFile": "images/cards/HQKg4RtnpgHfYPer-l.webp"
   },
   {
    "id": "rc:HYg4V25waqirEmk4",
@@ -2156,7 +2350,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-33/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/espeon-33/HYg4V25waqirEmk4"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/espeon-33/HYg4V25waqirEmk4",
+   "imgFile": "images/cards/HYg4V25waqirEmk4-s.webp",
+   "imgLargeFile": "images/cards/HYg4V25waqirEmk4-l.webp"
   },
   {
    "id": "rc:HqoLC6QpkB30fgJL",
@@ -2178,7 +2374,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-142/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-142/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmi-142/HqoLC6QpkB30fgJL"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmi-142/HqoLC6QpkB30fgJL",
+   "imgFile": "images/cards/HqoLC6QpkB30fgJL-s.webp",
+   "imgLargeFile": "images/cards/HqoLC6QpkB30fgJL-l.webp"
   },
   {
    "id": "rc:HraybjtrOv75HOwR",
@@ -2200,7 +2398,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3-215/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-215/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-215/HraybjtrOv75HOwR"
+   "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-215/HraybjtrOv75HOwR",
+   "imgFile": "images/cards/HraybjtrOv75HOwR-s.webp",
+   "imgLargeFile": "images/cards/HraybjtrOv75HOwR-l.webp"
   },
   {
    "id": "rc:HwEtMELriZshIN7O",
@@ -2222,7 +2422,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-77/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-77/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hoothoot-77/HwEtMELriZshIN7O"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hoothoot-77/HwEtMELriZshIN7O",
+   "imgFile": "images/cards/HwEtMELriZshIN7O-s.webp",
+   "imgLargeFile": "images/cards/HwEtMELriZshIN7O-l.webp"
   },
   {
    "id": "rc:HxGLnYdoEm19SPzj",
@@ -2244,7 +2446,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-132/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-132/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/ditto-132/HxGLnYdoEm19SPzj"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/ditto-132/HxGLnYdoEm19SPzj",
+   "imgFile": "images/cards/HxGLnYdoEm19SPzj-s.webp",
+   "imgLargeFile": "images/cards/HxGLnYdoEm19SPzj-l.webp"
   },
   {
    "id": "rc:IQ0teR1m7UPsNpFa",
@@ -2266,7 +2470,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-142/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-142/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/aerodactyl-142/IQ0teR1m7UPsNpFa"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/aerodactyl-142/IQ0teR1m7UPsNpFa",
+   "imgFile": "images/cards/IQ0teR1m7UPsNpFa-s.webp",
+   "imgLargeFile": "images/cards/IQ0teR1m7UPsNpFa-l.webp"
   },
   {
    "id": "rc:IQGZaohhJl7KVPGS",
@@ -2288,7 +2494,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-148/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-148/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dragonair-148/IQGZaohhJl7KVPGS"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dragonair-148/IQGZaohhJl7KVPGS",
+   "imgFile": "images/cards/IQGZaohhJl7KVPGS-s.webp",
+   "imgLargeFile": "images/cards/IQGZaohhJl7KVPGS-l.webp"
   },
   {
    "id": "rc:IWvpfURKDWzNDwJg",
@@ -2310,7 +2518,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-30/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-30/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/jolteon-ex-30/IWvpfURKDWzNDwJg"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/jolteon-ex-30/IWvpfURKDWzNDwJg",
+   "imgFile": "images/cards/IWvpfURKDWzNDwJg-s.webp",
+   "imgLargeFile": "images/cards/IWvpfURKDWzNDwJg-l.webp"
   },
   {
    "id": "rc:IZd9v9of3mstxkCt",
@@ -2332,7 +2542,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-1/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/joltik-1/IZd9v9of3mstxkCt"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/joltik-1/IZd9v9of3mstxkCt",
+   "imgFile": "images/cards/IZd9v9of3mstxkCt-s.webp",
+   "imgLargeFile": "images/cards/IZd9v9of3mstxkCt-l.webp"
   },
   {
    "id": "rc:IgDhkQgRA8IZwwVl",
@@ -2354,7 +2566,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-37/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-37/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/vulpix-37/IgDhkQgRA8IZwwVl"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/vulpix-37/IgDhkQgRA8IZwwVl",
+   "imgFile": "images/cards/IgDhkQgRA8IZwwVl-s.webp",
+   "imgLargeFile": "images/cards/IgDhkQgRA8IZwwVl-l.webp"
   },
   {
    "id": "rc:Iu11rYgpfP0P9pO3",
@@ -2376,7 +2590,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-22/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/vaporeon-22/Iu11rYgpfP0P9pO3"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/vaporeon-22/Iu11rYgpfP0P9pO3",
+   "imgFile": "images/cards/Iu11rYgpfP0P9pO3-s.webp",
+   "imgLargeFile": "images/cards/Iu11rYgpfP0P9pO3-l.webp"
   },
   {
    "id": "rc:IuN2bK7YWSL4Zivi",
@@ -2398,7 +2614,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-95/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-95/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/binding-mochi-95/IuN2bK7YWSL4Zivi"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/binding-mochi-95/IuN2bK7YWSL4Zivi",
+   "imgFile": "images/cards/IuN2bK7YWSL4Zivi-s.webp",
+   "imgLargeFile": "images/cards/IuN2bK7YWSL4Zivi-l.webp"
   },
   {
    "id": "rc:J012NCUwB9Chbvqi",
@@ -2420,7 +2638,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-90/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-90/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/noibat-90/J012NCUwB9Chbvqi"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/noibat-90/J012NCUwB9Chbvqi",
+   "imgFile": "images/cards/J012NCUwB9Chbvqi-s.webp",
+   "imgLargeFile": "images/cards/J012NCUwB9Chbvqi-l.webp"
   },
   {
    "id": "rc:JE5xEBSb6gyhIQBY",
@@ -2442,7 +2662,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-55/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-55/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gastly-55/JE5xEBSb6gyhIQBY"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gastly-55/JE5xEBSb6gyhIQBY",
+   "imgFile": "images/cards/JE5xEBSb6gyhIQBY-s.webp",
+   "imgLargeFile": "images/cards/JE5xEBSb6gyhIQBY-l.webp"
   },
   {
    "id": "rc:Jv0FWrm20uwiNBKk",
@@ -2464,7 +2686,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-96/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-96/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-96/Jv0FWrm20uwiNBKk"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-96/Jv0FWrm20uwiNBKk",
+   "imgFile": "images/cards/Jv0FWrm20uwiNBKk-s.webp",
+   "imgLargeFile": "images/cards/Jv0FWrm20uwiNBKk-l.webp"
   },
   {
    "id": "rc:JxBi3yV57pJBhDm2",
@@ -2486,7 +2710,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-104/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-104/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/ciphermaniacs-codebreaking-104/JxBi3yV57pJBhDm2"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/ciphermaniacs-codebreaking-104/JxBi3yV57pJBhDm2",
+   "imgFile": "images/cards/JxBi3yV57pJBhDm2-s.webp",
+   "imgLargeFile": "images/cards/JxBi3yV57pJBhDm2-l.webp"
   },
   {
    "id": "rc:KeBg5tEGvCBxCABl",
@@ -2508,7 +2734,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-160/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-160/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/erikas-invitation-160/KeBg5tEGvCBxCABl"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/erikas-invitation-160/KeBg5tEGvCBxCABl",
+   "imgFile": "images/cards/KeBg5tEGvCBxCABl-s.webp",
+   "imgLargeFile": "images/cards/KeBg5tEGvCBxCABl-l.webp"
   },
   {
    "id": "rc:KkiMewjFvS1IQNHO",
@@ -2530,7 +2758,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-48/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-48/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/phanpy-48/KkiMewjFvS1IQNHO"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/phanpy-48/KkiMewjFvS1IQNHO",
+   "imgFile": "images/cards/KkiMewjFvS1IQNHO-s.webp",
+   "imgLargeFile": "images/cards/KkiMewjFvS1IQNHO-l.webp"
   },
   {
    "id": "rc:L2bneOyH72K0ZwNw",
@@ -2552,7 +2782,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-99/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-99/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/kingler-99/L2bneOyH72K0ZwNw"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/kingler-99/L2bneOyH72K0ZwNw",
+   "imgFile": "images/cards/L2bneOyH72K0ZwNw-s.webp",
+   "imgLargeFile": "images/cards/L2bneOyH72K0ZwNw-l.webp"
   },
   {
    "id": "rc:L3GMB1qqAL0DITTm",
@@ -2574,7 +2806,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-88/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-88/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/professors-research-88/L3GMB1qqAL0DITTm"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/professors-research-88/L3GMB1qqAL0DITTm",
+   "imgFile": "images/cards/L3GMB1qqAL0DITTm-s.webp",
+   "imgLargeFile": "images/cards/L3GMB1qqAL0DITTm-l.webp"
   },
   {
    "id": "rc:L5CurH1CKpHEPnwU",
@@ -2596,7 +2830,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-114/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-114/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lacey-114/L5CurH1CKpHEPnwU"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lacey-114/L5CurH1CKpHEPnwU",
+   "imgFile": "images/cards/L5CurH1CKpHEPnwU-s.webp",
+   "imgLargeFile": "images/cards/L5CurH1CKpHEPnwU-l.webp"
   },
   {
    "id": "rc:LP4Yy23mJnvBDQxd",
@@ -2618,7 +2854,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-39/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/jigglypuff-39/LP4Yy23mJnvBDQxd"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/jigglypuff-39/LP4Yy23mJnvBDQxd",
+   "imgFile": "images/cards/LP4Yy23mJnvBDQxd-s.webp",
+   "imgLargeFile": "images/cards/LP4Yy23mJnvBDQxd-l.webp"
   },
   {
    "id": "rc:LUyWEmtNjL5jqfJ7",
@@ -2640,7 +2878,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-21/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-21/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lanturn-21/LUyWEmtNjL5jqfJ7"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lanturn-21/LUyWEmtNjL5jqfJ7",
+   "imgFile": "images/cards/LUyWEmtNjL5jqfJ7-s.webp",
+   "imgLargeFile": "images/cards/LUyWEmtNjL5jqfJ7-l.webp"
   },
   {
    "id": "rc:LgyKlmKG9lD00yFj",
@@ -2662,7 +2902,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-47/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-47/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larvitar-47/LgyKlmKG9lD00yFj"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larvitar-47/LgyKlmKG9lD00yFj",
+   "imgFile": "images/cards/LgyKlmKG9lD00yFj-s.webp",
+   "imgLargeFile": "images/cards/LgyKlmKG9lD00yFj-l.webp"
   },
   {
    "id": "rc:LuTr0HQC7anTx3Fj",
@@ -2684,7 +2926,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-74/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maushold-74/LuTr0HQC7anTx3Fj"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maushold-74/LuTr0HQC7anTx3Fj",
+   "imgFile": "images/cards/LuTr0HQC7anTx3Fj-s.webp",
+   "imgLargeFile": "images/cards/LuTr0HQC7anTx3Fj-l.webp"
   },
   {
    "id": "rc:LuYNgvquFAeOBtcB",
@@ -2706,7 +2950,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-137/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-137/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/porygon-137/LuYNgvquFAeOBtcB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/porygon-137/LuYNgvquFAeOBtcB",
+   "imgFile": "images/cards/LuYNgvquFAeOBtcB-s.webp",
+   "imgLargeFile": "images/cards/LuYNgvquFAeOBtcB-l.webp"
   },
   {
    "id": "rc:MHnH35XhbfguQxfH",
@@ -2728,7 +2974,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-59/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-clodsire-ex-59/MHnH35XhbfguQxfH"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-clodsire-ex-59/MHnH35XhbfguQxfH",
+   "imgFile": "images/cards/MHnH35XhbfguQxfH-s.webp",
+   "imgLargeFile": "images/cards/MHnH35XhbfguQxfH-l.webp"
   },
   {
    "id": "rc:MQDtwNPDUy1syEsc",
@@ -2750,7 +2998,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-116/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-116/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/horsea-116/MQDtwNPDUy1syEsc"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/horsea-116/MQDtwNPDUy1syEsc",
+   "imgFile": "images/cards/MQDtwNPDUy1syEsc-s.webp",
+   "imgLargeFile": "images/cards/MQDtwNPDUy1syEsc-l.webp"
   },
   {
    "id": "rc:Ma4UgbPsyRWIfYa0",
@@ -2772,7 +3022,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-138/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-138/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/giacomo-138/Ma4UgbPsyRWIfYa0"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/giacomo-138/Ma4UgbPsyRWIfYa0",
+   "imgFile": "images/cards/Ma4UgbPsyRWIfYa0-s.webp",
+   "imgLargeFile": "images/cards/Ma4UgbPsyRWIfYa0-l.webp"
   },
   {
    "id": "rc:MuKFlq7EuHAxLr1T",
@@ -2794,7 +3046,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-3/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pinsir-3/MuKFlq7EuHAxLr1T"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pinsir-3/MuKFlq7EuHAxLr1T",
+   "imgFile": "images/cards/MuKFlq7EuHAxLr1T-s.webp",
+   "imgLargeFile": "images/cards/MuKFlq7EuHAxLr1T-l.webp"
   },
   {
    "id": "rc:N08Taag1WkrYU5gE",
@@ -2816,7 +3070,9 @@
    "qty": 11,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-27/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-27/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/sandshrew-27/N08Taag1WkrYU5gE"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/sandshrew-27/N08Taag1WkrYU5gE",
+   "imgFile": "images/cards/N08Taag1WkrYU5gE-s.webp",
+   "imgLargeFile": "images/cards/N08Taag1WkrYU5gE-l.webp"
   },
   {
    "id": "rc:NGcYrc0OYBKP0OeW",
@@ -2838,7 +3094,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-104/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-104/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/cubone-104/NGcYrc0OYBKP0OeW"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/cubone-104/NGcYrc0OYBKP0OeW",
+   "imgFile": "images/cards/NGcYrc0OYBKP0OeW-s.webp",
+   "imgLargeFile": "images/cards/NGcYrc0OYBKP0OeW-l.webp"
   },
   {
    "id": "rc:NKPIWgZe2k8SUkGS",
@@ -2860,7 +3118,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-48/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-48/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/venonat-48/NKPIWgZe2k8SUkGS"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/venonat-48/NKPIWgZe2k8SUkGS",
+   "imgFile": "images/cards/NKPIWgZe2k8SUkGS-s.webp",
+   "imgLargeFile": "images/cards/NKPIWgZe2k8SUkGS-l.webp"
   },
   {
    "id": "rc:NcPWjlQHrG0p2bVO",
@@ -2882,7 +3142,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-66/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bronzor-66/NcPWjlQHrG0p2bVO"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bronzor-66/NcPWjlQHrG0p2bVO",
+   "imgFile": "images/cards/NcPWjlQHrG0p2bVO-s.webp",
+   "imgLargeFile": "images/cards/NcPWjlQHrG0p2bVO-l.webp"
   },
   {
    "id": "rc:NdCSLtnfeoDvi213",
@@ -2904,7 +3166,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-77/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-77/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/atticus-77/NdCSLtnfeoDvi213"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/atticus-77/NdCSLtnfeoDvi213",
+   "imgFile": "images/cards/NdCSLtnfeoDvi213-s.webp",
+   "imgLargeFile": "images/cards/NdCSLtnfeoDvi213-l.webp"
   },
   {
    "id": "rc:O7aFeyayInFCOf3Q",
@@ -2926,7 +3190,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-152/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-152/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-dome-fossil-152/O7aFeyayInFCOf3Q"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/antique-dome-fossil-152/O7aFeyayInFCOf3Q",
+   "imgFile": "images/cards/O7aFeyayInFCOf3Q-s.webp",
+   "imgLargeFile": "images/cards/O7aFeyayInFCOf3Q-l.webp"
   },
   {
    "id": "rc:OFAXsDIYPfNM0Kjn",
@@ -2948,7 +3214,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-29/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-29/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/jolteon-29/OFAXsDIYPfNM0Kjn"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/jolteon-29/OFAXsDIYPfNM0Kjn",
+   "imgFile": "images/cards/OFAXsDIYPfNM0Kjn-s.webp",
+   "imgLargeFile": "images/cards/OFAXsDIYPfNM0Kjn-l.webp"
   },
   {
    "id": "rc:OkzRfYQZ0WbuHlBt",
@@ -2970,7 +3238,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-31/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoqueen-31/OkzRfYQZ0WbuHlBt"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoqueen-31/OkzRfYQZ0WbuHlBt",
+   "imgFile": "images/cards/OkzRfYQZ0WbuHlBt-s.webp",
+   "imgLargeFile": "images/cards/OkzRfYQZ0WbuHlBt-l.webp"
   },
   {
    "id": "rc:OlPWcUqN56DluiMV",
@@ -2992,7 +3262,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/base4-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-76/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/goldeen-76/OlPWcUqN56DluiMV"
+   "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/goldeen-76/OlPWcUqN56DluiMV",
+   "imgFile": "images/cards/OlPWcUqN56DluiMV-s.webp",
+   "imgLargeFile": "images/cards/OlPWcUqN56DluiMV-l.webp"
   },
   {
    "id": "rc:OrUgHqfBQOtsFPuo",
@@ -3014,7 +3286,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-47/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-47/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/parasect-47/OrUgHqfBQOtsFPuo"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/parasect-47/OrUgHqfBQOtsFPuo",
+   "imgFile": "images/cards/OrUgHqfBQOtsFPuo-s.webp",
+   "imgLargeFile": "images/cards/OrUgHqfBQOtsFPuo-l.webp"
   },
   {
    "id": "rc:P3DCPOZhcniJEZab",
@@ -3036,7 +3310,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-41/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-41/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/zubat-41/P3DCPOZhcniJEZab"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/zubat-41/P3DCPOZhcniJEZab",
+   "imgFile": "images/cards/P3DCPOZhcniJEZab-s.webp",
+   "imgLargeFile": "images/cards/P3DCPOZhcniJEZab-l.webp"
   },
   {
    "id": "rc:P6ZJQYgCEPSOSFDB",
@@ -3058,7 +3334,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-134/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-134/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/vaporeon-134/P6ZJQYgCEPSOSFDB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/vaporeon-134/P6ZJQYgCEPSOSFDB",
+   "imgFile": "images/cards/P6ZJQYgCEPSOSFDB-s.webp",
+   "imgLargeFile": "images/cards/P6ZJQYgCEPSOSFDB-l.webp"
   },
   {
    "id": "rc:PByXenkBw8lu6wYv",
@@ -3080,7 +3358,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-242/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-242/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chien-pao-ex-242/PByXenkBw8lu6wYv"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chien-pao-ex-242/PByXenkBw8lu6wYv",
+   "imgFile": "images/cards/PByXenkBw8lu6wYv-s.webp",
+   "imgLargeFile": "images/cards/PByXenkBw8lu6wYv-l.webp"
   },
   {
    "id": "rc:PCJRbMxIOP6dnxIV",
@@ -3102,7 +3382,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-13/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-13/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/weedle-13/PCJRbMxIOP6dnxIV"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/weedle-13/PCJRbMxIOP6dnxIV",
+   "imgFile": "images/cards/PCJRbMxIOP6dnxIV-s.webp",
+   "imgLargeFile": "images/cards/PCJRbMxIOP6dnxIV-l.webp"
   },
   {
    "id": "rc:PGSoZbpxw3HuoeqH",
@@ -3124,7 +3406,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-81/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-81/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/moonlit-hill-81/PGSoZbpxw3HuoeqH"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/moonlit-hill-81/PGSoZbpxw3HuoeqH",
+   "imgFile": "images/cards/PGSoZbpxw3HuoeqH-s.webp",
+   "imgLargeFile": "images/cards/PGSoZbpxw3HuoeqH-l.webp"
   },
   {
    "id": "rc:PL48eWE2ge18E4wt",
@@ -3146,7 +3430,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-103/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-103/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/carmine-103/PL48eWE2ge18E4wt"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/carmine-103/PL48eWE2ge18E4wt",
+   "imgFile": "images/cards/PL48eWE2ge18E4wt-s.webp",
+   "imgLargeFile": "images/cards/PL48eWE2ge18E4wt-l.webp"
   },
   {
    "id": "rc:PoMUSm3mgG3XDkIp",
@@ -3168,7 +3454,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-94/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-94/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/area-zero-underdepths-94/PoMUSm3mgG3XDkIp"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/area-zero-underdepths-94/PoMUSm3mgG3XDkIp",
+   "imgFile": "images/cards/PoMUSm3mgG3XDkIp-s.webp",
+   "imgLargeFile": "images/cards/PoMUSm3mgG3XDkIp-l.webp"
   },
   {
    "id": "rc:PpPEn0yIeCbO1Ksk",
@@ -3190,7 +3478,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-146/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-146/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/moltres-146/PpPEn0yIeCbO1Ksk"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/moltres-146/PpPEn0yIeCbO1Ksk",
+   "imgFile": "images/cards/PpPEn0yIeCbO1Ksk-s.webp",
+   "imgLargeFile": "images/cards/PpPEn0yIeCbO1Ksk-l.webp"
   },
   {
    "id": "rc:Q7XUTjkkJ00D9MJ4",
@@ -3212,7 +3502,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-26/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/raichu-26/Q7XUTjkkJ00D9MJ4"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/raichu-26/Q7XUTjkkJ00D9MJ4",
+   "imgFile": "images/cards/Q7XUTjkkJ00D9MJ4-s.webp",
+   "imgLargeFile": "images/cards/Q7XUTjkkJ00D9MJ4-l.webp"
   },
   {
    "id": "rc:QMaqOEQEhtMiO4I7",
@@ -3234,7 +3526,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-39/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dachsbun-39/QMaqOEQEhtMiO4I7"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dachsbun-39/QMaqOEQEhtMiO4I7",
+   "imgFile": "images/cards/QMaqOEQEhtMiO4I7-s.webp",
+   "imgLargeFile": "images/cards/QMaqOEQEhtMiO4I7-l.webp"
   },
   {
    "id": "rc:QWFzZZOAApq92rK7",
@@ -3256,7 +3550,9 @@
    "qty": 8,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-72/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-72/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/tentacool-72/QWFzZZOAApq92rK7"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/tentacool-72/QWFzZZOAApq92rK7",
+   "imgFile": "images/cards/QWFzZZOAApq92rK7-s.webp",
+   "imgLargeFile": "images/cards/QWFzZZOAApq92rK7-l.webp"
   },
   {
    "id": "rc:QZXkrMeYLLQ3cRAh",
@@ -3278,7 +3574,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-45/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/fezandipiti-45/QZXkrMeYLLQ3cRAh"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/fezandipiti-45/QZXkrMeYLLQ3cRAh",
+   "imgFile": "images/cards/QZXkrMeYLLQ3cRAh-s.webp",
+   "imgLargeFile": "images/cards/QZXkrMeYLLQ3cRAh-l.webp"
   },
   {
    "id": "rc:QkCmINulWeshzmC3",
@@ -3300,7 +3598,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-108/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-108/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/lickitung-108/QkCmINulWeshzmC3"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/lickitung-108/QkCmINulWeshzmC3",
+   "imgFile": "images/cards/QkCmINulWeshzmC3-s.webp",
+   "imgLargeFile": "images/cards/QkCmINulWeshzmC3-l.webp"
   },
   {
    "id": "rc:QmYZBUU61Rl1cCHs",
@@ -3322,7 +3622,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-83/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemonas-backpack-83/QmYZBUU61Rl1cCHs"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemonas-backpack-83/QmYZBUU61Rl1cCHs",
+   "imgFile": "images/cards/QmYZBUU61Rl1cCHs-s.webp",
+   "imgLargeFile": "images/cards/QmYZBUU61Rl1cCHs-l.webp"
   },
   {
    "id": "rc:QnkK5qiZCPTSoNKU",
@@ -3344,7 +3646,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-43/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-43/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/houndstone-43/QnkK5qiZCPTSoNKU"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/houndstone-43/QnkK5qiZCPTSoNKU",
+   "imgFile": "images/cards/QnkK5qiZCPTSoNKU-s.webp",
+   "imgLargeFile": "images/cards/QnkK5qiZCPTSoNKU-l.webp"
   },
   {
    "id": "rc:Qw68dGrH4zupoOY3",
@@ -3366,7 +3670,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-56/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/mankey-56/Qw68dGrH4zupoOY3"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/mankey-56/Qw68dGrH4zupoOY3",
+   "imgFile": "images/cards/Qw68dGrH4zupoOY3-s.webp",
+   "imgLargeFile": "images/cards/Qw68dGrH4zupoOY3-l.webp"
   },
   {
    "id": "rc:RVslicqTJcyPjFmB",
@@ -3388,7 +3694,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-120/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-120/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/staryu-120/RVslicqTJcyPjFmB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/staryu-120/RVslicqTJcyPjFmB",
+   "imgFile": "images/cards/RVslicqTJcyPjFmB-s.webp",
+   "imgLargeFile": "images/cards/RVslicqTJcyPjFmB-l.webp"
   },
   {
    "id": "rc:RaCFO7DDvaCVuyCg",
@@ -3410,7 +3718,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-147/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-147/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dratini-147/RaCFO7DDvaCVuyCg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dratini-147/RaCFO7DDvaCVuyCg",
+   "imgFile": "images/cards/RaCFO7DDvaCVuyCg-s.webp",
+   "imgLargeFile": "images/cards/RaCFO7DDvaCVuyCg-l.webp"
   },
   {
    "id": "rc:RjpndPsAupIKrgDt",
@@ -3432,7 +3742,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-72/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-72/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/oinkologne-72/RjpndPsAupIKrgDt"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/oinkologne-72/RjpndPsAupIKrgDt",
+   "imgFile": "images/cards/RjpndPsAupIKrgDt-s.webp",
+   "imgLargeFile": "images/cards/RjpndPsAupIKrgDt-l.webp"
   },
   {
    "id": "rc:SAPTkyjxMYrIpwJS",
@@ -3454,7 +3766,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-34/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-34/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoking-34/SAPTkyjxMYrIpwJS"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoking-34/SAPTkyjxMYrIpwJS",
+   "imgFile": "images/cards/SAPTkyjxMYrIpwJS-s.webp",
+   "imgLargeFile": "images/cards/SAPTkyjxMYrIpwJS-l.webp"
   },
   {
    "id": "rc:SGl4dg9g6YuKPxhi",
@@ -3476,7 +3790,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-11/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-11/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/metapod-11/SGl4dg9g6YuKPxhi"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/metapod-11/SGl4dg9g6YuKPxhi",
+   "imgFile": "images/cards/SGl4dg9g6YuKPxhi-s.webp",
+   "imgLargeFile": "images/cards/SGl4dg9g6YuKPxhi-l.webp"
   },
   {
    "id": "rc:Sjuwq4MmUzRkh1xQ",
@@ -3498,7 +3814,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-12/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/butterfree-12/Sjuwq4MmUzRkh1xQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/butterfree-12/Sjuwq4MmUzRkh1xQ",
+   "imgFile": "images/cards/Sjuwq4MmUzRkh1xQ-s.webp",
+   "imgLargeFile": "images/cards/Sjuwq4MmUzRkh1xQ-l.webp"
   },
   {
    "id": "rc:TAiTZOlookyUXOgz",
@@ -3520,7 +3838,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-4/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-4/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/budew-4/TAiTZOlookyUXOgz"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/budew-4/TAiTZOlookyUXOgz",
+   "imgFile": "images/cards/TAiTZOlookyUXOgz-s.webp",
+   "imgLargeFile": "images/cards/TAiTZOlookyUXOgz-l.webp"
   },
   {
    "id": "rc:TOiquzgL8Q7cqwJr",
@@ -3542,7 +3862,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-115/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-115/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/kangaskhan-ex-115/TOiquzgL8Q7cqwJr"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/kangaskhan-ex-115/TOiquzgL8Q7cqwJr",
+   "imgFile": "images/cards/TOiquzgL8Q7cqwJr-s.webp",
+   "imgLargeFile": "images/cards/TOiquzgL8Q7cqwJr-l.webp"
   },
   {
    "id": "rc:TWSA3BVQLwcBBrba",
@@ -3564,7 +3886,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-74/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/geodude-74/TWSA3BVQLwcBBrba"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/geodude-74/TWSA3BVQLwcBBrba",
+   "imgFile": "images/cards/TWSA3BVQLwcBBrba-s.webp",
+   "imgLargeFile": "images/cards/TWSA3BVQLwcBBrba-l.webp"
   },
   {
    "id": "rc:TfRwEg637pZfkoLy",
@@ -3586,7 +3910,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-145/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-145/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/zapdos-ex-145/TfRwEg637pZfkoLy"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/zapdos-ex-145/TfRwEg637pZfkoLy",
+   "imgFile": "images/cards/TfRwEg637pZfkoLy-s.webp",
+   "imgLargeFile": "images/cards/TfRwEg637pZfkoLy-l.webp"
   },
   {
    "id": "rc:TvooAddgBMaRNAaq",
@@ -3608,7 +3934,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-38/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-38/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/spritzee-38/TvooAddgBMaRNAaq"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/spritzee-38/TvooAddgBMaRNAaq",
+   "imgFile": "images/cards/TvooAddgBMaRNAaq-s.webp",
+   "imgLargeFile": "images/cards/TvooAddgBMaRNAaq-l.webp"
   },
   {
    "id": "rc:U2PD4CSn1nLv9top",
@@ -3630,7 +3958,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-126/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-126/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/magmar-126/U2PD4CSn1nLv9top"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/magmar-126/U2PD4CSn1nLv9top",
+   "imgFile": "images/cards/U2PD4CSn1nLv9top-s.webp",
+   "imgLargeFile": "images/cards/U2PD4CSn1nLv9top-l.webp"
   },
   {
    "id": "rc:UBNKctfyfvk6TtKC",
@@ -3652,7 +3982,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-106/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-106/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/capsakid-106/UBNKctfyfvk6TtKC"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/capsakid-106/UBNKctfyfvk6TtKC",
+   "imgFile": "images/cards/UBNKctfyfvk6TtKC-s.webp",
+   "imgLargeFile": "images/cards/UBNKctfyfvk6TtKC-l.webp"
   },
   {
    "id": "rc:UMlrt8E62C31AT1o",
@@ -3674,7 +4006,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-76/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/golem-ex-76/UMlrt8E62C31AT1o"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/golem-ex-76/UMlrt8E62C31AT1o",
+   "imgFile": "images/cards/UMlrt8E62C31AT1o-s.webp",
+   "imgLargeFile": "images/cards/UMlrt8E62C31AT1o-l.webp"
   },
   {
    "id": "rc:UPizl8y2CcmAi6x2",
@@ -3696,7 +4030,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-112/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-112/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/janines-secret-art-112/UPizl8y2CcmAi6x2"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/janines-secret-art-112/UPizl8y2CcmAi6x2",
+   "imgFile": "images/cards/UPizl8y2CcmAi6x2-s.webp",
+   "imgLargeFile": "images/cards/UPizl8y2CcmAi6x2-l.webp"
   },
   {
    "id": "rc:UVs6QC2xbK28gmee",
@@ -3718,7 +4054,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-3/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maractus-3/UVs6QC2xbK28gmee"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maractus-3/UVs6QC2xbK28gmee",
+   "imgFile": "images/cards/UVs6QC2xbK28gmee-s.webp",
+   "imgLargeFile": "images/cards/UVs6QC2xbK28gmee-l.webp"
   },
   {
    "id": "rc:UiTs5FzBbbOko2i0",
@@ -3740,7 +4078,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-53/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-53/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hippowdon-53/UiTs5FzBbbOko2i0"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hippowdon-53/UiTs5FzBbbOko2i0",
+   "imgFile": "images/cards/UiTs5FzBbbOko2i0-s.webp",
+   "imgLargeFile": "images/cards/UiTs5FzBbbOko2i0-l.webp"
   },
   {
    "id": "rc:Un62EEEmMTKbeL82",
@@ -3762,7 +4102,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-42/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/scream-tail-42/Un62EEEmMTKbeL82"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/scream-tail-42/Un62EEEmMTKbeL82",
+   "imgFile": "images/cards/Un62EEEmMTKbeL82-s.webp",
+   "imgLargeFile": "images/cards/Un62EEEmMTKbeL82-l.webp"
   },
   {
    "id": "rc:Us9XCe66YyGKaLrU",
@@ -3784,7 +4126,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-86/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-86/Us9XCe66YyGKaLrU"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-86/Us9XCe66YyGKaLrU",
+   "imgFile": "images/cards/Us9XCe66YyGKaLrU-s.webp",
+   "imgLargeFile": "images/cards/Us9XCe66YyGKaLrU-l.webp"
   },
   {
    "id": "rc:V2K6mq94IiCwaf8X",
@@ -3806,7 +4150,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-135/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-135/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/jolteon-135/V2K6mq94IiCwaf8X"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/jolteon-135/V2K6mq94IiCwaf8X",
+   "imgFile": "images/cards/V2K6mq94IiCwaf8X-s.webp",
+   "imgLargeFile": "images/cards/V2K6mq94IiCwaf8X-l.webp"
   },
   {
    "id": "rc:V7zVe9HZYehjrvUU",
@@ -3828,7 +4174,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-71/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-71/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lechonk-71/V7zVe9HZYehjrvUU"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lechonk-71/V7zVe9HZYehjrvUU",
+   "imgFile": "images/cards/V7zVe9HZYehjrvUU-s.webp",
+   "imgLargeFile": "images/cards/V7zVe9HZYehjrvUU-l.webp"
   },
   {
    "id": "rc:VcehCMkR4UoQlCkB",
@@ -3850,7 +4198,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-36/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-36/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dedenne-36/VcehCMkR4UoQlCkB"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dedenne-36/VcehCMkR4UoQlCkB",
+   "imgFile": "images/cards/VcehCMkR4UoQlCkB-s.webp",
+   "imgLargeFile": "images/cards/VcehCMkR4UoQlCkB-l.webp"
   },
   {
    "id": "rc:VhSJo6VdMG04ZwHb",
@@ -3872,7 +4222,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-44/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-44/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/gloom-44/VhSJo6VdMG04ZwHb"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/gloom-44/VhSJo6VdMG04ZwHb",
+   "imgFile": "images/cards/VhSJo6VdMG04ZwHb-s.webp",
+   "imgLargeFile": "images/cards/VhSJo6VdMG04ZwHb-l.webp"
   },
   {
    "id": "rc:VtQ52bVYhXPJhQTD",
@@ -3894,7 +4246,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-63/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-63/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/abra-63/VtQ52bVYhXPJhQTD"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/abra-63/VtQ52bVYhXPJhQTD",
+   "imgFile": "images/cards/VtQ52bVYhXPJhQTD-s.webp",
+   "imgLargeFile": "images/cards/VtQ52bVYhXPJhQTD-l.webp"
   },
   {
    "id": "rc:VvYmojty2fKBkaQa",
@@ -3916,7 +4270,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-80/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/iono-80/VvYmojty2fKBkaQa"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/iono-80/VvYmojty2fKBkaQa",
+   "imgFile": "images/cards/VvYmojty2fKBkaQa-s.webp",
+   "imgLargeFile": "images/cards/VvYmojty2fKBkaQa-l.webp"
   },
   {
    "id": "rc:W1qWBquZNVXSjn2s",
@@ -3938,7 +4294,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-93/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-93/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gloom-93/W1qWBquZNVXSjn2s"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gloom-93/W1qWBquZNVXSjn2s",
+   "imgFile": "images/cards/W1qWBquZNVXSjn2s-s.webp",
+   "imgLargeFile": "images/cards/W1qWBquZNVXSjn2s-l.webp"
   },
   {
    "id": "rc:W7VOVWnRtswu4NLP",
@@ -3960,7 +4318,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-35/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-35/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/whimsicott-35/W7VOVWnRtswu4NLP"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/whimsicott-35/W7VOVWnRtswu4NLP",
+   "imgFile": "images/cards/W7VOVWnRtswu4NLP-s.webp",
+   "imgLargeFile": "images/cards/W7VOVWnRtswu4NLP-l.webp"
   },
   {
    "id": "rc:W8YEIVwvFkI4iDSn",
@@ -3982,7 +4342,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-31/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/zorua-31/W8YEIVwvFkI4iDSn"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/zorua-31/W8YEIVwvFkI4iDSn",
+   "imgFile": "images/cards/W8YEIVwvFkI4iDSn-s.webp",
+   "imgLargeFile": "images/cards/W8YEIVwvFkI4iDSn-l.webp"
   },
   {
    "id": "rc:WGxDxZnsmjzpJ6mw",
@@ -4004,7 +4366,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-98/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-98/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/krabby-98/WGxDxZnsmjzpJ6mw"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/krabby-98/WGxDxZnsmjzpJ6mw",
+   "imgFile": "images/cards/WGxDxZnsmjzpJ6mw-s.webp",
+   "imgLargeFile": "images/cards/WGxDxZnsmjzpJ6mw-l.webp"
   },
   {
    "id": "rc:WHCTKInXEr8MIrEA",
@@ -4026,7 +4390,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-23/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-23/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/exeggcute-23/WHCTKInXEr8MIrEA"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/exeggcute-23/WHCTKInXEr8MIrEA",
+   "imgFile": "images/cards/WHCTKInXEr8MIrEA-s.webp",
+   "imgLargeFile": "images/cards/WHCTKInXEr8MIrEA-l.webp"
   },
   {
    "id": "rc:WW1TgQn3gfuRtDCO",
@@ -4048,7 +4414,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-50/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/diglett-50/WW1TgQn3gfuRtDCO"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/diglett-50/WW1TgQn3gfuRtDCO",
+   "imgFile": "images/cards/WW1TgQn3gfuRtDCO-s.webp",
+   "imgLargeFile": "images/cards/WW1TgQn3gfuRtDCO-l.webp"
   },
   {
    "id": "rc:Wb6WF6R1uSNdELzT",
@@ -4070,7 +4438,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-86/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/seel-86/Wb6WF6R1uSNdELzT"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/seel-86/Wb6WF6R1uSNdELzT",
+   "imgFile": "images/cards/Wb6WF6R1uSNdELzT-s.webp",
+   "imgLargeFile": "images/cards/Wb6WF6R1uSNdELzT-l.webp"
   },
   {
    "id": "rc:WtEcazpVcOktquDh",
@@ -4092,7 +4462,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-36/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-36/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/clefable-36/WtEcazpVcOktquDh"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/clefable-36/WtEcazpVcOktquDh",
+   "imgFile": "images/cards/WtEcazpVcOktquDh-s.webp",
+   "imgLargeFile": "images/cards/WtEcazpVcOktquDh-l.webp"
   },
   {
    "id": "rc:Wtnfld5r0sXmNt65",
@@ -4114,7 +4486,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-31/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mime-jr-31/Wtnfld5r0sXmNt65"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mime-jr-31/Wtnfld5r0sXmNt65",
+   "imgFile": "images/cards/Wtnfld5r0sXmNt65-s.webp",
+   "imgLargeFile": "images/cards/Wtnfld5r0sXmNt65-l.webp"
   },
   {
    "id": "rc:WwwLe4Wvyad8nxe1",
@@ -4136,7 +4510,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-13/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-13/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flareon-13/WwwLe4Wvyad8nxe1"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flareon-13/WwwLe4Wvyad8nxe1",
+   "imgFile": "images/cards/WwwLe4Wvyad8nxe1-s.webp",
+   "imgLargeFile": "images/cards/WwwLe4Wvyad8nxe1-l.webp"
   },
   {
    "id": "rc:X15eo46r7HjjJ2HG",
@@ -4158,7 +4534,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-112/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-112/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/rhydon-112/X15eo46r7HjjJ2HG"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/rhydon-112/X15eo46r7HjjJ2HG",
+   "imgFile": "images/cards/X15eo46r7HjjJ2HG-s.webp",
+   "imgLargeFile": "images/cards/X15eo46r7HjjJ2HG-l.webp"
   },
   {
    "id": "rc:XJf37mxb7ETB5gYQ",
@@ -4180,7 +4558,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-72/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-72/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/drakloak-72/XJf37mxb7ETB5gYQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/drakloak-72/XJf37mxb7ETB5gYQ",
+   "imgFile": "images/cards/XJf37mxb7ETB5gYQ-s.webp",
+   "imgLargeFile": "images/cards/XJf37mxb7ETB5gYQ-l.webp"
   },
   {
    "id": "rc:XK7gCYLHH9WsvEEx",
@@ -4202,7 +4582,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-19/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-19/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/raichu-19/XK7gCYLHH9WsvEEx"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/raichu-19/XK7gCYLHH9WsvEEx",
+   "imgFile": "images/cards/XK7gCYLHH9WsvEEx-s.webp",
+   "imgLargeFile": "images/cards/XK7gCYLHH9WsvEEx-l.webp"
   },
   {
    "id": "rc:XQrmjf4XVldrASGz",
@@ -4224,7 +4606,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-20/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-20/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chinchou-20/XQrmjf4XVldrASGz"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chinchou-20/XQrmjf4XVldrASGz",
+   "imgFile": "images/cards/XQrmjf4XVldrASGz-s.webp",
+   "imgLargeFile": "images/cards/XQrmjf4XVldrASGz-l.webp"
   },
   {
    "id": "rc:XZIefTVkdsd4fwWF",
@@ -4246,7 +4630,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-4/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-4/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/toedscool-4/XZIefTVkdsd4fwWF"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/toedscool-4/XZIefTVkdsd4fwWF",
+   "imgFile": "images/cards/XZIefTVkdsd4fwWF-s.webp",
+   "imgLargeFile": "images/cards/XZIefTVkdsd4fwWF-l.webp"
   },
   {
    "id": "rc:XZq7u7JZJ1gNJGbg",
@@ -4268,7 +4654,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/svp-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/svp-75/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mimikyu-75/XZq7u7JZJ1gNJGbg"
+   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mimikyu-75/XZq7u7JZJ1gNJGbg",
+   "imgFile": "images/cards/XZq7u7JZJ1gNJGbg-s.webp",
+   "imgLargeFile": "images/cards/XZq7u7JZJ1gNJGbg-l.webp"
   },
   {
    "id": "rc:Xs1JiVnGBU3rSb7B",
@@ -4290,7 +4678,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-18/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-18/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pikachu-18/Xs1JiVnGBU3rSb7B"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pikachu-18/Xs1JiVnGBU3rSb7B",
+   "imgFile": "images/cards/Xs1JiVnGBU3rSb7B-s.webp",
+   "imgLargeFile": "images/cards/Xs1JiVnGBU3rSb7B-l.webp"
   },
   {
    "id": "rc:Y1conj5CVJWoPwNE",
@@ -4312,7 +4702,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/svp-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/svp-51/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/snorlax-51/Y1conj5CVJWoPwNE"
+   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/snorlax-51/Y1conj5CVJWoPwNE",
+   "imgFile": "images/cards/Y1conj5CVJWoPwNE-s.webp",
+   "imgLargeFile": "images/cards/Y1conj5CVJWoPwNE-l.webp"
   },
   {
    "id": "rc:Y9p1SN199KRYd13s",
@@ -4334,7 +4726,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-82/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-82/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemona-82/Y9p1SN199KRYd13s"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemona-82/Y9p1SN199KRYd13s",
+   "imgFile": "images/cards/Y9p1SN199KRYd13s-s.webp",
+   "imgLargeFile": "images/cards/Y9p1SN199KRYd13s-l.webp"
   },
   {
    "id": "rc:YJq8CX9WI3aznLzV",
@@ -4356,7 +4750,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-5/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-5/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/charmeleon-5/YJq8CX9WI3aznLzV"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/charmeleon-5/YJq8CX9WI3aznLzV",
+   "imgFile": "images/cards/YJq8CX9WI3aznLzV-s.webp",
+   "imgLargeFile": "images/cards/YJq8CX9WI3aznLzV-l.webp"
   },
   {
    "id": "rc:YPmMqyqAMSI3lHP6",
@@ -4378,7 +4774,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-129/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-129/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/magikarp-129/YPmMqyqAMSI3lHP6"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/magikarp-129/YPmMqyqAMSI3lHP6",
+   "imgFile": "images/cards/YPmMqyqAMSI3lHP6-s.webp",
+   "imgLargeFile": "images/cards/YPmMqyqAMSI3lHP6-l.webp"
   },
   {
    "id": "rc:YTCBm4FeWBi2IK6z",
@@ -4400,7 +4798,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-57/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-57/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gengar-57/YTCBm4FeWBi2IK6z"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gengar-57/YTCBm4FeWBi2IK6z",
+   "imgFile": "images/cards/YTCBm4FeWBi2IK6z-s.webp",
+   "imgLargeFile": "images/cards/YTCBm4FeWBi2IK6z-l.webp"
   },
   {
    "id": "rc:Yw9AZm9yT6LzmSe2",
@@ -4422,7 +4822,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-89/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/rare-candy-89/Yw9AZm9yT6LzmSe2"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/rare-candy-89/Yw9AZm9yT6LzmSe2",
+   "imgFile": "images/cards/Yw9AZm9yT6LzmSe2-s.webp",
+   "imgLargeFile": "images/cards/Yw9AZm9yT6LzmSe2-l.webp"
   },
   {
    "id": "rc:ZJcrCfc9B5lQqEQd",
@@ -4444,7 +4846,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-71/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-71/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/victreebel-71/ZJcrCfc9B5lQqEQd"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/victreebel-71/ZJcrCfc9B5lQqEQd",
+   "imgFile": "images/cards/ZJcrCfc9B5lQqEQd-s.webp",
+   "imgLargeFile": "images/cards/ZJcrCfc9B5lQqEQd-l.webp"
   },
   {
    "id": "rc:ZJtxaEbRR93cA0DL",
@@ -4466,7 +4870,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-155/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-155/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/drifloon-155/ZJtxaEbRR93cA0DL"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/drifloon-155/ZJtxaEbRR93cA0DL",
+   "imgFile": "images/cards/ZJtxaEbRR93cA0DL-s.webp",
+   "imgLargeFile": "images/cards/ZJtxaEbRR93cA0DL-l.webp"
   },
   {
    "id": "rc:ZNLFOx6wJRdKbOU2",
@@ -4488,7 +4894,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-20/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-20/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/goldeen-20/ZNLFOx6wJRdKbOU2"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/goldeen-20/ZNLFOx6wJRdKbOU2",
+   "imgFile": "images/cards/ZNLFOx6wJRdKbOU2-s.webp",
+   "imgLargeFile": "images/cards/ZNLFOx6wJRdKbOU2-l.webp"
   },
   {
    "id": "rc:ZNmL3paEvvkQfSyg",
@@ -4510,7 +4918,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-188/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-188/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/alakazam-ex-188/ZNmL3paEvvkQfSyg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/alakazam-ex-188/ZNmL3paEvvkQfSyg",
+   "imgFile": "images/cards/ZNmL3paEvvkQfSyg-s.webp",
+   "imgLargeFile": "images/cards/ZNmL3paEvvkQfSyg-l.webp"
   },
   {
    "id": "rc:ZWJdj1Fku8yC1yOZ",
@@ -4532,7 +4942,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-2/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-2/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/ivysaur-2/ZWJdj1Fku8yC1yOZ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/ivysaur-2/ZWJdj1Fku8yC1yOZ",
+   "imgFile": "images/cards/ZWJdj1Fku8yC1yOZ-s.webp",
+   "imgLargeFile": "images/cards/ZWJdj1Fku8yC1yOZ-l.webp"
   },
   {
    "id": "rc:Zcl4ttTwg6Dj9To8",
@@ -4554,7 +4966,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-133/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-133/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/eevee-133/Zcl4ttTwg6Dj9To8"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/eevee-133/Zcl4ttTwg6Dj9To8",
+   "imgFile": "images/cards/Zcl4ttTwg6Dj9To8-s.webp",
+   "imgLargeFile": "images/cards/Zcl4ttTwg6Dj9To8-l.webp"
   },
   {
    "id": "rc:a5yR4Zk4KU2P511J",
@@ -4576,7 +4990,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-61/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-61/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwhirl-61/a5yR4Zk4KU2P511J"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwhirl-61/a5yR4Zk4KU2P511J",
+   "imgFile": "images/cards/a5yR4Zk4KU2P511J-s.webp",
+   "imgLargeFile": "images/cards/a5yR4Zk4KU2P511J-l.webp"
   },
   {
    "id": "rc:aL2Pqx1gdHaIHqbQ",
@@ -4598,7 +5014,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-84/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nest-ball-84/aL2Pqx1gdHaIHqbQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nest-ball-84/aL2Pqx1gdHaIHqbQ",
+   "imgFile": "images/cards/aL2Pqx1gdHaIHqbQ-s.webp",
+   "imgLargeFile": "images/cards/aL2Pqx1gdHaIHqbQ-l.webp"
   },
   {
    "id": "rc:aPSxFCst2jLmBuvq",
@@ -4620,7 +5038,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-50/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/barboach-50/aPSxFCst2jLmBuvq"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/barboach-50/aPSxFCst2jLmBuvq",
+   "imgFile": "images/cards/aPSxFCst2jLmBuvq-s.webp",
+   "imgLargeFile": "images/cards/aPSxFCst2jLmBuvq-l.webp"
   },
   {
    "id": "rc:bMwYCQSFGiBq6JGs",
@@ -4642,7 +5062,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-42/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/greavard-42/bMwYCQSFGiBq6JGs"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/greavard-42/bMwYCQSFGiBq6JGs",
+   "imgFile": "images/cards/bMwYCQSFGiBq6JGs-s.webp",
+   "imgLargeFile": "images/cards/bMwYCQSFGiBq6JGs-l.webp"
   },
   {
    "id": "rc:bgLi2u3bzOJU5E4o",
@@ -4664,7 +5086,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-89/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/muk-89/bgLi2u3bzOJU5E4o"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/muk-89/bgLi2u3bzOJU5E4o",
+   "imgFile": "images/cards/bgLi2u3bzOJU5E4o-s.webp",
+   "imgLargeFile": "images/cards/bgLi2u3bzOJU5E4o-l.webp"
   },
   {
    "id": "rc:biKddCLWw6sr3SQs",
@@ -4686,7 +5110,9 @@
    "qty": 8,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-84/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/doduo-84/biKddCLWw6sr3SQs"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/doduo-84/biKddCLWw6sr3SQs",
+   "imgFile": "images/cards/biKddCLWw6sr3SQs-s.webp",
+   "imgLargeFile": "images/cards/biKddCLWw6sr3SQs-l.webp"
   },
   {
    "id": "rc:bryFGmcd20cZ0l2R",
@@ -4708,7 +5134,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-79/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-79/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dunsparce-79/bryFGmcd20cZ0l2R"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dunsparce-79/bryFGmcd20cZ0l2R",
+   "imgFile": "images/cards/bryFGmcd20cZ0l2R-s.webp",
+   "imgLargeFile": "images/cards/bryFGmcd20cZ0l2R-l.webp"
   },
   {
    "id": "rc:c0IXPQAYiRWvIpD8",
@@ -4730,7 +5158,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-78/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clive-78/c0IXPQAYiRWvIpD8"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clive-78/c0IXPQAYiRWvIpD8",
+   "imgFile": "images/cards/c0IXPQAYiRWvIpD8-s.webp",
+   "imgLargeFile": "images/cards/c0IXPQAYiRWvIpD8-l.webp"
   },
   {
    "id": "rc:cMyZ1kqbJL3b0Sj8",
@@ -4752,7 +5182,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-107/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-107/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/explorers-guidance-107/cMyZ1kqbJL3b0Sj8"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/explorers-guidance-107/cMyZ1kqbJL3b0Sj8",
+   "imgFile": "images/cards/cMyZ1kqbJL3b0Sj8-s.webp",
+   "imgLargeFile": "images/cards/cMyZ1kqbJL3b0Sj8-l.webp"
   },
   {
    "id": "rc:cQmN0hPaqPSjwdBz",
@@ -4774,7 +5206,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-65/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-65/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/revavroom-65/cQmN0hPaqPSjwdBz"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/revavroom-65/cQmN0hPaqPSjwdBz",
+   "imgFile": "images/cards/cQmN0hPaqPSjwdBz-s.webp",
+   "imgLargeFile": "images/cards/cQmN0hPaqPSjwdBz-l.webp"
   },
   {
    "id": "rc:cTqUcM0g3FTVv54I",
@@ -4796,7 +5230,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-14/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/kakuna-14/cTqUcM0g3FTVv54I"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/kakuna-14/cTqUcM0g3FTVv54I",
+   "imgFile": "images/cards/cTqUcM0g3FTVv54I-s.webp",
+   "imgLargeFile": "images/cards/cTqUcM0g3FTVv54I-l.webp"
   },
   {
    "id": "rc:cWVvgUq3Kuhagr0M",
@@ -4818,7 +5254,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-117/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-117/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/seadra-117/cWVvgUq3Kuhagr0M"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/seadra-117/cWVvgUq3Kuhagr0M",
+   "imgFile": "images/cards/cWVvgUq3Kuhagr0M-s.webp",
+   "imgLargeFile": "images/cards/cWVvgUq3Kuhagr0M-l.webp"
   },
   {
    "id": "rc:cuviAqIVOrxzEvt6",
@@ -4840,7 +5278,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-26/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/xatu-26/cuviAqIVOrxzEvt6"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/xatu-26/cuviAqIVOrxzEvt6",
+   "imgFile": "images/cards/cuviAqIVOrxzEvt6-s.webp",
+   "imgLargeFile": "images/cards/cuviAqIVOrxzEvt6-l.webp"
   },
   {
    "id": "rc:dJzmtEl3NkcfNaje",
@@ -4862,7 +5302,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-30/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-30/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidorina-30/dJzmtEl3NkcfNaje"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidorina-30/dJzmtEl3NkcfNaje",
+   "imgFile": "images/cards/dJzmtEl3NkcfNaje-s.webp",
+   "imgLargeFile": "images/cards/dJzmtEl3NkcfNaje-l.webp"
   },
   {
    "id": "rc:dLpqLXUWaxad4vG8",
@@ -4884,7 +5326,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-44/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-44/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/axew-44/dLpqLXUWaxad4vG8"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/axew-44/dLpqLXUWaxad4vG8",
+   "imgFile": "images/cards/dLpqLXUWaxad4vG8-s.webp",
+   "imgLargeFile": "images/cards/dLpqLXUWaxad4vG8-l.webp"
   },
   {
    "id": "rc:dP1KGy5zPiS9nIpQ",
@@ -4906,7 +5350,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-161/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-161/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/giovannis-charisma-161/dP1KGy5zPiS9nIpQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/giovannis-charisma-161/dP1KGy5zPiS9nIpQ",
+   "imgFile": "images/cards/dP1KGy5zPiS9nIpQ-s.webp",
+   "imgLargeFile": "images/cards/dP1KGy5zPiS9nIpQ-l.webp"
   },
   {
    "id": "rc:dbh5XNbI1QZWou1w",
@@ -4928,7 +5374,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-9/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/applin-9/dbh5XNbI1QZWou1w"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/applin-9/dbh5XNbI1QZWou1w",
+   "imgFile": "images/cards/dbh5XNbI1QZWou1w-s.webp",
+   "imgLargeFile": "images/cards/dbh5XNbI1QZWou1w-l.webp"
   },
   {
    "id": "rc:dcKHbTasRw2qgEhU",
@@ -4950,7 +5398,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-51/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dugtrio-51/dcKHbTasRw2qgEhU"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dugtrio-51/dcKHbTasRw2qgEhU",
+   "imgFile": "images/cards/dcKHbTasRw2qgEhU-s.webp",
+   "imgLargeFile": "images/cards/dcKHbTasRw2qgEhU-l.webp"
   },
   {
    "id": "rc:dh5Fz44rSQDX2qOM",
@@ -4972,7 +5422,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-19/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-19/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/slowking-19/dh5Fz44rSQDX2qOM"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/slowking-19/dh5Fz44rSQDX2qOM",
+   "imgFile": "images/cards/dh5Fz44rSQDX2qOM-s.webp",
+   "imgLargeFile": "images/cards/dh5Fz44rSQDX2qOM-l.webp"
   },
   {
    "id": "rc:diwmqaFCRpuXDnMy",
@@ -4994,7 +5446,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-45/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mankey-45/diwmqaFCRpuXDnMy"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mankey-45/diwmqaFCRpuXDnMy",
+   "imgFile": "images/cards/diwmqaFCRpuXDnMy-s.webp",
+   "imgLargeFile": "images/cards/diwmqaFCRpuXDnMy-l.webp"
   },
   {
    "id": "rc:e8We1ptGvvGqSGVh",
@@ -5016,7 +5470,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-36/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-36/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dusclops-36/e8We1ptGvvGqSGVh"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dusclops-36/e8We1ptGvvGqSGVh",
+   "imgFile": "images/cards/e8We1ptGvvGqSGVh-s.webp",
+   "imgLargeFile": "images/cards/e8We1ptGvvGqSGVh-l.webp"
   },
   {
    "id": "rc:eTxlflZ4XHPCjib1",
@@ -5038,7 +5494,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-2/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-2/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggutor-2/eTxlflZ4XHPCjib1"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggutor-2/eTxlflZ4XHPCjib1",
+   "imgFile": "images/cards/eTxlflZ4XHPCjib1-s.webp",
+   "imgLargeFile": "images/cards/eTxlflZ4XHPCjib1-l.webp"
   },
   {
    "id": "rc:emiWEc2PlqltHvvj",
@@ -5060,7 +5518,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-187/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-187/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/wigglytuff-ex-187/emiWEc2PlqltHvvj"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/wigglytuff-ex-187/emiWEc2PlqltHvvj",
+   "imgFile": "images/cards/emiWEc2PlqltHvvj-s.webp",
+   "imgLargeFile": "images/cards/emiWEc2PlqltHvvj-l.webp"
   },
   {
    "id": "rc:epKGWfhPA6XStERr",
@@ -5082,7 +5542,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-66/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/machop-66/epKGWfhPA6XStERr"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/machop-66/epKGWfhPA6XStERr",
+   "imgFile": "images/cards/epKGWfhPA6XStERr-s.webp",
+   "imgLargeFile": "images/cards/epKGWfhPA6XStERr-l.webp"
   },
   {
    "id": "rc:exoigigyWrOEnnnx",
@@ -5104,7 +5566,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-33/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidorino-33/exoigigyWrOEnnnx"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidorino-33/exoigigyWrOEnnnx",
+   "imgFile": "images/cards/exoigigyWrOEnnnx-s.webp",
+   "imgLargeFile": "images/cards/exoigigyWrOEnnnx-l.webp"
   },
   {
    "id": "rc:fALEIezRU9YPTYQH",
@@ -5126,7 +5590,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-100/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-100/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/briar-100/fALEIezRU9YPTYQH"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/briar-100/fALEIezRU9YPTYQH",
+   "imgFile": "images/cards/fALEIezRU9YPTYQH-s.webp",
+   "imgLargeFile": "images/cards/fALEIezRU9YPTYQH-l.webp"
   },
   {
    "id": "rc:fEWWRZFeWwrFnnfK",
@@ -5148,7 +5614,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-85/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-85/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-85/fEWWRZFeWwrFnnfK"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-85/fEWWRZFeWwrFnnfK",
+   "imgFile": "images/cards/fEWWRZFeWwrFnnfK-s.webp",
+   "imgLargeFile": "images/cards/fEWWRZFeWwrFnnfK-l.webp"
   },
   {
    "id": "rc:fdrDfYAEttU2SRxP",
@@ -5170,7 +5638,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-24/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-24/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/arbok-ex-24/fdrDfYAEttU2SRxP"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/arbok-ex-24/fdrDfYAEttU2SRxP",
+   "imgFile": "images/cards/fdrDfYAEttU2SRxP-s.webp",
+   "imgLargeFile": "images/cards/fdrDfYAEttU2SRxP-l.webp"
   },
   {
    "id": "rc:fxEIAIXoSUMkJONC",
@@ -5192,7 +5662,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-198/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-198/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/venusaur-ex-198/fxEIAIXoSUMkJONC"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/venusaur-ex-198/fxEIAIXoSUMkJONC",
+   "imgFile": "images/cards/fxEIAIXoSUMkJONC-s.webp",
+   "imgLargeFile": "images/cards/fxEIAIXoSUMkJONC-l.webp"
   },
   {
    "id": "rc:gC0IWsZju0sJslao",
@@ -5214,7 +5686,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-149/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-149/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/dragonite-149/gC0IWsZju0sJslao"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/dragonite-149/gC0IWsZju0sJslao",
+   "imgFile": "images/cards/gC0IWsZju0sJslao-s.webp",
+   "imgLargeFile": "images/cards/gC0IWsZju0sJslao-l.webp"
   },
   {
    "id": "rc:gW8bvzzB3o08uRDJ",
@@ -5236,7 +5710,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-46/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-46/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/primeape-46/gW8bvzzB3o08uRDJ"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/primeape-46/gW8bvzzB3o08uRDJ",
+   "imgFile": "images/cards/gW8bvzzB3o08uRDJ-s.webp",
+   "imgLargeFile": "images/cards/gW8bvzzB3o08uRDJ-l.webp"
   },
   {
    "id": "rc:gZ3RINkqYQ6L3Tho",
@@ -5258,7 +5734,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-7/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-7/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmander-7/gZ3RINkqYQ6L3Tho"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmander-7/gZ3RINkqYQ6L3Tho",
+   "imgFile": "images/cards/gZ3RINkqYQ6L3Tho-s.webp",
+   "imgLargeFile": "images/cards/gZ3RINkqYQ6L3Tho-l.webp"
   },
   {
    "id": "rc:h1kPoXE4v1zJziiB",
@@ -5280,7 +5758,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-199/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-199/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/charizard-ex-199/h1kPoXE4v1zJziiB"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/charizard-ex-199/h1kPoXE4v1zJziiB",
+   "imgFile": "images/cards/h1kPoXE4v1zJziiB-s.webp",
+   "imgLargeFile": "images/cards/h1kPoXE4v1zJziiB-l.webp"
   },
   {
    "id": "rc:h4KJF8VIvT686cGg",
@@ -5302,7 +5782,9 @@
    "qty": 8,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-19/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-19/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/rattata-19/h4KJF8VIvT686cGg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/rattata-19/h4KJF8VIvT686cGg",
+   "imgFile": "images/cards/h4KJF8VIvT686cGg-s.webp",
+   "imgLargeFile": "images/cards/h4KJF8VIvT686cGg-l.webp"
   },
   {
    "id": "rc:h9v66SkNgWpVGWfU",
@@ -5324,7 +5806,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-24/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-24/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/suicune-24/h9v66SkNgWpVGWfU"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/suicune-24/h9v66SkNgWpVGWfU",
+   "imgFile": "images/cards/h9v66SkNgWpVGWfU-s.webp",
+   "imgLargeFile": "images/cards/h9v66SkNgWpVGWfU-l.webp"
   },
   {
    "id": "rc:hXDnOVO3k8PoVeka",
@@ -5346,7 +5830,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-54/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-54/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bloodmoon-ursaluna-54/hXDnOVO3k8PoVeka"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bloodmoon-ursaluna-54/hXDnOVO3k8PoVeka",
+   "imgFile": "images/cards/hXDnOVO3k8PoVeka-s.webp",
+   "imgLargeFile": "images/cards/hXDnOVO3k8PoVeka-l.webp"
   },
   {
    "id": "rc:hbIoiPJ9MebejwZW",
@@ -5368,7 +5854,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-106/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-106/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/earthen-vessel-106/hbIoiPJ9MebejwZW"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/earthen-vessel-106/hbIoiPJ9MebejwZW",
+   "imgFile": "images/cards/hbIoiPJ9MebejwZW-s.webp",
+   "imgLargeFile": "images/cards/hbIoiPJ9MebejwZW-l.webp"
   },
   {
    "id": "rc:hdSciuOqA5Cc4so8",
@@ -5390,7 +5878,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-25/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-25/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/natu-25/hdSciuOqA5Cc4so8"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/natu-25/hdSciuOqA5Cc4so8",
+   "imgFile": "images/cards/hdSciuOqA5Cc4so8-s.webp",
+   "imgLargeFile": "images/cards/hdSciuOqA5Cc4so8-l.webp"
   },
   {
    "id": "rc:hi9qsl2TsLI47r2I",
@@ -5412,7 +5902,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-56/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/haunter-56/hi9qsl2TsLI47r2I"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/haunter-56/hi9qsl2TsLI47r2I",
+   "imgFile": "images/cards/hi9qsl2TsLI47r2I-s.webp",
+   "imgLargeFile": "images/cards/hi9qsl2TsLI47r2I-l.webp"
   },
   {
    "id": "rc:hp4bAOwxEJLLQqeZ",
@@ -5434,7 +5926,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-41/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-41/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/flittle-41/hp4bAOwxEJLLQqeZ"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/flittle-41/hp4bAOwxEJLLQqeZ",
+   "imgFile": "images/cards/hp4bAOwxEJLLQqeZ-s.webp",
+   "imgLargeFile": "images/cards/hp4bAOwxEJLLQqeZ-l.webp"
   },
   {
    "id": "rc:i2u8gdvWXT2hh1kl",
@@ -5456,7 +5950,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-49/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-49/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/donphan-49/i2u8gdvWXT2hh1kl"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/donphan-49/i2u8gdvWXT2hh1kl",
+   "imgFile": "images/cards/i2u8gdvWXT2hh1kl-s.webp",
+   "imgLargeFile": "images/cards/i2u8gdvWXT2hh1kl-l.webp"
   },
   {
    "id": "rc:iG4de2hxtjhFZiBn",
@@ -5478,7 +5974,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-7/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-7/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/cottonee-7/iG4de2hxtjhFZiBn"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/cottonee-7/iG4de2hxtjhFZiBn",
+   "imgFile": "images/cards/iG4de2hxtjhFZiBn-s.webp",
+   "imgLargeFile": "images/cards/iG4de2hxtjhFZiBn-l.webp"
   },
   {
    "id": "rc:iT11YEh4xMYguhxG",
@@ -5500,7 +5998,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-4/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-4/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/dartrix-4/iT11YEh4xMYguhxG"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/dartrix-4/iT11YEh4xMYguhxG",
+   "imgFile": "images/cards/iT11YEh4xMYguhxG-s.webp",
+   "imgLargeFile": "images/cards/iT11YEh4xMYguhxG-l.webp"
   },
   {
    "id": "rc:igKBYVgC48Ae7Qps",
@@ -5522,7 +6022,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-60/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwag-60/igKBYVgC48Ae7Qps"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwag-60/igKBYVgC48Ae7Qps",
+   "imgFile": "images/cards/igKBYVgC48Ae7Qps-s.webp",
+   "imgLargeFile": "images/cards/igKBYVgC48Ae7Qps-l.webp"
   },
   {
    "id": "rc:iyGVkW5hSfwfSmCF",
@@ -5544,7 +6046,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-12/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/camerupt-12/iyGVkW5hSfwfSmCF"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/camerupt-12/iyGVkW5hSfwfSmCF",
+   "imgFile": "images/cards/iyGVkW5hSfwfSmCF-s.webp",
+   "imgLargeFile": "images/cards/iyGVkW5hSfwfSmCF-l.webp"
   },
   {
    "id": "rc:j8K2cCLhzMBzwNMR",
@@ -5566,7 +6070,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-6/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-6/j8K2cCLhzMBzwNMR"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-6/j8K2cCLhzMBzwNMR",
+   "imgFile": "images/cards/j8K2cCLhzMBzwNMR-s.webp",
+   "imgLargeFile": "images/cards/j8K2cCLhzMBzwNMR-l.webp"
   },
   {
    "id": "rc:jBt3Yd9Z8WPfjn3O",
@@ -5588,7 +6094,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-13/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-13/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/heat-rotom-13/jBt3Yd9Z8WPfjn3O"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/heat-rotom-13/jBt3Yd9Z8WPfjn3O",
+   "imgFile": "images/cards/jBt3Yd9Z8WPfjn3O-s.webp",
+   "imgLargeFile": "images/cards/jBt3Yd9Z8WPfjn3O-l.webp"
   },
   {
    "id": "rc:jCtJH5Iytd0tH3ZO",
@@ -5610,7 +6118,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-125/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-125/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/electabuzz-125/jCtJH5Iytd0tH3ZO"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/electabuzz-125/jCtJH5Iytd0tH3ZO",
+   "imgFile": "images/cards/jCtJH5Iytd0tH3ZO-s.webp",
+   "imgLargeFile": "images/cards/jCtJH5Iytd0tH3ZO-l.webp"
   },
   {
    "id": "rc:jZ2D8dhX6KRt0Hav",
@@ -5632,7 +6142,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-16/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-16/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pyroar-16/jZ2D8dhX6KRt0Hav"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pyroar-16/jZ2D8dhX6KRt0Hav",
+   "imgFile": "images/cards/jZ2D8dhX6KRt0Hav-s.webp",
+   "imgLargeFile": "images/cards/jZ2D8dhX6KRt0Hav-l.webp"
   },
   {
    "id": "rc:jgMZuVNYtXKLMLbM",
@@ -5654,7 +6166,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-120/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-120/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-tauros-120/jgMZuVNYtXKLMLbM"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-tauros-120/jgMZuVNYtXKLMLbM",
+   "imgFile": "images/cards/jgMZuVNYtXKLMLbM-s.webp",
+   "imgLargeFile": "images/cards/jgMZuVNYtXKLMLbM-l.webp"
   },
   {
    "id": "rc:k9SypudkkYtnh0bb",
@@ -5676,7 +6190,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-76/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/artazon-76/k9SypudkkYtnh0bb"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/artazon-76/k9SypudkkYtnh0bb",
+   "imgFile": "images/cards/k9SypudkkYtnh0bb-s.webp",
+   "imgLargeFile": "images/cards/k9SypudkkYtnh0bb-l.webp"
   },
   {
    "id": "rc:kLtoOHDHnm3Xpvvv",
@@ -5698,7 +6214,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-16/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-16/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/pidgey-16/kLtoOHDHnm3Xpvvv"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/pidgey-16/kLtoOHDHnm3Xpvvv",
+   "imgFile": "images/cards/kLtoOHDHnm3Xpvvv-s.webp",
+   "imgLargeFile": "images/cards/kLtoOHDHnm3Xpvvv-l.webp"
   },
   {
    "id": "rc:kOnFeSdMVjHhNtBK",
@@ -5720,7 +6238,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-124/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-124/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-124/kOnFeSdMVjHhNtBK"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-124/kOnFeSdMVjHhNtBK",
+   "imgFile": "images/cards/kOnFeSdMVjHhNtBK-s.webp",
+   "imgLargeFile": "images/cards/kOnFeSdMVjHhNtBK-l.webp"
   },
   {
    "id": "rc:kodIQZVwrDGcht65",
@@ -5742,7 +6262,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-169/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-169/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/charmeleon-169/kodIQZVwrDGcht65"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/charmeleon-169/kodIQZVwrDGcht65",
+   "imgFile": "images/cards/kodIQZVwrDGcht65-s.webp",
+   "imgLargeFile": "images/cards/kodIQZVwrDGcht65-l.webp"
   },
   {
    "id": "rc:kothSF8AqAwnGt2P",
@@ -5764,7 +6286,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-32/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-32/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/woobat-32/kothSF8AqAwnGt2P"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/woobat-32/kothSF8AqAwnGt2P",
+   "imgFile": "images/cards/kothSF8AqAwnGt2P-s.webp",
+   "imgLargeFile": "images/cards/kothSF8AqAwnGt2P-l.webp"
   },
   {
    "id": "rc:kpCgIrr0HPgrsudF",
@@ -5786,7 +6310,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-111/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-111/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/rhyhorn-111/kpCgIrr0HPgrsudF"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/rhyhorn-111/kpCgIrr0HPgrsudF",
+   "imgFile": "images/cards/kpCgIrr0HPgrsudF-s.webp",
+   "imgLargeFile": "images/cards/kpCgIrr0HPgrsudF-l.webp"
   },
   {
    "id": "rc:lVEfQEgIafr2XCt1",
@@ -5808,7 +6334,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-156/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-156/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/bills-transfer-156/lVEfQEgIafr2XCt1"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/bills-transfer-156/lVEfQEgIafr2XCt1",
+   "imgFile": "images/cards/lVEfQEgIafr2XCt1-s.webp",
+   "imgLargeFile": "images/cards/lVEfQEgIafr2XCt1-l.webp"
   },
   {
    "id": "rc:lYlo6LFwnM0h6WeU",
@@ -5830,7 +6358,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-122/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-122/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/mr-mime-122/lYlo6LFwnM0h6WeU"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/mr-mime-122/lYlo6LFwnM0h6WeU",
+   "imgFile": "images/cards/lYlo6LFwnM0h6WeU-s.webp",
+   "imgLargeFile": "images/cards/lYlo6LFwnM0h6WeU-l.webp"
   },
   {
    "id": "rc:lbkcBEGVKCwtyQSG",
@@ -5852,7 +6382,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-136/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-136/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/flareon-136/lbkcBEGVKCwtyQSG"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/flareon-136/lbkcBEGVKCwtyQSG",
+   "imgFile": "images/cards/lbkcBEGVKCwtyQSG-s.webp",
+   "imgLargeFile": "images/cards/lbkcBEGVKCwtyQSG-l.webp"
   },
   {
    "id": "rc:m1Akl0Za1tPzLIvs",
@@ -5874,7 +6406,9 @@
    "qty": 9,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-92/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-92/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/gastly-92/m1Akl0Za1tPzLIvs"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/gastly-92/m1Akl0Za1tPzLIvs",
+   "imgFile": "images/cards/m1Akl0Za1tPzLIvs-s.webp",
+   "imgLargeFile": "images/cards/m1Akl0Za1tPzLIvs-l.webp"
   },
   {
    "id": "rc:mEn7ZueqbBsr1A6I",
@@ -5896,7 +6430,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-101/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-101/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/electrode-101/mEn7ZueqbBsr1A6I"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/electrode-101/mEn7ZueqbBsr1A6I",
+   "imgFile": "images/cards/mEn7ZueqbBsr1A6I-s.webp",
+   "imgLargeFile": "images/cards/mEn7ZueqbBsr1A6I-l.webp"
   },
   {
    "id": "rc:mQOnhxvM0zRzsEzc",
@@ -5918,7 +6454,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-52/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hippopotas-52/mQOnhxvM0zRzsEzc"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hippopotas-52/mQOnhxvM0zRzsEzc",
+   "imgFile": "images/cards/mQOnhxvM0zRzsEzc-s.webp",
+   "imgLargeFile": "images/cards/mQOnhxvM0zRzsEzc-l.webp"
   },
   {
    "id": "rc:mXNIPQWeFANftGFG",
@@ -5940,7 +6478,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-48/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-48/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pupitar-48/mXNIPQWeFANftGFG"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pupitar-48/mXNIPQWeFANftGFG",
+   "imgFile": "images/cards/mXNIPQWeFANftGFG-s.webp",
+   "imgLargeFile": "images/cards/mXNIPQWeFANftGFG-l.webp"
   },
   {
    "id": "rc:mfmumDMs3gAIRvAp",
@@ -5962,7 +6502,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-68/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-68/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/machamp-68/mfmumDMs3gAIRvAp"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/machamp-68/mfmumDMs3gAIRvAp",
+   "imgFile": "images/cards/mfmumDMs3gAIRvAp-s.webp",
+   "imgLargeFile": "images/cards/mfmumDMs3gAIRvAp-l.webp"
   },
   {
    "id": "rc:mjuyfNBpKWZI03u7",
@@ -5984,7 +6526,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-110/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-110/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/glass-trumpet-110/mjuyfNBpKWZI03u7"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/glass-trumpet-110/mjuyfNBpKWZI03u7",
+   "imgFile": "images/cards/mjuyfNBpKWZI03u7-s.webp",
+   "imgLargeFile": "images/cards/mjuyfNBpKWZI03u7-l.webp"
   },
   {
    "id": "rc:mmEKL4Kg8TcF3y42",
@@ -6006,7 +6550,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-79/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-79/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/slowpoke-79/mmEKL4Kg8TcF3y42"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/slowpoke-79/mmEKL4Kg8TcF3y42",
+   "imgFile": "images/cards/mmEKL4Kg8TcF3y42-s.webp",
+   "imgLargeFile": "images/cards/mmEKL4Kg8TcF3y42-l.webp"
   },
   {
    "id": "rc:nW43HrSq3NMr6qjf",
@@ -6028,7 +6574,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-121/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-121/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professor-turos-scenario-121/nW43HrSq3NMr6qjf"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professor-turos-scenario-121/nW43HrSq3NMr6qjf",
+   "imgFile": "images/cards/nW43HrSq3NMr6qjf-s.webp",
+   "imgLargeFile": "images/cards/nW43HrSq3NMr6qjf-l.webp"
   },
   {
    "id": "rc:oFlU0rudKWJiY87O",
@@ -6050,7 +6598,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-94/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-94/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/gengar-94/oFlU0rudKWJiY87O"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/gengar-94/oFlU0rudKWJiY87O",
+   "imgFile": "images/cards/oFlU0rudKWJiY87O-s.webp",
+   "imgLargeFile": "images/cards/oFlU0rudKWJiY87O-l.webp"
   },
   {
    "id": "rc:oMSviwV0Vs8RmX9X",
@@ -6072,7 +6622,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-38/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-38/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/fidough-38/oMSviwV0Vs8RmX9X"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/fidough-38/oMSviwV0Vs8RmX9X",
+   "imgFile": "images/cards/oMSviwV0Vs8RmX9X-s.webp",
+   "imgLargeFile": "images/cards/oMSviwV0Vs8RmX9X-l.webp"
   },
   {
    "id": "rc:oT4WKCJyrkIuSIyp",
@@ -6094,7 +6646,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-78/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/noctowl-78/oT4WKCJyrkIuSIyp"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/noctowl-78/oT4WKCJyrkIuSIyp",
+   "imgFile": "images/cards/oT4WKCJyrkIuSIyp-s.webp",
+   "imgLargeFile": "images/cards/oT4WKCJyrkIuSIyp-l.webp"
   },
   {
    "id": "rc:oXYM25IuSo6jcovR",
@@ -6116,7 +6670,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-121/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-121/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/starmie-121/oXYM25IuSo6jcovR"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/starmie-121/oXYM25IuSo6jcovR",
+   "imgFile": "images/cards/oXYM25IuSo6jcovR-s.webp",
+   "imgLargeFile": "images/cards/oXYM25IuSo6jcovR-l.webp"
   },
   {
    "id": "rc:obgmV8jYUzljRJuZ",
@@ -6138,7 +6694,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-7/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-7/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/squirtle-7/obgmV8jYUzljRJuZ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/squirtle-7/obgmV8jYUzljRJuZ",
+   "imgFile": "images/cards/obgmV8jYUzljRJuZ-s.webp",
+   "imgLargeFile": "images/cards/obgmV8jYUzljRJuZ-l.webp"
   },
   {
    "id": "rc:oepBp0jgkHBfT88D",
@@ -6160,7 +6718,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-54/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-54/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/psyduck-54/oepBp0jgkHBfT88D"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/psyduck-54/oepBp0jgkHBfT88D",
+   "imgFile": "images/cards/oepBp0jgkHBfT88D-s.webp",
+   "imgLargeFile": "images/cards/oepBp0jgkHBfT88D-l.webp"
   },
   {
    "id": "rc:ojkxsRKt4vIGfasQ",
@@ -6182,7 +6742,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-40/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sylveon-40/ojkxsRKt4vIGfasQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sylveon-40/ojkxsRKt4vIGfasQ",
+   "imgFile": "images/cards/ojkxsRKt4vIGfasQ-s.webp",
+   "imgLargeFile": "images/cards/ojkxsRKt4vIGfasQ-l.webp"
   },
   {
    "id": "rc:onV5FkysQ3u0Pf7f",
@@ -6204,7 +6766,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-82/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-82/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lugia-ex-82/onV5FkysQ3u0Pf7f"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lugia-ex-82/onV5FkysQ3u0Pf7f",
+   "imgFile": "images/cards/onV5FkysQ3u0Pf7f-s.webp",
+   "imgLargeFile": "images/cards/onV5FkysQ3u0Pf7f-l.webp"
   },
   {
    "id": "rc:p4EnoNRq7LiUtDAP",
@@ -6226,7 +6790,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-159/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-159/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/energy-sticker-159/p4EnoNRq7LiUtDAP"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/energy-sticker-159/p4EnoNRq7LiUtDAP",
+   "imgFile": "images/cards/p4EnoNRq7LiUtDAP-s.webp",
+   "imgLargeFile": "images/cards/p4EnoNRq7LiUtDAP-l.webp"
   },
   {
    "id": "rc:pPF4sjMK9SG6JPdQ",
@@ -6248,7 +6814,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-90/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-90/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/technical-machine-crisis-punch-90/pPF4sjMK9SG6JPdQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/technical-machine-crisis-punch-90/pPF4sjMK9SG6JPdQ",
+   "imgFile": "images/cards/pPF4sjMK9SG6JPdQ-s.webp",
+   "imgLargeFile": "images/cards/pPF4sjMK9SG6JPdQ-l.webp"
   },
   {
    "id": "rc:pQV3VmjNZMFAcjof",
@@ -6270,7 +6838,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-57/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-57/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/primeape-57/pQV3VmjNZMFAcjof"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/primeape-57/pQV3VmjNZMFAcjof",
+   "imgFile": "images/cards/pQV3VmjNZMFAcjof-s.webp",
+   "imgLargeFile": "images/cards/pQV3VmjNZMFAcjof-l.webp"
   },
   {
    "id": "rc:pW47KGJGcAjZf9dR",
@@ -6292,7 +6862,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-62/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-62/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwrath-62/pW47KGJGcAjZf9dR"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/poliwrath-62/pW47KGJGcAjZf9dR",
+   "imgFile": "images/cards/pW47KGJGcAjZf9dR-s.webp",
+   "imgLargeFile": "images/cards/pW47KGJGcAjZf9dR-l.webp"
   },
   {
    "id": "rc:paHAWG6kdtCgz6hq",
@@ -6314,7 +6886,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-1/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/bulbasaur-1/paHAWG6kdtCgz6hq"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/bulbasaur-1/paHAWG6kdtCgz6hq",
+   "imgFile": "images/cards/paHAWG6kdtCgz6hq-s.webp",
+   "imgLargeFile": "images/cards/paHAWG6kdtCgz6hq-l.webp"
   },
   {
    "id": "rc:pjB4gz6KIGbTq4vl",
@@ -6336,7 +6910,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-95/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-95/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/onix-95/pjB4gz6KIGbTq4vl"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/onix-95/pjB4gz6KIGbTq4vl",
+   "imgFile": "images/cards/pjB4gz6KIGbTq4vl-s.webp",
+   "imgLargeFile": "images/cards/pjB4gz6KIGbTq4vl-l.webp"
   },
   {
    "id": "rc:pxwGY0RjlVyiyUdo",
@@ -6358,7 +6934,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-17/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-17/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/pidgeotto-17/pxwGY0RjlVyiyUdo"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/pidgeotto-17/pxwGY0RjlVyiyUdo",
+   "imgFile": "images/cards/pxwGY0RjlVyiyUdo-s.webp",
+   "imgLargeFile": "images/cards/pxwGY0RjlVyiyUdo-l.webp"
   },
   {
    "id": "rc:qoSKCVGhUsXH3vNl",
@@ -6380,7 +6958,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-3/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/venusaur-ex-3/qoSKCVGhUsXH3vNl"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/venusaur-ex-3/qoSKCVGhUsXH3vNl",
+   "imgFile": "images/cards/qoSKCVGhUsXH3vNl-s.webp",
+   "imgLargeFile": "images/cards/qoSKCVGhUsXH3vNl-l.webp"
   },
   {
    "id": "rc:r1iicqCc6ZYFnIaA",
@@ -6402,7 +6982,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-16/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-16/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lapras-16/r1iicqCc6ZYFnIaA"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lapras-16/r1iicqCc6ZYFnIaA",
+   "imgFile": "images/cards/r1iicqCc6ZYFnIaA-s.webp",
+   "imgLargeFile": "images/cards/r1iicqCc6ZYFnIaA-l.webp"
   },
   {
    "id": "rc:r23vUElQXx5YpD09",
@@ -6424,7 +7006,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-97/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-97/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/hypno-97/r23vUElQXx5YpD09"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/hypno-97/r23vUElQXx5YpD09",
+   "imgFile": "images/cards/r23vUElQXx5YpD09-s.webp",
+   "imgLargeFile": "images/cards/r23vUElQXx5YpD09-l.webp"
   },
   {
    "id": "rc:rCy5bVsROAKNznQk",
@@ -6446,7 +7030,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-30/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-30/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chimecho-30/rCy5bVsROAKNznQk"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chimecho-30/rCy5bVsROAKNznQk",
+   "imgFile": "images/cards/rCy5bVsROAKNznQk-s.webp",
+   "imgLargeFile": "images/cards/rCy5bVsROAKNznQk-l.webp"
   },
   {
    "id": "rc:rE6cO2MG0F7ZQ6X4",
@@ -6468,7 +7054,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-67/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-67/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/machoke-67/rE6cO2MG0F7ZQ6X4"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/machoke-67/rE6cO2MG0F7ZQ6X4",
+   "imgFile": "images/cards/rE6cO2MG0F7ZQ6X4-s.webp",
+   "imgLargeFile": "images/cards/rE6cO2MG0F7ZQ6X4-l.webp"
   },
   {
    "id": "rc:rVlSa7uwVFOgE7bU",
@@ -6490,7 +7078,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-10/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-10/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/magmortar-10/rVlSa7uwVFOgE7bU"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/magmortar-10/rVlSa7uwVFOgE7bU",
+   "imgFile": "images/cards/rVlSa7uwVFOgE7bU-s.webp",
+   "imgLargeFile": "images/cards/rVlSa7uwVFOgE7bU-l.webp"
   },
   {
    "id": "rc:rj8wquM2tYye6Q8U",
@@ -6512,7 +7102,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-165/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-165/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/rigid-band-165/rj8wquM2tYye6Q8U"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/rigid-band-165/rj8wquM2tYye6Q8U",
+   "imgFile": "images/cards/rj8wquM2tYye6Q8U-s.webp",
+   "imgLargeFile": "images/cards/rj8wquM2tYye6Q8U-l.webp"
   },
   {
    "id": "rc:rpKJ9rrYho5e81zX",
@@ -6534,7 +7126,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-4/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-4/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/charmander-4/rpKJ9rrYho5e81zX"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/charmander-4/rpKJ9rrYho5e81zX",
+   "imgFile": "images/cards/rpKJ9rrYho5e81zX-s.webp",
+   "imgLargeFile": "images/cards/rpKJ9rrYho5e81zX-l.webp"
   },
   {
    "id": "rc:rxj0UlrwTxz6URrD",
@@ -6556,7 +7150,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-59/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/umbreon-59/rxj0UlrwTxz6URrD"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/umbreon-59/rxj0UlrwTxz6URrD",
+   "imgFile": "images/cards/rxj0UlrwTxz6URrD-s.webp",
+   "imgLargeFile": "images/cards/rxj0UlrwTxz6URrD-l.webp"
   },
   {
    "id": "rc:s5G9ByPaY3JnNPQ9",
@@ -6578,7 +7174,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-68/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-68/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/noibat-68/s5G9ByPaY3JnNPQ9"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/noibat-68/s5G9ByPaY3JnNPQ9",
+   "imgFile": "images/cards/s5G9ByPaY3JnNPQ9-s.webp",
+   "imgLargeFile": "images/cards/s5G9ByPaY3JnNPQ9-l.webp"
   },
   {
    "id": "rc:sAeYourgI9hvpLE0",
@@ -6600,7 +7198,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-120/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-120/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professor-sadas-vitality-120/sAeYourgI9hvpLE0"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professor-sadas-vitality-120/sAeYourgI9hvpLE0",
+   "imgFile": "images/cards/sAeYourgI9hvpLE0-s.webp",
+   "imgLargeFile": "images/cards/sAeYourgI9hvpLE0-l.webp"
   },
   {
    "id": "rc:sHQzj6RZCvFxzyqV",
@@ -6622,7 +7222,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-21/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-21/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/spearow-21/sHQzj6RZCvFxzyqV"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/spearow-21/sHQzj6RZCvFxzyqV",
+   "imgFile": "images/cards/sHQzj6RZCvFxzyqV-s.webp",
+   "imgLargeFile": "images/cards/sHQzj6RZCvFxzyqV-l.webp"
   },
   {
    "id": "rc:sKJWWX6CliJHpT3a",
@@ -6644,7 +7246,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-22/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kilowattrel-22/sKJWWX6CliJHpT3a"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kilowattrel-22/sKJWWX6CliJHpT3a",
+   "imgFile": "images/cards/sKJWWX6CliJHpT3a-s.webp",
+   "imgLargeFile": "images/cards/sKJWWX6CliJHpT3a-l.webp"
   },
   {
    "id": "rc:sLx6qP4BJJQYFPkG",
@@ -6666,7 +7270,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-79/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-79/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/electric-generator-79/sLx6qP4BJJQYFPkG"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/electric-generator-79/sLx6qP4BJJQYFPkG",
+   "imgFile": "images/cards/sLx6qP4BJJQYFPkG-s.webp",
+   "imgLargeFile": "images/cards/sLx6qP4BJJQYFPkG-l.webp"
   },
   {
    "id": "rc:sXXrFYhfPiG2DZpf",
@@ -6688,7 +7294,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-27/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-27/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ralts-27/sXXrFYhfPiG2DZpf"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ralts-27/sXXrFYhfPiG2DZpf",
+   "imgFile": "images/cards/sXXrFYhfPiG2DZpf-s.webp",
+   "imgLargeFile": "images/cards/sXXrFYhfPiG2DZpf-l.webp"
   },
   {
    "id": "rc:sn8qsfJp1W0128gl",
@@ -6710,7 +7318,9 @@
    "qty": 8,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-157/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-157/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/cycling-road-157/sn8qsfJp1W0128gl"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/cycling-road-157/sn8qsfJp1W0128gl",
+   "imgFile": "images/cards/sn8qsfJp1W0128gl-s.webp",
+   "imgLargeFile": "images/cards/sn8qsfJp1W0128gl-l.webp"
   },
   {
    "id": "rc:tGr1oiFA2fOkzfAe",
@@ -6732,7 +7342,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-78/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/rapidash-78/tGr1oiFA2fOkzfAe"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/rapidash-78/tGr1oiFA2fOkzfAe",
+   "imgFile": "images/cards/tGr1oiFA2fOkzfAe-s.webp",
+   "imgLargeFile": "images/cards/tGr1oiFA2fOkzfAe-l.webp"
   },
   {
    "id": "rc:tMIxcWJpqAECrQLg",
@@ -6754,7 +7366,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-60/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scraggy-60/tMIxcWJpqAECrQLg"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scraggy-60/tMIxcWJpqAECrQLg",
+   "imgFile": "images/cards/tMIxcWJpqAECrQLg-s.webp",
+   "imgLargeFile": "images/cards/tMIxcWJpqAECrQLg-l.webp"
   },
   {
    "id": "rc:tSUjwNNFjsbwAiSr",
@@ -6776,7 +7390,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-80/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dudunsparce-80/tSUjwNNFjsbwAiSr"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dudunsparce-80/tSUjwNNFjsbwAiSr",
+   "imgFile": "images/cards/tSUjwNNFjsbwAiSr-s.webp",
+   "imgLargeFile": "images/cards/tSUjwNNFjsbwAiSr-l.webp"
   },
   {
    "id": "rc:tT6orIAg4LmvjxOC",
@@ -6798,7 +7414,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-144/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-144/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/articuno-144/tT6orIAg4LmvjxOC"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/articuno-144/tT6orIAg4LmvjxOC",
+   "imgFile": "images/cards/tT6orIAg4LmvjxOC-s.webp",
+   "imgLargeFile": "images/cards/tT6orIAg4LmvjxOC-l.webp"
   },
   {
    "id": "rc:tVhaX0GYlFO4WVu2",
@@ -6820,7 +7438,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-143/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-143/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmo-143/tVhaX0GYlFO4WVu2"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmo-143/tVhaX0GYlFO4WVu2",
+   "imgFile": "images/cards/tVhaX0GYlFO4WVu2-s.webp",
+   "imgLargeFile": "images/cards/tVhaX0GYlFO4WVu2-l.webp"
   },
   {
    "id": "rc:tWN95Mhfq6E9DIse",
@@ -6842,7 +7462,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-87/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-87/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/professors-research-87/tWN95Mhfq6E9DIse"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/professors-research-87/tWN95Mhfq6E9DIse",
+   "imgFile": "images/cards/tWN95Mhfq6E9DIse-s.webp",
+   "imgLargeFile": "images/cards/tWN95Mhfq6E9DIse-l.webp"
   },
   {
    "id": "rc:tbRw46h2cZ2DWYYc",
@@ -6864,7 +7486,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-47/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-47/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/annihilape-47/tbRw46h2cZ2DWYYc"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/annihilape-47/tbRw46h2cZ2DWYYc",
+   "imgFile": "images/cards/tbRw46h2cZ2DWYYc-s.webp",
+   "imgLargeFile": "images/cards/tbRw46h2cZ2DWYYc-l.webp"
   },
   {
    "id": "rc:teCCawOZqevayanx",
@@ -6886,7 +7510,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-84/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fezandipiti-ex-84/teCCawOZqevayanx"
+   "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fezandipiti-ex-84/teCCawOZqevayanx",
+   "imgFile": "images/cards/teCCawOZqevayanx-s.webp",
+   "imgLargeFile": "images/cards/teCCawOZqevayanx-l.webp"
   },
   {
    "id": "rc:tf60GzYDsgG0NBsv",
@@ -6908,7 +7534,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-49/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-49/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/venomoth-49/tf60GzYDsgG0NBsv"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/venomoth-49/tf60GzYDsgG0NBsv",
+   "imgFile": "images/cards/tf60GzYDsgG0NBsv-s.webp",
+   "imgLargeFile": "images/cards/tf60GzYDsgG0NBsv-l.webp"
   },
   {
    "id": "rc:thQ0G2GVJUOnmqeQ",
@@ -6930,7 +7558,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-101/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-101/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/buddy-buddy-poffin-101/thQ0G2GVJUOnmqeQ"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/buddy-buddy-poffin-101/thQ0G2GVJUOnmqeQ",
+   "imgFile": "images/cards/thQ0G2GVJUOnmqeQ-s.webp",
+   "imgLargeFile": "images/cards/thQ0G2GVJUOnmqeQ-l.webp"
   },
   {
    "id": "rc:tr95724idcFZKOPL",
@@ -6952,7 +7582,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-42/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/golbat-42/tr95724idcFZKOPL"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/golbat-42/tr95724idcFZKOPL",
+   "imgFile": "images/cards/tr95724idcFZKOPL-s.webp",
+   "imgLargeFile": "images/cards/tr95724idcFZKOPL-l.webp"
   },
   {
    "id": "rc:twP9iKfq0EJ1wZYz",
@@ -6974,7 +7606,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-62/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-62/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maschiff-62/twP9iKfq0EJ1wZYz"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maschiff-62/twP9iKfq0EJ1wZYz",
+   "imgFile": "images/cards/twP9iKfq0EJ1wZYz-s.webp",
+   "imgLargeFile": "images/cards/twP9iKfq0EJ1wZYz-l.webp"
   },
   {
    "id": "rc:uXjOEzcimMs7DCgY",
@@ -6996,7 +7630,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-127/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-127/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/roto-stick-127/uXjOEzcimMs7DCgY"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/roto-stick-127/uXjOEzcimMs7DCgY",
+   "imgFile": "images/cards/uXjOEzcimMs7DCgY-s.webp",
+   "imgLargeFile": "images/cards/uXjOEzcimMs7DCgY-l.webp"
   },
   {
    "id": "rc:uZFjcuhhN5kghc2B",
@@ -7018,7 +7654,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-21/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-21/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/seaking-21/uZFjcuhhN5kghc2B"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/seaking-21/uZFjcuhhN5kghc2B",
+   "imgFile": "images/cards/uZFjcuhhN5kghc2B-s.webp",
+   "imgLargeFile": "images/cards/uZFjcuhhN5kghc2B-l.webp"
   },
   {
    "id": "rc:ueNfbv8hFrmliHxk",
@@ -7040,7 +7678,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/svp-53/small",
    "imgLarge": "https://images.scrydex.com/pokemon/svp-53/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mew-ex-53/ueNfbv8hFrmliHxk"
+   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mew-ex-53/ueNfbv8hFrmliHxk",
+   "imgFile": "images/cards/ueNfbv8hFrmliHxk-s.webp",
+   "imgLargeFile": "images/cards/ueNfbv8hFrmliHxk-l.webp"
   },
   {
    "id": "rc:ufv8FpiJbr9z3nC2",
@@ -7062,7 +7702,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-61/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-61/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scrafty-61/ufv8FpiJbr9z3nC2"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scrafty-61/ufv8FpiJbr9z3nC2",
+   "imgFile": "images/cards/ufv8FpiJbr9z3nC2-s.webp",
+   "imgLargeFile": "images/cards/ufv8FpiJbr9z3nC2-l.webp"
   },
   {
    "id": "rc:uruboJM6YCHwmNeJ",
@@ -7084,7 +7726,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-102/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/exeggcute-102/uruboJM6YCHwmNeJ"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/exeggcute-102/uruboJM6YCHwmNeJ",
+   "imgFile": "images/cards/uruboJM6YCHwmNeJ-s.webp",
+   "imgLargeFile": "images/cards/uruboJM6YCHwmNeJ-l.webp"
   },
   {
    "id": "rc:vIO86KeIgneVEb3x",
@@ -7106,7 +7750,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-43/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-43/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/oddish-43/vIO86KeIgneVEb3x"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/oddish-43/vIO86KeIgneVEb3x",
+   "imgFile": "images/cards/vIO86KeIgneVEb3x-s.webp",
+   "imgLargeFile": "images/cards/vIO86KeIgneVEb3x-l.webp"
   },
   {
    "id": "rc:va3ldiCfkYThGZCR",
@@ -7128,7 +7774,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-123/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-123/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-123/va3ldiCfkYThGZCR"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professors-research-123/va3ldiCfkYThGZCR",
+   "imgFile": "images/cards/va3ldiCfkYThGZCR-s.webp",
+   "imgLargeFile": "images/cards/va3ldiCfkYThGZCR-l.webp"
   },
   {
    "id": "rc:vrc7gLrMTGK9yr8u",
@@ -7150,7 +7798,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-77/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-77/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/ponyta-77/vrc7gLrMTGK9yr8u"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/ponyta-77/vrc7gLrMTGK9yr8u",
+   "imgFile": "images/cards/vrc7gLrMTGK9yr8u-s.webp",
+   "imgLargeFile": "images/cards/vrc7gLrMTGK9yr8u-l.webp"
   },
   {
    "id": "rc:vtzc08MIh2S8c4Ay",
@@ -7172,7 +7822,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-98/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-98/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-98/vtzc08MIh2S8c4Ay"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/black-belts-training-98/vtzc08MIh2S8c4Ay",
+   "imgFile": "images/cards/vtzc08MIh2S8c4Ay-s.webp",
+   "imgLargeFile": "images/cards/vtzc08MIh2S8c4Ay-l.webp"
   },
   {
    "id": "rc:vuiDduBNHjePEsY2",
@@ -7194,7 +7846,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-35/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-35/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/clefairy-35/vuiDduBNHjePEsY2"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/clefairy-35/vuiDduBNHjePEsY2",
+   "imgFile": "images/cards/vuiDduBNHjePEsY2-s.webp",
+   "imgLargeFile": "images/cards/vuiDduBNHjePEsY2-l.webp"
   },
   {
    "id": "rc:w57u7UkiBMvjUzUq",
@@ -7216,7 +7870,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-52/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/grapploct-52/w57u7UkiBMvjUzUq"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/grapploct-52/w57u7UkiBMvjUzUq",
+   "imgFile": "images/cards/w57u7UkiBMvjUzUq-s.webp",
+   "imgLargeFile": "images/cards/w57u7UkiBMvjUzUq-l.webp"
   },
   {
    "id": "rc:wCA55w2OU9swjH3e",
@@ -7238,7 +7894,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-58/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-58/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-wooper-58/wCA55w2OU9swjH3e"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-wooper-58/wCA55w2OU9swjH3e",
+   "imgFile": "images/cards/wCA55w2OU9swjH3e-s.webp",
+   "imgLargeFile": "images/cards/wCA55w2OU9swjH3e-l.webp"
   },
   {
    "id": "rc:wJRYJtH7tDlLia0J",
@@ -7260,7 +7918,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-105/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/crispin-105/wJRYJtH7tDlLia0J"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/crispin-105/wJRYJtH7tDlLia0J",
+   "imgFile": "images/cards/wJRYJtH7tDlLia0J-s.webp",
+   "imgLargeFile": "images/cards/wJRYJtH7tDlLia0J-l.webp"
   },
   {
    "id": "rc:wSbzvPhW2pJWljhU",
@@ -7282,7 +7942,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-102/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bug-catching-set-102/wSbzvPhW2pJWljhU"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bug-catching-set-102/wSbzvPhW2pJWljhU",
+   "imgFile": "images/cards/wSbzvPhW2pJWljhU-s.webp",
+   "imgLargeFile": "images/cards/wSbzvPhW2pJWljhU-l.webp"
   },
   {
    "id": "rc:wb6mxydrF0RlgckN",
@@ -7304,7 +7966,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/mee-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/mee-1/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-grass-energy-1/wb6mxydrF0RlgckN"
+   "url": "https://www.rarecandy.com/pokemon/sets/mega-evolution-energies/basic-grass-energy-1/wb6mxydrF0RlgckN",
+   "imgFile": "images/cards/wb6mxydrF0RlgckN-s.webp",
+   "imgLargeFile": "images/cards/wb6mxydrF0RlgckN-l.webp"
   },
   {
    "id": "rc:wkJmNTWxlI7ulA5Z",
@@ -7326,7 +7990,9 @@
    "qty": 5,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-28/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-28/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/sandslash-28/wkJmNTWxlI7ulA5Z"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/sandslash-28/wkJmNTWxlI7ulA5Z",
+   "imgFile": "images/cards/wkJmNTWxlI7ulA5Z-s.webp",
+   "imgLargeFile": "images/cards/wkJmNTWxlI7ulA5Z-l.webp"
   },
   {
    "id": "rc:x676C0mlb3JCRgR1",
@@ -7348,7 +8014,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-58/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-58/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/growlithe-58/x676C0mlb3JCRgR1"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/growlithe-58/x676C0mlb3JCRgR1",
+   "imgFile": "images/cards/x676C0mlb3JCRgR1-s.webp",
+   "imgLargeFile": "images/cards/x676C0mlb3JCRgR1-l.webp"
   },
   {
    "id": "rc:xGLHzYfMgrfk8MAO",
@@ -7370,7 +8038,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-14/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charcadet-14/xGLHzYfMgrfk8MAO"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charcadet-14/xGLHzYfMgrfk8MAO",
+   "imgFile": "images/cards/xGLHzYfMgrfk8MAO-s.webp",
+   "imgLargeFile": "images/cards/xGLHzYfMgrfk8MAO-l.webp"
   },
   {
    "id": "rc:xZKckdcgbNLLSa7H",
@@ -7392,7 +8062,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-115/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-115/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larrys-skill-115/xZKckdcgbNLLSa7H"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larrys-skill-115/xZKckdcgbNLLSa7H",
+   "imgFile": "images/cards/xZKckdcgbNLLSa7H-s.webp",
+   "imgLargeFile": "images/cards/xZKckdcgbNLLSa7H-l.webp"
   },
   {
    "id": "rc:xge7YfqaefJqYwhb",
@@ -7414,7 +8086,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-91/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-91/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/cloyster-91/xge7YfqaefJqYwhb"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/cloyster-91/xge7YfqaefJqYwhb",
+   "imgFile": "images/cards/xge7YfqaefJqYwhb-s.webp",
+   "imgLargeFile": "images/cards/xge7YfqaefJqYwhb-l.webp"
   },
   {
    "id": "rc:xnqqDjAxPMnvbVDM",
@@ -7436,7 +8110,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-1/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggcute-1/xnqqDjAxPMnvbVDM"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggcute-1/xnqqDjAxPMnvbVDM",
+   "imgFile": "images/cards/xnqqDjAxPMnvbVDM-s.webp",
+   "imgLargeFile": "images/cards/xnqqDjAxPMnvbVDM-l.webp"
   },
   {
    "id": "rc:xqHB9X7RyKZw3q25",
@@ -7458,7 +8134,9 @@
    "qty": 10,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-53/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-53/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/persian-53/xqHB9X7RyKZw3q25"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/persian-53/xqHB9X7RyKZw3q25",
+   "imgFile": "images/cards/xqHB9X7RyKZw3q25-s.webp",
+   "imgLargeFile": "images/cards/xqHB9X7RyKZw3q25-l.webp"
   },
   {
    "id": "rc:xuPFKUGIlxYNtN57",
@@ -7480,7 +8158,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-205/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-205/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/mew-ex-205/xuPFKUGIlxYNtN57"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/mew-ex-205/xuPFKUGIlxYNtN57",
+   "imgFile": "images/cards/xuPFKUGIlxYNtN57-s.webp",
+   "imgLargeFile": "images/cards/xuPFKUGIlxYNtN57-l.webp"
   },
   {
    "id": "rc:y2IMG67FCF6n8LrK",
@@ -7502,7 +8182,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/svp-173/small",
    "imgLarge": "https://images.scrydex.com/pokemon/svp-173/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/eevee-173/y2IMG67FCF6n8LrK"
+   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/eevee-173/y2IMG67FCF6n8LrK",
+   "imgFile": "images/cards/y2IMG67FCF6n8LrK-s.webp",
+   "imgLargeFile": "images/cards/y2IMG67FCF6n8LrK-l.webp"
   },
   {
    "id": "rc:yANtRIJ9NY9zfK1w",
@@ -7524,7 +8206,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-128/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-128/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/tauros-128/yANtRIJ9NY9zfK1w"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/tauros-128/yANtRIJ9NY9zfK1w",
+   "imgFile": "images/cards/yANtRIJ9NY9zfK1w-s.webp",
+   "imgLargeFile": "images/cards/yANtRIJ9NY9zfK1w-l.webp"
   },
   {
    "id": "rc:yGXiMfV1vuQMYbWG",
@@ -7546,7 +8230,9 @@
    "qty": 4,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-8/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-8/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/wartortle-8/yGXiMfV1vuQMYbWG"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/wartortle-8/yGXiMfV1vuQMYbWG",
+   "imgFile": "images/cards/yGXiMfV1vuQMYbWG-s.webp",
+   "imgLargeFile": "images/cards/yGXiMfV1vuQMYbWG-l.webp"
   },
   {
    "id": "rc:yLbT7Ews9OZ3lat9",
@@ -7568,7 +8254,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-93/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-93/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/haunter-93/yLbT7Ews9OZ3lat9"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/haunter-93/yLbT7Ews9OZ3lat9",
+   "imgFile": "images/cards/yLbT7Ews9OZ3lat9-s.webp",
+   "imgLargeFile": "images/cards/yLbT7Ews9OZ3lat9-l.webp"
   },
   {
    "id": "rc:ySOLrbFMUW9Djwxg",
@@ -7590,7 +8278,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-110/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-110/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/weezing-110/ySOLrbFMUW9Djwxg"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/weezing-110/ySOLrbFMUW9Djwxg",
+   "imgFile": "images/cards/ySOLrbFMUW9Djwxg-s.webp",
+   "imgLargeFile": "images/cards/ySOLrbFMUW9Djwxg-l.webp"
   },
   {
    "id": "rc:yaYBKCb9yFLpRqhX",
@@ -7612,7 +8302,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-50/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/riolu-50/yaYBKCb9yFLpRqhX"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/riolu-50/yaYBKCb9yFLpRqhX",
+   "imgFile": "images/cards/yaYBKCb9yFLpRqhX-s.webp",
+   "imgLargeFile": "images/cards/yaYBKCb9yFLpRqhX-l.webp"
   },
   {
    "id": "rc:ycfB1Xi6IJA4JnmU",
@@ -7634,7 +8326,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-151/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-151/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/mew-ex-151/ycfB1Xi6IJA4JnmU"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/mew-ex-151/ycfB1Xi6IJA4JnmU",
+   "imgFile": "images/cards/ycfB1Xi6IJA4JnmU-s.webp",
+   "imgLargeFile": "images/cards/ycfB1Xi6IJA4JnmU-l.webp"
   },
   {
    "id": "rc:ymynlPrDbtKYFr3d",
@@ -7656,7 +8350,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-73/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-73/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/tentacruel-73/ymynlPrDbtKYFr3d"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/tentacruel-73/ymynlPrDbtKYFr3d",
+   "imgFile": "images/cards/ymynlPrDbtKYFr3d-s.webp",
+   "imgLargeFile": "images/cards/ymynlPrDbtKYFr3d-l.webp"
   },
   {
    "id": "rc:yrfK1wuEE3POklj3",
@@ -7678,7 +8374,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-45/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/vileplume-45/yrfK1wuEE3POklj3"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/vileplume-45/yrfK1wuEE3POklj3",
+   "imgFile": "images/cards/yrfK1wuEE3POklj3-s.webp",
+   "imgLargeFile": "images/cards/yrfK1wuEE3POklj3-l.webp"
   },
   {
    "id": "rc:ywYl59E7YVPBNCpX",
@@ -7700,7 +8398,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-107/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-107/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/hitmonchan-107/ywYl59E7YVPBNCpX"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/hitmonchan-107/ywYl59E7YVPBNCpX",
+   "imgFile": "images/cards/ywYl59E7YVPBNCpX-s.webp",
+   "imgLargeFile": "images/cards/ywYl59E7YVPBNCpX-l.webp"
   },
   {
    "id": "rc:z54RbymLyGL28A36",
@@ -7722,7 +8422,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-131/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-131/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/lapras-131/z54RbymLyGL28A36"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/lapras-131/z54RbymLyGL28A36",
+   "imgFile": "images/cards/z54RbymLyGL28A36-s.webp",
+   "imgLargeFile": "images/cards/z54RbymLyGL28A36-l.webp"
   },
   {
    "id": "rc:zFGGL9dyWdjYCDe9",
@@ -7744,7 +8446,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-81/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-81/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/magnemite-81/zFGGL9dyWdjYCDe9"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/magnemite-81/zFGGL9dyWdjYCDe9",
+   "imgFile": "images/cards/zFGGL9dyWdjYCDe9-s.webp",
+   "imgLargeFile": "images/cards/zFGGL9dyWdjYCDe9-l.webp"
   },
   {
    "id": "rc:zHxFRmpTcKAvSCms",
@@ -7766,7 +8470,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-37/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-37/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mimikyu-37/zHxFRmpTcKAvSCms"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mimikyu-37/zHxFRmpTcKAvSCms",
+   "imgFile": "images/cards/zHxFRmpTcKAvSCms-s.webp",
+   "imgLargeFile": "images/cards/zHxFRmpTcKAvSCms-l.webp"
   },
   {
    "id": "rc:zIizJrpua1qMKbuT",
@@ -7788,7 +8494,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-8/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-8/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmeleon-8/zIizJrpua1qMKbuT"
+   "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmeleon-8/zIizJrpua1qMKbuT",
+   "imgFile": "images/cards/zIizJrpua1qMKbuT-s.webp",
+   "imgLargeFile": "images/cards/zIizJrpua1qMKbuT-l.webp"
   },
   {
    "id": "rc:zJtsYo4WUiiiPyxW",
@@ -7810,7 +8518,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/svp-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/svp-52/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mewtwo-52/zJtsYo4WUiiiPyxW"
+   "url": "https://www.rarecandy.com/pokemon/sets/scarlet-and-violet-black-star-promos/mewtwo-52/zJtsYo4WUiiiPyxW",
+   "imgFile": "images/cards/zJtsYo4WUiiiPyxW-s.webp",
+   "imgLargeFile": "images/cards/zJtsYo4WUiiiPyxW-l.webp"
   },
   {
    "id": "rc:zJxiVJxWYBwomEmX",
@@ -7832,7 +8542,9 @@
    "qty": 6,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-29/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-29/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoran-29/zJxiVJxWYBwomEmX"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/nidoran-29/zJxiVJxWYBwomEmX",
+   "imgFile": "images/cards/zJxiVJxWYBwomEmX-s.webp",
+   "imgLargeFile": "images/cards/zJxiVJxWYBwomEmX-l.webp"
   },
   {
    "id": "rc:zMrXRVKLXNZIKcrK",
@@ -7854,7 +8566,9 @@
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-84/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lopunny-84/zMrXRVKLXNZIKcrK"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lopunny-84/zMrXRVKLXNZIKcrK",
+   "imgFile": "images/cards/zMrXRVKLXNZIKcrK-s.webp",
+   "imgLargeFile": "images/cards/zMrXRVKLXNZIKcrK-l.webp"
   },
   {
    "id": "rc:zYm5gnjujsIHbCV1",
@@ -7876,7 +8590,9 @@
    "qty": 3,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-10/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-10/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/caterpie-10/zYm5gnjujsIHbCV1"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/caterpie-10/zYm5gnjujsIHbCV1",
+   "imgFile": "images/cards/zYm5gnjujsIHbCV1-s.webp",
+   "imgLargeFile": "images/cards/zYm5gnjujsIHbCV1-l.webp"
   },
   {
    "id": "rc:zrPWWq7BrBQXlwxk",
@@ -7898,7 +8614,9 @@
    "qty": 2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-113/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-113/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/kieran-113/zrPWWq7BrBQXlwxk"
+   "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/kieran-113/zrPWWq7BrBQXlwxk",
+   "imgFile": "images/cards/zrPWWq7BrBQXlwxk-s.webp",
+   "imgLargeFile": "images/cards/zrPWWq7BrBQXlwxk-l.webp"
   },
   {
    "id": "rc:zryEZr9XyQ2e6052",
@@ -7920,7 +8638,9 @@
    "qty": 7,
    "img": "https://images.scrydex.com/pokemon/sv3pt5-163/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3pt5-163/large",
-   "url": "https://www.rarecandy.com/pokemon/sets/151/leftovers-163/zryEZr9XyQ2e6052"
+   "url": "https://www.rarecandy.com/pokemon/sets/151/leftovers-163/zryEZr9XyQ2e6052",
+   "imgFile": "images/cards/zryEZr9XyQ2e6052-s.webp",
+   "imgLargeFile": "images/cards/zryEZr9XyQ2e6052-l.webp"
   }
  ]
 }

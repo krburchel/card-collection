@@ -10,12 +10,15 @@ so the Action doesn't commit on every run.
   data/history.json     total collection value, one point per day
   data/prices.json      per-card price change points: {id: [[date, price], ...]}
   data/sets/<id>.json   every single card in each owned set (refreshed daily)
+  images/cards/         WebP backups of owned cards' pictures (small + large)
 
 Rare Candy's own price-history endpoint is broken server-side, so per-card
 history is built from our own snapshots starting 2026-10-12.
 """
 import datetime as dt
+import io
 import json
+import os
 import pathlib
 import re
 import sys
@@ -31,6 +34,13 @@ OUT = DATA / "rarecandy.json"
 HISTORY = DATA / "history.json"
 PRICES = DATA / "prices.json"
 SETS = DATA / "sets"
+IMAGES = ROOT / "images" / "cards"
+
+# Refuse to save if the collection suddenly shrinks this much (e.g. profile made
+# private, or Rare Candy returning an empty list). Run the workflow with
+# "force" checked to accept a real drop.
+SHRINK_GUARD = 0.5
+FORCE = os.environ.get("FORCE_SYNC") == "1"
 
 PORTFOLIO_QUERY = """
 query UserPortfolioProducts($input: UserProfileV2Input!, $filter: PortfolioProductsFilter) {
@@ -176,6 +186,12 @@ def sync_collection(now):
 
     cards = sorted((normalize(p) for p in results if (p.get("quantityOwned") or 0) > 0),
                    key=lambda c: c["id"])
+    old_count = len(json.loads(OUT.read_text()).get("cards", [])) if OUT.exists() else 0
+    if old_count >= 10 and len(cards) < old_count * SHRINK_GUARD and not FORCE:
+        raise RuntimeError(
+            f"Collection dropped from {old_count} to {len(cards)} cards; not saving. "
+            "If that's real, run the workflow with 'force' checked.")
+    backup_images(cards)
     changed = write_if_changed(OUT, {
         "username": USERNAME,
         "updatedAt": now.isoformat().replace("+00:00", "Z"),
@@ -196,6 +212,53 @@ def sync_collection(now):
     else:
         print(f"Collection unchanged ({len(cards)} cards)")
     return cards
+
+
+def backup_images(cards):
+    """Save a WebP copy of each owned card's picture so the site doesn't depend
+    on Rare Candy's image host. Only downloads what's missing; failures are
+    skipped (the page falls back to the remote URL)."""
+    try:
+        from PIL import Image
+    except ImportError:
+        print("Pillow not installed; skipping image backup", file=sys.stderr)
+        return
+    from concurrent.futures import ThreadPoolExecutor
+    IMAGES.mkdir(parents=True, exist_ok=True)
+
+    def save(job):
+        url, path, quality, name = job
+        try:
+            req = urllib.request.Request(url, headers={"user-agent": "card-collection-sync"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                im = Image.open(io.BytesIO(r.read()))
+            im = im.convert("RGBA" if im.mode in ("P", "LA", "RGBA") else "RGB")
+            tmp = path.with_suffix(".tmp")
+            im.save(tmp, "WEBP", quality=quality, method=4)
+            tmp.replace(path)
+            return True
+        except Exception as e:  # one bad image shouldn't stop the sync
+            print(f"Image {name} failed: {e}", file=sys.stderr)
+            return False
+
+    jobs = []
+    for c in cards:
+        stem = c["id"].split(":", 1)[1]
+        for field, size, quality in (("img", "s", 82), ("imgLarge", "l", 80)):
+            path = IMAGES / f"{stem}-{size}.webp"
+            if not path.exists() and c.get(field):
+                jobs.append((c[field], path, quality, f"{c['name']} ({size})"))
+    if jobs:
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            saved = sum(pool.map(save, jobs))
+        print(f"Backed up {saved} of {len(jobs)} images")
+
+    for c in cards:
+        stem = c["id"].split(":", 1)[1]
+        for field, size in (("img", "s"), ("imgLarge", "l")):
+            rel = f"images/cards/{stem}-{size}.webp"
+            if (ROOT / rel).exists():
+                c[field + "File"] = rel
 
 
 def sync_prices(cards, today):
