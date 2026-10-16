@@ -1,14 +1,14 @@
 {
  "setId": "YdzXZttse9X2yGqE",
  "name": "Prismatic Evolutions",
- "fetchedOn": "2026-10-15",
+ "fetchedOn": "2026-10-16",
  "cards": [
   {
    "id": "rc:xnqqDjAxPMnvbVDM",
    "name": "Exeggcute",
    "number": "001/131",
    "rarity": "Common",
-   "price": 0.07,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-1/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggcute-1/xnqqDjAxPMnvbVDM"
@@ -18,7 +18,7 @@
    "name": "Exeggutor",
    "number": "002/131",
    "rarity": "Uncommon",
-   "price": 0.07,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-2/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-2/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/exeggutor-2/eTxlflZ4XHPCjib1"
@@ -28,7 +28,7 @@
    "name": "Pinsir",
    "number": "003/131",
    "rarity": "Common",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-3/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pinsir-3/MuKFlq7EuHAxLr1T"
@@ -48,7 +48,7 @@
    "name": "Leafeon",
    "number": "005/131",
    "rarity": "Rare",
-   "price": 0.36,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-5/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-5/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/leafeon-5/xOxwC3PcvxGH18yb"
@@ -58,7 +58,7 @@
    "name": "Leafeon ex",
    "number": "006/131",
    "rarity": "Double Rare",
-   "price": 3.82,
+   "price": 4.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-6/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/leafeon-ex-6/QwjR7Na8QlSPTXbG"
@@ -68,7 +68,7 @@
    "name": "Cottonee",
    "number": "007/131",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-7/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-7/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/cottonee-7/iG4de2hxtjhFZiBn"
@@ -78,7 +78,7 @@
    "name": "Whimsicott",
    "number": "008/131",
    "rarity": "Rare",
-   "price": 0.14,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-8/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-8/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/whimsicott-8/6mhZZf1b5HoDBBTP"
@@ -88,7 +88,7 @@
    "name": "Applin",
    "number": "009/131",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-9/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/applin-9/dbh5XNbI1QZWou1w"
@@ -98,7 +98,7 @@
    "name": "Dipplin",
    "number": "010/131",
    "rarity": "Uncommon",
-   "price": 0.23,
+   "price": 0.26,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-10/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-10/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dipplin-10/AyJpHGK4OWlkRDc0"
@@ -108,7 +108,7 @@
    "name": "Hydrapple ex",
    "number": "011/131",
    "rarity": "Double Rare",
-   "price": 0.94,
+   "price": 0.92,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-11/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-11/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hydrapple-ex-11/elqlBKaneIv4aRbk"
@@ -118,7 +118,7 @@
    "name": "Teal Mask Ogerpon ex",
    "number": "012/131",
    "rarity": "Double Rare",
-   "price": 2.37,
+   "price": 2.38,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-12/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/teal-mask-ogerpon-ex-12/Ipe0wTeEnJ2TszFO"
@@ -128,7 +128,7 @@
    "name": "Flareon",
    "number": "013/131",
    "rarity": "Rare",
-   "price": 0.37,
+   "price": 0.33,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-13/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-13/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flareon-13/WwwLe4Wvyad8nxe1"
@@ -138,7 +138,7 @@
    "name": "Flareon ex",
    "number": "014/131",
    "rarity": "Double Rare",
-   "price": 4.61,
+   "price": 4.75,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-14/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flareon-ex-14/UGcHiDzyu5BPjmfq"
@@ -148,7 +148,7 @@
    "name": "Litleo",
    "number": "015/131",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-15/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/litleo-15/2hrk630u1qfGjGdo"
@@ -158,7 +158,7 @@
    "name": "Pyroar",
    "number": "016/131",
    "rarity": "Uncommon",
-   "price": 0.1,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-16/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-16/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pyroar-16/jZ2D8dhX6KRt0Hav"
@@ -188,7 +188,7 @@
    "name": "Slowking",
    "number": "019/131",
    "rarity": "Uncommon",
-   "price": 0.17,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-19/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-19/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/slowking-19/dh5Fz44rSQDX2qOM"
@@ -208,7 +208,7 @@
    "name": "Seaking",
    "number": "021/131",
    "rarity": "Uncommon",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-21/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-21/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/seaking-21/uZFjcuhhN5kghc2B"
@@ -218,7 +218,7 @@
    "name": "Vaporeon",
    "number": "022/131",
    "rarity": "Rare",
-   "price": 0.34,
+   "price": 0.3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-22/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/vaporeon-22/Iu11rYgpfP0P9pO3"
@@ -228,7 +228,7 @@
    "name": "Vaporeon ex",
    "number": "023/131",
    "rarity": "Double Rare",
-   "price": 3.5,
+   "price": 3.58,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-23/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-23/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/vaporeon-ex-23/NUEaoKicccZJgeKp"
@@ -238,7 +238,7 @@
    "name": "Suicune",
    "number": "024/131",
    "rarity": "Uncommon",
-   "price": 0.2,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-24/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-24/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/suicune-24/h9v66SkNgWpVGWfU"
@@ -248,7 +248,7 @@
    "name": "Glaceon",
    "number": "025/131",
    "rarity": "Rare",
-   "price": 0.36,
+   "price": 0.35,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-25/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-25/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/glaceon-25/22BFJmtzxUH2ImZS"
@@ -258,7 +258,7 @@
    "name": "Glaceon ex",
    "number": "026/131",
    "rarity": "Double Rare",
-   "price": 2.48,
+   "price": 2.64,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-26/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/glaceon-ex-26/Fjg0sbKulXT5hIlP"
@@ -268,7 +268,7 @@
    "name": "Wellspring Mask Ogerpon ex",
    "number": "027/131",
    "rarity": "Double Rare",
-   "price": 0.8,
+   "price": 0.79,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-27/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-27/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/wellspring-mask-ogerpon-ex-27/1i6SOl6GJkWSBpsd"
@@ -278,7 +278,7 @@
    "name": "Pikachu ex",
    "number": "028/131",
    "rarity": "Double Rare",
-   "price": 2.37,
+   "price": 2.42,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-28/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-28/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pikachu-ex-28/cWV821DXRJ49WnjD"
@@ -298,7 +298,7 @@
    "name": "Jolteon ex",
    "number": "030/131",
    "rarity": "Double Rare",
-   "price": 3.73,
+   "price": 3.5,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-30/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-30/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/jolteon-ex-30/IWvpfURKDWzNDwJg"
@@ -308,7 +308,7 @@
    "name": "Iron Hands ex",
    "number": "031/131",
    "rarity": "Double Rare",
-   "price": 0.7,
+   "price": 0.75,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-31/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-hands-ex-31/1LtHSifH5J7wQ8JL"
@@ -318,7 +318,7 @@
    "name": "Iron Thorns ex",
    "number": "032/131",
    "rarity": "Double Rare",
-   "price": 0.76,
+   "price": 0.63,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-32/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-32/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-thorns-ex-32/rIn8YDPG2mkBhST7"
@@ -328,7 +328,7 @@
    "name": "Espeon",
    "number": "033/131",
    "rarity": "Rare",
-   "price": 0.39,
+   "price": 0.37,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-33/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/espeon-33/HYg4V25waqirEmk4"
@@ -338,7 +338,7 @@
    "name": "Espeon ex",
    "number": "034/131",
    "rarity": "Double Rare",
-   "price": 3.96,
+   "price": 4.25,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-34/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-34/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/espeon-ex-34/cNJjd42QdBjFNnoC"
@@ -358,7 +358,7 @@
    "name": "Dusclops",
    "number": "036/131",
    "rarity": "Common",
-   "price": 0.2,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-36/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-36/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dusclops-36/e8We1ptGvvGqSGVh"
@@ -388,7 +388,7 @@
    "name": "Aromatisse",
    "number": "039/131",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-39/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/aromatisse-39/NLoXKj9a49f4IAjJ"
@@ -398,7 +398,7 @@
    "name": "Sylveon",
    "number": "040/131",
    "rarity": "Rare",
-   "price": 0.39,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-40/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sylveon-40/ojkxsRKt4vIGfasQ"
@@ -408,7 +408,7 @@
    "name": "Sylveon ex",
    "number": "041/131",
    "rarity": "Double Rare",
-   "price": 2.85,
+   "price": 2.81,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-41/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-41/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sylveon-ex-41/i2Nnr7R5PjF2Fzyc"
@@ -448,7 +448,7 @@
    "name": "Fezandipiti",
    "number": "045/131",
    "rarity": "Rare",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-45/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/fezandipiti-45/QZXkrMeYLLQ3cRAh"
@@ -498,7 +498,7 @@
    "name": "Riolu",
    "number": "050/131",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-50/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/riolu-50/yaYBKCb9yFLpRqhX"
@@ -548,7 +548,7 @@
    "name": "Great Tusk",
    "number": "055/131",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-55/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-55/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/great-tusk-55/D7kJNJeZqXeofa87"
@@ -558,7 +558,7 @@
    "name": "Sandy Shocks ex",
    "number": "056/131",
    "rarity": "Double Rare",
-   "price": 0.68,
+   "price": 0.67,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-56/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sandy-shocks-ex-56/PDHCSxeMr349krxL"
@@ -568,7 +568,7 @@
    "name": "Okidogi",
    "number": "057/131",
    "rarity": "Rare",
-   "price": 0.1,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-57/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-57/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/okidogi-57/EpsIX5hZl0ofvrlP"
@@ -578,7 +578,7 @@
    "name": "Cornerstone Mask Ogerpon ex",
    "number": "058/131",
    "rarity": "Double Rare",
-   "price": 0.7,
+   "price": 0.67,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-58/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-58/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/cornerstone-mask-ogerpon-ex-58/f01XVb8HlIWcArG2"
@@ -588,7 +588,7 @@
    "name": "Umbreon",
    "number": "059/131",
    "rarity": "Rare",
-   "price": 0.48,
+   "price": 0.42,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-59/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/umbreon-59/rxj0UlrwTxz6URrD"
@@ -598,7 +598,7 @@
    "name": "Umbreon ex",
    "number": "060/131",
    "rarity": "Double Rare",
-   "price": 8.16,
+   "price": 8.09,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-60/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/umbreon-ex-60/4LeCF48as31MIOH7"
@@ -638,7 +638,7 @@
    "name": "Tyranitar ex",
    "number": "064/131",
    "rarity": "Double Rare",
-   "price": 0.76,
+   "price": 0.78,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-64/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-64/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/tyranitar-ex-64/cuoPpnP7ps8g2uDr"
@@ -648,7 +648,7 @@
    "name": "Roaring Moon",
    "number": "065/131",
    "rarity": "Rare",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-65/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-65/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/roaring-moon-65/PpzP5eIaw6dbCudG"
@@ -658,7 +658,7 @@
    "name": "Bronzor",
    "number": "066/131",
    "rarity": "Common",
-   "price": 0.09,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-66/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bronzor-66/NcPWjlQHrG0p2bVO"
@@ -668,7 +668,7 @@
    "name": "Bronzong",
    "number": "067/131",
    "rarity": "Uncommon",
-   "price": 0.07,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-67/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-67/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bronzong-67/ualPWLDiyOyRejFS"
@@ -688,7 +688,7 @@
    "name": "Duraludon",
    "number": "069/131",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-69/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-69/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/duraludon-69/2BNMehVbWsCV7ydS"
@@ -708,7 +708,7 @@
    "name": "Dreepy",
    "number": "071/131",
    "rarity": "Common",
-   "price": 0.17,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-71/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-71/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dreepy-71/HQKg4RtnpgHfYPer"
@@ -718,7 +718,7 @@
    "name": "Drakloak",
    "number": "072/131",
    "rarity": "Common",
-   "price": 0.23,
+   "price": 0.24,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-72/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-72/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/drakloak-72/XJf37mxb7ETB5gYQ"
@@ -748,7 +748,7 @@
    "name": "Eevee ex",
    "number": "075/131",
    "rarity": "Double Rare",
-   "price": 5.7,
+   "price": 5.59,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-75/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/eevee-ex-75/lTljspU10JeBCDUT"
@@ -758,7 +758,7 @@
    "name": "Snorlax ex",
    "number": "076/131",
    "rarity": "Double Rare",
-   "price": 1.47,
+   "price": 1.63,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-76/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/snorlax-ex-76/80YFVu1lh74Da41W"
@@ -768,7 +768,7 @@
    "name": "Hoothoot",
    "number": "077/131",
    "rarity": "Common",
-   "price": 0.08,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-77/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-77/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hoothoot-77/HwEtMELriZshIN7O"
@@ -778,7 +778,7 @@
    "name": "Noctowl",
    "number": "078/131",
    "rarity": "Rare",
-   "price": 0.22,
+   "price": 0.24,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-78/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/noctowl-78/oT4WKCJyrkIuSIyp"
@@ -788,7 +788,7 @@
    "name": "Dunsparce",
    "number": "079/131",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-79/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-79/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dunsparce-79/bryFGmcd20cZ0l2R"
@@ -798,7 +798,7 @@
    "name": "Dudunsparce",
    "number": "080/131",
    "rarity": "Rare",
-   "price": 0.45,
+   "price": 0.46,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-80/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dudunsparce-80/tSUjwNNFjsbwAiSr"
@@ -818,7 +818,7 @@
    "name": "Lugia ex",
    "number": "082/131",
    "rarity": "Double Rare",
-   "price": 1.18,
+   "price": 1.26,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-82/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-82/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lugia-ex-82/onV5FkysQ3u0Pf7f"
@@ -858,7 +858,7 @@
    "name": "Regigigas",
    "number": "086/131",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-86/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/regigigas-86/8pfhJbybNZkkAVeh"
@@ -868,7 +868,7 @@
    "name": "Shaymin",
    "number": "087/131",
    "rarity": "Uncommon",
-   "price": 0.12,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-87/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-87/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/shaymin-87/GQrjRgl82PrlPhOC"
@@ -888,7 +888,7 @@
    "name": "Hawlucha",
    "number": "089/131",
    "rarity": "Uncommon",
-   "price": 0.12,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-89/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/hawlucha-89/BI3x6JAO9MWddyue"
@@ -938,7 +938,7 @@
    "name": "Area Zero Underdepths",
    "number": "094/131",
    "rarity": "Uncommon",
-   "price": 0.22,
+   "price": 0.23,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-94/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-94/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/area-zero-underdepths-94/PoMUSm3mgG3XDkIp"
@@ -948,7 +948,7 @@
    "name": "Binding Mochi",
    "number": "095/131",
    "rarity": "Uncommon",
-   "price": 0.23,
+   "price": 0.22,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-95/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-95/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/binding-mochi-95/IuN2bK7YWSL4Zivi"
@@ -1008,7 +1008,7 @@
    "name": "Buddy-Buddy Poffin",
    "number": "101/131",
    "rarity": "Uncommon",
-   "price": 0.2,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-101/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-101/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/buddy-buddy-poffin-101/thQ0G2GVJUOnmqeQ"
@@ -1018,7 +1018,7 @@
    "name": "Bug Catching Set",
    "number": "102/131",
    "rarity": "Uncommon",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-102/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/bug-catching-set-102/wSbzvPhW2pJWljhU"
@@ -1028,7 +1028,7 @@
    "name": "Carmine",
    "number": "103/131",
    "rarity": "Uncommon",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-103/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-103/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/carmine-103/PL48eWE2ge18E4wt"
@@ -1038,7 +1038,7 @@
    "name": "Ciphermaniac's Codebreaking",
    "number": "104/131",
    "rarity": "Uncommon",
-   "price": 0.23,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-104/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-104/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/ciphermaniacs-codebreaking-104/JxBi3yV57pJBhDm2"
@@ -1048,7 +1048,7 @@
    "name": "Crispin",
    "number": "105/131",
    "rarity": "Uncommon",
-   "price": 0.2,
+   "price": 0.22,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-105/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/crispin-105/wJRYJtH7tDlLia0J"
@@ -1068,7 +1068,7 @@
    "name": "Explorer's Guidance",
    "number": "107/131",
    "rarity": "Uncommon",
-   "price": 0.22,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-107/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-107/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/explorers-guidance-107/cMyZ1kqbJL3b0Sj8"
@@ -1078,7 +1078,7 @@
    "name": "Festival Grounds",
    "number": "108/131",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-108/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-108/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/festival-grounds-108/YxoonqV4xWAPpSX5"
@@ -1098,7 +1098,7 @@
    "name": "Glass Trumpet",
    "number": "110/131",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-110/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-110/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/glass-trumpet-110/mjuyfNBpKWZI03u7"
@@ -1118,7 +1118,7 @@
    "name": "Janine's Secret Art",
    "number": "112/131",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-112/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-112/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/janines-secret-art-112/UPizl8y2CcmAi6x2"
@@ -1128,7 +1128,7 @@
    "name": "Kieran",
    "number": "113/131",
    "rarity": "Uncommon",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-113/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-113/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/kieran-113/zrPWWq7BrBQXlwxk"
@@ -1138,7 +1138,7 @@
    "name": "Lacey",
    "number": "114/131",
    "rarity": "Uncommon",
-   "price": 0.1,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-114/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-114/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lacey-114/L5CurH1CKpHEPnwU"
@@ -1148,7 +1148,7 @@
    "name": "Larry's Skill",
    "number": "115/131",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-115/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-115/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larrys-skill-115/xZKckdcgbNLLSa7H"
@@ -1158,7 +1158,7 @@
    "name": "Max Rod",
    "number": "116/131",
    "rarity": "ACE SPEC Rare",
-   "price": 0.46,
+   "price": 0.45,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-116/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-116/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/max-rod-116/62UgyM0J2fyRX9Ml"
@@ -1178,7 +1178,7 @@
    "name": "Ogre's Mask",
    "number": "118/131",
    "rarity": "Uncommon",
-   "price": 0.09,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-118/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-118/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/ogres-mask-118/Rr7fRf9LibafAVFH"
@@ -1188,7 +1188,7 @@
    "name": "Prime Catcher",
    "number": "119/131",
    "rarity": "ACE SPEC Rare",
-   "price": 0.53,
+   "price": 0.48,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-119/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-119/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/prime-catcher-119/98TfqN4cKtAM650h"
@@ -1198,7 +1198,7 @@
    "name": "Professor Sada's Vitality",
    "number": "120/131",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-120/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-120/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/professor-sadas-vitality-120/sAeYourgI9hvpLE0"
@@ -1268,7 +1268,7 @@
    "name": "Roto-Stick",
    "number": "127/131",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-127/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-127/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/roto-stick-127/uXjOEzcimMs7DCgY"
@@ -1278,7 +1278,7 @@
    "name": "Scoop Up Cyclone",
    "number": "128/131",
    "rarity": "ACE SPEC Rare",
-   "price": 0.27,
+   "price": 0.26,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-128/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-128/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/scoop-up-cyclone-128/GHl4BF9fFbbomcm8"
@@ -1288,7 +1288,7 @@
    "name": "Sparkling Crystal",
    "number": "129/131",
    "rarity": "ACE SPEC Rare",
-   "price": 0.35,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-129/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-129/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sparkling-crystal-129/M7Ln1BA7w1yCMZrb"
@@ -1308,7 +1308,7 @@
    "name": "Treasure Tracker",
    "number": "131/131",
    "rarity": "ACE SPEC Rare",
-   "price": 0.28,
+   "price": 0.32,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-131/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-131/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/treasure-tracker-131/tU6NhjbeSjutYeeY"
@@ -1318,7 +1318,7 @@
    "name": "Amarys",
    "number": "132/131",
    "rarity": "Ultra Rare",
-   "price": 0.66,
+   "price": 0.61,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-132/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-132/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/amarys-132/pBCdbBVQ0Ejq0v8C"
@@ -1328,7 +1328,7 @@
    "name": "Atticus",
    "number": "133/131",
    "rarity": "Ultra Rare",
-   "price": 0.63,
+   "price": 0.65,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-133/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-133/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/atticus-133/FUmLTXBc0XDjxNTj"
@@ -1338,7 +1338,7 @@
    "name": "Atticus",
    "number": "134/131",
    "rarity": "Ultra Rare",
-   "price": 0.72,
+   "price": 0.75,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-134/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-134/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/atticus-134/G5OAzkycvUiTk7SR"
@@ -1348,7 +1348,7 @@
    "name": "Brassius",
    "number": "135/131",
    "rarity": "Ultra Rare",
-   "price": 0.67,
+   "price": 0.66,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-135/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-135/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/brassius-135/0g1NbBWf9211Onke"
@@ -1358,7 +1358,7 @@
    "name": "Eri",
    "number": "136/131",
    "rarity": "Ultra Rare",
-   "price": 1.04,
+   "price": 1.05,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-136/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-136/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/eri-136/T3r1ywPbO9dn3iSF"
@@ -1368,7 +1368,7 @@
    "name": "Friends in Paldea",
    "number": "137/131",
    "rarity": "Ultra Rare",
-   "price": 0.94,
+   "price": 0.89,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-137/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-137/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/friends-in-paldea-137/utRZtmPPeoIaZjKr"
@@ -1378,7 +1378,7 @@
    "name": "Giacomo",
    "number": "138/131",
    "rarity": "Ultra Rare",
-   "price": 0.53,
+   "price": 0.52,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-138/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-138/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/giacomo-138/Ma4UgbPsyRWIfYa0"
@@ -1388,7 +1388,7 @@
    "name": "Larry's Skill",
    "number": "139/131",
    "rarity": "Ultra Rare",
-   "price": 0.6,
+   "price": 0.59,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-139/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-139/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/larrys-skill-139/ZJXlHfzLSGycaWhG"
@@ -1408,7 +1408,7 @@
    "name": "Ortega",
    "number": "141/131",
    "rarity": "Ultra Rare",
-   "price": 0.62,
+   "price": 0.59,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-141/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-141/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/ortega-141/iQp0np88VTEmebIP"
@@ -1418,7 +1418,7 @@
    "name": "Raifort",
    "number": "142/131",
    "rarity": "Ultra Rare",
-   "price": 0.63,
+   "price": 0.61,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-142/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-142/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/raifort-142/7Wj7wsneLvaPujRJ"
@@ -1428,7 +1428,7 @@
    "name": "Tyme",
    "number": "143/131",
    "rarity": "Ultra Rare",
-   "price": 0.59,
+   "price": 0.54,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-143/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-143/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/tyme-143/qwLHj6M9gthyEftY"
@@ -1438,7 +1438,7 @@
    "name": "Leafeon ex",
    "number": "144/131",
    "rarity": "Special Illustration Rare",
-   "price": 312.54,
+   "price": 311.16,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-144/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-144/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/leafeon-ex-144/WY2FIrV9gFDPzX76"
@@ -1448,7 +1448,7 @@
    "name": "Teal Mask Ogerpon ex",
    "number": "145/131",
    "rarity": "Special Illustration Rare",
-   "price": 16.28,
+   "price": 16.16,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-145/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-145/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/teal-mask-ogerpon-ex-145/TX1gJnWY4HglS3kQ"
@@ -1458,7 +1458,7 @@
    "name": "Flareon ex",
    "number": "146/131",
    "rarity": "Special Illustration Rare",
-   "price": 169.92,
+   "price": 166.79,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-146/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-146/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/flareon-ex-146/toaZyjZZ7EH5wETJ"
@@ -1488,7 +1488,7 @@
    "name": "Vaporeon ex",
    "number": "149/131",
    "rarity": "Special Illustration Rare",
-   "price": 260.24,
+   "price": 254.24,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-149/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-149/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/vaporeon-ex-149/aExpQjVqcKsBiwnP"
@@ -1518,7 +1518,7 @@
    "name": "Wellspring Mask Ogerpon ex",
    "number": "152/131",
    "rarity": "Special Illustration Rare",
-   "price": 17.39,
+   "price": 17.51,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-152/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-152/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/wellspring-mask-ogerpon-ex-152/f87rGPE17HP5gXf5"
@@ -1538,7 +1538,7 @@
    "name": "Iron Hands ex",
    "number": "154/131",
    "rarity": "Special Illustration Rare",
-   "price": 22.69,
+   "price": 22.65,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-154/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-154/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-hands-ex-154/hbv4abK7RuYbQ2uZ"
@@ -1548,7 +1548,7 @@
    "name": "Espeon ex",
    "number": "155/131",
    "rarity": "Special Illustration Rare",
-   "price": 284.67,
+   "price": 284.88,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-155/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-155/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/espeon-ex-155/k7qJHonosSlHfbVP"
@@ -1558,7 +1558,7 @@
    "name": "Sylveon ex",
    "number": "156/131",
    "rarity": "Special Illustration Rare",
-   "price": 453.73,
+   "price": 432.04,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-156/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-156/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sylveon-ex-156/FJgCGen1e5zC1SwQ"
@@ -1568,7 +1568,7 @@
    "name": "Iron Valiant ex",
    "number": "157/131",
    "rarity": "Special Illustration Rare",
-   "price": 49.18,
+   "price": 49.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-157/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-157/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/iron-valiant-ex-157/mhccokPB8OzGSJXY"
@@ -1588,7 +1588,7 @@
    "name": "Sandy Shocks ex",
    "number": "159/131",
    "rarity": "Special Illustration Rare",
-   "price": 23.5,
+   "price": 23.37,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-159/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-159/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/sandy-shocks-ex-159/4bXAcpK2E345ge3o"
@@ -1598,7 +1598,7 @@
    "name": "Cornerstone Mask Ogerpon ex",
    "number": "160/131",
    "rarity": "Special Illustration Rare",
-   "price": 13.51,
+   "price": 13.44,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-160/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-160/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/cornerstone-mask-ogerpon-ex-160/2cXMnvHnBmjXYUYA"
@@ -1618,7 +1618,7 @@
    "name": "Roaring Moon ex",
    "number": "162/131",
    "rarity": "Special Illustration Rare",
-   "price": 161.71,
+   "price": 162.03,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-162/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-162/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/roaring-moon-ex-162/CXFQwyGTwx8iwlFN"
@@ -1628,7 +1628,7 @@
    "name": "Pecharunt ex",
    "number": "163/131",
    "rarity": "Special Illustration Rare",
-   "price": 28.37,
+   "price": 28.12,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-163/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-163/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pecharunt-ex-163/VFjDLowWeTbke2jq"
@@ -1648,7 +1648,7 @@
    "name": "Dragapult ex",
    "number": "165/131",
    "rarity": "Special Illustration Rare",
-   "price": 99.09,
+   "price": 98.14,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-165/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-165/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/dragapult-ex-165/HNvL139DBQsnJWyp"
@@ -1668,7 +1668,7 @@
    "name": "Eevee ex",
    "number": "167/131",
    "rarity": "Special Illustration Rare",
-   "price": 170.27,
+   "price": 167.6,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-167/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-167/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/eevee-ex-167/Nu87Sb0Zvlk1Ko9P"
@@ -1688,7 +1688,7 @@
    "name": "Terapagos ex",
    "number": "169/131",
    "rarity": "Special Illustration Rare",
-   "price": 28.72,
+   "price": 28.6,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-169/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-169/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/terapagos-ex-169/06nKmlNl9P2pcdeF"
@@ -1708,7 +1708,7 @@
    "name": "Crispin",
    "number": "171/131",
    "rarity": "Special Illustration Rare",
-   "price": 22.81,
+   "price": 22.87,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-171/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-171/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/crispin-171/01sORxalrRlt7WLP"
@@ -1728,7 +1728,7 @@
    "name": "Janine's Secret Art",
    "number": "173/131",
    "rarity": "Special Illustration Rare",
-   "price": 20.27,
+   "price": 20.13,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-173/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-173/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/janines-secret-art-173/n7ZPoExw0slb1fGr"
@@ -1738,7 +1738,7 @@
    "name": "Kieran",
    "number": "174/131",
    "rarity": "Special Illustration Rare",
-   "price": 17.01,
+   "price": 16.9,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-174/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-174/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/kieran-174/5Omkv5woVKl3PWEn"
@@ -1748,7 +1748,7 @@
    "name": "Lacey",
    "number": "175/131",
    "rarity": "Special Illustration Rare",
-   "price": 21.41,
+   "price": 21.3,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-175/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-175/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/lacey-175/bMMvA3EZLoUVRybG"
@@ -1768,7 +1768,7 @@
    "name": "Teal Mask Ogerpon ex",
    "number": "177/131",
    "rarity": "Hyper Rare",
-   "price": 7.44,
+   "price": 7.4,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-177/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-177/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/teal-mask-ogerpon-ex-177/seI60SiwhrAfb8oB"
@@ -1778,7 +1778,7 @@
    "name": "Walking Wake ex",
    "number": "178/131",
    "rarity": "Hyper Rare",
-   "price": 6.2,
+   "price": 6.08,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-178/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-178/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/walking-wake-ex-178/Ky6b7Ve21pyZSw2S"
@@ -1788,7 +1788,7 @@
    "name": "Pikachu ex",
    "number": "179/131",
    "rarity": "Hyper Rare",
-   "price": 44.04,
+   "price": 44,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-179/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-179/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/pikachu-ex-179/pdbzMfLRFfFEmmGI"
@@ -1798,7 +1798,7 @@
    "name": "Terapagos ex",
    "number": "180/131",
    "rarity": "Hyper Rare",
-   "price": 8.05,
+   "price": 7.94,
    "img": "https://images.scrydex.com/pokemon/sv8pt5-180/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv8pt5-180/large",
    "url": "https://www.rarecandy.com/pokemon/sets/prismatic-evolutions/terapagos-ex-180/Q4s2RBdve4W4Szlv"
