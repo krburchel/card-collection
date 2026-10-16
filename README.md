@@ -15,3 +15,9 @@ Dashboard for my trading card collection: https://krburchel.github.io/card-colle
 - **Manual cards**: `data/manual.json` holds cards Rare Candy can't track (e.g. baseball). Use the
   same fields as `rarecandy.json`: `id` (unique, `m:` prefix), `brand`, `set`, `name`, `number`,
   `rarity`, `price`, `qty`, optional `img`/`imgLarge`/`url`/`setRelease`/`setTotal`.
+- **Decks**: the Decks tab builds 60-card Pokémon decks from cards you own (capped at your copies,
+  4-copy rule, Basic Pokémon, ACE SPEC, evolution lines, Standard/Expanded legality; Standard = regulation
+  mark H and later). Basic Energy is always available. Paste a Pokémon TCG Live / Limitless list to see what
+  you already own; "Copy list" exports in PTCG Live format. Decks are saved in the browser (localStorage).
+  Card types come from the open Pokémon TCG dataset (`data/cardinfo.json`, `data/tcgsets.json`), looked up
+  by the sync only for cards it hasn't seen.

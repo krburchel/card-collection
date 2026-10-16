@@ -1,0 +1,12332 @@
+{
+ "rc:02i6k3ig4MIxa5AT": {
+  "tcgId": "sv3pt5-96",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "96",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Zen Headbutt",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:03A63NE63Q5uI9xx": {
+  "tcgId": "sv8pt5-99",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "99"
+ },
+ "rc:03WdqqUKztmDWJxq": {
+  "tcgId": "sv4pt5-40",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "40",
+  "hp": 140,
+  "from": "Charcadet",
+  "attacks": [
+   {
+    "n": "Life Sucker",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Fighting Sword",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
+ "rc:0EsW4EaTfKnh3xv6": {
+  "tcgId": "sv3-10",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "10",
+  "hp": 110,
+  "from": "Foongus",
+  "attacks": [
+   {
+    "n": "Dangerous Spores",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:0QxPyGetA9eVXsMs": {
+  "tcgId": "sv6pt5-42",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "42",
+  "hp": 200,
+  "from": "Cufant",
+  "abilities": [
+   "Massive Body"
+  ],
+  "attacks": [
+   {
+    "n": "Nasal Lariat",
+    "c": [
+     "Metal",
+     "Metal",
+     "Metal",
+     "Colorless"
+    ],
+    "d": "130+"
+   }
+  ]
+ },
+ "rc:0XxZLSunbgsXvNVB": {
+  "tcgId": "sv3pt5-23",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "23",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Acid Spray",
+    "c": [
+     "Darkness",
+     "Darkness"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:0giY1KXaGbI3eRL0": {
+  "tcgId": "sv3pt5-114",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "114",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Tactful Tangling",
+    "c": [
+     "Grass"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:0nf52u4oDZmTryAd": {
+  "tcgId": "sv3pt5-154",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "154",
+  "hp": 60,
+  "abilities": [
+   "Amber Protection"
+  ]
+ },
+ "rc:0sErxJvOeRbhmy1B": {
+  "tcgId": "sv3pt5-127",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "127",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Vise Grip",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Reckless Throw",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:0w8CI3aMaKpPRvW4": {
+  "tcgId": "sv3pt5-90",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "90",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Shell Press",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:1NLJBBM9RW8SHQi1": {
+  "tcgId": "sv3pt5-162",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "162"
+ },
+ "rc:1dzcSzF3tplm9ZYw": {
+  "tcgId": "sv8pt5-61",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "61",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Claw Slash",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:1qGc1v7IwGsqIFoR": {
+  "tcgId": "sv3-73",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "73",
+  "hp": 300,
+  "from": "Pawmo",
+  "attacks": [
+   {
+    "n": "Zap Kick",
+    "c": [
+     "Lightning"
+    ],
+    "d": "60"
+   },
+   {
+    "n": "Levin Strike",
+    "c": [
+     "Lightning",
+     "Lightning"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:26BJfiu6WZFaNQrf": {
+  "tcgId": "sv3pt5-103",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "103",
+  "hp": 140,
+  "from": "Exeggcute",
+  "attacks": [
+   {
+    "n": "Psychic",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30+"
+   },
+   {
+    "n": "Hammer In",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:2BNMehVbWsCV7ydS": {
+  "tcgId": "sv8pt5-69",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "69",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Hammer In",
+    "c": [
+     "Metal"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Raging Hammer",
+    "c": [
+     "Metal",
+     "Metal",
+     "Colorless"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
+ "rc:2HeF2WzKOsJRgnyj": {
+  "tcgId": "sv3pt5-52",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "52",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Come Here Right Meow",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Dig Claws",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:2NOMxQYKcyrX4JOb": {
+  "tcgId": "sv3pt5-164",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "164"
+ },
+ "rc:2PiQIYSkag7BU13N": {
+  "tcgId": "sv3pt5-22",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "22",
+  "hp": 90,
+  "from": "Spearow",
+  "attacks": [
+   {
+    "n": "Beak Catch",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Speed Dive",
+    "c": [
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:2WrQVOoFErrVHE6y": {
+  "tcgId": "sv3pt5-6",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "6",
+  "hp": 330,
+  "from": "Charmeleon",
+  "attacks": [
+   {
+    "n": "Brave Wing",
+    "c": [
+     "Fire"
+    ],
+    "d": "60+"
+   },
+   {
+    "n": "Explosive Vortex",
+    "c": [
+     "Fire",
+     "Fire",
+     "Fire",
+     "Fire"
+    ],
+    "d": "330"
+   }
+  ]
+ },
+ "rc:2fPSWffoYZaGAkRg": {
+  "tcgId": "sv3-34",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "34",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Headbutt",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Surprise Attack",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:2hrk630u1qfGjGdo": {
+  "tcgId": "sv8pt5-15",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "15",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Headbutt",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:2jqX3F2b6TreKZHy": {
+  "tcgId": "sv4pt5-63",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "63",
+  "hp": 130,
+  "from": "Maschiff",
+  "abilities": [
+   "Intimidating Howl"
+  ],
+  "attacks": [
+   {
+    "n": "Wild Tackle",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:2lBVKxJe6VAvdYHV": {
+  "tcgId": "sv6pt5-9",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Future"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "9",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Suction",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Anachronism Repulsor",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:2ljFsYaYU7ifoIdt": {
+  "tcgId": "sv3pt5-109",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "109",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Suspicious Gas",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:2s7AhLaS0lvdXZ1M": {
+  "tcgId": "sv3pt5-82",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "82",
+  "hp": 90,
+  "from": "Magnemite",
+  "attacks": [
+   {
+    "n": "Junk Magnet",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Head Bolt",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:2tV0nE6YYDagUy3j": {
+  "tcgId": "sv3-29",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "29",
+  "hp": 120,
+  "from": "Vulpix",
+  "attacks": [
+   {
+    "n": "Will-O-Wisp",
+    "c": [
+     "Fire"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Nine-Tailed Dance",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:3H8VGtMrY5W2qTWu": {
+  "tcgId": "sv3pt5-100",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "100",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Tumbling Attack",
+    "c": [
+     "Lightning"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:3JmtJzYXrsXXycrS": {
+  "tcgId": "sv4pt5-67",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "67",
+  "hp": 130,
+  "from": "Gimmighoul",
+  "attacks": [
+   {
+    "n": "Lavish Hospitality",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Scintillating Surfing",
+    "c": [
+     "Metal",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80×"
+   }
+  ]
+ },
+ "rc:3PIPBx7IlQv7voOT": {
+  "tcgId": "sv3pt5-75",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "75",
+  "hp": 110,
+  "from": "Geodude",
+  "attacks": [
+   {
+    "n": "Rock Cannon",
+    "c": [
+     "Fighting"
+    ],
+    "d": "40×"
+   },
+   {
+    "n": "Heavy Impact",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:3TvKtVULlZ5D8ozu": {
+  "tcgId": "sv3pt5-155",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "155"
+ },
+ "rc:3daeEE8TAn0y5f8I": {
+  "tcgId": "sv3pt5-123",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "123",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Helpful Slash",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Slicing Blade",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:3xXnHXWisa8m4AEi": {
+  "tcgId": "sv3-46",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "46",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Water"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:4AvJlh4MKmHZqPYw": {
+  "tcgId": "sv8pt5-44",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "44",
+  "hp": 110,
+  "abilities": [
+   "Adrena-Brain"
+  ],
+  "attacks": [
+   {
+    "n": "Mind Bend",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:4QjA8pFqz0v5Btqr": {
+  "tcgId": "sv3pt5-25",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "25",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Charge",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pika Punch",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:4S6fMz7BzMDUnnuG": {
+  "tcgId": "sv4pt5-91",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "91"
+ },
+ "rc:4iS2JMeq3jf6B9Ll": {
+  "tcgId": "sv8pt5-93",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "93"
+ },
+ "rc:4okMY8sYsgK0Mt0v": {
+  "tcgId": "sv4pt5-33",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "33",
+  "hp": 90,
+  "from": "Woobat",
+  "attacks": [
+   {
+    "n": "Attraction Wave",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:4s6ZISIdJVaAwbFf": {
+  "tcgId": "sv3pt5-176",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "176",
+  "hp": 90,
+  "from": "Poliwag",
+  "attacks": [
+   {
+    "n": "Wave Splash",
+    "c": [
+     "Water"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Frog Hop",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:4zL1onTctjgI785f": {
+  "tcgId": "sv3pt5-70",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "70",
+  "hp": 90,
+  "from": "Bellsprout",
+  "attacks": [
+   {
+    "n": "Cut",
+    "c": [
+     "Grass"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Spray Fluid",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:5J4gYSzPZc3VVGOF": {
+  "tcgId": "sv3-90",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "90",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Splash",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Ram",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:65KhATFEhdlNHmME": {
+  "tcgId": "sv3pt5-143",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "143",
+  "hp": 150,
+  "abilities": [
+   "Voraciousness"
+  ],
+  "attacks": [
+   {
+    "n": "Thudding Press",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:6Fz8BOZvpWQeVVyB": {
+  "tcgId": "sv8pt5-18",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "18",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Water Gun",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Tail Whap",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:6K0N5I6KvzCNkqUu": {
+  "tcgId": "sv4pt5-51",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "51",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Feint",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:6NEWg5JyfyMU9xdg": {
+  "tcgId": "sv3pt5-20",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "20",
+  "hp": 70,
+  "from": "Rattata",
+  "attacks": [
+   {
+    "n": "Second Bite",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:6ZyZmj7ixXDbV8zI": {
+  "tcgId": "sv3-54",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "54",
+  "hp": 150,
+  "from": "Cubchoo",
+  "attacks": [
+   {
+    "n": "Icicle Punch",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Frost Purge",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless"
+    ],
+    "d": "170"
+   }
+  ]
+ },
+ "rc:6oAYt1XwS5ghz42p": {
+  "tcgId": "sv3pt5-83",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "83",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Package Deal",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Leek Clobber",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:7FV3knJPWfMNeeWQ": {
+  "tcgId": "sv8pt5-122",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "122"
+ },
+ "rc:7I6WdjanjlW8LtF5": {
+  "tcgId": "sv3-56",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "56",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Try Bouncing",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:7XF7wqcXNaFulp3a": {
+  "tcgId": "sv3pt5-106",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "106",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Twister Kick",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Low Kick",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:7cwhykGvqZCRgUAv": {
+  "tcgId": "sv4pt5-224",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "224",
+  "hp": 90,
+  "from": "Wiglett",
+  "attacks": [
+   {
+    "n": "Headbutt",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Undersea Tunnel",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:7rLIc2F5TbVOqZQv": {
+  "tcgId": "sv8pt5-37",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "37",
+  "hp": 160,
+  "from": "Dusclops",
+  "abilities": [
+   "Cursed Blast"
+  ],
+  "attacks": [
+   {
+    "n": "Shadow Bind",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:7yPF4y4uOeou3Ve2": {
+  "tcgId": "sv3pt5-59",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "59",
+  "hp": 150,
+  "from": "Growlithe",
+  "attacks": [
+   {
+    "n": "Torrid Torrent",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Dynamite Fang",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "240"
+   }
+  ]
+ },
+ "rc:82kWmjSGTR1jzlN8": {
+  "tcgId": "sv8pt5-125",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "125"
+ },
+ "rc:88AnOkUlROH9vFjI": {
+  "tcgId": "sv4pt5-17",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "17",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Collect",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Beat",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:8BZtlFl5cmCN1WvY": {
+  "tcgId": "sv3-20",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "20",
+  "hp": 80,
+  "from": "Smoliv",
+  "attacks": [
+   {
+    "n": "Sunny Wind",
+    "c": [
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:8EzwfdyVgRe6ncDg": {
+  "tcgId": "sv3pt5-32",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "32",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Horn Attack",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:8fFSj3ns60EhrsGr": {
+  "tcgId": "sv3-60",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "60",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Valiant Evolution",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Razor Fin",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:8fN3tpEtkRvpXj78": {
+  "tcgId": "sv4pt5-64",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "64",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Rev",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Headbutt",
+    "c": [
+     "Metal",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:8pfhJbybNZkkAVeh": {
+  "tcgId": "sv8pt5-86",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "86",
+  "hp": 160,
+  "attacks": [
+   {
+    "n": "Jewel Breaker",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
+ "rc:98TfqN4cKtAM650h": {
+  "tcgId": "sv8pt5-119",
+  "super": "Trainer",
+  "sub": [
+   "Item",
+   "ACE SPEC"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "119"
+ },
+ "rc:99W26cThOarTHUUR": {
+  "tcgId": "sv4pt5-75",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "75",
+  "hp": 160,
+  "abilities": [
+   "Squawk and Seize"
+  ],
+  "attacks": [
+   {
+    "n": "Motivate",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9DASjFZoYy5C1pzz": {
+  "tcgId": "sv3pt5-55",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "55",
+  "hp": 110,
+  "from": "Psyduck",
+  "attacks": [
+   {
+    "n": "Aquatic Rescue",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Super Splash",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:9EqzQ6EAt8aU2kS5": {
+  "tcgId": "sv3-27",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "27",
+  "hp": 90,
+  "from": "Charmander",
+  "attacks": [
+   {
+    "n": "Heat Tackle",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:9IcuZFZpNaEWfiHK": {
+  "tcgId": "sv3pt5-69",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "69",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Cut",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Bind Down",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9MhUNxlPIgXLfJxs": {
+  "tcgId": "sv6pt5-59",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "59"
+ },
+ "rc:9gg32iTJwufB9foc": {
+  "tcgId": "sv3-79",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "79",
+  "hp": 220,
+  "attacks": [
+   {
+    "n": "Rapid Draw",
+    "c": [
+     "Lightning"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Techno Turbo",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Lightning"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:9jyqpc1YIi3Echp4": {
+  "tcgId": "sv3-63",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "63",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Ram",
+    "c": [
+     "Lightning"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Speed Ball",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9kJiiuKsIU66HpLu": {
+  "tcgId": "sv3pt5-118",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "118",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Triple Strike",
+    "c": [
+     "Water"
+    ],
+    "d": "10×"
+   },
+   {
+    "n": "Sprinkle Water",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9oEcpdxEevTcaR4V": {
+  "tcgId": "sv3-31",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "31",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Hot Magma",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9opZuEnNKIdCf27X": {
+  "tcgId": "sv3pt5-130",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "130",
+  "hp": 190,
+  "from": "Magikarp",
+  "abilities": [
+   "Untamed One"
+  ],
+  "attacks": [
+   {
+    "n": "Hyper Beam",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
+   }
+  ]
+ },
+ "rc:9s1UlgnSBNpO0Iko": {
+  "tcgId": "sv6pt5-3",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "3",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Add On",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Leafage",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:9u1ToSprFDgwZ7o9": {
+  "tcgId": "sv3-47",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "47",
+  "hp": 120,
+  "from": "Carvanha",
+  "attacks": [
+   {
+    "n": "Aqua Impact",
+    "c": [
+     "Water"
+    ],
+    "d": "10+"
+   },
+   {
+    "n": "Jet Headbutt",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:A80gtCeiOJYdZlZW": {
+  "tcgId": "sv3pt5-141",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "141",
+  "hp": 160,
+  "from": "Kabuto",
+  "abilities": [
+   "Ancient Way"
+  ],
+  "attacks": [
+   {
+    "n": "Draining Blade",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:ABJj9SRNSJOP8aRw": {
+  "tcgId": "sv4pt5-9",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "9",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Collect",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Steady Firebreathing",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:ACltT1M6xmEJ9UKK": {
+  "tcgId": "sv3pt5-189",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "189",
+  "hp": 330,
+  "from": "Graveler",
+  "attacks": [
+   {
+    "n": "Dynamic Roll",
+    "c": [
+     "Fighting"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Rock Blaster",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:ARJFkt2ePmbHT3KO": {
+  "tcgId": "sv3-81",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "81",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Slap Slap",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:AYFU9vrhh86ZBMSZ": {
+  "tcgId": "sv4pt5-214",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "Tera",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "214",
+  "hp": 260,
+  "from": "Flittle",
+  "abilities": [
+   "Dazzling Gaze"
+  ],
+  "attacks": [
+   {
+    "n": "Psy Ball",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:AytIOTW8xCB0trqs": {
+  "tcgId": "sv4pt5-73",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "73",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Collect",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Gentle Slap",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:B5wpO92V3KEk09L8": {
+  "tcgId": "sv4pt5-28",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "28",
+  "hp": 90,
+  "from": "Ralts",
+  "attacks": [
+   {
+    "n": "Magical Shot",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Psychic",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "60+"
+   }
+  ]
+ },
+ "rc:BI3x6JAO9MWddyue": {
+  "tcgId": "sv8pt5-89",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "89",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Rising Tackle",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:BNYxWLB6HeN3Ed39": {
+  "tcgId": "sv8pt5-85",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "85",
+  "hp": 70,
+  "abilities": [
+   "Fan Call"
+  ],
+  "attacks": [
+   {
+    "n": "Assault Landing",
+    "c": [
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:BUEV771cnRsb9Vds": {
+  "tcgId": "sv8pt5-35",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "35",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Come and Get You",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Mumble",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:BdrYxTNKW1WqvCNC": {
+  "tcgId": "sv3-88",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "88",
+  "hp": 130,
+  "from": "Snubbull",
+  "attacks": [
+   {
+    "n": "Confront",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Wild Tackle",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:BsMpMgnegowvD21S": {
+  "tcgId": "sv8pt5-70",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "70",
+  "hp": 180,
+  "from": "Duraludon",
+  "abilities": [
+   "Metal Bridge"
+  ],
+  "attacks": [
+   {
+    "n": "Iron Blaster",
+    "c": [
+     "Metal",
+     "Metal",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:C2gEFw4KR3deV9vz": {
+  "tcgId": "sv4pt5-15",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "15",
+  "hp": 130,
+  "from": "Charcadet",
+  "abilities": [
+   "Fire Off"
+  ],
+  "attacks": [
+   {
+    "n": "Flame Cannon",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:CASBSBV7dOcLpovS": {
+  "tcgId": "sv3-23",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "23",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Reckless Charge",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:CKPyRoizhrKHe3TW": {
+  "tcgId": "sv3-77",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "77",
+  "hp": 130,
+  "from": "Tadbulb",
+  "attacks": [
+   {
+    "n": "Electrobullet",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:CWLamXXyRGhjFmtk": {
+  "tcgId": "sv8pt5-46",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Future"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "46",
+  "hp": 140,
+  "attacks": [
+   {
+    "n": "Adjusted Horn",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "170"
+   }
+  ]
+ },
+ "rc:ConhAWSwwl9BKGtZ": {
+  "tcgId": "sv3pt5-65",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "65",
+  "hp": 310,
+  "from": "Kadabra",
+  "attacks": [
+   {
+    "n": "Mind Jack",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   },
+   {
+    "n": "Dimensional Hand",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:D3h1wUKpcEYa8Xwi": {
+  "tcgId": "sv3pt5-140",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "140",
+  "hp": 90,
+  "from": "Antique Dome Fossil",
+  "attacks": [
+   {
+    "n": "Double Scratch",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "70×"
+   }
+  ]
+ },
+ "rc:D4ijkYkI2OOOUteW": {
+  "tcgId": "sv3pt5-85",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "85",
+  "hp": 100,
+  "from": "Doduo",
+  "abilities": [
+   "Zooming Draw"
+  ],
+  "attacks": [
+   {
+    "n": "Ballistic Beak",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:D7kJNJeZqXeofa87": {
+  "tcgId": "sv8pt5-55",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Ancient"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "55",
+  "hp": 140,
+  "attacks": [
+   {
+    "n": "Land Collapse",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Giant Tusk",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:DUNNYZqTO4VqVpYy": {
+  "tcgId": "sv3pt5-88",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "88",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Gummy Press",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:E2enATCR0wzGFnOB": {
+  "tcgId": "sv3pt5-46",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "46",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Stampede",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Spore Ball",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:E64Moq1RM5sRIPwv": {
+  "tcgId": "sv3-6",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "6",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Lunge",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:EF1q6GDfEX86HfI7": {
+  "tcgId": "sv8pt5-62",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "62",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Playful Kick",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:EdztnhiMG2etXBZC": {
+  "tcgId": "sv6pt5-26",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Ancient"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "26",
+  "hp": 140,
+  "attacks": [
+   {
+    "n": "Iron Smasher",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Smashing Wing",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:EmOWz4FoUhiFjLcD": {
+  "tcgId": "sv8pt5-83",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "83",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Smash Kick",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:EmjVLvqFkhzCJ9RD": {
+  "tcgId": "sv3-45",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "45",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Hail",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Freezing Wind",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:EpsIX5hZl0ofvrlP": {
+  "tcgId": "sv8pt5-57",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "57",
+  "hp": 130,
+  "abilities": [
+   "Adrena-Power"
+  ],
+  "attacks": [
+   {
+    "n": "Good Punch",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:Euwk20XLXQPQsbVe": {
+  "tcgId": "sv8pt5-63",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "63",
+  "hp": 120,
+  "from": "Houndour",
+  "attacks": [
+   {
+    "n": "Call to Muster",
+    "c": [
+     "Darkness"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pitch-Black Fangs",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:F18GdcebOZa7hd3Z": {
+  "tcgId": "sv3pt5-150",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "150",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Reflective Barrier",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Psyslash",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:FCSDaECeMXI47VqC": {
+  "tcgId": "sv3pt5-158",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "158"
+ },
+ "rc:FTv4iMwm6PIYuIiT": {
+  "tcgId": "sv8pt5-130",
+  "super": "Trainer",
+  "sub": [
+   "Item",
+   "Future"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "130"
+ },
+ "rc:FW0qoxUHVl0KLQhN": {
+  "tcgId": "sv3pt5-139",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "139",
+  "hp": 150,
+  "from": "Omanyte",
+  "abilities": [
+   "Primordial Tentacles"
+  ],
+  "attacks": [
+   {
+    "n": "Aqua Split",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:FZUYyS8dul1AvF0f": {
+  "tcgId": "sv3pt5-87",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "87",
+  "hp": 130,
+  "from": "Seel",
+  "attacks": [
+   {
+    "n": "Dual Splash",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Aurora Beam",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:Fc0OobrKLbQNnW5U": {
+  "tcgId": "sv3pt5-113",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "113",
+  "hp": 110,
+  "abilities": [
+   "Lucky Bonus"
+  ],
+  "attacks": [
+   {
+    "n": "Gentle Slap",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:G1I8zCrU9zlxWIj1": {
+  "tcgId": "sv3pt5-105",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "105",
+  "hp": 120,
+  "from": "Cubone",
+  "attacks": [
+   {
+    "n": "Bone Throw",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Boundless Power",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:GAEP1d17u6XTtpiC": {
+  "tcgId": "sv3pt5-119",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "119",
+  "hp": 110,
+  "from": "Goldeen",
+  "attacks": [
+   {
+    "n": "Swim Freely",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Aqua Horn",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60+"
+   }
+  ]
+ },
+ "rc:GEjZSuQzxasJS0F7": {
+  "tcgId": "sv3pt5-172",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "172",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Leaf Munch",
+    "c": [
+     "Grass"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:GHl4BF9fFbbomcm8": {
+  "tcgId": "sv8pt5-128",
+  "super": "Trainer",
+  "sub": [
+   "Item",
+   "ACE SPEC"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "128"
+ },
+ "rc:GIxrd0JRzmvfvEqV": {
+  "tcgId": "sv4pt5-11",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "11",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Heat Blast",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:GPPqqpJXGAywWeje": {
+  "tcgId": "sv3-16",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "16",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Stampede",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Reckless Charge",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:GQZNmUHxEK1VuVQf": {
+  "tcgId": "sv4pt5-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "1",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rollout",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:GQrjRgl82PrlPhOC": {
+  "tcgId": "sv8pt5-87",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "87",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Reflect Energy",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:GUg3NsmAFYSjbrAP": {
+  "tcgId": "sv8pt5-74",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "74",
+  "hp": 50,
+  "abilities": [
+   "Boosted Evolution"
+  ],
+  "attacks": [
+   {
+    "n": "Reckless Charge",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:HAnmFuZ4qkVH5Xzi": {
+  "tcgId": "sv8pt5-43",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Ancient"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "43",
+  "hp": 90,
+  "abilities": [
+   "Midnight Fluttering"
+  ],
+  "attacks": [
+   {
+    "n": "Hex Hurl",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:HICcHRIWdEKNSb5v": {
+  "tcgId": "sv3pt5-153",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "153",
+  "hp": 60,
+  "abilities": [
+   "Helical Swell"
+  ]
+ },
+ "rc:HQKg4RtnpgHfYPer": {
+  "tcgId": "sv8pt5-71",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "71",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Petty Grudge",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Bite",
+    "c": [
+     "Fire",
+     "Psychic"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:HYg4V25waqirEmk4": {
+  "tcgId": "sv8pt5-33",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "33",
+  "hp": 110,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Psychic Assault",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30+"
+   },
+   {
+    "n": "Psy Bolt",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:HqoLC6QpkB30fgJL": {
+  "tcgId": "sv4pt5-142",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "142",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Light Punch",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Zap Kick",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:HraybjtrOv75HOwR": {
+  "tcgId": "sv3-215",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex",
+   "Tera"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "215",
+  "hp": 330,
+  "from": "Charmeleon",
+  "abilities": [
+   "Infernal Reign"
+  ],
+  "attacks": [
+   {
+    "n": "Burning Darkness",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "180+"
+   }
+  ]
+ },
+ "rc:HwEtMELriZshIN7O": {
+  "tcgId": "sv8pt5-77",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "77",
+  "hp": 80,
+  "abilities": [
+   "Insomnia"
+  ],
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:HxGLnYdoEm19SPzj": {
+  "tcgId": "sv3pt5-132",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "132",
+  "hp": 60,
+  "abilities": [
+   "Transformative Start"
+  ],
+  "attacks": [
+   {
+    "n": "Splup",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:IQ0teR1m7UPsNpFa": {
+  "tcgId": "sv3pt5-142",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "142",
+  "hp": 130,
+  "from": "Antique Old Amber",
+  "attacks": [
+   {
+    "n": "Glide",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Devolution Ray",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:IQGZaohhJl7KVPGS": {
+  "tcgId": "sv3pt5-148",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "148",
+  "hp": 100,
+  "from": "Dratini",
+  "attacks": [
+   {
+    "n": "Beat",
+    "c": [
+     "Water"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Aqua Slash",
+    "c": [
+     "Water",
+     "Lightning"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:IWvpfURKDWzNDwJg": {
+  "tcgId": "sv8pt5-30",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "Tera",
+   "ex"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "30",
+  "hp": 260,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Flashing Spear",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "60+"
+   },
+   {
+    "n": "Dravite",
+    "c": [
+     "Fire",
+     "Water",
+     "Lightning"
+    ],
+    "d": "280"
+   }
+  ]
+ },
+ "rc:IZd9v9of3mstxkCt": {
+  "tcgId": "sv6pt5-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "1",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Splashing Dodge",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:IgDhkQgRA8IZwwVl": {
+  "tcgId": "sv3pt5-37",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "37",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Super Singe",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:Iu11rYgpfP0P9pO3": {
+  "tcgId": "sv8pt5-22",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "22",
+  "hp": 130,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Spiral Drain",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Fighting Whirlpool",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:IuN2bK7YWSL4Zivi": {
+  "tcgId": "sv8pt5-95",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "95"
+ },
+ "rc:J012NCUwB9Chbvqi": {
+  "tcgId": "sv8pt5-90",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "90",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Flap",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:J5IiaS9jg2OBw5P6": {
+  "tcgId": "sv3-11",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "11",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Branch Poke",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:JBHwijm1sqUaDW9i": {
+  "tcgId": "sv3-69",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "69",
+  "hp": 160,
+  "from": "Eelektrik",
+  "attacks": [
+   {
+    "n": "Suction Shock",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Head Bolt",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:JE5xEBSb6gyhIQBY": {
+  "tcgId": "sv4pt5-55",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "55",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Allure",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Will-O-Wisp",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:Jv0FWrm20uwiNBKk": {
+  "tcgId": "sv8pt5-96",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "96"
+ },
+ "rc:JxBi3yV57pJBhDm2": {
+  "tcgId": "sv8pt5-104",
+  "super": "Trainer",
+  "sub": [
+   "Supporter",
+   "Future"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "104"
+ },
+ "rc:KaBs71b975dD7EGA": {
+  "tcgId": "sv3-74",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "74",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Energize",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Lightning Ball",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:KeBg5tEGvCBxCABl": {
+  "tcgId": "sv3pt5-160",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "160"
+ },
+ "rc:KkiMewjFvS1IQNHO": {
+  "tcgId": "sv4pt5-48",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "48",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Strength",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Rolling Tackle",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:Kml7SKWYt9EzmCWr": {
+  "tcgId": "sv3-75",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "75",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Thunder Jolt",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:L2bneOyH72K0ZwNw": {
+  "tcgId": "sv3pt5-99",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "99",
+  "hp": 140,
+  "from": "Krabby",
+  "attacks": [
+   {
+    "n": "Hammer Arm",
+    "c": [
+     "Water",
+     "Water",
+     "Water"
+    ],
+    "d": "90"
+   },
+   {
+    "n": "Guillotine",
+    "c": [
+     "Water",
+     "Water",
+     "Water",
+     "Water"
+    ],
+    "d": "220"
+   }
+  ]
+ },
+ "rc:L3GMB1qqAL0DITTm": {
+  "tcgId": "sv4pt5-88",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "88"
+ },
+ "rc:L5CurH1CKpHEPnwU": {
+  "tcgId": "sv8pt5-114",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "114"
+ },
+ "rc:LP4Yy23mJnvBDQxd": {
+  "tcgId": "sv3pt5-39",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "39",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Lead",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Stompy Stomp",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20×"
+   }
+  ]
+ },
+ "rc:LUyWEmtNjL5jqfJ7": {
+  "tcgId": "sv4pt5-21",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "21",
+  "hp": 120,
+  "from": "Chinchou",
+  "attacks": [
+   {
+    "n": "Lightning Ball",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Aqua Spark",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
+ "rc:LgyKlmKG9lD00yFj": {
+  "tcgId": "sv8pt5-47",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "47",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Headbutt",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:LuTr0HQC7anTx3Fj": {
+  "tcgId": "sv4pt5-74",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "74",
+  "hp": 70,
+  "from": "Tandemaus",
+  "attacks": [
+   {
+    "n": "Slap",
+    "c": [
+     "Colorless"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Family Attack",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70×"
+   }
+  ]
+ },
+ "rc:LuYNgvquFAeOBtcB": {
+  "tcgId": "sv3pt5-137",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "137",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Conversion 4",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:M5j2UHUoKNalAu5T": {
+  "tcgId": "sv3-21",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "21",
+  "hp": 140,
+  "from": "Dolliv",
+  "attacks": [
+   {
+    "n": "Healing Fruit",
+    "c": [
+     "Grass"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Oil Shot",
+    "c": [
+     "Grass"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:MBPgB37xR0f21oG0": {
+  "tcgId": "sv3-38",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "38",
+  "hp": 150,
+  "from": "Lampent",
+  "attacks": [
+   {
+    "n": "Combustion Chain",
+    "c": [
+     "Fire"
+    ],
+    "d": "10+"
+   },
+   {
+    "n": "Heat Blast",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:MHnH35XhbfguQxfH": {
+  "tcgId": "sv4pt5-59",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "59",
+  "hp": 280,
+  "from": "Paldean Wooper",
+  "abilities": [
+   "Toxic Wetland"
+  ],
+  "attacks": [
+   {
+    "n": "Needle Bone",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
+   }
+  ]
+ },
+ "rc:MPxzj6HU2TWv89SX": {
+  "tcgId": "sv3-19",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "19",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Absorb",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:MQDtwNPDUy1syEsc": {
+  "tcgId": "sv3pt5-116",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "116",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Rain Splash",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Sharp Fin",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:Ma4UgbPsyRWIfYa0": {
+  "tcgId": "sv8pt5-138",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "138"
+ },
+ "rc:MuKFlq7EuHAxLr1T": {
+  "tcgId": "sv8pt5-3",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "3",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Slash",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:N08Taag1WkrYU5gE": {
+  "tcgId": "sv3pt5-27",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "27",
+  "hp": 60,
+  "abilities": [
+   "Sand Screen"
+  ],
+  "attacks": [
+   {
+    "n": "Scratch",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:N3Wq9Zm2rjSDPCAd": {
+  "tcgId": "sv3-14",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "14",
+  "hp": 90,
+  "from": "Rowlet",
+  "attacks": [
+   {
+    "n": "Shoot Through",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:N76auKNOCeLhpIfv": {
+  "tcgId": "sv3-80",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "80",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Grasping Draw",
+    "c": [],
+    "d": ""
+   }
+  ]
+ },
+ "rc:NGcYrc0OYBKP0OeW": {
+  "tcgId": "sv3pt5-104",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "104",
+  "hp": 70,
+  "abilities": [
+   "Cheering Bone"
+  ],
+  "attacks": [
+   {
+    "n": "Hit Twice",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
+ "rc:NKPIWgZe2k8SUkGS": {
+  "tcgId": "sv3pt5-48",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "48",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gnaw",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Beam",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:NcPWjlQHrG0p2bVO": {
+  "tcgId": "sv8pt5-66",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "66",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Hammer In",
+    "c": [
+     "Metal",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:NdCSLtnfeoDvi213": {
+  "tcgId": "sv4pt5-77",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "77"
+ },
+ "rc:Ne8pCF3liP8YecyD": {
+  "tcgId": "sv3-37",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "37",
+  "hp": 80,
+  "from": "Litwick",
+  "attacks": [
+   {
+    "n": "Flare",
+    "c": [
+     "Fire"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Alluring Fireball",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:O7aFeyayInFCOf3Q": {
+  "tcgId": "sv3pt5-152",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "152",
+  "hp": 60,
+  "abilities": [
+   "Domed Armor"
+  ]
+ },
+ "rc:OFAXsDIYPfNM0Kjn": {
+  "tcgId": "sv8pt5-29",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "29",
+  "hp": 110,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Linear Attack",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Fighting Lightning",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:OQg8ZnY9HmJRtGj5": {
+  "tcgId": "sv3-84",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "84",
+  "hp": 90,
+  "from": "Togepi",
+  "attacks": [
+   {
+    "n": "Shared Peace",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Speed Dive",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:OUmiZNi6sW6Qs93b": {
+  "tcgId": "sv3-78",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "78",
+  "hp": 140,
+  "from": "Tadbulb",
+  "abilities": [
+   "Insulator"
+  ],
+  "attacks": [
+   {
+    "n": "Thunderous Edge",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:OkzRfYQZ0WbuHlBt": {
+  "tcgId": "sv3pt5-31",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "31",
+  "hp": 170,
+  "from": "Nidorina",
+  "attacks": [
+   {
+    "n": "Queen Press",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "90"
+   },
+   {
+    "n": "Lunge Out",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:OlPWcUqN56DluiMV": {
+  "tcgId": "base4-76",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": null,
+  "expanded": false,
+  "code": "B2",
+  "no": "76",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Horn Attack",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:OrUgHqfBQOtsFPuo": {
+  "tcgId": "sv3pt5-47",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "47",
+  "hp": 120,
+  "from": "Paras",
+  "attacks": [
+   {
+    "n": "Spread Filaments",
+    "c": [
+     "Grass"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Claw Slash",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:P3DCPOZhcniJEZab": {
+  "tcgId": "sv3pt5-41",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "41",
+  "hp": 40,
+  "abilities": [
+   "Revealing Echo"
+  ],
+  "attacks": [
+   {
+    "n": "Bite",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:P6ZJQYgCEPSOSFDB": {
+  "tcgId": "sv3pt5-134",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "134",
+  "hp": 130,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Spiral Drain",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Fighting Whirlpool",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:PByXenkBw8lu6wYv": {
+  "tcgId": "sv4pt5-242",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "242",
+  "hp": 220,
+  "abilities": [
+   "Shivery Chill"
+  ],
+  "attacks": [
+   {
+    "n": "Hail Blade",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "60×"
+   }
+  ]
+ },
+ "rc:PCJRbMxIOP6dnxIV": {
+  "tcgId": "sv3pt5-13",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "13",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Ram",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Bug Bite",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:PGSoZbpxw3HuoeqH": {
+  "tcgId": "sv4pt5-81",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "81"
+ },
+ "rc:PL48eWE2ge18E4wt": {
+  "tcgId": "sv8pt5-103",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "103"
+ },
+ "rc:PoMUSm3mgG3XDkIp": {
+  "tcgId": "sv8pt5-94",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "94"
+ },
+ "rc:PpF5jbCYbGpRThnp": {
+  "tcgId": "sv3-82",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "82",
+  "hp": 260,
+  "from": "Clefairy",
+  "abilities": [
+   "Lunar Zone"
+  ],
+  "attacks": [
+   {
+    "n": "Wondrous Moon",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "170"
+   }
+  ]
+ },
+ "rc:PpPEn0yIeCbO1Ksk": {
+  "tcgId": "sv3pt5-146",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "146",
+  "hp": 120,
+  "abilities": [
+   "Flare Float"
+  ],
+  "attacks": [
+   {
+    "n": "Blazing Flight",
+    "c": [
+     "Fire",
+     "Fire",
+     "Fire"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:Q7XUTjkkJ00D9MJ4": {
+  "tcgId": "sv3pt5-26",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "26",
+  "hp": 120,
+  "from": "Pikachu",
+  "abilities": [
+   "Electrical Grounding"
+  ],
+  "attacks": [
+   {
+    "n": "Thunder",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:QBTR9yDwmWHk8Xr7": {
+  "tcgId": "sv3-86",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "86",
+  "hp": 110,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Psychic Assault",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30+"
+   },
+   {
+    "n": "Psy Bolt",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:QGWPO6pz42uL2xIy": {
+  "tcgId": "sv3-8",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "8",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Share",
+    "c": [
+     "Grass"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Ram",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:QMaqOEQEhtMiO4I7": {
+  "tcgId": "sv4pt5-39",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "39",
+  "hp": 90,
+  "from": "Fidough",
+  "abilities": [
+   "Well-Baked Body"
+  ],
+  "attacks": [
+   {
+    "n": "Headbutt Bounce",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:QWFzZZOAApq92rK7": {
+  "tcgId": "sv3pt5-72",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "72",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Tingle",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Watering",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:QZXkrMeYLLQ3cRAh": {
+  "tcgId": "sv8pt5-45",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "45",
+  "hp": 120,
+  "abilities": [
+   "Adrena-Pheromone"
+  ],
+  "attacks": [
+   {
+    "n": "Energy Feather",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:Qe6LHqcyETZ6M3h7": {
+  "tcgId": "sv3-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "1",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Feelin' Fine",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Stampede",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:QkCmINulWeshzmC3": {
+  "tcgId": "sv3pt5-108",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "108",
+  "hp": 100,
+  "attacks": [
+   {
+    "n": "Tongue-Tied",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:QmYZBUU61Rl1cCHs": {
+  "tcgId": "sv4pt5-83",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "83"
+ },
+ "rc:QnkK5qiZCPTSoNKU": {
+  "tcgId": "sv4pt5-43",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "43",
+  "hp": 140,
+  "from": "Greavard",
+  "attacks": [
+   {
+    "n": "Last Respects",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
+ "rc:Qw68dGrH4zupoOY3": {
+  "tcgId": "sv3pt5-56",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "56",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Thrash",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20+"
+   }
+  ]
+ },
+ "rc:QxjI1Wd2cnkUycd6": {
+  "tcgId": "sv3-43",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "43",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Light Punch",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:RVslicqTJcyPjFmB": {
+  "tcgId": "sv3pt5-120",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "120",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Swift",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:RaCFO7DDvaCVuyCg": {
+  "tcgId": "sv3pt5-147",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "147",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Beat",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Draconic Whip",
+    "c": [
+     "Water",
+     "Lightning"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:RjpndPsAupIKrgDt": {
+  "tcgId": "sv4pt5-72",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "72",
+  "hp": 130,
+  "from": "Lechonk",
+  "attacks": [
+   {
+    "n": "Finest Selection",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Perfume Press",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:SAPTkyjxMYrIpwJS": {
+  "tcgId": "sv3pt5-34",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "34",
+  "hp": 170,
+  "from": "Nidorino",
+  "abilities": [
+   "Enthusiastic King"
+  ],
+  "attacks": [
+   {
+    "n": "Venomous Impact",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "190"
+   }
+  ]
+ },
+ "rc:SBaqvS0tuiEmlSOv": {
+  "tcgId": "sv3-76",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "76",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Shake and Discharge",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:SGl4dg9g6YuKPxhi": {
+  "tcgId": "sv3pt5-11",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "11",
+  "hp": 90,
+  "from": "Caterpie",
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Defensive Posture",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:SSe6LS9nbAp9zxoE": {
+  "tcgId": "sv3-3",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "3",
+  "hp": 130,
+  "from": "Gloom",
+  "attacks": [
+   {
+    "n": "Sleep Powder",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Powerful Dance",
+    "c": [
+     "Grass"
+    ],
+    "d": "90×"
+   }
+  ]
+ },
+ "rc:Sjuwq4MmUzRkh1xQ": {
+  "tcgId": "sv3pt5-12",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "12",
+  "hp": 130,
+  "from": "Metapod",
+  "attacks": [
+   {
+    "n": "Whirlwind",
+    "c": [
+     "Grass"
+    ],
+    "d": "60"
+   },
+   {
+    "n": "Bye-Bye Flight",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:Soy7Okvd0elYoF0m": {
+  "tcgId": "sv3-32",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "32",
+  "hp": 140,
+  "from": "Numel",
+  "attacks": [
+   {
+    "n": "Eruption",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "50+"
+   },
+   {
+    "n": "Steaming Stomp",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:TAiTZOlookyUXOgz": {
+  "tcgId": "sv8pt5-4",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "4",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Itchy Pollen",
+    "c": [
+     "Free"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:TOiquzgL8Q7cqwJr": {
+  "tcgId": "sv3pt5-115",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "115",
+  "hp": 230,
+  "attacks": [
+   {
+    "n": "Triple Draw",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Incessant Punching",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100×"
+   }
+  ]
+ },
+ "rc:TRfaSH999DxKMKWV": {
+  "tcgId": "sv3-85",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "85",
+  "hp": 150,
+  "from": "Togetic",
+  "abilities": [
+   "Precious Gift"
+  ],
+  "attacks": [
+   {
+    "n": "Power Cyclone",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "110"
+   }
+  ]
+ },
+ "rc:TWSA3BVQLwcBBrba": {
+  "tcgId": "sv3pt5-74",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "74",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Stiffen",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Knuckle Punch",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:TWgTzO6Et6yKw4fY": {
+  "tcgId": "sv3-72",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "72",
+  "hp": 140,
+  "from": "Toxel",
+  "attacks": [
+   {
+    "n": "Leer",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Loud Mix",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "50+"
+   }
+  ]
+ },
+ "rc:TfRwEg637pZfkoLy": {
+  "tcgId": "sv3pt5-145",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "145",
+  "hp": 200,
+  "abilities": [
+   "Voltaic Float"
+  ],
+  "attacks": [
+   {
+    "n": "Multishot Lightning",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Lightning"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:TvooAddgBMaRNAaq": {
+  "tcgId": "sv8pt5-38",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "38",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Fairy Wind",
+    "c": [
+     "Psychic"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:U2PD4CSn1nLv9top": {
+  "tcgId": "sv3pt5-126",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "126",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Live Coal",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Flare Combo",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
+ "rc:U6Wr48OybbaLYoDT": {
+  "tcgId": "sv3-64",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "64",
+  "hp": 90,
+  "from": "Magnemite",
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Lightning"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Electro Ball",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:UBNKctfyfvk6TtKC": {
+  "tcgId": "sv4pt5-106",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "106",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Increasing Spice",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Playful Kick",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:UF75DKB5mlNt1mSL": {
+  "tcgId": "sv3-61",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "61",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Tail Smack",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:UMlrt8E62C31AT1o": {
+  "tcgId": "sv3pt5-76",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "76",
+  "hp": 330,
+  "from": "Graveler",
+  "attacks": [
+   {
+    "n": "Dynamic Roll",
+    "c": [
+     "Fighting"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Rock Blaster",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:UPizl8y2CcmAi6x2": {
+  "tcgId": "sv8pt5-112",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "112"
+ },
+ "rc:UVs6QC2xbK28gmee": {
+  "tcgId": "sv4pt5-3",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "3",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Double Draw",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pin Missile",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:UiTs5FzBbbOko2i0": {
+  "tcgId": "sv8pt5-53",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "53",
+  "hp": 150,
+  "from": "Hippopotas",
+  "attacks": [
+   {
+    "n": "Sand Spray",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   },
+   {
+    "n": "Land Crush",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:Un62EEEmMTKbeL82": {
+  "tcgId": "sv8pt5-42",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "Ancient"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "42",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Slap",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Roaring Scream",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:Us9XCe66YyGKaLrU": {
+  "tcgId": "sv4pt5-86",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "86"
+ },
+ "rc:UwwfhTn1h34GyjNG": {
+  "tcgId": "sv3-62",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "62",
+  "hp": 150,
+  "from": "Finizen",
+  "attacks": [
+   {
+    "n": "Jet Punch",
+    "c": [
+     "Water"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Justice Kick",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "210"
+   }
+  ]
+ },
+ "rc:V0e9pJ6LqYLvWbl9": {
+  "tcgId": "sv3-39",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "39",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Energy Burner",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:V2K6mq94IiCwaf8X": {
+  "tcgId": "sv3pt5-135",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "135",
+  "hp": 110,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Linear Attack",
+    "c": [
+     "Lightning"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Fighting Lightning",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:V7zVe9HZYehjrvUU": {
+  "tcgId": "sv4pt5-71",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "71",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Whimsy Tackle",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:VPvw5TgTAfTkKnjG": {
+  "tcgId": "sv3-50",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "50",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Screw Tail",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:VcehCMkR4UoQlCkB": {
+  "tcgId": "sv4pt5-36",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "36",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Minor Errand-Running",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Spin Turn",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:VhSJo6VdMG04ZwHb": {
+  "tcgId": "sv3pt5-44",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "44",
+  "hp": 70,
+  "from": "Oddish",
+  "abilities": [
+   "Semi-Blooming Energy"
+  ],
+  "attacks": [
+   {
+    "n": "Drool",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:Vp0iwTk72g4ueWXy": {
+  "tcgId": "sv3-40",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "40",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Flare",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Take Down",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:VtQ52bVYhXPJhQTD": {
+  "tcgId": "sv3pt5-63",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "63",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Psyshot",
+    "c": [
+     "Psychic"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:VvYmojty2fKBkaQa": {
+  "tcgId": "sv4pt5-80",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "80"
+ },
+ "rc:W1qWBquZNVXSjn2s": {
+  "tcgId": "sv4pt5-93",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "93",
+  "hp": 70,
+  "from": "Oddish",
+  "abilities": [
+   "Semi-Blooming Energy"
+  ],
+  "attacks": [
+   {
+    "n": "Drool",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:W7VOVWnRtswu4NLP": {
+  "tcgId": "sv4pt5-35",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "35",
+  "hp": 90,
+  "from": "Cottonee",
+  "attacks": [
+   {
+    "n": "Fairy Wind",
+    "c": [
+     "Psychic"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:W8YEIVwvFkI4iDSn": {
+  "tcgId": "sv6pt5-31",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "31",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Stampede",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Double Scratch",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "20×"
+   }
+  ]
+ },
+ "rc:WGxDxZnsmjzpJ6mw": {
+  "tcgId": "sv3pt5-98",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "98",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Salt Water",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Crabhammer",
+    "c": [
+     "Water",
+     "Water",
+     "Water"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:WHCTKInXEr8MIrEA": {
+  "tcgId": "sv4pt5-23",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "23",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Hypnosis",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Rolling Tackle",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:WW1TgQn3gfuRtDCO": {
+  "tcgId": "sv3pt5-50",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "50",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Headbutt Bounce",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:Wb6WF6R1uSNdELzT": {
+  "tcgId": "sv3pt5-86",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "86",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Chilly",
+    "c": [
+     "Water"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:Wr6yJd2TiPlkfmUj": {
+  "tcgId": "sv3-30",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "30",
+  "hp": 130,
+  "abilities": [
+   "Pressure"
+  ],
+  "attacks": [
+   {
+    "n": "Blaze Ball",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60+"
+   }
+  ]
+ },
+ "rc:WtEcazpVcOktquDh": {
+  "tcgId": "sv3pt5-36",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "36",
+  "hp": 100,
+  "from": "Clefairy",
+  "attacks": [
+   {
+    "n": "Follow Me",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "More Moon",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:Wtnfld5r0sXmNt65": {
+  "tcgId": "sv4pt5-31",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "31",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Mimed Games",
+    "c": [],
+    "d": ""
+   }
+  ]
+ },
+ "rc:WwwLe4Wvyad8nxe1": {
+  "tcgId": "sv8pt5-13",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "13",
+  "hp": 130,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Destructive Flame",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Fighting Blaze",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:X15eo46r7HjjJ2HG": {
+  "tcgId": "sv3pt5-112",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "112",
+  "hp": 120,
+  "from": "Rhyhorn",
+  "attacks": [
+   {
+    "n": "Wrack Down",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Charismatic Drill",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "40+"
+   }
+  ]
+ },
+ "rc:XJf37mxb7ETB5gYQ": {
+  "tcgId": "sv8pt5-72",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "72",
+  "hp": 90,
+  "from": "Dreepy",
+  "abilities": [
+   "Recon Directive"
+  ],
+  "attacks": [
+   {
+    "n": "Dragon Headbutt",
+    "c": [
+     "Fire",
+     "Psychic"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:XK7gCYLHH9WsvEEx": {
+  "tcgId": "sv4pt5-19",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "19",
+  "hp": 120,
+  "from": "Pikachu",
+  "abilities": [
+   "Electrical Grounding"
+  ],
+  "attacks": [
+   {
+    "n": "Thunder",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:XQrmjf4XVldrASGz": {
+  "tcgId": "sv4pt5-20",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "20",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Shine On",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Tiny Charge",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:XZIefTVkdsd4fwWF": {
+  "tcgId": "sv4pt5-4",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "4",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Furious Kicks",
+    "c": [
+     "Grass"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
+ "rc:XZPdgKJTzLy91sqg": {
+  "tcgId": "sv3-4",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "4",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Agility",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Cut",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:XZq7u7JZJ1gNJGbg": {
+  "tcgId": "svp-75",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "SVP",
+  "no": "75",
+  "hp": 70,
+  "abilities": [
+   "Safeguard"
+  ],
+  "attacks": [
+   {
+    "n": "Ghost Eye",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:Xs1JiVnGBU3rSb7B": {
+  "tcgId": "sv4pt5-18",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "18",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Growl",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pika Bolt",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:Xz7gz7VaJbLoMhN7": {
+  "tcgId": "sv3-66",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex",
+   "Tera"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "66",
+  "hp": 340,
+  "from": "Pupitar",
+  "attacks": [
+   {
+    "n": "Mountain Hurl",
+    "c": [
+     "Fighting"
+    ],
+    "d": "120"
+   },
+   {
+    "n": "Lightning Rampage",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "150+"
+   }
+  ]
+ },
+ "rc:Y1conj5CVJWoPwNE": {
+  "tcgId": "svp-51",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "SVP",
+  "no": "51",
+  "hp": 150,
+  "abilities": [
+   "Voraciousness"
+  ],
+  "attacks": [
+   {
+    "n": "Thudding Press",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:Y9p1SN199KRYd13s": {
+  "tcgId": "sv4pt5-82",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "82"
+ },
+ "rc:YJq8CX9WI3aznLzV": {
+  "tcgId": "sv3pt5-5",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "5",
+  "hp": 100,
+  "from": "Charmander",
+  "attacks": [
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Fire Blast",
+    "c": [
+     "Fire",
+     "Fire",
+     "Fire"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:YPmMqyqAMSI3lHP6": {
+  "tcgId": "sv3pt5-129",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "129",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Splashy Splash",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:YTCBm4FeWBi2IK6z": {
+  "tcgId": "sv4pt5-57",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "57",
+  "hp": 130,
+  "from": "Haunter",
+  "abilities": [
+   "Night Gate"
+  ],
+  "attacks": [
+   {
+    "n": "Nightmare",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:YdZdVEGk9U8JLpmi": {
+  "tcgId": "sv3-71",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "71",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Slight Intrusion",
+    "c": [
+     "Lightning"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:Yw9AZm9yT6LzmSe2": {
+  "tcgId": "sv4pt5-89",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "89"
+ },
+ "rc:ZJcrCfc9B5lQqEQd": {
+  "tcgId": "sv3pt5-71",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "71",
+  "hp": 150,
+  "from": "Weepinbell",
+  "attacks": [
+   {
+    "n": "Spit Up",
+    "c": [
+     "Grass"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Slow-Acting Acid",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:ZJtxaEbRR93cA0DL": {
+  "tcgId": "sv4pt5-155",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "155",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gust",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Balloon Blast",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:ZNLFOx6wJRdKbOU2": {
+  "tcgId": "sv8pt5-20",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "20",
+  "hp": 50,
+  "abilities": [
+   "Festival Lead"
+  ],
+  "attacks": [
+   {
+    "n": "Whirlpool",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:ZNmL3paEvvkQfSyg": {
+  "tcgId": "sv3pt5-188",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "188",
+  "hp": 310,
+  "from": "Kadabra",
+  "attacks": [
+   {
+    "n": "Mind Jack",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   },
+   {
+    "n": "Dimensional Hand",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:ZWJdj1Fku8yC1yOZ": {
+  "tcgId": "sv3pt5-2",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "2",
+  "hp": 100,
+  "from": "Bulbasaur",
+  "attacks": [
+   {
+    "n": "Leech Seed",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Vine Whip",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "80"
+   }
+  ]
+ },
+ "rc:Zcl4ttTwg6Dj9To8": {
+  "tcgId": "sv3pt5-133",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "133",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Colorful Friends",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Skip",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:a5yR4Zk4KU2P511J": {
+  "tcgId": "sv3pt5-61",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "61",
+  "hp": 90,
+  "from": "Poliwag",
+  "attacks": [
+   {
+    "n": "Wave Splash",
+    "c": [
+     "Water"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Frog Hop",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:aL2Pqx1gdHaIHqbQ": {
+  "tcgId": "sv4pt5-84",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "84"
+ },
+ "rc:aPSxFCst2jLmBuvq": {
+  "tcgId": "sv4pt5-50",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "50",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Hide",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:aeDomFK5ZHiEmvDb": {
+  "tcgId": "sv3-87",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "87",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Gnaw",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Double-Edge",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:bMwYCQSFGiBq6JGs": {
+  "tcgId": "sv4pt5-42",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "42",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Graveyard Gamboling",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
+ "rc:bgLi2u3bzOJU5E4o": {
+  "tcgId": "sv3pt5-89",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "89",
+  "hp": 150,
+  "from": "Grimer",
+  "attacks": [
+   {
+    "n": "Sticky Jail",
+    "c": [
+     "Darkness"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Sludge Bomb",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:biKddCLWw6sr3SQs": {
+  "tcgId": "sv3pt5-84",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "84",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Reckless Charge",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:bryFGmcd20cZ0l2R": {
+  "tcgId": "sv8pt5-79",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "79",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Gnaw",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Dig",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:c0IXPQAYiRWvIpD8": {
+  "tcgId": "sv4pt5-78",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "78"
+ },
+ "rc:cMyZ1kqbJL3b0Sj8": {
+  "tcgId": "sv8pt5-107",
+  "super": "Trainer",
+  "sub": [
+   "Supporter",
+   "Ancient"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "107"
+ },
+ "rc:cQmN0hPaqPSjwdBz": {
+  "tcgId": "sv4pt5-65",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "65",
+  "hp": 140,
+  "from": "Varoom",
+  "abilities": [
+   "Rumbling Engine"
+  ],
+  "attacks": [
+   {
+    "n": "Knock Away",
+    "c": [
+     "Metal",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:cTqUcM0g3FTVv54I": {
+  "tcgId": "sv3pt5-14",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "14",
+  "hp": 80,
+  "from": "Weedle",
+  "abilities": [
+   "Cocoon Cover"
+  ],
+  "attacks": [
+   {
+    "n": "Zzzt",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:cWVvgUq3Kuhagr0M": {
+  "tcgId": "sv3pt5-117",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "117",
+  "hp": 80,
+  "from": "Horsea",
+  "attacks": [
+   {
+    "n": "Blinding Ink",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:cXFdcrpgVA59rGTY": {
+  "tcgId": "sv3-7",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "7",
+  "hp": 100,
+  "from": "Surskit",
+  "attacks": [
+   {
+    "n": "Panic-Prompting Pattern",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Bug Buzz",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:cuviAqIVOrxzEvt6": {
+  "tcgId": "sv4pt5-26",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "26",
+  "hp": 100,
+  "from": "Natu",
+  "abilities": [
+   "Clairvoyant Sense"
+  ],
+  "attacks": [
+   {
+    "n": "Super Psy Bolt",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80"
+   }
+  ]
+ },
+ "rc:d8UplV8Aw1lyAh19": {
+  "tcgId": "sv3-28",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "28",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Confuse Ray",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:dJzmtEl3NkcfNaje": {
+  "tcgId": "sv3pt5-30",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "30",
+  "hp": 90,
+  "from": "Nidoran ♀",
+  "attacks": [
+   {
+    "n": "Fetch Family",
+    "c": [
+     "Darkness"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:dLpqLXUWaxad4vG8": {
+  "tcgId": "sv6pt5-44",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "44",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Scratch",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Fighting",
+     "Metal"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:dP1KGy5zPiS9nIpQ": {
+  "tcgId": "sv3pt5-161",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "161"
+ },
+ "rc:dbh5XNbI1QZWou1w": {
+  "tcgId": "sv8pt5-9",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "9",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Spray Fluid",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:dcKHbTasRw2qgEhU": {
+  "tcgId": "sv3pt5-51",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "51",
+  "hp": 90,
+  "from": "Diglett",
+  "attacks": [
+   {
+    "n": "Headbutt Bounce",
+    "c": [
+     "Fighting"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Mud Bomb",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "80"
+   }
+  ]
+ },
+ "rc:dgEmW9UtjZ3whL4A": {
+  "tcgId": "sv3-24",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "24",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Double Headbutt",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50×"
+   }
+  ]
+ },
+ "rc:dh5Fz44rSQDX2qOM": {
+  "tcgId": "sv8pt5-19",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "19",
+  "hp": 130,
+  "from": "Slowpoke",
+  "attacks": [
+   {
+    "n": "Wash the Slate Clean",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:diwmqaFCRpuXDnMy": {
+  "tcgId": "sv4pt5-45",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "45",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Monkey Beatdown",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:dmJ1DWG8Wo0qrILk": {
+  "tcgId": "sv3-53",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "53",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Smash Kick",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Trip Over",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "20+"
+   }
+  ]
+ },
+ "rc:e8We1ptGvvGqSGVh": {
+  "tcgId": "sv8pt5-36",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "36",
+  "hp": 90,
+  "from": "Duskull",
+  "abilities": [
+   "Cursed Blast"
+  ],
+  "attacks": [
+   {
+    "n": "Will-O-Wisp",
+    "c": [
+     "Psychic",
+     "Psychic"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:eTxlflZ4XHPCjib1": {
+  "tcgId": "sv8pt5-2",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "2",
+  "hp": 140,
+  "from": "Exeggcute",
+  "attacks": [
+   {
+    "n": "Mega Drain",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Solar Beam",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:ehjdN11g3Rb583Tk": {
+  "tcgId": "sv3-42",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex",
+   "Tera"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "42",
+  "hp": 210,
+  "attacks": [
+   {
+    "n": "Scalding Block",
+    "c": [
+     "Water",
+     "Water",
+     "Water"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:emiWEc2PlqltHvvj": {
+  "tcgId": "sv3pt5-187",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "187",
+  "hp": 250,
+  "from": "Jigglypuff",
+  "abilities": [
+   "Expanding Body"
+  ],
+  "attacks": [
+   {
+    "n": "Friend Tackle",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:epKGWfhPA6XStERr": {
+  "tcgId": "sv3pt5-66",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "66",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Mountain Mashing",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Punch",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:exoigigyWrOEnnnx": {
+  "tcgId": "sv3pt5-33",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "33",
+  "hp": 90,
+  "from": "Nidoran ♂",
+  "attacks": [
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Darkness"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Superpowered Horns",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:f17PkhHs74sAQljo": {
+  "tcgId": "sv3-26",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "26",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Heat Tackle",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:fALEIezRU9YPTYQH": {
+  "tcgId": "sv8pt5-100",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "100"
+ },
+ "rc:fEWWRZFeWwrFnnfK": {
+  "tcgId": "sv4pt5-85",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "85"
+ },
+ "rc:fWbNVK4ghsKjbmMi": {
+  "tcgId": "sv3-59",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "59",
+  "hp": 90,
+  "from": "Wiglett",
+  "attacks": [
+   {
+    "n": "Entwining Entrapment",
+    "c": [
+     "Water"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:fdrDfYAEttU2SRxP": {
+  "tcgId": "sv3pt5-24",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "24",
+  "hp": 270,
+  "from": "Ekans",
+  "attacks": [
+   {
+    "n": "Bind Down",
+    "c": [
+     "Darkness",
+     "Darkness"
+    ],
+    "d": "70"
+   },
+   {
+    "n": "Menacing Fangs",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Darkness"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:fxEIAIXoSUMkJONC": {
+  "tcgId": "sv3pt5-198",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "198",
+  "hp": 340,
+  "from": "Ivysaur",
+  "abilities": [
+   "Tranquil Flower"
+  ],
+  "attacks": [
+   {
+    "n": "Dangerous Toxwhip",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:gC0IWsZju0sJslao": {
+  "tcgId": "sv3pt5-149",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "149",
+  "hp": 180,
+  "from": "Dragonair",
+  "abilities": [
+   "Jet Cruise"
+  ],
+  "attacks": [
+   {
+    "n": "Dragon Pulse",
+    "c": [
+     "Water",
+     "Lightning"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:gCFyFYc9sHN6zgaV": {
+  "tcgId": "sv3-41",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "41",
+  "hp": 140,
+  "from": "Larvesta",
+  "attacks": [
+   {
+    "n": "Flame Cloak",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Heat Blast",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:gHcZW8BGoFFWHi2z": {
+  "tcgId": "sv3-13",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "13",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Razor Wing",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:gW8bvzzB3o08uRDJ": {
+  "tcgId": "sv4pt5-46",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "46",
+  "hp": 90,
+  "from": "Mankey",
+  "attacks": [
+   {
+    "n": "Raging Punch",
+    "c": [
+     "Fighting"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:gZ3RINkqYQ6L3Tho": {
+  "tcgId": "sv4pt5-7",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "7",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Blazing Destruction",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Steady Firebreathing",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:giCObv9SDWk5Kdlt": {
+  "tcgId": "sv3-2",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "2",
+  "hp": 80,
+  "from": "Oddish",
+  "attacks": [
+   {
+    "n": "Inviting Scent",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Leaf Step",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:h1kPoXE4v1zJziiB": {
+  "tcgId": "sv3pt5-199",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "199",
+  "hp": 330,
+  "from": "Charmeleon",
+  "attacks": [
+   {
+    "n": "Brave Wing",
+    "c": [
+     "Fire"
+    ],
+    "d": "60+"
+   },
+   {
+    "n": "Explosive Vortex",
+    "c": [
+     "Fire",
+     "Fire",
+     "Fire",
+     "Fire"
+    ],
+    "d": "330"
+   }
+  ]
+ },
+ "rc:h4KJF8VIvT686cGg": {
+  "tcgId": "sv3pt5-19",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "19",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Gnaw the Wound",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20+"
+   }
+  ]
+ },
+ "rc:h9v66SkNgWpVGWfU": {
+  "tcgId": "sv8pt5-24",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "24",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Overrun",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Aurora Beam",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:hXDnOVO3k8PoVeka": {
+  "tcgId": "sv8pt5-54",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "54",
+  "hp": 150,
+  "abilities": [
+   "Battle-Hardened"
+  ],
+  "attacks": [
+   {
+    "n": "Mad Bite",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
+ "rc:hb8WUioIXwbCNE7g": {
+  "tcgId": "sv3-70",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "70",
+  "hp": 110,
+  "abilities": [
+   "Adverse Weather"
+  ],
+  "attacks": [
+   {
+    "n": "Gigantic Bolt",
+    "c": [
+     "Lightning",
+     "Lightning"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:hbIoiPJ9MebejwZW": {
+  "tcgId": "sv8pt5-106",
+  "super": "Trainer",
+  "sub": [
+   "Item",
+   "Ancient"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "106"
+ },
+ "rc:hdSciuOqA5Cc4so8": {
+  "tcgId": "sv4pt5-25",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "25",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Triple Strike",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
+ "rc:hi9qsl2TsLI47r2I": {
+  "tcgId": "sv4pt5-56",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "56",
+  "hp": 80,
+  "from": "Gastly",
+  "attacks": [
+   {
+    "n": "Dark Slumber",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:hp4bAOwxEJLLQqeZ": {
+  "tcgId": "sv4pt5-41",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "41",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Psy Bolt",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:i2u8gdvWXT2hh1kl": {
+  "tcgId": "sv4pt5-49",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "49",
+  "hp": 150,
+  "from": "Phanpy",
+  "attacks": [
+   {
+    "n": "Cragalanche",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Powerful Spin",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:i4Xohs4UAySJxLL9": {
+  "tcgId": "sv3-5",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "5",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Berry Scent",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Guard Press",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:i5obCzEOFq2um9iJ": {
+  "tcgId": "sv3-35",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "35",
+  "hp": 140,
+  "from": "Darumaka",
+  "attacks": [
+   {
+    "n": "Damage Counterpunch",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60+"
+   },
+   {
+    "n": "Heat Blast",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:iG4de2hxtjhFZiBn": {
+  "tcgId": "sv8pt5-7",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "7",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Triple Spin",
+    "c": [
+     "Grass"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
+ "rc:iT11YEh4xMYguhxG": {
+  "tcgId": "sv6pt5-4",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "4",
+  "hp": 90,
+  "from": "Rowlet",
+  "attacks": [
+   {
+    "n": "United Wings",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20×"
+   },
+   {
+    "n": "Cutting Wind",
+    "c": [
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:igKBYVgC48Ae7Qps": {
+  "tcgId": "sv3pt5-60",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "60",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Bubble",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:iyGVkW5hSfwfSmCF": {
+  "tcgId": "sv4pt5-12",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "12",
+  "hp": 130,
+  "from": "Numel",
+  "attacks": [
+   {
+    "n": "Super Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Cinder Cannon",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "120+"
+   }
+  ]
+ },
+ "rc:j8K2cCLhzMBzwNMR": {
+  "tcgId": "sv4pt5-6",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "Tera",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "6",
+  "hp": 260,
+  "from": "Flittle",
+  "abilities": [
+   "Dazzling Gaze"
+  ],
+  "attacks": [
+   {
+    "n": "Psy Ball",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:jBt3Yd9Z8WPfjn3O": {
+  "tcgId": "sv4pt5-13",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "13",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Heat Tackle",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:jCtJH5Iytd0tH3ZO": {
+  "tcgId": "sv3pt5-125",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "125",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Electro Combo",
+    "c": [
+     "Lightning"
+    ],
+    "d": "10+"
+   },
+   {
+    "n": "Light Punch",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:jD1i0yIFsZrgBtLP": {
+  "tcgId": "sv3-55",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "55",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "First Freeze",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:jDlRnShA2fnMmz7f": {
+  "tcgId": "sv3-68",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "68",
+  "hp": 90,
+  "from": "Tynamo",
+  "attacks": [
+   {
+    "n": "Volt Wave",
+    "c": [
+     "Lightning"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Electric Ball",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:jKBSd1yHSOVvv4fe": {
+  "tcgId": "sv3-25",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "25",
+  "hp": 110,
+  "from": "Capsakid",
+  "abilities": [
+   "Double Type"
+  ],
+  "attacks": [
+   {
+    "n": "Spicy Headbutt",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "110"
+   }
+  ]
+ },
+ "rc:jZ2D8dhX6KRt0Hav": {
+  "tcgId": "sv8pt5-16",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "16",
+  "hp": 120,
+  "from": "Litleo",
+  "attacks": [
+   {
+    "n": "Fire Mane",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Flame Tackle",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:jgMZuVNYtXKLMLbM": {
+  "tcgId": "sv4pt5-120",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "120",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Raging Horns",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Aqua Dive",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:jwKqjXkGZ56amCw5": {
+  "tcgId": "sv3-58",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "58",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Rain Splash",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:k9SypudkkYtnh0bb": {
+  "tcgId": "sv4pt5-76",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "76"
+ },
+ "rc:kLtoOHDHnm3Xpvvv": {
+  "tcgId": "sv3pt5-16",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "16",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Call for Family",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Tackle",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:kOnFeSdMVjHhNtBK": {
+  "tcgId": "sv8pt5-124",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "124"
+ },
+ "rc:kodIQZVwrDGcht65": {
+  "tcgId": "sv3pt5-169",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "169",
+  "hp": 100,
+  "from": "Charmander",
+  "attacks": [
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Fire Blast",
+    "c": [
+     "Fire",
+     "Fire",
+     "Fire"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:kothSF8AqAwnGt2P": {
+  "tcgId": "sv4pt5-32",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "32",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Reckless Charge",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:kpCgIrr0HPgrsudF": {
+  "tcgId": "sv3pt5-111",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "111",
+  "hp": 100,
+  "attacks": [
+   {
+    "n": "Push Down",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Boulder Crush",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:lVEfQEgIafr2XCt1": {
+  "tcgId": "sv3pt5-156",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "156"
+ },
+ "rc:lYlo6LFwnM0h6WeU": {
+  "tcgId": "sv3pt5-122",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "122",
+  "hp": 90,
+  "abilities": [
+   "Mimic Barrier"
+  ],
+  "attacks": [
+   {
+    "n": "Psypower",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:lbkcBEGVKCwtyQSG": {
+  "tcgId": "sv3pt5-136",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "136",
+  "hp": 130,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Destructive Flame",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Fighting Blaze",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90+"
+   }
+  ]
+ },
+ "rc:ljyNNFc03WE4frUG": {
+  "tcgId": "sv3-36",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "36",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Firebreathing",
+    "c": [
+     "Fire"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:m1Akl0Za1tPzLIvs": {
+  "tcgId": "sv3pt5-92",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "92",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Suffocating Gas",
+    "c": [
+     "Psychic"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:mEn7ZueqbBsr1A6I": {
+  "tcgId": "sv3pt5-101",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "101",
+  "hp": 90,
+  "from": "Voltorb",
+  "attacks": [
+   {
+    "n": "Bang Boom Chain",
+    "c": [
+     "Lightning"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Electro Ball",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:mQOnhxvM0zRzsEzc": {
+  "tcgId": "sv8pt5-52",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "52",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:mXNIPQWeFANftGFG": {
+  "tcgId": "sv8pt5-48",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "48",
+  "hp": 90,
+  "from": "Larvitar",
+  "attacks": [
+   {
+    "n": "Sand Spray",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Hammer In",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:mfmumDMs3gAIRvAp": {
+  "tcgId": "sv3pt5-68",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "68",
+  "hp": 180,
+  "from": "Machoke",
+  "abilities": [
+   "Guts"
+  ],
+  "attacks": [
+   {
+    "n": "Mountain Chopping",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:mjuyfNBpKWZI03u7": {
+  "tcgId": "sv8pt5-110",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "110"
+ },
+ "rc:mmEKL4Kg8TcF3y42": {
+  "tcgId": "sv3pt5-79",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "79",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Sea Bathing",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Headbutt",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:msWH6cFkfrlEiMie": {
+  "tcgId": "sv3-17",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "17",
+  "hp": 90,
+  "from": "Bounsweet",
+  "attacks": [
+   {
+    "n": "Aromatherapy",
+    "c": [
+     "Grass"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Razor Leaf",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:mxPJ9O79lOUKlIHS": {
+  "tcgId": "sv3-52",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "52",
+  "hp": 170,
+  "from": "Palpitoad",
+  "abilities": [
+   "Quaking Zone"
+  ],
+  "attacks": [
+   {
+    "n": "Echoed Voice",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:nW43HrSq3NMr6qjf": {
+  "tcgId": "sv8pt5-121",
+  "super": "Trainer",
+  "sub": [
+   "Supporter",
+   "Future"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "121"
+ },
+ "rc:nzxFjW1FecndE6Oe": {
+  "tcgId": "sv3-12",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "12",
+  "hp": 140,
+  "from": "Phantump",
+  "abilities": [
+   "Forest Miasma"
+  ],
+  "attacks": [
+   {
+    "n": "Lock Up",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:oFlU0rudKWJiY87O": {
+  "tcgId": "sv3pt5-94",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "94",
+  "hp": 130,
+  "from": "Haunter",
+  "attacks": [
+   {
+    "n": "Poltergeist",
+    "c": [
+     "Psychic"
+    ],
+    "d": "50×"
+   },
+   {
+    "n": "Hollow Dive",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "110"
+   }
+  ]
+ },
+ "rc:oMSviwV0Vs8RmX9X": {
+  "tcgId": "sv4pt5-38",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "38",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Rear Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:oT4WKCJyrkIuSIyp": {
+  "tcgId": "sv8pt5-78",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "78",
+  "hp": 100,
+  "from": "Hoothoot",
+  "abilities": [
+   "Jewel Seeker"
+  ],
+  "attacks": [
+   {
+    "n": "Speed Wing",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:oXYM25IuSo6jcovR": {
+  "tcgId": "sv3pt5-121",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "121",
+  "hp": 90,
+  "from": "Staryu",
+  "abilities": [
+   "Mysterious Comet"
+  ],
+  "attacks": [
+   {
+    "n": "Speed Attack",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:oXcXMtMwR87NKTa7": {
+  "tcgId": "sv3-89",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "89",
+  "hp": 100,
+  "attacks": [
+   {
+    "n": "Mischievous Crunch",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:obgmV8jYUzljRJuZ": {
+  "tcgId": "sv3pt5-7",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "7",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Withdraw",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Skull Bash",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:oepBp0jgkHBfT88D": {
+  "tcgId": "sv3pt5-54",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "54",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Overthink",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Water Gun",
+    "c": [
+     "Water"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:ojkxsRKt4vIGfasQ": {
+  "tcgId": "sv8pt5-40",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "40",
+  "hp": 120,
+  "from": "Eevee",
+  "abilities": [
+   "Safeguard"
+  ],
+  "attacks": [
+   {
+    "n": "Magical Shot",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:onV5FkysQ3u0Pf7f": {
+  "tcgId": "sv8pt5-82",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "82",
+  "hp": 220,
+  "attacks": [
+   {
+    "n": "Hyper Whirlpool",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:p4EnoNRq7LiUtDAP": {
+  "tcgId": "sv3pt5-159",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "159"
+ },
+ "rc:pPF4sjMK9SG6JPdQ": {
+  "tcgId": "sv4pt5-90",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "90",
+  "attacks": [
+   {
+    "n": "Crisis Punch",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "280"
+   }
+  ]
+ },
+ "rc:pQV3VmjNZMFAcjof": {
+  "tcgId": "sv3pt5-57",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "57",
+  "hp": 120,
+  "from": "Mankey",
+  "attacks": [
+   {
+    "n": "Rant and Rave",
+    "c": [
+     "Fighting"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Raging Smash",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:pW47KGJGcAjZf9dR": {
+  "tcgId": "sv3pt5-62",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "62",
+  "hp": 160,
+  "from": "Poliwhirl",
+  "attacks": [
+   {
+    "n": "Bubble Beam",
+    "c": [
+     "Water"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Heroic Punch",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
+ "rc:paHAWG6kdtCgz6hq": {
+  "tcgId": "sv3pt5-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "1",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Leech Seed",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:pjB4gz6KIGbTq4vl": {
+  "tcgId": "sv3pt5-95",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "95",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Thumpalanche",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80×"
+   },
+   {
+    "n": "Heavy Impact",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
+ "rc:pxwGY0RjlVyiyUdo": {
+  "tcgId": "sv3pt5-17",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "17",
+  "hp": 80,
+  "from": "Pidgey",
+  "attacks": [
+   {
+    "n": "Flap",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:qoSKCVGhUsXH3vNl": {
+  "tcgId": "sv3pt5-3",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "3",
+  "hp": 340,
+  "from": "Ivysaur",
+  "abilities": [
+   "Tranquil Flower"
+  ],
+  "attacks": [
+   {
+    "n": "Dangerous Toxwhip",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "150"
+   }
+  ]
+ },
+ "rc:r1iicqCc6ZYFnIaA": {
+  "tcgId": "sv4pt5-16",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "16",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Into the Deep",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Freeze-Dry",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:r23vUElQXx5YpD09": {
+  "tcgId": "sv3pt5-97",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "97",
+  "hp": 110,
+  "from": "Drowzee",
+  "abilities": [
+   "Here for Hypnosis"
+  ],
+  "attacks": [
+   {
+    "n": "Super Psy Bolt",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "110"
+   }
+  ]
+ },
+ "rc:r4fKMeQM6fElnsYb": {
+  "tcgId": "sv3-51",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "51",
+  "hp": 100,
+  "from": "Tympole",
+  "attacks": [
+   {
+    "n": "Rain Splash",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:rCy5bVsROAKNznQk": {
+  "tcgId": "sv4pt5-30",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "30",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Sleep Inducer",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Psyshot",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:rE6cO2MG0F7ZQ6X4": {
+  "tcgId": "sv3pt5-67",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "67",
+  "hp": 100,
+  "from": "Machop",
+  "attacks": [
+   {
+    "n": "Mountain Ramming",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:rVlSa7uwVFOgE7bU": {
+  "tcgId": "sv4pt5-10",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "10",
+  "hp": 140,
+  "from": "Magmar",
+  "attacks": [
+   {
+    "n": "Flare",
+    "c": [
+     "Fire"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Volcanic Heat",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "170"
+   }
+  ]
+ },
+ "rc:rgOz05GRJ1mxWtUI": {
+  "tcgId": "sv3-9",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "9",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Enticing Pattern",
+    "c": [
+     "Grass"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Beat",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:rj8wquM2tYye6Q8U": {
+  "tcgId": "sv3pt5-165",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "165"
+ },
+ "rc:rpKJ9rrYho5e81zX": {
+  "tcgId": "sv3pt5-4",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "4",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Blazing Destruction",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Steady Firebreathing",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:rxj0UlrwTxz6URrD": {
+  "tcgId": "sv8pt5-59",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "59",
+  "hp": 110,
+  "from": "Eevee",
+  "attacks": [
+   {
+    "n": "Feint Attack",
+    "c": [
+     "Darkness"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pitch-Black Blade",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:s5G9ByPaY3JnNPQ9": {
+  "tcgId": "sv4pt5-68",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "68",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gust",
+    "c": [
+     "Psychic",
+     "Darkness"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:sAeYourgI9hvpLE0": {
+  "tcgId": "sv8pt5-120",
+  "super": "Trainer",
+  "sub": [
+   "Supporter",
+   "Ancient"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "120"
+ },
+ "rc:sHQzj6RZCvFxzyqV": {
+  "tcgId": "sv3pt5-21",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "21",
+  "hp": 50,
+  "abilities": [
+   "Evolutionary Advantage"
+  ],
+  "attacks": [
+   {
+    "n": "Speed Dive",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:sKJWWX6CliJHpT3a": {
+  "tcgId": "sv4pt5-22",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "22",
+  "hp": 120,
+  "from": "Wattrel",
+  "attacks": [
+   {
+    "n": "United Thunder",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Speed Wing",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:sLx6qP4BJJQYFPkG": {
+  "tcgId": "sv4pt5-79",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "79"
+ },
+ "rc:sXXrFYhfPiG2DZpf": {
+  "tcgId": "sv4pt5-27",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "27",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Psyshot",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:sn8qsfJp1W0128gl": {
+  "tcgId": "sv3pt5-157",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "157"
+ },
+ "rc:tGr1oiFA2fOkzfAe": {
+  "tcgId": "sv3pt5-78",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "78",
+  "hp": 100,
+  "from": "Ponyta",
+  "attacks": [
+   {
+    "n": "Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Mach Turn",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:tMIxcWJpqAECrQLg": {
+  "tcgId": "sv4pt5-60",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "60",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Low Kick",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Headstrike",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:tSUjwNNFjsbwAiSr": {
+  "tcgId": "sv8pt5-80",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "80",
+  "hp": 140,
+  "from": "Dunsparce",
+  "abilities": [
+   "Run Away Draw"
+  ],
+  "attacks": [
+   {
+    "n": "Land Crush",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:tT6orIAg4LmvjxOC": {
+  "tcgId": "sv3pt5-144",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "144",
+  "hp": 120,
+  "abilities": [
+   "Ice Float"
+  ],
+  "attacks": [
+   {
+    "n": "Blizzard",
+    "c": [
+     "Water",
+     "Water",
+     "Water"
+    ],
+    "d": "110"
+   }
+  ]
+ },
+ "rc:tVhaX0GYlFO4WVu2": {
+  "tcgId": "sv4pt5-143",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "143",
+  "hp": 90,
+  "from": "Pawmi",
+  "attacks": [
+   {
+    "n": "Thunder Shock",
+    "c": [
+     "Lightning"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Head Bolt",
+    "c": [
+     "Lightning",
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:tWN95Mhfq6E9DIse": {
+  "tcgId": "sv4pt5-87",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "87"
+ },
+ "rc:tYzi5Svc6RNgvRB3": {
+  "tcgId": "sv3-18",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "18",
+  "hp": 160,
+  "from": "Steenee",
+  "attacks": [
+   {
+    "n": "Queenly Heel",
+    "c": [
+     "Grass"
+    ],
+    "d": "60"
+   },
+   {
+    "n": "Spinning Kick",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "160"
+   }
+  ]
+ },
+ "rc:tbRw46h2cZ2DWYYc": {
+  "tcgId": "sv4pt5-47",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "47",
+  "hp": 140,
+  "from": "Primeape",
+  "attacks": [
+   {
+    "n": "Rage Fist",
+    "c": [
+     "Fighting"
+    ],
+    "d": "70×"
+   },
+   {
+    "n": "Dynamite Punch",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "170"
+   }
+  ]
+ },
+ "rc:teCCawOZqevayanx": {
+  "tcgId": "sv6pt5-84",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "SFA",
+  "no": "84",
+  "hp": 210,
+  "abilities": [
+   "Flip the Script"
+  ],
+  "attacks": [
+   {
+    "n": "Cruel Arrow",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:tf60GzYDsgG0NBsv": {
+  "tcgId": "sv3pt5-49",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "49",
+  "hp": 90,
+  "from": "Venonat",
+  "attacks": [
+   {
+    "n": "Perplexing Powder",
+    "c": [
+     "Grass"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Speed Wing",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:thQ0G2GVJUOnmqeQ": {
+  "tcgId": "sv8pt5-101",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "101"
+ },
+ "rc:tlb35hIQnytNtEwU": {
+  "tcgId": "sv3-44",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "44",
+  "hp": 120,
+  "from": "Charcadet",
+  "abilities": [
+   "Scorching Armor"
+  ],
+  "attacks": [
+   {
+    "n": "Steam Artillery",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:tr95724idcFZKOPL": {
+  "tcgId": "sv3pt5-42",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "42",
+  "hp": 80,
+  "from": "Zubat",
+  "attacks": [
+   {
+    "n": "Skill Dive",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:twP9iKfq0EJ1wZYz": {
+  "tcgId": "sv4pt5-62",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "62",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Ambush",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:uXjOEzcimMs7DCgY": {
+  "tcgId": "sv8pt5-127",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "127"
+ },
+ "rc:uZFjcuhhN5kghc2B": {
+  "tcgId": "sv8pt5-21",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "21",
+  "hp": 110,
+  "from": "Goldeen",
+  "abilities": [
+   "Festival Lead"
+  ],
+  "attacks": [
+   {
+    "n": "Rapid Draw",
+    "c": [
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:ueNfbv8hFrmliHxk": {
+  "tcgId": "svp-53",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "SVP",
+  "no": "53",
+  "hp": 180,
+  "abilities": [
+   "Restart"
+  ],
+  "attacks": [
+   {
+    "n": "Genome Hacking",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:ufv8FpiJbr9z3nC2": {
+  "tcgId": "sv4pt5-61",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "61",
+  "hp": 120,
+  "from": "Scraggy",
+  "attacks": [
+   {
+    "n": "Lambaste",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Headbang",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:uruboJM6YCHwmNeJ": {
+  "tcgId": "sv3pt5-102",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "102",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Ball Roll",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30×"
+   }
+  ]
+ },
+ "rc:uxQkI8bAaMRKlcAe": {
+  "tcgId": "sv3-83",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "83",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Whiny Voice",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Rolling Tackle",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:vIO86KeIgneVEb3x": {
+  "tcgId": "sv3pt5-43",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "43",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Razor Leaf",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:va3ldiCfkYThGZCR": {
+  "tcgId": "sv8pt5-123",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PRE",
+  "no": "123"
+ },
+ "rc:vnsOUEdzB3rplRRV": {
+  "tcgId": "sv3-48",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "48",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Quick Attack",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:vrc7gLrMTGK9yr8u": {
+  "tcgId": "sv3pt5-77",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "77",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Collect",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Flop",
+    "c": [
+     "Fire",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:vsfP47n0nlBZMh6m": {
+  "tcgId": "sv3-57",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "57",
+  "hp": 90,
+  "from": "Froakie",
+  "attacks": [
+   {
+    "n": "Strafe",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "40"
+   }
+  ]
+ },
+ "rc:vtzc08MIh2S8c4Ay": {
+  "tcgId": "sv8pt5-98",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "98"
+ },
+ "rc:vuiDduBNHjePEsY2": {
+  "tcgId": "sv3pt5-35",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "35",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Moon-Viewing Invitation",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Smack",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:w57u7UkiBMvjUzUq": {
+  "tcgId": "sv4pt5-52",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "52",
+  "hp": 120,
+  "from": "Clobbopus",
+  "attacks": [
+   {
+    "n": "Slow-Acting Syncope",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Mach Cross",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "120"
+   }
+  ]
+ },
+ "rc:wCA55w2OU9swjH3e": {
+  "tcgId": "sv4pt5-58",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "58",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Find a Home",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Ram",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:wJRYJtH7tDlLia0J": {
+  "tcgId": "sv8pt5-105",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "105"
+ },
+ "rc:wSbzvPhW2pJWljhU": {
+  "tcgId": "sv8pt5-102",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "102"
+ },
+ "rc:wb6mxydrF0RlgckN": {
+  "super": "Energy",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "expanded": true
+ },
+ "rc:wiNCcpQtRUrrFCt2": {
+  "tcgId": "sv3-65",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "65",
+  "hp": 170,
+  "from": "Magneton",
+  "attacks": [
+   {
+    "n": "Magnetic Repulsion",
+    "c": [
+     "Lightning"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Thunder",
+    "c": [
+     "Lightning",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "180"
+   }
+  ]
+ },
+ "rc:wkJmNTWxlI7ulA5Z": {
+  "tcgId": "sv3pt5-28",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "28",
+  "hp": 120,
+  "from": "Sandshrew",
+  "attacks": [
+   {
+    "n": "Rumble",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Spike Rend",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
+ "rc:x676C0mlb3JCRgR1": {
+  "tcgId": "sv3pt5-58",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "58",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Vaporize",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:xGLHzYfMgrfk8MAO": {
+  "tcgId": "sv4pt5-14",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "14",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Heat Blast",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:xZKckdcgbNLLSa7H": {
+  "tcgId": "sv8pt5-115",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "115"
+ },
+ "rc:xge7YfqaefJqYwhb": {
+  "tcgId": "sv3pt5-91",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "91",
+  "hp": 130,
+  "from": "Shellder",
+  "attacks": [
+   {
+    "n": "Protect Charge",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "80"
+   }
+  ]
+ },
+ "rc:xnqqDjAxPMnvbVDM": {
+  "tcgId": "sv8pt5-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "1",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Ram",
+    "c": [
+     "Grass",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:xqHB9X7RyKZw3q25": {
+  "tcgId": "sv3pt5-53",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "53",
+  "hp": 110,
+  "from": "Meowth",
+  "abilities": [
+   "Rocket Call"
+  ],
+  "attacks": [
+   {
+    "n": "Slash",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:xuPFKUGIlxYNtN57": {
+  "tcgId": "sv3pt5-205",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "205",
+  "hp": 180,
+  "abilities": [
+   "Restart"
+  ],
+  "attacks": [
+   {
+    "n": "Genome Hacking",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:y2IMG67FCF6n8LrK": {
+  "tcgId": "svp-173",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": null,
+  "expanded": true,
+  "code": "SVP",
+  "no": "173",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Call for Family",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Tackle",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ],
+  "approx": true
+ },
+ "rc:yANtRIJ9NY9zfK1w": {
+  "tcgId": "sv3pt5-128",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "128",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Gather the Crew",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Rage",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
+ "rc:yGXiMfV1vuQMYbWG": {
+  "tcgId": "sv3pt5-8",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "8",
+  "hp": 100,
+  "from": "Squirtle",
+  "attacks": [
+   {
+    "n": "Free Diving",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Spinning Attack",
+    "c": [
+     "Water",
+     "Water"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:yLbT7Ews9OZ3lat9": {
+  "tcgId": "sv3pt5-93",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "93",
+  "hp": 80,
+  "from": "Gastly",
+  "abilities": [
+   "Spirit Return"
+  ],
+  "attacks": [
+   {
+    "n": "Mumble",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:ySOLrbFMUW9Djwxg": {
+  "tcgId": "sv3pt5-110",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "110",
+  "hp": 110,
+  "from": "Koffing",
+  "abilities": [
+   "Let's Have a Blast"
+  ],
+  "attacks": [
+   {
+    "n": "Spinning Fumes",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:yaYBKCb9yFLpRqhX": {
+  "tcgId": "sv8pt5-50",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "50",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Quick Attack",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:ycfB1Xi6IJA4JnmU": {
+  "tcgId": "sv3pt5-151",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "151",
+  "hp": 180,
+  "abilities": [
+   "Restart"
+  ],
+  "attacks": [
+   {
+    "n": "Genome Hacking",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:ymynlPrDbtKYFr3d": {
+  "tcgId": "sv3pt5-73",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "73",
+  "hp": 120,
+  "from": "Tentacool",
+  "attacks": [
+   {
+    "n": "Poisonous Whip",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Tentacular Panic",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90×"
+   }
+  ]
+ },
+ "rc:yrfK1wuEE3POklj3": {
+  "tcgId": "sv3pt5-45",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "45",
+  "hp": 140,
+  "from": "Gloom",
+  "abilities": [
+   "Fully Blooming Energy"
+  ],
+  "attacks": [
+   {
+    "n": "Solar Beam",
+    "c": [
+     "Grass",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:ywYl59E7YVPBNCpX": {
+  "tcgId": "sv3pt5-107",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "107",
+  "hp": 120,
+  "abilities": [
+   "Counterattack"
+  ],
+  "attacks": [
+   {
+    "n": "Excited Punch",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:z54RbymLyGL28A36": {
+  "tcgId": "sv3pt5-131",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "131",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Hop on My Back",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Aqua Edge",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:z6NnE0cQUIhSqxT1": {
+  "tcgId": "sv3-49",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "49",
+  "hp": 110,
+  "from": "Buizel",
+  "attacks": [
+   {
+    "n": "Swirling Tail",
+    "c": [
+     "Water"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Waterfall",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:zCk5jH5CrKz4leoN": {
+  "tcgId": "sv3-67",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "67",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Static Shock",
+    "c": [
+     "Lightning"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Tiny Bolt",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:zFGGL9dyWdjYCDe9": {
+  "tcgId": "sv3pt5-81",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Lightning"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "81",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Tiny Charge",
+    "c": [
+     "Lightning"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Big Explosion",
+    "c": [
+     "Lightning",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
+ "rc:zHxFRmpTcKAvSCms": {
+  "tcgId": "sv4pt5-37",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "37",
+  "hp": 70,
+  "abilities": [
+   "Safeguard"
+  ],
+  "attacks": [
+   {
+    "n": "Ghost Eye",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:zIizJrpua1qMKbuT": {
+  "tcgId": "sv4pt5-8",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAF",
+  "no": "8",
+  "hp": 90,
+  "from": "Charmander",
+  "abilities": [
+   "Flare Veil"
+  ],
+  "attacks": [
+   {
+    "n": "Combustion",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:zJtsYo4WUiiiPyxW": {
+  "tcgId": "svp-52",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "SVP",
+  "no": "52",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Reflective Barrier",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Psyslash",
+    "c": [
+     "Psychic",
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
+ "rc:zJxiVJxWYBwomEmX": {
+  "tcgId": "sv3pt5-29",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "29",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Poison Horn",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:zMrXRVKLXNZIKcrK": {
+  "tcgId": "sv8pt5-84",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "84",
+  "hp": 90,
+  "from": "Buneary",
+  "attacks": [
+   {
+    "n": "Rear Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
+ "rc:zYm5gnjujsIHbCV1": {
+  "tcgId": "sv3pt5-10",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "10",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Leaf Munch",
+    "c": [
+     "Grass"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
+ "rc:zrPWWq7BrBQXlwxk": {
+  "tcgId": "sv8pt5-113",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "H",
+  "expanded": true,
+  "code": "PRE",
+  "no": "113"
+ },
+ "rc:zryEZr9XyQ2e6052": {
+  "tcgId": "sv3pt5-163",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "MEW",
+  "no": "163"
+ }
+}

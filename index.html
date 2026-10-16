@@ -193,6 +193,100 @@ dialog::backdrop { background: rgba(8,6,16,.6); backdrop-filter: blur(3px); }
 @media (max-width: 820px) { .movers { grid-template-columns: 1fr; } }
 .movers h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-3); margin: 0 0 6px; }
 .panel .hrow { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+
+/* ---------- decks ---------- */
+.decks { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.deck {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px;
+  cursor: pointer; text-align: left; display: grid; gap: 6px; min-width: 0;
+}
+.deck .cover { display: flex; height: 112px; margin-bottom: 4px; }
+.deck .cover img { height: 112px; aspect-ratio: 63/88; object-fit: cover; border-radius: 6px; box-shadow: var(--shadow); background: var(--surface-2); }
+.deck .cover img + img { margin-left: -46px; }
+.deck .t { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.deck .s { color: var(--ink-3); font-size: 13px; font-variant-numeric: tabular-nums; }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; width: fit-content; }
+.badge.ok { background: rgba(76,196,126,.15); color: var(--gain); }
+.badge.warn { background: rgba(242,190,80,.15); color: #f2be50; }
+.badge.err { background: rgba(239,107,107,.15); color: var(--loss); }
+
+.dhead { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 6px 0 12px; }
+.dhead .dname {
+  flex: 1 1 240px; min-width: 0; font-size: 20px; font-weight: 700; background: transparent; border: 1px solid transparent;
+  border-radius: 10px; padding: 4px 8px; margin-left: -8px;
+}
+.dhead .dname:hover, .dhead .dname:focus { border-color: var(--border); background: var(--surface); outline: none; }
+.dhead select { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 8px 10px; }
+.btn.danger { color: var(--loss); }
+.btn:disabled { opacity: .5; cursor: default; }
+
+.dsum { position: sticky; top: 41px; z-index: 4; background: var(--bg); padding: 8px 0; display: grid; gap: 8px; }
+.dsum .row1 { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; font-variant-numeric: tabular-nums; }
+.dsum .big { font-size: 22px; font-weight: 700; }
+.dsum .big.full { color: var(--gain); }
+.dsum .big.over { color: var(--loss); }
+.dsum .parts { color: var(--ink-2); font-size: 14px; }
+.dsum .val { margin-left: auto; color: var(--ink-2); font-size: 14px; }
+.dsum .bar { height: 6px; }
+.dsum .bar i.full { background: var(--gain); }
+.dsum .bar i.over { background: var(--loss); }
+@media (max-width: 600px) { .dsum .val { display: none; } .dsum .big { font-size: 19px; } .dsum .parts { font-size: 13px; } }
+.checks { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+
+.dbuild { display: grid; grid-template-columns: minmax(300px, 380px) 1fr; gap: 16px; align-items: start; }
+.dpane-seg { display: none; margin-bottom: 10px; }
+@media (max-width: 860px) {
+  .dbuild { grid-template-columns: 1fr; }
+  .dpane-seg { display: inline-flex; }
+  .dbuild[data-pane="deck"] .dpick, .dbuild[data-pane="add"] .dlist { display: none; }
+}
+.dlist { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px; position: sticky; top: 112px; max-height: calc(100dvh - 128px); overflow: auto; }
+@media (max-width: 860px) { .dlist { position: static; max-height: none; } }
+.dlist h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-3); margin: 10px 6px 4px; display: flex; justify-content: space-between; }
+.dlist h3:first-child { margin-top: 2px; }
+.drow { display: grid; grid-template-columns: 32px 1fr auto; gap: 10px; align-items: center; padding: 4px 6px; border-radius: 8px; }
+.drow:hover { background: var(--surface-2); }
+.drow .th { width: 32px; height: 45px; border-radius: 4px; overflow: hidden; background: var(--surface-2); cursor: pointer; }
+.drow .th img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.drow.ghost .th img { filter: grayscale(.85); opacity: .5; }
+.drow .a { min-width: 0; }
+.drow .a div { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 14px; }
+.drow .a .m { color: var(--ink-3); font-size: 12px; }
+.drow .a .m .needs { color: #f2be50; }
+.drow .a .m .bad { color: var(--loss); }
+.qc { display: inline-flex; align-items: center; gap: 2px; font-variant-numeric: tabular-nums; }
+.qc b { min-width: 22px; text-align: center; }
+.qc button {
+  width: 28px; height: 28px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface-2);
+  cursor: pointer; display: grid; place-items: center; font-size: 16px; line-height: 1; padding: 0;
+}
+.qc button:disabled { opacity: .35; cursor: default; }
+
+.pips { display: inline-flex; gap: 3px; vertical-align: -1px; }
+.pip { width: 11px; height: 11px; border-radius: 50%; display: inline-block; box-shadow: inset 0 0 0 1px rgba(0,0,0,.25); }
+
+.dpick .controls { margin-top: 0; }
+.dpick .grid { grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 10px; }
+@media (max-width: 420px) { .dpick .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; } }
+.card.pick { padding: 6px; gap: 4px; }
+.card.pick .nm { font-size: 13px; }
+.card.pick .meta { font-size: 11px; }
+.card.pick.out .img img { filter: grayscale(.8); opacity: .45; }
+.card.pick.out { cursor: default; }
+.card.pick.out:hover { transform: none; }
+.card .indeck {
+  position: absolute; bottom: 6px; left: 6px; background: var(--accent); color: var(--accent-ink); font-size: 12px;
+  font-weight: 700; padding: 2px 7px; border-radius: 999px;
+}
+.dlg textarea {
+  width: 100%; min-height: 260px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+  padding: 10px; font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; resize: vertical;
+}
+.dlg.one { grid-template-columns: 1fr; }
+.dlg p { color: var(--ink-2); margin: 6px 0 12px; font-size: 14px; }
+.attacks { display: grid; gap: 4px; }
+.attacks div { display: flex; gap: 8px; align-items: center; }
+.attacks .dmg { margin-left: auto; font-weight: 700; }
 </style>
 </head>
 <body>
@@ -210,6 +304,7 @@ dialog::backdrop { background: rgba(8,6,16,.6); backdrop-filter: blur(3px); }
     <button role="tab" data-tab="cards" aria-selected="true">Cards</button>
     <button role="tab" data-tab="sets" aria-selected="false">Sets</button>
     <button role="tab" data-tab="insights" aria-selected="false">Insights</button>
+    <button role="tab" data-tab="decks" aria-selected="false">Decks</button>
   </nav>
 
   <main id="main"><div class="loading">Loading collection…</div></main>
@@ -249,17 +344,24 @@ const state = {
   brand: store.get("brand", "all"),
   tab: store.get("tab", "cards"),
   q: "", set: "", rarity: "", sort: store.get("sort", "owned"), dupes: false,
+  info: {}, tcgSets: {}, pool: [], poolById: new Map(),
+  decks: store.get("decks", []), deckId: store.get("deckId", null),
+  deckPane: "deck", dq: "", dsuper: "all", dtype: "", dlegal: true,
 };
 
 async function load() {
   const bust = "?t=" + Date.now();
   const get = p => fetch(p + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
-  const [rc, manual, hist, prices] = await Promise.all([get("data/rarecandy.json"), get("data/manual.json"), get("data/history.json"), get("data/prices.json")]);
+  const [rc, manual, hist, prices, info, tcgSets] = await Promise.all([get("data/rarecandy.json"), get("data/manual.json"),
+    get("data/history.json"), get("data/prices.json"), get("data/cardinfo.json"), get("data/tcgsets.json")]);
   state.prices = prices || {};
+  state.info = info || {};
+  state.tcgSets = tcgSets || {};
   state.setCache = {};
   state.all = [...(rc?.cards || []), ...(manual?.cards || [])];
   state.history = hist || [];
   state.updatedAt = rc?.updatedAt;
+  buildPool();
   if (state.brand !== "all" && !state.all.some(c => c.brand === state.brand)) state.brand = "all";
   render();
 }
@@ -637,6 +739,437 @@ function drawHistory() {
   hz.addEventListener("pointerleave", () => { xh.style.display = hd.style.display = "none"; hideTip(); });
 }
 
+/* ---------- decks ----------
+   Decks live in this browser's localStorage. Each entry is one printing:
+   {id, name, code, no, super, n}. `id` points at an owned card (or "e:Fire" for
+   basic Energy, which nobody tracks); entries without a matching owned card, or
+   with more copies than owned, show as cards you still need. */
+const TYPES = ["Grass", "Fire", "Water", "Lightning", "Psychic", "Fighting", "Darkness", "Metal", "Dragon", "Colorless"];
+const TYPE_COLOR = { Grass: "#5fb85a", Fire: "#ef6b4a", Water: "#4ea3e8", Lightning: "#f2c94c", Psychic: "#b072d8",
+  Fighting: "#c9774a", Darkness: "#3f4a5a", Metal: "#9aa3ad", Dragon: "#b39b3c", Colorless: "#d8d3c8" };
+const TYPE_SYM = { G: "Grass", R: "Fire", W: "Water", L: "Lightning", P: "Psychic", F: "Fighting", D: "Darkness", M: "Metal" };
+const SUPERS = ["Pokémon", "Trainer", "Energy"];
+const FORMATS = { casual: "Casual", standard: "Standard", expanded: "Expanded" };
+const DECK_SIZE = 60, MAX_COPIES = 4;
+// Standard is regulation mark H and later; G rotated out on Mar 26 (PTCG Live) / Apr 10, 2026
+const STANDARD_FROM = "H";
+const BASIC_ENERGY = TYPES.slice(0, 8).map((t, i) => ({
+  id: "e:" + t, name: `Basic ${t} Energy`, set: "Basic Energy", number: String(i + 1), qty: Infinity, price: null, virtual: true,
+  img: `https://images.scrydex.com/pokemon/sve-${i + 1}/small`, imgLarge: `https://images.scrydex.com/pokemon/sve-${i + 1}/large`,
+  info: { super: "Energy", sub: ["Basic"], types: [t], code: "SVE", no: String(i + 1), expanded: true },
+}));
+
+function buildPool() {
+  state.pool = [
+    ...state.all.filter(c => state.info[c.id]?.super).map(c => ({ ...c, info: state.info[c.id] })),
+    ...BASIC_ENERGY,
+  ];
+  state.poolById = new Map(state.pool.map(c => [c.id, c]));
+}
+const isBasicEnergy = i => i?.super === "Energy" && i.sub?.includes("Basic");
+const isBasicPokemon = i => i?.super === "Pokémon" && i.sub?.includes("Basic");
+const nameKey = s => String(s).toLowerCase().replace(/\s+/g, " ").trim();
+// true / false, or null when the regulation mark is unknown
+function legalIn(info, format) {
+  if (format === "casual" || isBasicEnergy(info)) return true;
+  if (!info) return null;
+  if (format === "standard") return info.mark ? info.mark >= STANDARD_FROM : null;
+  return !!info.expanded;
+}
+function stageOf(i) {
+  if (!i) return "";
+  if (i.super !== "Pokémon") return i.sub?.filter(s => !["Future", "Ancient"].includes(s)).join(" · ") || i.super;
+  return i.sub.find(s => /^(Basic|Stage \d)$/.test(s)) || i.sub[0] || "";
+}
+const pips = types => `<span class="pips">${(types || []).map(t => `<i class="pip" style="background:${TYPE_COLOR[t] || "#888"}" title="${esc(t)}"></i>`).join("")}</span>`;
+const scrydexImg = (code, no, size = "small") => {
+  const s = code && state.tcgSets[code];
+  return s && no ? `https://images.scrydex.com/pokemon/${s.id}-${no}/${size}` : null;
+};
+
+function saveDecks() { store.set("decks", state.decks); }
+const currentDeck = () => state.decks.find(d => d.id === state.deckId);
+function entryFor(c) {
+  return { id: c.id, name: c.name, code: c.info.code || null, no: c.info.no || null, super: c.info.super, n: 0 };
+}
+
+// Rows for display: each deck entry split into the copies you own and the ones you'd still need
+function resolveDeck(deck) {
+  return deck.cards.filter(e => e.n > 0).map((e, idx) => {
+    const c = e.id ? state.poolById.get(e.id) : null;
+    const have = c ? Math.min(e.n, c.qty) : 0;
+    const info = c?.info || null;
+    const card = c || { id: null, name: e.name, set: state.tcgSets[e.code]?.name || e.code || "", number: e.no || "",
+      img: scrydexImg(e.code, e.no), imgLarge: scrydexImg(e.code, e.no, "large"), price: null };
+    return { e, idx: deck.cards.indexOf(e), c: card, info, owned: !!c, n: e.n, have, need: e.n - have,
+      super: info?.super || e.super || "Other" };
+  });
+}
+
+function nameCount(deck, name) {
+  const k = nameKey(name);
+  return deck.cards.reduce((a, e) => a + (nameKey(e.name) === k ? e.n : 0), 0);
+}
+
+// How many copies of each owned card the other decks use
+function usageElsewhere(deck) {
+  const m = new Map();
+  for (const d of state.decks) if (d !== deck) for (const e of d.cards) if (e.id) m.set(e.id, (m.get(e.id) || 0) + e.n);
+  return m;
+}
+
+function deckSummary(deck) {
+  const rows = resolveDeck(deck);
+  const total = rows.reduce((a, r) => a + r.n, 0);
+  const by = { "Pokémon": 0, Trainer: 0, Energy: 0, Other: 0 };
+  for (const r of rows) by[SUPERS.includes(r.super) ? r.super : "Other"] += r.n;
+  const need = rows.reduce((a, r) => a + r.need, 0);
+  const value = rows.reduce((a, r) => a + r.have * (r.c.price || 0), 0);
+  const issues = [];
+  if (total !== DECK_SIZE) issues.push({ lvl: total > DECK_SIZE ? "err" : "warn", t: total > DECK_SIZE ? `${total - DECK_SIZE} too many cards` : `${DECK_SIZE - total} more cards to reach ${DECK_SIZE}` });
+  if (total && !rows.some(r => isBasicPokemon(r.info) || (!r.info && r.super === "Pokémon"))) issues.push({ lvl: "err", t: "Needs at least one Basic Pokémon" });
+  const names = new Map();
+  for (const r of rows) if (!isBasicEnergy(r.info) && !/^basic \w+ energy$/i.test(r.e.name)) {
+    const k = nameKey(r.e.name);
+    names.set(k, { name: r.e.name, n: (names.get(k)?.n || 0) + r.n });
+  }
+  for (const { name, n } of names.values()) if (n > MAX_COPIES) issues.push({ lvl: "err", t: `${n}× ${name} (max ${MAX_COPIES})` });
+  const ace = rows.filter(r => r.info?.sub?.includes("ACE SPEC")).reduce((a, r) => a + r.n, 0);
+  if (ace > 1) issues.push({ lvl: "err", t: `${ace} ACE SPEC cards (max 1)` });
+  const radiant = rows.filter(r => r.info?.sub?.includes("Radiant")).reduce((a, r) => a + r.n, 0);
+  if (radiant > 1) issues.push({ lvl: "err", t: `${radiant} Radiant Pokémon (max 1)` });
+  if (deck.format !== "casual") {
+    const bad = rows.filter(r => r.info && legalIn(r.info, deck.format) === false);
+    if (bad.length) issues.push({ lvl: "err", t: `${bad.reduce((a, r) => a + r.n, 0)} not ${FORMATS[deck.format]}-legal: ${[...new Set(bad.map(r => r.c.name))].slice(0, 3).join(", ")}${bad.length > 3 ? "…" : ""}`, rows: bad });
+    const unk = rows.filter(r => r.info && legalIn(r.info, deck.format) == null);
+    if (unk.length) issues.push({ lvl: "warn", t: `Couldn't check legality of ${unk.map(r => r.c.name).join(", ")}` });
+  }
+  // Evolutions need what they evolve from (Rare Candy lets a Stage 2 skip its Stage 1)
+  const pokeNames = new Set(rows.filter(r => r.super === "Pokémon").map(r => nameKey(r.c.name)));
+  const hasRareCandy = rows.some(r => nameKey(r.c.name) === "rare candy");
+  const orphans = rows.filter(r => r.info?.from && !pokeNames.has(nameKey(r.info.from)) && !(hasRareCandy && r.info.sub.includes("Stage 2")));
+  for (const r of orphans) issues.push({ lvl: "warn", t: `${r.c.name} evolves from ${r.info.from}, which isn't in the deck` });
+  if (need) issues.push({ lvl: "warn", t: `${need} card${need > 1 ? "s" : ""} you don't own yet` });
+  const other = usageElsewhere(deck);
+  const shared = rows.filter(r => r.owned && r.c.qty !== Infinity && r.have + (other.get(r.c.id) || 0) > r.c.qty);
+  if (shared.length) issues.push({ lvl: "warn", t: `Shares copies with other decks: ${shared.map(r => r.c.name).slice(0, 3).join(", ")}${shared.length > 3 ? "…" : ""}` });
+  const ready = total === DECK_SIZE && !issues.some(i => i.lvl === "err") && !need;
+  return { rows, total, by, need, value, issues, ready };
+}
+
+function statusBadge(s) {
+  if (!s.total) return `<span class="badge warn">Empty</span>`;
+  if (s.ready) return `<span class="badge ok">✓ Ready to play</span>`;
+  const errs = s.issues.filter(i => i.lvl === "err").length;
+  if (errs) return `<span class="badge err">${errs} problem${errs > 1 ? "s" : ""}</span>`;
+  if (s.total !== DECK_SIZE) return `<span class="badge warn">${s.total} / ${DECK_SIZE}</span>`;
+  if (s.need) return `<span class="badge warn">Need ${s.need} card${s.need > 1 ? "s" : ""}</span>`;
+  return `<span class="badge warn">Check warnings</span>`;
+}
+
+function newDeck(name = "New deck", cards = [], format = "casual") {
+  const d = { id: Math.random().toString(36).slice(2, 10), name, format, cards, created: Date.now(), updated: Date.now() };
+  state.decks.unshift(d); saveDecks();
+  openDeck(d.id);
+  return d;
+}
+function openDeck(id) { state.deckId = id; store.set("deckId", id); state.deckPane = id ? "deck" : state.deckPane; render(); scrollTo({ top: 0 }); }
+function touch(deck) { deck.updated = Date.now(); saveDecks(); }
+
+function renderDecks() {
+  if (state.deckId && !currentDeck()) { state.deckId = null; store.set("deckId", null); }
+  if (state.deckId) return renderDeckEditor(currentDeck());
+  const noInfo = state.pool.length <= BASIC_ENERGY.length;
+  const decks = [...state.decks].sort((a, b) => b.updated - a.updated);
+  $("#main").innerHTML = `
+    <div class="controls">
+      <button class="btn" data-newdeck>+ New deck</button>
+      <button class="btn ghost" data-importdeck>Import deck list</button>
+      <span class="count">${decks.length ? `${decks.length} deck${decks.length > 1 ? "s" : ""} · saved in this browser` : ""}</span>
+    </div>
+    ${noInfo ? `<div class="empty">Card types (Pokémon / Trainer / Energy) haven't synced yet. Run the sync and they'll show up here.</div>` : ""}
+    ${decks.length ? `<div class="decks">${decks.map(deckTile).join("")}</div>` : `<div class="empty">
+      Build a 60-card deck from the cards you own. It keeps track of the 4-copy rule, Basic Pokémon,
+      evolution lines and Standard / Expanded legality.<br><br>
+      Or paste a deck list (from Pokémon TCG Live or Limitless) to see how much of it you already own.</div>`}`;
+}
+
+function deckTile(d) {
+  const s = deckSummary(d);
+  const covers = [...s.rows].filter(r => r.super === "Pokémon")
+    .sort((a, b) => (!!b.info?.sub?.includes("ex") - !!a.info?.sub?.includes("ex")) || (b.c.price || 0) - (a.c.price || 0)).slice(0, 3);
+  const types = [...new Set(s.rows.filter(r => r.super === "Pokémon").flatMap(r => r.info?.types || []))].slice(0, 4);
+  return `<button class="deck" data-deck="${esc(d.id)}">
+    <div class="cover">${covers.map(r => cardImg(r.c, false, `alt="" loading="lazy"`)).join("") || `<img alt="">`}</div>
+    <div class="t">${esc(d.name)}</div>
+    <div class="s">${FORMATS[d.format]} · ${s.total} cards · ${money(s.value)} ${pips(types)}</div>
+    ${statusBadge(s)}
+  </button>`;
+}
+
+function renderDeckEditor(deck) {
+  $("#main").innerHTML = `<button class="back" data-deckback>← All decks</button>
+    <div class="dhead">
+      <input class="dname" id="dname" value="${esc(deck.name)}" aria-label="Deck name" autocomplete="off">
+      <select id="dformat" aria-label="Format">${Object.entries(FORMATS).map(([k, l]) => `<option value="${k}" ${deck.format === k ? "selected" : ""}>${l}</option>`).join("")}</select>
+      <button class="btn ghost" data-deckexport>Copy list</button>
+      <button class="btn ghost" data-deckdup>Duplicate</button>
+      <button class="btn ghost danger" data-deckdel>Delete</button>
+    </div>
+    <div class="dsum" id="dsum"></div>
+    <div class="checks" id="dchecks"></div>
+    <div class="seg dpane-seg" role="group" aria-label="Show" id="dpaneseg"></div>
+    <div class="dbuild" data-pane="${state.deckPane}">
+      <section class="dlist" id="dlist"></section>
+      <section class="dpick">
+        <div class="controls">
+          <input type="search" id="dq" placeholder="Search your cards, attacks…" value="${esc(state.dq)}" autocomplete="off">
+          <div class="seg" role="group" aria-label="Card type">${["all", ...SUPERS].map(k =>
+            `<button data-dsuper="${k}" aria-pressed="${state.dsuper === k}">${k === "all" ? "All" : k}</button>`).join("")}</div>
+          <select id="dtype" aria-label="Energy type"><option value="">All types</option>${TYPES.map(t => `<option ${state.dtype === t ? "selected" : ""}>${t}</option>`).join("")}</select>
+          <label class="toggle" id="dlegalwrap"><input type="checkbox" id="dlegal" ${state.dlegal ? "checked" : ""}> Legal only</label>
+          <span class="count" id="dcount"></span>
+        </div>
+        <div class="grid" id="dgrid"></div>
+      </section>
+    </div>`;
+  $("#dname").addEventListener("input", e => { deck.name = e.target.value || "Untitled deck"; touch(deck); });
+  $("#dformat").addEventListener("change", e => { deck.format = e.target.value; touch(deck); refreshDeck(); });
+  $("#dq").addEventListener("input", e => { state.dq = e.target.value; drawPicker(deck); });
+  $("#dtype").addEventListener("change", e => { state.dtype = e.target.value; drawPicker(deck); });
+  $("#dlegal").addEventListener("change", e => { state.dlegal = e.target.checked; drawPicker(deck); });
+  refreshDeck();
+}
+
+function refreshDeck() {
+  const deck = currentDeck();
+  if (!deck || state.tab !== "decks" || !$("#dlist")) return;
+  const s = deckSummary(deck);
+  const cls = s.total === DECK_SIZE ? "full" : s.total > DECK_SIZE ? "over" : "";
+  $("#dsum").innerHTML = `<div class="row1">
+      <span class="big ${cls}">${s.total} / ${DECK_SIZE}</span>
+      <span class="parts">${SUPERS.map(k => `${k} ${s.by[k]}`).join(" · ")}${s.by.Other ? ` · Unknown ${s.by.Other}` : ""}</span>
+      <span class="val">${money(s.value)} owned${s.need ? ` · ${s.need} needed` : ""}</span>
+    </div>
+    <div class="bar"><i class="${cls}" style="width:${Math.min(100, s.total / DECK_SIZE * 100)}%"></i></div>`;
+  $("#dchecks").innerHTML = s.ready ? `<span class="badge ok">✓ Ready to play${deck.format !== "casual" ? ` in ${FORMATS[deck.format]}` : ""}</span>`
+    : s.issues.map(i => `<span class="badge ${i.lvl}">${esc(i.t)}</span>`).join("");
+  $("#dpaneseg").innerHTML = [["deck", `Deck (${s.total})`], ["add", "Add cards"]]
+    .map(([k, l]) => `<button data-dpane="${k}" aria-pressed="${state.deckPane === k}">${l}</button>`).join("");
+  $("#dlegalwrap").style.display = deck.format === "casual" ? "none" : "";
+  drawDeckList(deck, s);
+  drawPicker(deck);
+}
+
+// Keep evolution lines together: sort Pokémon by the Basic they start from, then by stage
+function evoSort(rows) {
+  const from = new Map(rows.filter(r => r.info?.from).map(r => [nameKey(r.c.name), nameKey(r.info.from)]));
+  const root = n => { const seen = new Set(); while (from.has(n) && !seen.has(n)) { seen.add(n); n = from.get(n); } return n; };
+  const depth = n => { let d = 0; const seen = new Set(); while (from.has(n) && !seen.has(n)) { seen.add(n); n = from.get(n); d++; } return d; };
+  return rows.sort((a, b) => root(nameKey(a.c.name)).localeCompare(root(nameKey(b.c.name)))
+    || depth(nameKey(a.c.name)) - depth(nameKey(b.c.name)) || a.c.name.localeCompare(b.c.name));
+}
+const TRAINER_ORDER = ["Supporter", "Item", "Pokémon Tool", "Stadium"];
+const trainerRank = i => { const k = TRAINER_ORDER.findIndex(t => i?.sub?.includes(t)); return k < 0 ? 9 : k; };
+
+function drawDeckList(deck, s) {
+  if (!s.rows.length) {
+    $("#dlist").innerHTML = `<div class="empty">No cards yet. ${matchMedia("(max-width: 860px)").matches ? "Tap <b>Add cards</b>" : "Click cards on the right"} to add them.</div>`;
+    return;
+  }
+  const groups = [...SUPERS, "Other"].map(k => {
+    let rows = s.rows.filter(r => (SUPERS.includes(r.super) ? r.super : "Other") === k);
+    if (k === "Pokémon") rows = evoSort(rows);
+    else if (k === "Trainer") rows.sort((a, b) => trainerRank(a.info) - trainerRank(b.info) || b.n - a.n || a.c.name.localeCompare(b.c.name));
+    else rows.sort((a, b) => b.n - a.n || a.c.name.localeCompare(b.c.name));
+    return [k, rows];
+  }).filter(([, rows]) => rows.length);
+  const other = usageElsewhere(deck);
+  $("#dlist").innerHTML = groups.map(([k, rows]) => `<h3><span>${k === "Other" ? "Not in your collection" : k}</span><span>${rows.reduce((a, r) => a + r.n, 0)}</span></h3>
+    ${rows.map(r => {
+      const can = canAdd(deck, r);
+      const meta = [r.e.code && r.e.no ? `${r.e.code} ${r.e.no}` : r.c.set, r.info ? stageOf(r.info) : ""].filter(Boolean).join(" · ");
+      const shared = r.owned && r.c.qty !== Infinity && r.have + (other.get(r.c.id) || 0) > r.c.qty;
+      const illegal = deck.format !== "casual" && r.info && legalIn(r.info, deck.format) === false;
+      return `<div class="drow ${r.need ? "ghost" : ""}">
+        <div class="th" ${r.owned && !r.c.virtual ? `data-id="${esc(r.c.id)}"` : ""}>${cardImg(r.c, false, `alt="" loading="lazy"`)}</div>
+        <div class="a"><div title="${esc(r.c.name)}">${r.info?.types?.length ? pips(r.info.types) + " " : ""}${esc(r.c.name)}</div>
+          <div class="m">${esc(meta)}${r.need ? ` · <span class="needs">need ${r.need}</span>` : ""}${shared ? ` · <span class="needs">shared</span>` : ""}${illegal ? ` · <span class="bad">not ${FORMATS[deck.format]}</span>` : ""}</div></div>
+        <div class="qc"><button data-ddec="${r.idx}" aria-label="Remove one">−</button><b>${r.n}</b>
+          <button data-dinc="${r.idx}" aria-label="Add one" ${can.ok ? "" : `disabled title="${esc(can.why)}"`}>+</button></div>
+      </div>`;
+    }).join("")}`).join("");
+}
+
+// Can one more copy go in? Owned entries are capped at the copies you own.
+function canAdd(deck, r) {
+  const basicE = isBasicEnergy(r.info) || /^basic \w+ energy$/i.test(r.e?.name || r.c.name);
+  if (!basicE && nameCount(deck, r.c.name) >= MAX_COPIES) return { ok: false, why: `Max ${MAX_COPIES} cards named ${r.c.name}` };
+  if (r.owned && r.n >= r.c.qty) return { ok: false, why: `You own ${r.c.qty}` };
+  return { ok: true };
+}
+
+function addCard(deck, c) {
+  let e = deck.cards.find(x => x.id === c.id);
+  const r = { owned: true, c, info: c.info, n: e?.n || 0, e };
+  if (!canAdd(deck, r).ok) return;
+  // Adding an owned copy fills a matching "need" slot from an imported list first
+  const same = x => !x.id && nameKey(x.name) === nameKey(c.name) && (c.info.super !== "Pokémon" || !x.code || x.code === c.info.code);
+  const ghost = deck.cards.find(x => same(x) && x.n > 0);
+  if (ghost) ghost.n--;
+  if (!e) { e = entryFor(c); deck.cards.push(e); }
+  e.n++;
+  deck.cards = deck.cards.filter(x => x.n > 0);
+  touch(deck); refreshDeck();
+}
+
+function drawPicker(deck) {
+  const terms = state.dq.toLowerCase().split(/\s+/).filter(Boolean);
+  const inDeck = new Map(deck.cards.filter(e => e.id).map(e => [e.id, e.n]));
+  let hidden = 0;
+  const list = state.pool.filter(c => {
+    const i = c.info;
+    if (state.dsuper !== "all" && i.super !== state.dsuper) return false;
+    if (state.dtype && !(i.types || []).includes(state.dtype)) return false;
+    if (terms.length) {
+      const hay = `${c.name} ${c.set} ${i.super} ${(i.sub || []).join(" ")} ${(i.types || []).join(" ")} ${(i.attacks || []).map(a => a.n).join(" ")} ${(i.abilities || []).join(" ")} ${i.from || ""}`.toLowerCase();
+      if (!terms.every(t => hay.includes(t))) return false;
+    }
+    if (state.dlegal && deck.format !== "casual" && legalIn(i, deck.format) === false) { hidden++; return false; }
+    return true;
+  }).sort((a, b) => SUPERS.indexOf(a.info.super) - SUPERS.indexOf(b.info.super)
+    || (a.info.super === "Pokémon" ? TYPES.indexOf(a.info.types?.[0]) - TYPES.indexOf(b.info.types?.[0]) : 0)
+    || (a.info.super === "Trainer" ? trainerRank(a.info) - trainerRank(b.info) : 0)
+    || (!!a.virtual - !!b.virtual) || a.name.localeCompare(b.name) || cardNo(a) - cardNo(b));
+
+  $("#dcount").textContent = `${list.length} cards${hidden ? ` · ${hidden} hidden (not ${FORMATS[deck.format]}-legal)` : ""}`;
+  $("#dgrid").innerHTML = list.length ? list.map(c => {
+    const n = inDeck.get(c.id) || 0;
+    const can = canAdd(deck, { owned: true, c, info: c.info, n });
+    const left = c.qty === Infinity ? "" : `<span class="qty">${c.qty - n} left</span>`;
+    const i = c.info;
+    const meta = i.super === "Pokémon" ? `${stageOf(i)}${i.hp ? " · " + i.hp + " HP" : ""}` : stageOf(i);
+    const illegal = deck.format !== "casual" && legalIn(i, deck.format) === false;
+    return `<button class="card pick ${can.ok ? "" : "out"}" data-dadd="${esc(c.id)}" title="${esc(can.ok ? (illegal ? `Not ${FORMATS[deck.format]}-legal` : "Add to deck") : can.why)}">
+      <div class="img">${cardImg(c, false, `alt="" loading="lazy" decoding="async"`) || `<div class="ph">${esc(c.name)}</div>`}${left}${n ? `<span class="indeck">×${n}</span>` : ""}</div>
+      <div class="nm" title="${esc(c.name)}">${i.types?.length ? pips(i.types) + " " : ""}${esc(c.name)}</div>
+      <div class="meta">${esc(meta)}${illegal ? " · ⚠" : ""}</div>
+    </button>`;
+  }).join("") : `<div class="empty" style="grid-column:1/-1">No cards match.</div>`;
+}
+
+/* ----- deck lists in Pokémon TCG Live format ----- */
+function exportDeck(deck) {
+  const s = deckSummary(deck);
+  const sections = [...SUPERS, "Other"].map(k => [k, s.rows.filter(r => (SUPERS.includes(r.super) ? r.super : "Other") === k)]).filter(([, r]) => r.length);
+  // Owned and still-needed copies of one printing go on one line
+  const lines = rows => {
+    const m = new Map();
+    for (const r of rows) {
+      const t = `${r.e.name}${r.e.code && r.e.no ? ` ${r.e.code} ${r.e.no}` : ""}`;
+      m.set(t, (m.get(t) || 0) + r.n);
+    }
+    return [...m].map(([t, n]) => `${n} ${t}`).join("\n");
+  };
+  return sections.map(([k, rows]) => `${k}: ${rows.reduce((a, r) => a + r.n, 0)}\n${lines(rows)}`).join("\n\n")
+    + `\n\nTotal Cards: ${s.total}\n`;
+}
+
+function parseDeckList(text) {
+  let section = null;
+  const out = [];
+  for (let raw of text.split(/\r?\n/)) {
+    const line = raw.trim().replace(/^[*•\-]\s*/, "");
+    if (!line || /^total cards/i.test(line)) continue;
+    const sec = line.match(/^(pok[eé]mon|trainers?|energy)\b[^0-9]*\d*\)?\s*$/i);
+    if (sec) { section = /^pok/i.test(sec[1]) ? "Pokémon" : /^t/i.test(sec[1]) ? "Trainer" : "Energy"; continue; }
+    const m = line.match(/^(\d+)x?\s+(.+?)(?:\s+([A-Z][A-Z0-9-]{1,6})\s+([A-Z]{0,4}\d+[a-z]?))?$/);
+    if (m) out.push({ n: +m[1], name: m[2].trim(), code: m[3] === "PR-SV" ? "SVP" : m[3] || null, no: m[4] || null, super: section });
+  }
+  return out;
+}
+
+// Match a pasted list against the collection. Exact printing first; then any
+// printing with the same name (for Pokémon only within the same set, since
+// different printings usually have different attacks). The rest is "need".
+function importDeck(text) {
+  const wanted = parseDeckList(text);
+  if (!wanted.length) return null;
+  const cards = [], used = new Map();
+  const take = (c, n) => {
+    const free = c.qty === Infinity ? n : Math.max(0, c.qty - (used.get(c.id) || 0));
+    const k = Math.min(n, free);
+    if (!k) return 0;
+    used.set(c.id, (used.get(c.id) || 0) + k);
+    const e = cards.find(x => x.id === c.id);
+    if (e) e.n += k; else cards.push({ ...entryFor(c), n: k });
+    return k;
+  };
+  for (const w of wanted) {
+    let left = w.n;
+    const energy = w.name.match(/^(?:basic\s+)?(?:\{([GRWLPFDM])\}|(grass|fire|water|lightning|psychic|fighting|darkness|metal))\s+energy$/i);
+    if (energy) {
+      const t = TYPE_SYM[energy[1]?.toUpperCase()] || energy[2][0].toUpperCase() + energy[2].slice(1).toLowerCase();
+      take(state.poolById.get("e:" + t), left);
+      continue;
+    }
+    const k = nameKey(w.name);
+    const named = state.pool.filter(c => !c.virtual && nameKey(c.name) === k);
+    const exact = named.filter(c => w.code && c.info.code === w.code && String(c.info.no) === String(w.no).replace(/^0+/, ""));
+    for (const c of exact) left -= take(c, left);
+    const superOf = w.super || named[0]?.info.super;
+    const alts = named.filter(c => !exact.includes(c) && (superOf !== "Pokémon" || !w.code || c.info.code === w.code))
+      .sort((a, b) => (legalIn(b.info, "standard") === true) - (legalIn(a.info, "standard") === true));
+    for (const c of alts) left -= take(c, left);
+    if (left > 0) cards.push({ id: null, name: w.name, code: w.code, no: w.no, super: superOf || null, n: left });
+  }
+  return cards;
+}
+
+function showDialog(html) {
+  const dlg = $("#dlg");
+  dlg.innerHTML = `<div class="dlg one">${html}</div>`;
+  dlg.showModal();
+  dlg.querySelectorAll("[data-close]").forEach(b => b.onclick = () => dlg.close());
+  return dlg;
+}
+
+function openImport() {
+  const dlg = showDialog(`<div><h3>Import a deck list</h3>
+    <p>Paste a list from Pokémon TCG Live, Limitless or a deck site. Cards you own are filled in from your collection; the rest show as cards you need.</p>
+    <input id="impname" placeholder="Deck name" style="width:100%;margin-bottom:8px;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:8px 10px">
+    <textarea id="imptext" placeholder="Pokémon: 12&#10;4 Charmander MEW 4&#10;…"></textarea>
+    <p id="imperr" style="color:var(--loss)"></p>
+    <div class="actions"><button class="btn" id="impgo">Import</button><button class="btn ghost" data-close>Cancel</button></div></div>`);
+  $("#impgo").onclick = () => {
+    const cards = importDeck($("#imptext").value);
+    if (!cards) { $("#imperr").textContent = "Couldn't find any cards. Lines should look like “4 Charmander MEW 4”."; return; }
+    dlg.close();
+    newDeck($("#impname").value.trim() || "Imported deck", cards, "standard");
+  };
+  $("#imptext").focus();
+}
+
+function openExport(deck) {
+  const text = exportDeck(deck);
+  showDialog(`<div><h3>${esc(deck.name)}</h3>
+    <p id="exmsg">In Pokémon TCG Live: Decks → New deck → Import, then paste.</p>
+    <textarea id="extext" readonly>${esc(text)}</textarea>
+    <div class="actions" style="margin-top:10px"><button class="btn" id="excopy">Copy</button><button class="btn ghost" data-close>Close</button></div></div>`);
+  const copy = () => navigator.clipboard?.writeText(text).then(() => { $("#exmsg").textContent = "Copied! In Pokémon TCG Live: Decks → New deck → Import, then paste."; }).catch(() => $("#extext").select());
+  $("#excopy").onclick = copy;
+  copy();
+}
+
+function confirmDelete(deck) {
+  const dlg = showDialog(`<div><h3>Delete “${esc(deck.name)}”?</h3><p>This can't be undone. Your cards stay in your collection.</p>
+    <div class="actions"><button class="btn" style="background:var(--loss)" id="delgo">Delete deck</button><button class="btn ghost" data-close>Cancel</button></div></div>`);
+  $("#delgo").onclick = () => {
+    state.decks = state.decks.filter(d => d !== deck); saveDecks();
+    dlg.close(); openDeck(null);
+  };
+}
+
 /* ---------- tooltip & dialog ---------- */
 const tip = $("#tip");
 function showTip(e, html) {
@@ -652,6 +1185,17 @@ document.addEventListener("pointerover", e => { const t = e.target.closest("[dat
 document.addEventListener("pointermove", e => { const t = e.target.closest("[data-tip]"); if (t) showTip(e, t.dataset.tip); });
 document.addEventListener("pointerout", e => { if (e.target.closest("[data-tip]") && !e.relatedTarget?.closest?.("[data-tip]")) hideTip(); });
 
+function gameInfo(i) {
+  if (!i?.super) return "";
+  const legal = { standard: legalIn(i, "standard"), expanded: legalIn(i, "expanded") };
+  const yn = v => v == null ? "?" : v ? "✓" : "✗";
+  return `<dt>Card type</dt><dd>${i.types?.length ? pips(i.types) + " " : ""}${esc([i.super, stageOf(i)].filter((v, k, a) => v && a.indexOf(v) === k).join(" · "))}${i.hp ? ` · ${esc(i.hp)} HP` : ""}</dd>
+    ${i.from ? `<dt>Evolves from</dt><dd>${esc(i.from)}</dd>` : ""}
+    ${i.abilities ? `<dt>Ability</dt><dd>${i.abilities.map(esc).join(", ")}</dd>` : ""}
+    ${i.attacks ? `<dt>Attacks</dt><dd class="attacks">${i.attacks.map(a => `<div>${pips(a.c)} ${esc(a.n)}<span class="dmg">${esc(a.d)}</span></div>`).join("")}</dd>` : ""}
+    <dt>Legal</dt><dd>${i.mark ? `Mark ${esc(i.mark)} · ` : ""}Standard ${yn(legal.standard)} · Expanded ${yn(legal.expanded)}</dd>`;
+}
+
 function openCard(id) {
   const c = state.all.find(x => x.id === id) || (state.setShown || []).find(x => x.id === id);
   if (!c) return;
@@ -666,6 +1210,7 @@ function openCard(id) {
         ${[7, 30].map(d => { const ch = priceChange(c, d); return ch ? `<dt>${d}-day change</dt><dd class="${ch.delta > 0 ? "up" : ch.delta < 0 ? "down" : ""}">${signed(ch.delta)} ${pctStr(ch.pct)}</dd>` : ""; }).join("")}
         <dt>Quantity</dt><dd>${c.qty || "Not owned"}</dd>
         ${c.qty ? `<dt>Owned value</dt><dd>${money(owned(c))}</dd>` : ""}
+        ${gameInfo(state.info[c.id])}
         <dt>Rarity</dt><dd>${esc(c.rarity || "—")}</dd>
         ${c.brand ? `<dt>Brand</dt><dd>${esc(c.brand)}</dd>` : ""}
         ${c.setRelease ? `<dt>Released</dt><dd>${esc(c.setRelease)}</dd>` : ""}
@@ -686,7 +1231,7 @@ function render() {
   hideTip();
   renderHeader();
   document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === state.tab));
-  ({ cards: renderCards, sets: renderSets, insights: renderInsights })[state.tab]();
+  ({ cards: renderCards, sets: renderSets, insights: renderInsights, decks: renderDecks })[state.tab]();
 }
 
 document.addEventListener("click", e => {
@@ -702,9 +1247,40 @@ document.addEventListener("click", e => {
   const set = e.target.closest(".set[data-set]");
   if (set && set.dataset.setid) { state.setDetail = set.dataset.setid; state.setQ = ""; render(); scrollTo({ top: 0 }); return; }
   if (set) { state.set = set.dataset.set; state.tab = "cards"; state.sort = "set"; state.q = ""; state.rarity = ""; render(); scrollTo({ top: 0 }); return; }
+  if (handleDeckClick(e)) return;
   const card = e.target.closest("[data-id]");
   if (card) openCard(card.dataset.id);
 });
+
+function handleDeckClick(e) {
+  const t = sel => e.target.closest(sel);
+  const deck = currentDeck();
+  let el;
+  if (t("[data-newdeck]")) { newDeck(); return true; }
+  if (t("[data-importdeck]")) { openImport(); return true; }
+  if ((el = t("[data-deck]"))) { openDeck(el.dataset.deck); return true; }
+  if (t("[data-deckback]")) { openDeck(null); return true; }
+  if (!deck) return false;
+  if ((el = t("[data-dadd]"))) { const c = state.poolById.get(el.dataset.dadd); if (c) addCard(deck, c); return true; }
+  if ((el = t("[data-dinc]:not(:disabled)"))) { deck.cards[+el.dataset.dinc].n++; touch(deck); refreshDeck(); return true; }
+  if ((el = t("[data-ddec]"))) {
+    const i = +el.dataset.ddec;
+    if (--deck.cards[i].n <= 0) deck.cards.splice(i, 1);
+    touch(deck); refreshDeck(); return true;
+  }
+  if ((el = t("[data-dsuper]"))) {
+    state.dsuper = el.dataset.dsuper;
+    document.querySelectorAll("[data-dsuper]").forEach(b => b.setAttribute("aria-pressed", b === el));
+    drawPicker(deck); return true;
+  }
+  if ((el = t("[data-dpane]"))) { state.deckPane = el.dataset.dpane; $(".dbuild").dataset.pane = state.deckPane; refreshDeck(); return true; }
+  if (t("[data-deckexport]")) { openExport(deck); return true; }
+  if (t("[data-deckdup]")) {
+    newDeck(deck.name + " (copy)", deck.cards.map(e => ({ ...e })), deck.format); return true;
+  }
+  if (t("[data-deckdel]")) { confirmDelete(deck); return true; }
+  return false;
+}
 
 addEventListener("scroll", hideTip, { passive: true });
 let rz;

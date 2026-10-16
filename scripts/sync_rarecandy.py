@@ -10,6 +10,9 @@ so the Action doesn't commit on every run.
   data/history.json     total collection value, one point per day
   data/prices.json      per-card price change points: {id: [[date, price], ...]}
   data/sets/<id>.json   every single card in each owned set (refreshed daily)
+  data/cardinfo.json    gameplay info per owned Pokémon card (type, stage, HP,
+                        attacks, regulation mark) for the deck builder
+  data/tcgsets.json     Pokémon set codes (e.g. MEW) -> set id, for deck lists
   images/cards/         WebP backups of owned cards' pictures (small + large)
 
 Rare Candy's own price-history endpoint is broken server-side, so per-card
@@ -35,6 +38,10 @@ HISTORY = DATA / "history.json"
 PRICES = DATA / "prices.json"
 SETS = DATA / "sets"
 IMAGES = ROOT / "images" / "cards"
+CARDINFO = DATA / "cardinfo.json"
+TCGSETS = DATA / "tcgsets.json"
+# Open Pokémon TCG card data (same ids as the images.scrydex.com picture URLs)
+TCG_DATA = "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/master"
 
 # Refuse to save if the collection suddenly shrinks this much (e.g. profile made
 # private, or Rare Candy returning an empty list). Run the workflow with
@@ -331,12 +338,101 @@ def sync_sets(cards, today):
         print(f"Set {name}: {len(set_cards)} cards")
 
 
+def get_json(url):
+    req = urllib.request.Request(url, headers={"user-agent": "card-collection-sync"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read())
+
+
+def tcg_id(card):
+    # https://images.scrydex.com/pokemon/sv3pt5-96/small -> sv3pt5-96
+    m = re.search(r"/pokemon/([^/]+)/", card.get("img") or "")
+    return m.group(1) if m else None
+
+
+def card_info(t, codes):
+    set_id = t["id"].rsplit("-", 1)[0]
+    info = {
+        "tcgId": t["id"],
+        "super": t.get("supertype"),
+        "sub": t.get("subtypes") or [],
+        "types": t.get("types") or [],
+        "mark": t.get("regulationMark"),
+        "expanded": (t.get("legalities") or {}).get("expanded") == "Legal",
+        "code": codes.get(set_id),
+        "no": t.get("number"),
+    }
+    if t.get("hp"):
+        info["hp"] = int(t["hp"]) if t["hp"].isdigit() else t["hp"]
+    if t.get("evolvesFrom"):
+        info["from"] = t["evolvesFrom"]
+    if t.get("abilities"):
+        info["abilities"] = [a["name"] for a in t["abilities"]]
+    if t.get("attacks"):
+        info["attacks"] = [{"n": a["name"], "c": a.get("cost") or [], "d": a.get("damage") or ""} for a in t["attacks"]]
+    return info
+
+
+def sync_cardinfo(cards, today):
+    """Look up each owned Pokémon card in the open Pokémon TCG dataset so the
+    deck builder knows Pokémon/Trainer/Energy, stage, type and legality. Only
+    sets with cards we haven't looked up yet are downloaded."""
+    pokemon = [c for c in cards if c["brandSlug"] == "pokemon" and c["category"] == "SINGLE_CARD"]
+    info = json.loads(CARDINFO.read_text()) if CARDINFO.exists() else {}
+    # Cards the dataset doesn't have yet get another try once a day
+    todo = [c for c in pokemon if tcg_id(c) and (
+        c["id"] not in info or (not info[c["id"]].get("super") and info[c["id"]].get("checked") != today))]
+    if not todo and TCGSETS.exists():
+        return
+    try:
+        sets = get_json(f"{TCG_DATA}/sets/en.json")
+    except (urllib.error.URLError, TimeoutError) as e:
+        print(f"Card info skipped: {e}", file=sys.stderr)
+        return
+    # PTCG Live writes Scarlet & Violet promos as SVP
+    codes = {s["id"]: ("SVP" if s.get("ptcgoCode") == "PR-SV" else s.get("ptcgoCode")) for s in sets}
+    write_if_changed(TCGSETS, {code: {"id": sid, "name": next(s["name"] for s in sets if s["id"] == sid)}
+                               for sid, code in sorted(codes.items()) if code})
+    by_set = {}
+    for c in todo:
+        by_set.setdefault(tcg_id(c).rsplit("-", 1)[0], []).append(c)
+    for set_id, set_cards in sorted(by_set.items()):
+        try:
+            tcg = {t["id"]: t for t in get_json(f"{TCG_DATA}/cards/en/{set_id}.json")}
+        except urllib.error.HTTPError as e:
+            tcg = {}
+            if e.code != 404:
+                print(f"Card info for {set_id} failed: {e}", file=sys.stderr)
+                continue
+        except (urllib.error.URLError, TimeoutError) as e:
+            print(f"Card info for {set_id} failed: {e}", file=sys.stderr)
+            continue
+        for c in set_cards:
+            t = tcg.get(tcg_id(c))
+            # New promos lag behind in the dataset; another printing with the
+            # same name in that set is close enough for type/stage
+            twin = next((x for x in tcg.values() if x["name"] == c["name"]), None)
+            if t:
+                info[c["id"]] = card_info(t, codes)
+            elif twin:
+                info[c["id"]] = {**card_info(twin, codes), "tcgId": tcg_id(c),
+                                 "no": tcg_id(c).rsplit("-", 1)[1], "mark": None, "approx": True}
+            elif m := re.fullmatch(r"(?:Basic )?(\w+) Energy", c["name"]):
+                # e.g. Mega Evolution Energies, which the dataset doesn't have
+                info[c["id"]] = {"super": "Energy", "sub": ["Basic"], "types": [m.group(1)], "expanded": True}
+            else:
+                info[c["id"]] = {"super": None, "checked": today}
+    if write_if_changed(CARDINFO, dict(sorted(info.items()))):
+        print(f"Card info: {len(info)} cards")
+
+
 def main():
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
     today = now.date().isoformat()
     cards = sync_collection(now)
     sync_prices(cards, today)
     sync_sets(cards, today)
+    sync_cardinfo(cards, today)
 
 
 if __name__ == "__main__":
