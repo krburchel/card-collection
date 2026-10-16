@@ -36,6 +36,32 @@
   "code": "PRE",
   "no": "99"
  },
+ "rc:03KbIbdxMzPT2VCW": {
+  "tcgId": "sv3-100",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "100",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Play Rough",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30+"
+   }
+  ]
+ },
  "rc:03WdqqUKztmDWJxq": {
   "tcgId": "sv4pt5-40",
   "super": "Pokémon",
@@ -463,6 +489,38 @@
      "Colorless"
     ],
     "d": "50"
+   }
+  ]
+ },
+ "rc:2SS8rWKLVOxrANBS": {
+  "tcgId": "sv3-99",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "99",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gnaw",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Spooky Shot",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "20"
    }
   ]
  },
@@ -2205,6 +2263,38 @@
    }
   ]
  },
+ "rc:B9IQ2xNQPFjNTRuG": {
+  "tcgId": "sv3-98",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "98",
+  "hp": 70,
+  "from": "Sinistea",
+  "attacks": [
+   {
+    "n": "Antique Collecting",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Pour Tea",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   }
+  ]
+ },
  "rc:BI3x6JAO9MWddyue": {
   "tcgId": "sv8pt5-89",
   "super": "Pokémon",
@@ -3059,6 +3149,38 @@
      "Colorless"
     ],
     "d": "60+"
+   }
+  ]
+ },
+ "rc:GAIoagSOkGDr9Xu8": {
+  "tcgId": "sv3-95",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "95",
+  "hp": 120,
+  "from": "Baltoy",
+  "attacks": [
+   {
+    "n": "Kaboom Doll",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Mind Bend",
+    "c": [
+     "Psychic"
+    ],
+    "d": "30"
    }
   ]
  },
@@ -4062,6 +4184,35 @@
      "Colorless"
     ],
     "d": "10"
+   }
+  ]
+ },
+ "rc:LkqReazSv0GYb5cM": {
+  "tcgId": "sv3-92",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "92",
+  "hp": 90,
+  "abilities": [
+   "New Moon"
+  ],
+  "attacks": [
+   {
+    "n": "Moon Press",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
    }
   ]
  },
@@ -6966,6 +7117,41 @@
   "code": "PAF",
   "no": "82"
  },
+ "rc:YANMvr266iYcIyZJ": {
+  "tcgId": "sv3-101",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "101",
+  "hp": 140,
+  "from": "Greavard",
+  "attacks": [
+   {
+    "n": "Rear Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Two Four-ocious",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80+"
+   }
+  ]
+ },
  "rc:YJq8CX9WI3aznLzV": {
   "tcgId": "sv3pt5-5",
   "super": "Pokémon",
@@ -8194,6 +8380,38 @@
   "expanded": true,
   "code": "PAF",
   "no": "85"
+ },
+ "rc:fGb7eSXALvpp4atL": {
+  "tcgId": "sv3-93",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "93",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Call for Family",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Solar Beam",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
  },
  "rc:fWbNVK4ghsKjbmMi": {
   "tcgId": "sv3-59",
@@ -10152,6 +10370,40 @@
    }
   ]
  },
+ "rc:ppfOnz4iGwwyzpHn": {
+  "tcgId": "sv3-91",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "91",
+  "hp": 120,
+  "from": "Spoink",
+  "attacks": [
+   {
+    "n": "Powerful Steps",
+    "c": [
+     "Psychic"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Zen Headbutt",
+    "c": [
+     "Psychic",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
  "rc:pxwGY0RjlVyiyUdo": {
   "tcgId": "sv3pt5-17",
   "super": "Pokémon",
@@ -11226,6 +11478,30 @@
    }
   ]
  },
+ "rc:vITqtSdg5OLowCHd": {
+  "tcgId": "sv3-94",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "94",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rapid Spin",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:va3ldiCfkYThGZCR": {
   "tcgId": "sv8pt5-123",
   "super": "Trainer",
@@ -12136,6 +12412,30 @@
      "Colorless"
     ],
     "d": "60"
+   }
+  ]
+ },
+ "rc:zFUoRqxNL8XY2cH1": {
+  "tcgId": "sv3-97",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "97",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Cold Tea",
+    "c": [
+     "Psychic"
+    ],
+    "d": "10"
    }
   ]
  },
