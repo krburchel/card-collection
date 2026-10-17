@@ -383,6 +383,40 @@
    }
   ]
  },
+ "rc:28Y0c4ghHBuCMWMd": {
+  "tcgId": "sv3-117",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "117",
+  "hp": 130,
+  "from": "Rockruff",
+  "attacks": [
+   {
+    "n": "Finishing Fang",
+    "c": [
+     "Fighting"
+    ],
+    "d": "90"
+   },
+   {
+    "n": "Slashing Claw",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
  "rc:2BNMehVbWsCV7ydS": {
   "tcgId": "sv8pt5-69",
   "super": "Pokémon",
@@ -2967,6 +3001,31 @@
    }
   ]
  },
+ "rc:F7nJGs4NiU0LTJAq": {
+  "tcgId": "sv3-104",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "104",
+  "hp": 90,
+  "from": "Diglett",
+  "attacks": [
+   {
+    "n": "Dig",
+    "c": [
+     "Fighting"
+    ],
+    "d": "50"
+   }
+  ]
+ },
  "rc:FCSDaECeMXI47VqC": {
   "tcgId": "sv3pt5-158",
   "super": "Trainer",
@@ -3254,6 +3313,31 @@
    }
   ]
  },
+ "rc:GJ4dAzJ0a3eAowSQ": {
+  "tcgId": "sv3-122",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "122",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Poison Shard",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:GPPqqpJXGAywWeje": {
   "tcgId": "sv3-16",
   "super": "Pokémon",
@@ -3538,6 +3622,72 @@
    }
   ]
  },
+ "rc:Hs5uTfdhA4qWn9R2": {
+  "tcgId": "sv3-109",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "109",
+  "hp": 140,
+  "from": "Barboach",
+  "attacks": [
+   {
+    "n": "Raging and Rocking",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Land Crush",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
+ "rc:HsUnADlqhabgKOuD": {
+  "tcgId": "sv3-121",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "121",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Iron Defense",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Hang Down",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:HwEtMELriZshIN7O": {
   "tcgId": "sv8pt5-77",
   "super": "Pokémon",
@@ -3742,6 +3892,39 @@
      "Colorless"
     ],
     "d": "20"
+   }
+  ]
+ },
+ "rc:IjVmklbpGAydc9lB": {
+  "tcgId": "sv3-106",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "106",
+  "hp": 80,
+  "from": "Larvitar",
+  "attacks": [
+   {
+    "n": "Rock Throw",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Blasting Tackle",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "60"
    }
   ]
  },
@@ -5641,6 +5824,30 @@
    }
   ]
  },
+ "rc:Sdbvy9RrXeJ5rGGv": {
+  "tcgId": "sv3-111",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "111",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rising Lunge",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
  "rc:Sjuwq4MmUzRkh1xQ": {
   "tcgId": "sv3pt5-12",
   "super": "Pokémon",
@@ -6072,6 +6279,33 @@
      "Colorless"
     ],
     "d": "180"
+   }
+  ]
+ },
+ "rc:UNQHOYfYJq21fpbQ": {
+  "tcgId": "sv3-112",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "112",
+  "hp": 120,
+  "abilities": [
+   "Custom Trap"
+  ],
+  "attacks": [
+   {
+    "n": "Rumble",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
    }
   ]
  },
@@ -7263,6 +7497,28 @@
    }
   ]
  },
+ "rc:YnGufxZCLDTNAv8o": {
+  "tcgId": "sv3-110",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "110",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Blubbering",
+    "c": [],
+    "d": "10"
+   }
+  ]
+ },
  "rc:Yw9AZm9yT6LzmSe2": {
   "tcgId": "sv4pt5-89",
   "super": "Trainer",
@@ -7274,6 +7530,38 @@
   "expanded": true,
   "code": "PAF",
   "no": "89"
+ },
+ "rc:ZB1oWOUI41d3FGb6": {
+  "tcgId": "sv3-107",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "107",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Iron Collecting",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Rolling Tackle",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
  },
  "rc:ZJcrCfc9B5lQqEQd": {
   "tcgId": "sv3pt5-71",
@@ -7803,6 +8091,38 @@
      "Colorless"
     ],
     "d": "50"
+   }
+  ]
+ },
+ "rc:cX9LnB0oq2sLvUdI": {
+  "tcgId": "sv3-118",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "118",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Smash Kick",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
    }
   ]
  },
@@ -8474,6 +8794,38 @@
    }
   ]
  },
+ "rc:ftdpjZHE8Q7TuwLn": {
+  "tcgId": "sv3-105",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "105",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Corkscrew Punch",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Confront",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:fxEIAIXoSUMkJONC": {
   "tcgId": "sv3pt5-198",
   "super": "Pokémon",
@@ -9049,6 +9401,41 @@
    }
   ]
  },
+ "rc:iIQi0cPNNJGfGPAD": {
+  "tcgId": "sv3-119",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "119",
+  "hp": 130,
+  "from": "Toedscool",
+  "attacks": [
+   {
+    "n": "Beat",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Double Whip",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100×"
+   }
+  ]
+ },
  "rc:iT11YEh4xMYguhxG": {
   "tcgId": "sv6pt5-4",
   "super": "Pokémon",
@@ -9407,6 +9794,38 @@
    }
   ]
  },
+ "rc:k0rXpzTYCRJ5fQlJ": {
+  "tcgId": "sv3-108",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "108",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Hide",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:k9SypudkkYtnh0bb": {
   "tcgId": "sv4pt5-76",
   "super": "Trainer",
@@ -9649,6 +10068,40 @@
      "Fire"
     ],
     "d": "10+"
+   }
+  ]
+ },
+ "rc:lxyy5zhCbhRbGFcJ": {
+  "tcgId": "sv3-124",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "124",
+  "hp": 230,
+  "attacks": [
+   {
+    "n": "Splitting Beam",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Gaia Press",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "230"
    }
   ]
  },
@@ -9901,6 +10354,40 @@
      "Water"
     ],
     "d": "120"
+   }
+  ]
+ },
+ "rc:nG2VgyUM3LDWtaVa": {
+  "tcgId": "sv3-114",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "114",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Knuckle Punch",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Magnum Punch",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "60"
    }
   ]
  },
@@ -10429,6 +10916,36 @@
    }
   ]
  },
+ "rc:qUPeulwgW1ZMON62": {
+  "tcgId": "sv3-120",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "120",
+  "hp": 220,
+  "abilities": [
+   "Counterattacking Pincer"
+  ],
+  "attacks": [
+   {
+    "n": "Falling Press",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
  "rc:qoSKCVGhUsXH3vNl": {
   "tcgId": "sv3pt5-3",
   "super": "Pokémon",
@@ -10457,6 +10974,41 @@
      "Colorless"
     ],
     "d": "150"
+   }
+  ]
+ },
+ "rc:r19yVkWTdraXumQe": {
+  "tcgId": "sv3-115",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "115",
+  "hp": 160,
+  "from": "Crabrawler",
+  "attacks": [
+   {
+    "n": "Confront",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Knuckle Impact",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "170"
    }
   ]
  },
@@ -10814,6 +11366,41 @@
      "Colorless"
     ],
     "d": "10"
+   }
+  ]
+ },
+ "rc:sKCzXePvAcHKE4F8": {
+  "tcgId": "sv3-113",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "113",
+  "hp": 140,
+  "from": "Bunnelby",
+  "attacks": [
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Knocking Hammer",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "120"
    }
   ]
  },
@@ -11396,6 +11983,30 @@
    }
   ]
  },
+ "rc:uhQYi53qxb2FwyuW": {
+  "tcgId": "sv3-116",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "116",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Bite",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:uruboJM6YCHwmNeJ": {
   "tcgId": "sv3pt5-102",
   "super": "Pokémon",
@@ -11594,6 +12205,30 @@
      "Water"
     ],
     "d": "40"
+   }
+  ]
+ },
+ "rc:vsqJdQ5LoADLw7CH": {
+  "tcgId": "sv3-103",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "OBF",
+  "no": "103",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Hole-Diggin' Noggin",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
    }
   ]
  },
