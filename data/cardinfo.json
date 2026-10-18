@@ -1800,6 +1800,34 @@
    }
   ]
  },
+ "rc:7jbvqIB542xmWcVh": {
+  "tcgId": "sv2-3",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "3",
+  "hp": 90,
+  "from": "Skiploom",
+  "abilities": [
+   "Drifting Dodge"
+  ],
+  "attacks": [
+   {
+    "n": "Fluffy Breeze",
+    "c": [
+     "Grass"
+    ],
+    "d": "60"
+   }
+  ]
+ },
  "rc:7qAznopXhR0xnLdY": {
   "tcgId": "sv3-182",
   "super": "Pokémon",
@@ -3707,6 +3735,30 @@
   "code": "MEW",
   "no": "158"
  },
+ "rc:FKD7RtsOuM9GsU5Z": {
+  "tcgId": "sv2-1",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "1",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Splashing Dodge",
+    "c": [
+     "Grass"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:FTv4iMwm6PIYuIiT": {
   "tcgId": "sv8pt5-130",
   "super": "Trainer",
@@ -5579,6 +5631,39 @@
    }
   ]
  },
+ "rc:MwlJF27f43ywlRwV": {
+  "tcgId": "sv2-7",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "7",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Leaf Drain",
+    "c": [
+     "Grass"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Tropic Breeze",
+    "c": [
+     "Grass",
+     "Grass",
+     "Colorless"
+    ],
+    "d": "130"
+   }
+  ]
+ },
  "rc:N08Taag1WkrYU5gE": {
   "tcgId": "sv3pt5-27",
   "super": "Pokémon",
@@ -7211,6 +7296,34 @@
   "code": "OBF",
   "no": "194"
  },
+ "rc:TTOpZT64peAbkvmc": {
+  "tcgId": "sv2-2",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "2",
+  "hp": 70,
+  "from": "Hoppip",
+  "abilities": [
+   "Drifting Dodge"
+  ],
+  "attacks": [
+   {
+    "n": "Flowery Zephyr",
+    "c": [
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:TWSA3BVQLwcBBrba": {
   "tcgId": "sv3pt5-74",
   "super": "Pokémon",
@@ -8131,6 +8244,40 @@
      "Colorless"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:WLLlpE798NPMX1Ax": {
+  "tcgId": "sv2-6",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "6",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Smashing Horn",
+    "c": [
+     "Grass",
+     "Grass",
+     "Grass"
+    ],
+    "d": "110"
    }
   ]
  },
@@ -11167,6 +11314,37 @@
    }
   ]
  },
+ "rc:iNNazjfe61em7vDn": {
+  "tcgId": "sv2-5",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "Tera",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "5",
+  "hp": 270,
+  "from": "Pineco",
+  "abilities": [
+   "Exploding Energy"
+  ],
+  "attacks": [
+   {
+    "n": "Guard Press",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "120"
+   }
+  ]
+ },
  "rc:iT11YEh4xMYguhxG": {
   "tcgId": "sv6pt5-4",
   "super": "Pokémon",
@@ -13930,6 +14108,38 @@
    }
   ]
  },
+ "rc:u5uDKlTSiGu92aFH": {
+  "tcgId": "sv2-9",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "9",
+  "hp": 120,
+  "from": "Combee",
+  "attacks": [
+   {
+    "n": "Double Stab",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30×"
+   },
+   {
+    "n": "Order a Raid",
+    "c": [
+     "Grass"
+    ],
+    "d": "120"
+   }
+  ]
+ },
  "rc:uXjOEzcimMs7DCgY": {
   "tcgId": "sv8pt5-127",
   "super": "Trainer",
@@ -14503,6 +14713,31 @@
   ],
   "expanded": true
  },
+ "rc:wczGB2GGMaafHVfK": {
+  "tcgId": "sv2-4",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "4",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rollout",
+    "c": [
+     "Grass",
+     "Grass"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:wiNCcpQtRUrrFCt2": {
   "tcgId": "sv3-65",
   "super": "Pokémon",
@@ -14946,6 +15181,30 @@
      "Colorless"
     ],
     "d": "50"
+   }
+  ]
+ },
+ "rc:yTSpzyqPiXngeSA3": {
+  "tcgId": "sv2-8",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "8",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Double Spin",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10×"
    }
   ]
  },
