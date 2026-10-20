@@ -1,14 +1,14 @@
 {
  "setId": "B6wuqD5fJcjCCfNz",
  "name": "Shrouded Fable",
- "fetchedOn": "2026-10-19",
+ "fetchedOn": "2026-10-20",
  "cards": [
   {
    "id": "rc:IZd9v9of3mstxkCt",
    "name": "Joltik",
    "number": "001/064",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-1/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/joltik-1/IZd9v9of3mstxkCt"
@@ -28,7 +28,7 @@
    "name": "Rowlet",
    "number": "003/064",
    "rarity": "Common",
-   "price": 0.22,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-3/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/rowlet-3/9s1UlgnSBNpO0Iko"
@@ -58,7 +58,7 @@
    "name": "Tapu Bulu",
    "number": "006/064",
    "rarity": "Rare",
-   "price": 0.16,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-6/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/tapu-bulu-6/OpeQgjXEr50rnw1Y"
@@ -88,7 +88,7 @@
    "name": "Iron Moth",
    "number": "009/064",
    "rarity": "Uncommon",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-9/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/iron-moth-9/2lBVKxJe6VAvdYHV"
@@ -98,7 +98,7 @@
    "name": "Horsea",
    "number": "010/064",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-10/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-10/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/horsea-10/3Qz3fFOVnRib9JQ7"
@@ -118,7 +118,7 @@
    "name": "Kingdra ex",
    "number": "012/064",
    "rarity": "Double Rare",
-   "price": 0.71,
+   "price": 0.7,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-12/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/kingdra-ex-12/YVc0D3F1ZvSuHHB4"
@@ -148,7 +148,7 @@
    "name": "Revavroom ex",
    "number": "015/064",
    "rarity": "Double Rare",
-   "price": 0.62,
+   "price": 0.63,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-15/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/revavroom-ex-15/KbfZwYM7XEtExkBR"
@@ -158,7 +158,7 @@
    "name": "Drowzee",
    "number": "016/064",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-16/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-16/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/drowzee-16/hO7WL7jJELzTFPSE"
@@ -178,7 +178,7 @@
    "name": "Duskull",
    "number": "018/064",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-18/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-18/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/duskull-18/sSCISpfOivRijrDU"
@@ -218,7 +218,7 @@
    "name": "Sylveon",
    "number": "022/064",
    "rarity": "Uncommon",
-   "price": 0.34,
+   "price": 0.31,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-22/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/sylveon-22/pJatZa3oVj9XD9z7"
@@ -248,7 +248,7 @@
    "name": "Bloodmoon Ursaluna",
    "number": "025/064",
    "rarity": "Rare",
-   "price": 0.22,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-25/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-25/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/bloodmoon-ursaluna-25/pAYgVR6EnmTp5M3S"
@@ -308,7 +308,7 @@
    "name": "Zorua",
    "number": "031/064",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-31/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/zorua-31/W8YEIVwvFkI4iDSn"
@@ -348,7 +348,7 @@
    "name": "Yveltal",
    "number": "035/064",
    "rarity": "Uncommon",
-   "price": 0.06,
+   "price": 0.07,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-35/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-35/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/yveltal-35/738Vpk1LajpuEieU"
@@ -378,7 +378,7 @@
    "name": "Fezandipiti ex",
    "number": "038/064",
    "rarity": "Double Rare",
-   "price": 3.96,
+   "price": 3.72,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-38/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-38/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fezandipiti-ex-38/kVO2ygBScj86v1JL"
@@ -388,7 +388,7 @@
    "name": "Pecharunt ex",
    "number": "039/064",
    "rarity": "Double Rare",
-   "price": 8.01,
+   "price": 7.64,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-39/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/pecharunt-ex-39/tRTJWjQqlTUygM65"
@@ -398,7 +398,7 @@
    "name": "Genesect",
    "number": "040/064",
    "rarity": "Uncommon",
-   "price": 0.23,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-40/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/genesect-40/NAzf3YzWRGZRNNCN"
@@ -458,7 +458,7 @@
    "name": "Haxorus",
    "number": "046/064",
    "rarity": "Rare",
-   "price": 0.2,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-46/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-46/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/haxorus-46/XSiggbkDjbl63owQ"
@@ -488,7 +488,7 @@
    "name": "Persian",
    "number": "049/064",
    "rarity": "Common",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-49/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-49/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/persian-49/waOPHRxd1X6iYaJp"
@@ -498,7 +498,7 @@
    "name": "Eevee",
    "number": "050/064",
    "rarity": "Common",
-   "price": 0.34,
+   "price": 0.32,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-50/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/eevee-50/ebFb5UsIiEkbLAYC"
@@ -508,7 +508,7 @@
    "name": "Furfrou",
    "number": "051/064",
    "rarity": "Common",
-   "price": 0.08,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-51/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/furfrou-51/O3UcSIAhQxXuv1m9"
@@ -518,7 +518,7 @@
    "name": "Stufful",
    "number": "052/064",
    "rarity": "Common",
-   "price": 0.08,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-52/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/stufful-52/EqaZkkYeuQWj8PhI"
@@ -538,7 +538,7 @@
    "name": "Academy at Night",
    "number": "054/064",
    "rarity": "Uncommon",
-   "price": 0.26,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-54/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-54/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/academy-at-night-54/FQqfDOUzZRm433G9"
@@ -598,7 +598,7 @@
    "name": "Neutralization Zone",
    "number": "060/064",
    "rarity": "ACE SPEC Rare",
-   "price": 1.53,
+   "price": 1.59,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-60/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/neutralization-zone-60/DFv0C6EQhXTXfBuB"
@@ -608,7 +608,7 @@
    "name": "Night Stretcher",
    "number": "061/064",
    "rarity": "Uncommon",
-   "price": 0.34,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-61/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-61/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/night-stretcher-61/4cJiD9oUVcwkcm99"
@@ -618,7 +618,7 @@
    "name": "Poké Vital A",
    "number": "062/064",
    "rarity": "ACE SPEC Rare",
-   "price": 0.47,
+   "price": 0.5,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-62/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-62/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/poke-vital-a-62/nmLlaUJoM46OOYU1"
@@ -658,7 +658,7 @@
    "name": "Houndoom",
    "number": "066/064",
    "rarity": "Illustration Rare",
-   "price": 56.53,
+   "price": 56.68,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-66/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/houndoom-66/xDSDUa7aGJPUg9xu"
@@ -738,7 +738,7 @@
    "name": "Okidogi",
    "number": "074/064",
    "rarity": "Illustration Rare",
-   "price": 12.7,
+   "price": 12.64,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-74/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/okidogi-74/O4zjkMRzXcukMeRe"
@@ -748,7 +748,7 @@
    "name": "Zorua",
    "number": "075/064",
    "rarity": "Illustration Rare",
-   "price": 22.18,
+   "price": 22.05,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-75/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/zorua-75/qknQxxP9Z8txFbkG"
@@ -768,7 +768,7 @@
    "name": "Fraxure",
    "number": "077/064",
    "rarity": "Illustration Rare",
-   "price": 16.67,
+   "price": 16.63,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-77/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-77/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fraxure-77/KwjNtPFqoVNrd5KW"
@@ -778,7 +778,7 @@
    "name": "Persian",
    "number": "078/064",
    "rarity": "Illustration Rare",
-   "price": 67.61,
+   "price": 67.32,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-78/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/persian-78/tXjXEA2DseHIJeeE"
@@ -798,7 +798,7 @@
    "name": "Kingdra ex",
    "number": "080/064",
    "rarity": "Ultra Rare",
-   "price": 4.01,
+   "price": 3.99,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-80/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/kingdra-ex-80/Y7VRAoWzHqCV1eEN"
@@ -808,7 +808,7 @@
    "name": "Revavroom ex",
    "number": "081/064",
    "rarity": "Ultra Rare",
-   "price": 1.65,
+   "price": 1.69,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-81/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-81/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/revavroom-ex-81/w7IaaCSQPTFimwSo"
@@ -828,7 +828,7 @@
    "name": "Munkidori ex",
    "number": "083/064",
    "rarity": "Ultra Rare",
-   "price": 2.49,
+   "price": 2.53,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-83/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/munkidori-ex-83/OUlJMGEVZktAIx3H"
@@ -838,7 +838,7 @@
    "name": "Fezandipiti ex",
    "number": "084/064",
    "rarity": "Ultra Rare",
-   "price": 10.49,
+   "price": 10.56,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-84/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fezandipiti-ex-84/teCCawOZqevayanx"
@@ -848,7 +848,7 @@
    "name": "Pecharunt ex",
    "number": "085/064",
    "rarity": "Ultra Rare",
-   "price": 8.29,
+   "price": 8.25,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-85/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-85/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/pecharunt-ex-85/sZjLkr4lr7bifqxh"
@@ -858,7 +858,7 @@
    "name": "Cassiopeia",
    "number": "086/064",
    "rarity": "Ultra Rare",
-   "price": 3.54,
+   "price": 3.59,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-86/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/cassiopeia-86/78vFEWAqBRi2ArPD"
@@ -868,7 +868,7 @@
    "name": "Colress's Tenacity",
    "number": "087/064",
    "rarity": "Ultra Rare",
-   "price": 5.67,
+   "price": 5.59,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-87/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-87/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/colresss-tenacity-87/tKd5xTkRWfb1iBwo"
@@ -878,7 +878,7 @@
    "name": "Janine's Secret Art",
    "number": "088/064",
    "rarity": "Ultra Rare",
-   "price": 5.53,
+   "price": 5.54,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-88/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-88/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/janines-secret-art-88/mjZyOo5b7mUBekaE"
@@ -888,7 +888,7 @@
    "name": "Xerosic's Machinations",
    "number": "089/064",
    "rarity": "Ultra Rare",
-   "price": 7.72,
+   "price": 7.57,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-89/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/xerosics-machinations-89/cDvgWHqyyjL6KPRY"
@@ -898,7 +898,7 @@
    "name": "Okidogi ex",
    "number": "090/064",
    "rarity": "Special Illustration Rare",
-   "price": 21.63,
+   "price": 21.5,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-90/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-90/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/okidogi-ex-90/YglPOaPY0jNk9Jq2"
@@ -908,7 +908,7 @@
    "name": "Munkidori ex",
    "number": "091/064",
    "rarity": "Special Illustration Rare",
-   "price": 16.25,
+   "price": 16.24,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-91/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-91/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/munkidori-ex-91/mQRM6WhmabTklbw2"
@@ -918,7 +918,7 @@
    "name": "Fezandipiti ex",
    "number": "092/064",
    "rarity": "Special Illustration Rare",
-   "price": 34.65,
+   "price": 34.61,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-92/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-92/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/fezandipiti-ex-92/b8QnPz7wwR6OuYKS"
@@ -928,7 +928,7 @@
    "name": "Pecharunt ex",
    "number": "093/064",
    "rarity": "Special Illustration Rare",
-   "price": 23.76,
+   "price": 24.04,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-93/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-93/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/pecharunt-ex-93/qvagas3hCRFQuCsu"
@@ -938,7 +938,7 @@
    "name": "Cassiopeia",
    "number": "094/064",
    "rarity": "Special Illustration Rare",
-   "price": 41.1,
+   "price": 41.07,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-94/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-94/large",
    "url": "https://www.rarecandy.com/pokemon/sets/shrouded-fable/cassiopeia-94/fjRZGJPmtdBxLKxJ"
