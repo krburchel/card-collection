@@ -1,7 +1,7 @@
 {
  "setId": "HUuqX6MB8L5rilHP",
  "name": "Obsidian Flames",
- "fetchedOn": "2026-10-22",
+ "fetchedOn": "2026-10-23",
  "cards": [
   {
    "id": "rc:Qe6LHqcyETZ6M3h7",
@@ -48,7 +48,7 @@
    "name": "Shuckle",
    "number": "005/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-5/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-5/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/shuckle-5/i4Xohs4UAySJxLL9"
@@ -58,7 +58,7 @@
    "name": "Surskit",
    "number": "006/197",
    "rarity": "Common",
-   "price": 0.12,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv3-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-6/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/surskit-6/E64Moq1RM5sRIPwv"
@@ -138,7 +138,7 @@
    "name": "Dartrix",
    "number": "014/197",
    "rarity": "Uncommon",
-   "price": 0.12,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv3-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-14/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/dartrix-14/N3Wq9Zm2rjSDPCAd"
@@ -148,7 +148,7 @@
    "name": "Decidueye ex",
    "number": "015/197",
    "rarity": "Double Rare",
-   "price": 0.86,
+   "price": 0.9,
    "img": "https://images.scrydex.com/pokemon/sv3-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-15/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/decidueye-ex-15/4DhsMTcBNIt01i7p"
@@ -218,7 +218,7 @@
    "name": "Toedscruel ex",
    "number": "022/197",
    "rarity": "Double Rare",
-   "price": 0.7,
+   "price": 0.71,
    "img": "https://images.scrydex.com/pokemon/sv3-22/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-22/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/toedscruel-ex-22/MAs4MJ3o58ZRSCpS"
@@ -228,7 +228,7 @@
    "name": "Capsakid",
    "number": "023/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-23/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-23/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/capsakid-23/CASBSBV7dOcLpovS"
@@ -258,7 +258,7 @@
    "name": "Charmander",
    "number": "026/197",
    "rarity": "Common",
-   "price": 0.3,
+   "price": 0.27,
    "img": "https://images.scrydex.com/pokemon/sv3-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-26/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charmander-26/f17PkhHs74sAQljo"
@@ -278,7 +278,7 @@
    "name": "Vulpix",
    "number": "028/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-28/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-28/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/vulpix-28/d8UplV8Aw1lyAh19"
@@ -288,7 +288,7 @@
    "name": "Ninetales",
    "number": "029/197",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-29/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-29/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/ninetales-29/2tV0nE6YYDagUy3j"
@@ -298,7 +298,7 @@
    "name": "Entei",
    "number": "030/197",
    "rarity": "Rare",
-   "price": 0.19,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-30/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-30/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/entei-30/Wr6yJd2TiPlkfmUj"
@@ -318,7 +318,7 @@
    "name": "Camerupt",
    "number": "032/197",
    "rarity": "Uncommon",
-   "price": 0.17,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv3-32/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-32/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/camerupt-32/Soy7Okvd0elYoF0m"
@@ -328,7 +328,7 @@
    "name": "Victini ex",
    "number": "033/197",
    "rarity": "Double Rare",
-   "price": 1.08,
+   "price": 1.04,
    "img": "https://images.scrydex.com/pokemon/sv3-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-33/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/victini-ex-33/OLpaXhRmagVaRNn2"
@@ -348,7 +348,7 @@
    "name": "Darmanitan",
    "number": "035/197",
    "rarity": "Uncommon",
-   "price": 0.17,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-35/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-35/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/darmanitan-35/i5obCzEOFq2um9iJ"
@@ -368,7 +368,7 @@
    "name": "Lampent",
    "number": "037/197",
    "rarity": "Common",
-   "price": 0.2,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv3-37/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-37/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/lampent-37/Ne8pCF3liP8YecyD"
@@ -398,7 +398,7 @@
    "name": "Larvesta",
    "number": "040/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv3-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-40/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/larvesta-40/Vp0iwTk72g4ueWXy"
@@ -408,7 +408,7 @@
    "name": "Volcarona",
    "number": "041/197",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-41/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-41/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/volcarona-41/gCFyFYc9sHN6zgaV"
@@ -418,7 +418,7 @@
    "name": "Eiscue ex",
    "number": "042/197",
    "rarity": "Double Rare",
-   "price": 0.84,
+   "price": 0.9,
    "img": "https://images.scrydex.com/pokemon/sv3-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-42/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/eiscue-ex-42/ehjdN11g3Rb583Tk"
@@ -428,7 +428,7 @@
    "name": "Charcadet",
    "number": "043/197",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-43/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-43/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charcadet-43/QxjI1Wd2cnkUycd6"
@@ -448,7 +448,7 @@
    "name": "Lapras",
    "number": "045/197",
    "rarity": "Uncommon",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv3-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-45/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/lapras-45/EmjVLvqFkhzCJ9RD"
@@ -468,7 +468,7 @@
    "name": "Sharpedo",
    "number": "047/197",
    "rarity": "Uncommon",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-47/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-47/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/sharpedo-47/9u1ToSprFDgwZ7o9"
@@ -498,7 +498,7 @@
    "name": "Tympole",
    "number": "050/197",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv3-50/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-50/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/tympole-50/VPvw5TgTAfTkKnjG"
@@ -558,7 +558,7 @@
    "name": "Froakie",
    "number": "056/197",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-56/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/froakie-56/7I6WdjanjlW8LtF5"
@@ -588,7 +588,7 @@
    "name": "Wugtrio",
    "number": "059/197",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-59/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/wugtrio-59/fWbNVK4ghsKjbmMi"
@@ -628,7 +628,7 @@
    "name": "Magnemite",
    "number": "063/197",
    "rarity": "Common",
-   "price": 0.06,
+   "price": 0.05,
    "img": "https://images.scrydex.com/pokemon/sv3-63/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-63/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/magnemite-63/9jyqpc1YIi3Echp4"
@@ -638,7 +638,7 @@
    "name": "Magneton",
    "number": "064/197",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv3-64/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-64/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/magneton-64/U6Wr48OybbaLYoDT"
@@ -658,7 +658,7 @@
    "name": "Tyranitar ex",
    "number": "066/197",
    "rarity": "Double Rare",
-   "price": 1.45,
+   "price": 1.33,
    "img": "https://images.scrydex.com/pokemon/sv3-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-66/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/tyranitar-ex-66/Xz7gz7VaJbLoMhN7"
@@ -698,7 +698,7 @@
    "name": "Thundurus",
    "number": "070/197",
    "rarity": "Rare",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-70/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-70/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/thundurus-70/hb8WUioIXwbCNE7g"
@@ -728,7 +728,7 @@
    "name": "Pawmot ex",
    "number": "073/197",
    "rarity": "Double Rare",
-   "price": 0.53,
+   "price": 0.52,
    "img": "https://images.scrydex.com/pokemon/sv3-73/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-73/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pawmot-ex-73/1qGc1v7IwGsqIFoR"
@@ -738,7 +738,7 @@
    "name": "Tadbulb",
    "number": "074/197",
    "rarity": "Common",
-   "price": 0.09,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv3-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-74/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/tadbulb-74/KaBs71b975dD7EGA"
@@ -758,7 +758,7 @@
    "name": "Tadbulb",
    "number": "076/197",
    "rarity": "Common",
-   "price": 0.17,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv3-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-76/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/tadbulb-76/SBaqvS0tuiEmlSOv"
@@ -778,7 +778,7 @@
    "name": "Bellibolt",
    "number": "078/197",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv3-78/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-78/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bellibolt-78/OUmiZNi6sW6Qs93b"
@@ -788,7 +788,7 @@
    "name": "Miraidon ex",
    "number": "079/197",
    "rarity": "Double Rare",
-   "price": 0.95,
+   "price": 0.98,
    "img": "https://images.scrydex.com/pokemon/sv3-79/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-79/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/miraidon-ex-79/9gg32iTJwufB9foc"
@@ -798,7 +798,7 @@
    "name": "Cleffa",
    "number": "080/197",
    "rarity": "Common",
-   "price": 0.35,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv3-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-80/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/cleffa-80/N76auKNOCeLhpIfv"
@@ -828,7 +828,7 @@
    "name": "Togepi",
    "number": "083/197",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-83/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/togepi-83/uxQkI8bAaMRKlcAe"
@@ -838,7 +838,7 @@
    "name": "Togetic",
    "number": "084/197",
    "rarity": "Uncommon",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-84/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/togetic-84/OQg8ZnY9HmJRtGj5"
@@ -858,7 +858,7 @@
    "name": "Espeon",
    "number": "086/197",
    "rarity": "Uncommon",
-   "price": 0.3,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv3-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-86/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/espeon-86/QBTR9yDwmWHk8Xr7"
@@ -878,7 +878,7 @@
    "name": "Granbull",
    "number": "088/197",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv3-88/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-88/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/granbull-88/BdrYxTNKW1WqvCNC"
@@ -928,7 +928,7 @@
    "name": "Solrock",
    "number": "093/197",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-93/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-93/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/solrock-93/fGb7eSXALvpp4atL"
@@ -948,7 +948,7 @@
    "name": "Claydol",
    "number": "095/197",
    "rarity": "Rare",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-95/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-95/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/claydol-95/GAIoagSOkGDr9Xu8"
@@ -958,7 +958,7 @@
    "name": "Vespiquen ex",
    "number": "096/197",
    "rarity": "Double Rare",
-   "price": 0.9,
+   "price": 0.81,
    "img": "https://images.scrydex.com/pokemon/sv3-96/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-96/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/vespiquen-ex-96/fooMCR1zmo8wG2L0"
@@ -968,7 +968,7 @@
    "name": "Sinistea",
    "number": "097/197",
    "rarity": "Common",
-   "price": 0.3,
+   "price": 0.31,
    "img": "https://images.scrydex.com/pokemon/sv3-97/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-97/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/sinistea-97/zFUoRqxNL8XY2cH1"
@@ -978,7 +978,7 @@
    "name": "Polteageist",
    "number": "098/197",
    "rarity": "Uncommon",
-   "price": 0.1,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv3-98/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-98/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/polteageist-98/B9IQ2xNQPFjNTRuG"
@@ -998,7 +998,7 @@
    "name": "Greavard",
    "number": "100/197",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv3-100/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-100/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/greavard-100/03KbIbdxMzPT2VCW"
@@ -1008,7 +1008,7 @@
    "name": "Houndstone",
    "number": "101/197",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-101/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-101/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/houndstone-101/YANMvr266iYcIyZJ"
@@ -1018,7 +1018,7 @@
    "name": "Houndstone ex",
    "number": "102/197",
    "rarity": "Double Rare",
-   "price": 0.98,
+   "price": 1,
    "img": "https://images.scrydex.com/pokemon/sv3-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-102/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/houndstone-ex-102/2rWBUU25Rw1u7a5R"
@@ -1028,7 +1028,7 @@
    "name": "Diglett",
    "number": "103/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-103/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-103/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/diglett-103/vsqJdQ5LoADLw7CH"
@@ -1048,7 +1048,7 @@
    "name": "Larvitar",
    "number": "105/197",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv3-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-105/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/larvitar-105/ftdpjZHE8Q7TuwLn"
@@ -1078,7 +1078,7 @@
    "name": "Barboach",
    "number": "108/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv3-108/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-108/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/barboach-108/k0rXpzTYCRJ5fQlJ"
@@ -1118,7 +1118,7 @@
    "name": "Stunfisk",
    "number": "112/197",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-112/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-112/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/stunfisk-112/UNQHOYfYJq21fpbQ"
@@ -1138,7 +1138,7 @@
    "name": "Crabrawler",
    "number": "114/197",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv3-114/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-114/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/crabrawler-114/nG2VgyUM3LDWtaVa"
@@ -1178,7 +1178,7 @@
    "name": "Toedscool",
    "number": "118/197",
    "rarity": "Common",
-   "price": 0.06,
+   "price": 0.05,
    "img": "https://images.scrydex.com/pokemon/sv3-118/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-118/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/toedscool-118/cX9LnB0oq2sLvUdI"
@@ -1198,7 +1198,7 @@
    "name": "Klawf ex",
    "number": "120/197",
    "rarity": "Double Rare",
-   "price": 0.82,
+   "price": 0.85,
    "img": "https://images.scrydex.com/pokemon/sv3-120/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-120/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/klawf-ex-120/qUPeulwgW1ZMON62"
@@ -1228,7 +1228,7 @@
    "name": "Glimmora ex",
    "number": "123/197",
    "rarity": "Double Rare",
-   "price": 0.6,
+   "price": 0.61,
    "img": "https://images.scrydex.com/pokemon/sv3-123/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-123/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/glimmora-ex-123/gy8uOlzUSDZZMG8e"
@@ -1238,7 +1238,7 @@
    "name": "Koraidon ex",
    "number": "124/197",
    "rarity": "Double Rare",
-   "price": 0.82,
+   "price": 0.8,
    "img": "https://images.scrydex.com/pokemon/sv3-124/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-124/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/koraidon-ex-124/lxyy5zhCbhRbGFcJ"
@@ -1248,7 +1248,7 @@
    "name": "Charizard ex",
    "number": "125/197",
    "rarity": "Double Rare",
-   "price": 6.25,
+   "price": 6.34,
    "img": "https://images.scrydex.com/pokemon/sv3-125/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-125/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-125/VSwHDsH8rq9XYSjP"
@@ -1258,7 +1258,7 @@
    "name": "Paldean Wooper",
    "number": "126/197",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-126/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-126/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/paldean-wooper-126/WQvUBYdKK2ID3bQ5"
@@ -1278,7 +1278,7 @@
    "name": "Paldean Clodsire",
    "number": "128/197",
    "rarity": "Uncommon",
-   "price": 0.24,
+   "price": 0.23,
    "img": "https://images.scrydex.com/pokemon/sv3-128/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-128/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/paldean-clodsire-128/Mw0Z6u9oRcbpZKcF"
@@ -1298,7 +1298,7 @@
    "name": "Umbreon",
    "number": "130/197",
    "rarity": "Uncommon",
-   "price": 0.41,
+   "price": 0.38,
    "img": "https://images.scrydex.com/pokemon/sv3-130/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-130/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/umbreon-130/Ond1945a9axNyI9f"
@@ -1338,7 +1338,7 @@
    "name": "Houndoom ex",
    "number": "134/197",
    "rarity": "Double Rare",
-   "price": 1.21,
+   "price": 1.22,
    "img": "https://images.scrydex.com/pokemon/sv3-134/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-134/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/houndoom-ex-134/fBCMH0d8M3nJvqla"
@@ -1348,7 +1348,7 @@
    "name": "Absol ex",
    "number": "135/197",
    "rarity": "Double Rare",
-   "price": 1.71,
+   "price": 1.69,
    "img": "https://images.scrydex.com/pokemon/sv3-135/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-135/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/absol-ex-135/lt0LY4CJmHk7CH44"
@@ -1358,7 +1358,7 @@
    "name": "Darkrai",
    "number": "136/197",
    "rarity": "Rare",
-   "price": 0.19,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-136/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-136/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/darkrai-136/zek5gcj3SKzTdafD"
@@ -1368,7 +1368,7 @@
    "name": "Inkay",
    "number": "137/197",
    "rarity": "Common",
-   "price": 0.12,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv3-137/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-137/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/inkay-137/Lb1i4YkGEYsthnvd"
@@ -1378,7 +1378,7 @@
    "name": "Malamar",
    "number": "138/197",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-138/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-138/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/malamar-138/Or9VDSwEdCkFWhfE"
@@ -1388,7 +1388,7 @@
    "name": "Salandit",
    "number": "139/197",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-139/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-139/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/salandit-139/0m3Wxyd7DjgAnQYf"
@@ -1418,7 +1418,7 @@
    "name": "Skarmory",
    "number": "142/197",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-142/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-142/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/skarmory-142/acquQbMZm5Gcriwr"
@@ -1448,7 +1448,7 @@
    "name": "Bronzong",
    "number": "145/197",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv3-145/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-145/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bronzong-145/M42SJpP6ie2iFXNW"
@@ -1488,7 +1488,7 @@
    "name": "Bisharp",
    "number": "149/197",
    "rarity": "Common",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv3-149/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-149/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bisharp-149/EwBViyvt729FBIWP"
@@ -1498,7 +1498,7 @@
    "name": "Kingambit",
    "number": "150/197",
    "rarity": "Uncommon",
-   "price": 0.25,
+   "price": 0.26,
    "img": "https://images.scrydex.com/pokemon/sv3-150/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-150/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/kingambit-150/3soQ6vF5WmqY2yzg"
@@ -1518,7 +1518,7 @@
    "name": "Meltan",
    "number": "152/197",
    "rarity": "Common",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv3-152/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-152/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/meltan-152/CCmTWu1KaROo18Pa"
@@ -1548,7 +1548,7 @@
    "name": "Varoom",
    "number": "155/197",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv3-155/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-155/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/varoom-155/qFOKrxxcaTz9ttci"
@@ -1568,7 +1568,7 @@
    "name": "Dratini",
    "number": "157/197",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.22,
    "img": "https://images.scrydex.com/pokemon/sv3-157/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-157/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/dratini-157/xY3IrjOVD7O108Y8"
@@ -1578,7 +1578,7 @@
    "name": "Dragonair",
    "number": "158/197",
    "rarity": "Uncommon",
-   "price": 0.33,
+   "price": 0.3,
    "img": "https://images.scrydex.com/pokemon/sv3-158/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-158/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/dragonair-158/aOsGNsbrpbmNb5bd"
@@ -1588,7 +1588,7 @@
    "name": "Dragonite ex",
    "number": "159/197",
    "rarity": "Double Rare",
-   "price": 3.58,
+   "price": 3.51,
    "img": "https://images.scrydex.com/pokemon/sv3-159/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-159/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/dragonite-ex-159/ulxagkYDwdaDvn9W"
@@ -1618,7 +1618,7 @@
    "name": "Pidgey",
    "number": "162/197",
    "rarity": "Common",
-   "price": 0.23,
+   "price": 0.22,
    "img": "https://images.scrydex.com/pokemon/sv3-162/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-162/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgey-162/3YdVvNCiXY6M8TTW"
@@ -1628,7 +1628,7 @@
    "name": "Pidgeotto",
    "number": "163/197",
    "rarity": "Uncommon",
-   "price": 0.23,
+   "price": 0.24,
    "img": "https://images.scrydex.com/pokemon/sv3-163/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-163/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgeotto-163/3eOrWmrAwK9dnkek"
@@ -1638,7 +1638,7 @@
    "name": "Pidgeot ex",
    "number": "164/197",
    "rarity": "Double Rare",
-   "price": 1.52,
+   "price": 1.46,
    "img": "https://images.scrydex.com/pokemon/sv3-164/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-164/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgeot-ex-164/LEAvhhUvmTMhwXSc"
@@ -1658,7 +1658,7 @@
    "name": "Eevee",
    "number": "166/197",
    "rarity": "Common",
-   "price": 0.34,
+   "price": 0.33,
    "img": "https://images.scrydex.com/pokemon/sv3-166/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-166/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/eevee-166/WkQv6Fawz5yQHJYm"
@@ -1668,7 +1668,7 @@
    "name": "Zigzagoon",
    "number": "167/197",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-167/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-167/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/zigzagoon-167/c2LTgPRyyxiTY4RB"
@@ -1718,7 +1718,7 @@
    "name": "Stoutland",
    "number": "172/197",
    "rarity": "Uncommon",
-   "price": 0.2,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv3-172/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-172/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/stoutland-172/m0qDLEoFLzO2ZdLm"
@@ -1738,7 +1738,7 @@
    "name": "Bouffalant",
    "number": "174/197",
    "rarity": "Uncommon",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv3-174/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-174/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bouffalant-174/ncBmVbtJJyLa0WvS"
@@ -1748,7 +1748,7 @@
    "name": "Bunnelby",
    "number": "175/197",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv3-175/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-175/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bunnelby-175/yUitD3kZRZdMKTHK"
@@ -1758,7 +1758,7 @@
    "name": "Yungoos",
    "number": "176/197",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv3-176/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-176/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/yungoos-176/ihnrXixwOMz5QwOU"
@@ -1778,7 +1778,7 @@
    "name": "Skwovet",
    "number": "178/197",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv3-178/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-178/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/skwovet-178/Sy5FhTGX1krA3V0f"
@@ -1788,7 +1788,7 @@
    "name": "Greedent ex",
    "number": "179/197",
    "rarity": "Double Rare",
-   "price": 0.91,
+   "price": 0.87,
    "img": "https://images.scrydex.com/pokemon/sv3-179/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-179/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/greedent-ex-179/cmCJgJC6e9RxyhMp"
@@ -1828,7 +1828,7 @@
    "name": "Oinkologne",
    "number": "183/197",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv3-183/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-183/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/oinkologne-183/TfITlVcVt5PspzE4"
@@ -1848,7 +1848,7 @@
    "name": "Flamigo",
    "number": "185/197",
    "rarity": "Uncommon",
-   "price": 0.11,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv3-185/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-185/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/flamigo-185/NgH1jVAtcyhVqKnO"
@@ -1878,7 +1878,7 @@
    "name": "Geeta",
    "number": "188/197",
    "rarity": "Rare",
-   "price": 0.17,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv3-188/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-188/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/geeta-188/t1dIQjazYjmjL2GV"
@@ -1888,7 +1888,7 @@
    "name": "Letter of Encouragement",
    "number": "189/197",
    "rarity": "Uncommon",
-   "price": 0.17,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv3-189/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-189/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/letter-of-encouragement-189/rs8hmGf77YjkfiXa"
@@ -1928,7 +1928,7 @@
    "name": "Poppy",
    "number": "193/197",
    "rarity": "Uncommon",
-   "price": 0.18,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv3-193/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-193/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/poppy-193/ujgKSJVOgudBc2rv"
@@ -1948,7 +1948,7 @@
    "name": "Team Star Grunt",
    "number": "195/197",
    "rarity": "Uncommon",
-   "price": 0.19,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv3-195/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-195/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/team-star-grunt-195/jA4opHE1TZ2AfT4U"
@@ -1978,7 +1978,7 @@
    "name": "Gloom",
    "number": "198/197",
    "rarity": "Illustration Rare",
-   "price": 17.61,
+   "price": 17.46,
    "img": "https://images.scrydex.com/pokemon/sv3-198/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-198/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/gloom-198/CIcohH7JdHylw33x"
@@ -1988,7 +1988,7 @@
    "name": "Ninetales",
    "number": "199/197",
    "rarity": "Illustration Rare",
-   "price": 32.36,
+   "price": 32.83,
    "img": "https://images.scrydex.com/pokemon/sv3-199/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-199/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/ninetales-199/ebmLV9XtkiXOq3BE"
@@ -1998,7 +1998,7 @@
    "name": "Palafin",
    "number": "200/197",
    "rarity": "Illustration Rare",
-   "price": 3.31,
+   "price": 3.4,
    "img": "https://images.scrydex.com/pokemon/sv3-200/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-200/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/palafin-200/d9uEYj6wHQFCfFO0"
@@ -2008,7 +2008,7 @@
    "name": "Bellibolt",
    "number": "201/197",
    "rarity": "Illustration Rare",
-   "price": 5.04,
+   "price": 4.96,
    "img": "https://images.scrydex.com/pokemon/sv3-201/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-201/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/bellibolt-201/TNbOJN6W4IJJRTRU"
@@ -2018,7 +2018,7 @@
    "name": "Cleffa",
    "number": "202/197",
    "rarity": "Illustration Rare",
-   "price": 35.62,
+   "price": 35.22,
    "img": "https://images.scrydex.com/pokemon/sv3-202/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-202/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/cleffa-202/s9D0BIuvp5b2CBmi"
@@ -2028,7 +2028,7 @@
    "name": "Larvitar",
    "number": "203/197",
    "rarity": "Illustration Rare",
-   "price": 5.49,
+   "price": 5.41,
    "img": "https://images.scrydex.com/pokemon/sv3-203/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-203/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/larvitar-203/9jytVtcDnEI4Ubj5"
@@ -2048,7 +2048,7 @@
    "name": "Scizor",
    "number": "205/197",
    "rarity": "Illustration Rare",
-   "price": 13.19,
+   "price": 13.28,
    "img": "https://images.scrydex.com/pokemon/sv3-205/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-205/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/scizor-205/7bB83Rxdv6kdKlp3"
@@ -2058,7 +2058,7 @@
    "name": "Varoom",
    "number": "206/197",
    "rarity": "Illustration Rare",
-   "price": 2.65,
+   "price": 2.75,
    "img": "https://images.scrydex.com/pokemon/sv3-206/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-206/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/varoom-206/RTcF4bR5SRFV0675"
@@ -2068,7 +2068,7 @@
    "name": "Pidgey",
    "number": "207/197",
    "rarity": "Illustration Rare",
-   "price": 11.39,
+   "price": 11.36,
    "img": "https://images.scrydex.com/pokemon/sv3-207/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-207/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgey-207/H6lgUXi9Zwingq2y"
@@ -2078,7 +2078,7 @@
    "name": "Pidgeotto",
    "number": "208/197",
    "rarity": "Illustration Rare",
-   "price": 9.91,
+   "price": 9.97,
    "img": "https://images.scrydex.com/pokemon/sv3-208/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-208/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgeotto-208/O1xLjp4nJaRZ1twD"
@@ -2088,7 +2088,7 @@
    "name": "Lechonk",
    "number": "209/197",
    "rarity": "Illustration Rare",
-   "price": 11.49,
+   "price": 11.5,
    "img": "https://images.scrydex.com/pokemon/sv3-209/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-209/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/lechonk-209/ni0PCsN5jBZz2jNH"
@@ -2098,7 +2098,7 @@
    "name": "Eiscue ex",
    "number": "210/197",
    "rarity": "Ultra Rare",
-   "price": 1.43,
+   "price": 1.46,
    "img": "https://images.scrydex.com/pokemon/sv3-210/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-210/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/eiscue-ex-210/IRhHbXWq5uJpA8Bd"
@@ -2108,7 +2108,7 @@
    "name": "Tyranitar ex",
    "number": "211/197",
    "rarity": "Ultra Rare",
-   "price": 5.33,
+   "price": 5.35,
    "img": "https://images.scrydex.com/pokemon/sv3-211/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-211/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/tyranitar-ex-211/pFfwkn6M9H31SeJb"
@@ -2118,7 +2118,7 @@
    "name": "Vespiquen ex",
    "number": "212/197",
    "rarity": "Ultra Rare",
-   "price": 1.32,
+   "price": 1.23,
    "img": "https://images.scrydex.com/pokemon/sv3-212/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-212/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/vespiquen-ex-212/hNvDrJ2HdfG6wEDp"
@@ -2138,7 +2138,7 @@
    "name": "Absol ex",
    "number": "214/197",
    "rarity": "Ultra Rare",
-   "price": 2.92,
+   "price": 2.83,
    "img": "https://images.scrydex.com/pokemon/sv3-214/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-214/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/absol-ex-214/nGBUGh05hkHrVXUI"
@@ -2148,7 +2148,7 @@
    "name": "Charizard ex",
    "number": "215/197",
    "rarity": "Ultra Rare",
-   "price": 22.5,
+   "price": 21.66,
    "img": "https://images.scrydex.com/pokemon/sv3-215/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-215/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-215/HraybjtrOv75HOwR"
@@ -2158,7 +2158,7 @@
    "name": "Revavroom ex",
    "number": "216/197",
    "rarity": "Ultra Rare",
-   "price": 0.93,
+   "price": 0.92,
    "img": "https://images.scrydex.com/pokemon/sv3-216/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-216/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/revavroom-ex-216/KEuhFhOjsXRZkyzp"
@@ -2168,7 +2168,7 @@
    "name": "Pidgeot ex",
    "number": "217/197",
    "rarity": "Ultra Rare",
-   "price": 1.82,
+   "price": 1.9,
    "img": "https://images.scrydex.com/pokemon/sv3-217/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-217/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgeot-ex-217/SoOXNeaQWVL0T48T"
@@ -2178,7 +2178,7 @@
    "name": "Geeta",
    "number": "218/197",
    "rarity": "Ultra Rare",
-   "price": 0.86,
+   "price": 0.91,
    "img": "https://images.scrydex.com/pokemon/sv3-218/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-218/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/geeta-218/khuH0RPg6WFfr3I1"
@@ -2198,7 +2198,7 @@
    "name": "Poppy",
    "number": "220/197",
    "rarity": "Ultra Rare",
-   "price": 1.3,
+   "price": 1.38,
    "img": "https://images.scrydex.com/pokemon/sv3-220/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-220/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/poppy-220/grWAS4bIxGbblTC3"
@@ -2208,7 +2208,7 @@
    "name": "Ryme",
    "number": "221/197",
    "rarity": "Ultra Rare",
-   "price": 0.6,
+   "price": 0.65,
    "img": "https://images.scrydex.com/pokemon/sv3-221/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-221/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/ryme-221/JgwR9V247Vxa3bXZ"
@@ -2218,7 +2218,7 @@
    "name": "Eiscue ex",
    "number": "222/197",
    "rarity": "Special Illustration Rare",
-   "price": 5.54,
+   "price": 5.59,
    "img": "https://images.scrydex.com/pokemon/sv3-222/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-222/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/eiscue-ex-222/Otv00hGO3MRLEYR4"
@@ -2228,7 +2228,7 @@
    "name": "Charizard ex",
    "number": "223/197",
    "rarity": "Special Illustration Rare",
-   "price": 90.99,
+   "price": 90.06,
    "img": "https://images.scrydex.com/pokemon/sv3-223/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-223/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-223/np6IdFCsYa3oOQ8B"
@@ -2238,7 +2238,7 @@
    "name": "Revavroom ex",
    "number": "224/197",
    "rarity": "Special Illustration Rare",
-   "price": 4.54,
+   "price": 4.67,
    "img": "https://images.scrydex.com/pokemon/sv3-224/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-224/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/revavroom-ex-224/Nwih954FpfOWKNkY"
@@ -2248,7 +2248,7 @@
    "name": "Pidgeot ex",
    "number": "225/197",
    "rarity": "Special Illustration Rare",
-   "price": 15.2,
+   "price": 15.19,
    "img": "https://images.scrydex.com/pokemon/sv3-225/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-225/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/pidgeot-ex-225/vuAGUagDCesVG4Uh"
@@ -2258,7 +2258,7 @@
    "name": "Geeta",
    "number": "226/197",
    "rarity": "Special Illustration Rare",
-   "price": 2.89,
+   "price": 2.96,
    "img": "https://images.scrydex.com/pokemon/sv3-226/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-226/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/geeta-226/EZd0MkbfHGrpKdNg"
@@ -2268,7 +2268,7 @@
    "name": "Poppy",
    "number": "227/197",
    "rarity": "Special Illustration Rare",
-   "price": 2.85,
+   "price": 2.82,
    "img": "https://images.scrydex.com/pokemon/sv3-227/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-227/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/poppy-227/XrQ3d7pUmjg1Rxw2"
@@ -2278,7 +2278,7 @@
    "name": "Charizard ex",
    "number": "228/197",
    "rarity": "Hyper Rare",
-   "price": 32.56,
+   "price": 34.58,
    "img": "https://images.scrydex.com/pokemon/sv3-228/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-228/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/charizard-ex-228/40nPegr4S38QueCU"
@@ -2288,7 +2288,7 @@
    "name": "Artazon",
    "number": "229/197",
    "rarity": "Hyper Rare",
-   "price": 1.25,
+   "price": 1.16,
    "img": "https://images.scrydex.com/pokemon/sv3-229/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-229/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/artazon-229/AIyRvtEwVbQ3L1ce"
@@ -2298,7 +2298,7 @@
    "name": "Basic Fire Energy",
    "number": "230/197",
    "rarity": "Hyper Rare",
-   "price": 3.43,
+   "price": 2.87,
    "img": "https://images.scrydex.com/pokemon/sv3-230/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv3-230/large",
    "url": "https://www.rarecandy.com/pokemon/sets/obsidian-flames/basic-fire-energy-230/BrGaoSWPlRdsHF0p"
