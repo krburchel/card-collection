@@ -8681,6 +8681,41 @@
    }
   ]
  },
+ "rc:WPNBRg60zUEHDy86": {
+  "tcgId": "sv2-45",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "45",
+  "hp": 120,
+  "from": "Marill",
+  "attacks": [
+   {
+    "n": "Bubble Drain",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Slam",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100×"
+   }
+  ]
+ },
  "rc:WQvUBYdKK2ID3bQ5": {
   "tcgId": "sv3-126",
   "super": "Pokémon",
@@ -9450,6 +9485,40 @@
      "Lightning"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:Ygo5wESHhX2mW0gK": {
+  "tcgId": "sv2-41",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "41",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Raging Horns",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Aqua Dive",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
    }
   ]
  },
@@ -10830,6 +10899,43 @@
      "Fighting"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:ethTg8EuFmgW0lAC": {
+  "tcgId": "sv2-43",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "43",
+  "hp": 180,
+  "from": "Magikarp",
+  "attacks": [
+   {
+    "n": "Revengeful Storm",
+    "c": [
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "80+"
+   },
+   {
+    "n": "Berserker Tackle",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
    }
   ]
  },
@@ -15400,6 +15506,30 @@
    }
   ]
  },
+ "rc:wI5KtITSDAMTWYKg": {
+  "tcgId": "sv2-42",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "42",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Expert Splasher",
+    "c": [
+     "Water"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
  "rc:wJRYJtH7tDlLia0J": {
   "tcgId": "sv8pt5-105",
   "super": "Trainer",
@@ -16032,6 +16162,31 @@
      "Fighting"
     ],
     "d": "10+"
+   }
+  ]
+ },
+ "rc:yaeGpLvtXvTIGMUb": {
+  "tcgId": "sv2-44",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "44",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Bubble Drain",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "20"
    }
   ]
  },
