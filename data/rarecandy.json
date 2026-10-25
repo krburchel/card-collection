@@ -1,6 +1,6 @@
 {
  "username": "Kburchtree",
- "updatedAt": "2026-10-24T21:46:52Z",
+ "updatedAt": "2026-10-25T05:07:44Z",
  "cards": [
   {
    "id": "rc:02i6k3ig4MIxa5AT",
@@ -714,7 +714,7 @@
    "rarity": "Uncommon",
    "category": "SINGLE_CARD",
    "lang": "EN",
-   "price": 0.15,
+   "price": 0.16,
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-9/large",
@@ -2994,7 +2994,7 @@
    "rarity": "Uncommon",
    "category": "SINGLE_CARD",
    "lang": "EN",
-   "price": 0.19,
+   "price": 0.2,
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-26/large",
@@ -4050,7 +4050,7 @@
    "rarity": "Common",
    "category": "SINGLE_CARD",
    "lang": "EN",
-   "price": 0.14,
+   "price": 0.13,
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-1/large",
@@ -12306,7 +12306,7 @@
    "rarity": "Ultra Rare",
    "category": "SINGLE_CARD",
    "lang": "EN",
-   "price": 10.32,
+   "price": 10.34,
    "qty": 1,
    "img": "https://images.scrydex.com/pokemon/sv6pt5-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv6pt5-84/large",
