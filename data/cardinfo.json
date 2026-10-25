@@ -186,6 +186,39 @@
    }
   ]
  },
+ "rc:0XuwQle12rOx0VDF": {
+  "tcgId": "sv2-32",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "32",
+  "hp": 120,
+  "from": "Litleo",
+  "attacks": [
+   {
+    "n": "Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Overrun",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60"
+   }
+  ]
+ },
  "rc:0XxZLSunbgsXvNVB": {
   "tcgId": "sv3pt5-23",
   "super": "Pokémon",
@@ -3214,6 +3247,31 @@
    }
   ]
  },
+ "rc:CykVNWTkmq2XOLbU": {
+  "tcgId": "sv2-38",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "38",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:D3h1wUKpcEYa8Xwi": {
   "tcgId": "sv3pt5-140",
   "super": "Pokémon",
@@ -3567,6 +3625,31 @@
      "Colorless"
     ],
     "d": "100"
+   }
+  ]
+ },
+ "rc:EnQ7iSaPUAH67X9C": {
+  "tcgId": "sv2-29",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "29",
+  "hp": 80,
+  "from": "Fletchling",
+  "attacks": [
+   {
+    "n": "Heat Dive",
+    "c": [
+     "Fire"
+    ],
+    "d": "50"
    }
   ]
  },
@@ -5394,6 +5477,38 @@
    }
   ]
  },
+ "rc:Lf1etHPnOFy1Y3tF": {
+  "tcgId": "sv2-30",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "30",
+  "hp": 150,
+  "from": "Fletchinder",
+  "attacks": [
+   {
+    "n": "Clutch",
+    "c": [
+     "Fire"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Fiery Breeze",
+    "c": [
+     "Fire"
+    ],
+    "d": "70+"
+   }
+  ]
+ },
  "rc:LgyKlmKG9lD00yFj": {
   "tcgId": "sv8pt5-47",
   "super": "Pokémon",
@@ -7084,6 +7199,39 @@
    }
   ]
  },
+ "rc:Rt52dmB0VYc28I85": {
+  "tcgId": "sv2-36",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "36",
+  "hp": 110,
+  "from": "Fuecoco",
+  "attacks": [
+   {
+    "n": "Steady Firebreathing",
+    "c": [
+     "Fire"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Hyper Voice",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "70"
+   }
+  ]
+ },
  "rc:SAPTkyjxMYrIpwJS": {
   "tcgId": "sv3pt5-34",
   "super": "Pokémon",
@@ -8120,6 +8268,39 @@
    }
   ]
  },
+ "rc:VcXxSMDVJld4L67f": {
+  "tcgId": "sv2-40",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "40",
+  "hp": 190,
+  "attacks": [
+   {
+    "n": "Jealously Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Flame Surge",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "100"
+   }
+  ]
+ },
  "rc:VcehCMkR4UoQlCkB": {
   "tcgId": "sv4pt5-36",
   "super": "Pokémon",
@@ -8248,6 +8429,39 @@
   "expanded": true,
   "code": "PAF",
   "no": "80"
+ },
+ "rc:VzZtvqU5W7qPLOSS": {
+  "tcgId": "sv2-39",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "39",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Live Coal",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Magnum Punch",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
  },
  "rc:W1qWBquZNVXSjn2s": {
   "tcgId": "sv4pt5-93",
@@ -8908,6 +9122,30 @@
    }
   ]
  },
+ "rc:XmSjWEtYZSwX5onD": {
+  "tcgId": "sv2-34",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "34",
+  "hp": 80,
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Fire"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:Xs1JiVnGBU3rSb7B": {
   "tcgId": "sv4pt5-18",
   "super": "Pokémon",
@@ -8934,6 +9172,34 @@
     "n": "Pika Bolt",
     "c": [
      "Lightning",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:Xyrt962BuynpqeIA": {
+  "tcgId": "sv2-33",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "33",
+  "hp": 90,
+  "abilities": [
+   "Ardent Dancing"
+  ],
+  "attacks": [
+   {
+    "n": "Flap",
+    "c": [
+     "Fire",
      "Colorless"
     ],
     "d": "30"
@@ -14050,6 +14316,37 @@
   "code": "OBF",
   "no": "188"
  },
+ "rc:t5wCmXmIlOGBjAxG": {
+  "tcgId": "sv2-31",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "31",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Blazing Destruction",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Live Coal",
+    "c": [
+     "Fire"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:tGr1oiFA2fOkzfAe": {
   "tcgId": "sv3pt5-78",
   "super": "Pokémon",
@@ -14349,6 +14646,38 @@
      "Colorless"
     ],
     "d": "90"
+   }
+  ]
+ },
+ "rc:tfKzIR9HGWbBc3jY": {
+  "tcgId": "sv2-35",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "35",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Spacing Out",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Flare",
+    "c": [
+     "Fire",
+     "Colorless"
+    ],
+    "d": "30"
    }
   ]
  },
@@ -15269,6 +15598,40 @@
      "Colorless"
     ],
     "d": "60"
+   }
+  ]
+ },
+ "rc:xLpzDiOMpkUC4qwL": {
+  "tcgId": "sv2-28",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "28",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Raging Horns",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Blaze Dash",
+    "c": [
+     "Fire",
+     "Fire",
+     "Colorless"
+    ],
+    "d": "120"
    }
   ]
  },
