@@ -1,7 +1,7 @@
 {
  "setId": "ck3Fo6sBAUNjBsu0",
  "name": "Base Set 2",
- "fetchedOn": "2026-10-26",
+ "fetchedOn": "2026-10-27",
  "cards": [
   {
    "id": "rc:az4xiqtEjZOhae3N",
@@ -108,7 +108,7 @@
    "name": "Nidoking",
    "number": "11/130",
    "rarity": "Rare Holo",
-   "price": 44.21,
+   "price": 43.9,
    "img": "https://images.scrydex.com/pokemon/base4-11/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-11/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/nidoking-11/fqHQM6S3ihmkCrHS"
@@ -138,7 +138,7 @@
    "name": "Pidgeot",
    "number": "14/130",
    "rarity": "Rare Holo",
-   "price": 37.74,
+   "price": 38.21,
    "img": "https://images.scrydex.com/pokemon/base4-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-14/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/pidgeot-14/v6ZTz4Hb9wetcTDV"
@@ -208,7 +208,7 @@
    "name": "Beedrill",
    "number": "21/130",
    "rarity": "Rare",
-   "price": 3.12,
+   "price": 3.13,
    "img": "https://images.scrydex.com/pokemon/base4-21/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-21/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/beedrill-21/QInnxcpNYTnRu7kS"
@@ -318,7 +318,7 @@
    "name": "Victreebel",
    "number": "32/130",
    "rarity": "Rare",
-   "price": 4.93,
+   "price": 4.9,
    "img": "https://images.scrydex.com/pokemon/base4-32/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-32/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/victreebel-32/rkFl54X73VjijNwl"
@@ -328,7 +328,7 @@
    "name": "Arcanine",
    "number": "33/130",
    "rarity": "Uncommon",
-   "price": 1.96,
+   "price": 1.91,
    "img": "https://images.scrydex.com/pokemon/base4-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-33/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/arcanine-33/XzFJJuHqZM7oRwzC"
@@ -338,7 +338,7 @@
    "name": "Butterfree",
    "number": "34/130",
    "rarity": "Uncommon",
-   "price": 2.16,
+   "price": 2.19,
    "img": "https://images.scrydex.com/pokemon/base4-34/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-34/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/butterfree-34/p4xxd9nsCddfUtqB"
@@ -388,7 +388,7 @@
    "name": "Exeggutor",
    "number": "39/130",
    "rarity": "Uncommon",
-   "price": 0.95,
+   "price": 0.96,
    "img": "https://images.scrydex.com/pokemon/base4-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-39/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/exeggutor-39/i2pkYj6TQ2Pgwl1P"
@@ -448,7 +448,7 @@
    "name": "Jynx",
    "number": "45/130",
    "rarity": "Uncommon",
-   "price": 1.23,
+   "price": 1.22,
    "img": "https://images.scrydex.com/pokemon/base4-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-45/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/jynx-45/wMmp968E43e24sX4"
@@ -478,7 +478,7 @@
    "name": "Lickitung",
    "number": "48/130",
    "rarity": "Uncommon",
-   "price": 2.08,
+   "price": 2.07,
    "img": "https://images.scrydex.com/pokemon/base4-48/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-48/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/lickitung-48/Xma8nNQ76HY5q2J5"
@@ -508,7 +508,7 @@
    "name": "Magmar",
    "number": "51/130",
    "rarity": "Uncommon",
-   "price": 1.08,
+   "price": 1.09,
    "img": "https://images.scrydex.com/pokemon/base4-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-51/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/magmar-51/7Y2WuNMez2203XYe"
@@ -558,7 +558,7 @@
    "name": "Persian",
    "number": "56/130",
    "rarity": "Uncommon",
-   "price": 2.73,
+   "price": 2.7,
    "img": "https://images.scrydex.com/pokemon/base4-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-56/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/persian-56/xbrWYitdDJAdbBqa"
@@ -598,7 +598,7 @@
    "name": "Seaking",
    "number": "60/130",
    "rarity": "Uncommon",
-   "price": 1.03,
+   "price": 1.05,
    "img": "https://images.scrydex.com/pokemon/base4-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-60/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/seaking-60/3s949zWM5hxvhvUr"
@@ -668,7 +668,7 @@
    "name": "Bulbasaur",
    "number": "67/130",
    "rarity": "Common",
-   "price": 4.29,
+   "price": 4.37,
    "img": "https://images.scrydex.com/pokemon/base4-67/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-67/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/bulbasaur-67/PidfqyR9fHJe0laU"
@@ -688,7 +688,7 @@
    "name": "Charmander",
    "number": "69/130",
    "rarity": "Common",
-   "price": 1.59,
+   "price": 1.57,
    "img": "https://images.scrydex.com/pokemon/base4-69/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-69/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/charmander-69/Z3KptqSjdKgAwq0C"
@@ -728,7 +728,7 @@
    "name": "Drowzee",
    "number": "73/130",
    "rarity": "Common",
-   "price": 0.76,
+   "price": 0.75,
    "img": "https://images.scrydex.com/pokemon/base4-73/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-73/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/drowzee-73/HyUKizG3pu5IU3QO"
@@ -798,7 +798,7 @@
    "name": "Meowth",
    "number": "80/130",
    "rarity": "Common",
-   "price": 0.96,
+   "price": 0.97,
    "img": "https://images.scrydex.com/pokemon/base4-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-80/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/meowth-80/JboNS4ywFqNgTjD0"
@@ -838,7 +838,7 @@
    "name": "Onix",
    "number": "84/130",
    "rarity": "Common",
-   "price": 0.93,
+   "price": 0.94,
    "img": "https://images.scrydex.com/pokemon/base4-84/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-84/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/onix-84/F3QRLxpEQIEuGeU5"
@@ -858,7 +858,7 @@
    "name": "Pidgey",
    "number": "86/130",
    "rarity": "Common",
-   "price": 1,
+   "price": 0.96,
    "img": "https://images.scrydex.com/pokemon/base4-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-86/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/pidgey-86/GnxGXL4tGiOBshxk"
@@ -878,7 +878,7 @@
    "name": "Poliwag",
    "number": "88/130",
    "rarity": "Common",
-   "price": 0.51,
+   "price": 0.52,
    "img": "https://images.scrydex.com/pokemon/base4-88/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-88/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/poliwag-88/tbTL0Bx0wbyOttOw"
@@ -938,7 +938,7 @@
    "name": "Starmie",
    "number": "94/130",
    "rarity": "Common",
-   "price": 0.85,
+   "price": 0.84,
    "img": "https://images.scrydex.com/pokemon/base4-94/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-94/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/starmie-94/TaVyqi6AtruP0UDV"
@@ -968,7 +968,7 @@
    "name": "Venonat",
    "number": "97/130",
    "rarity": "Common",
-   "price": 1.11,
+   "price": 1.12,
    "img": "https://images.scrydex.com/pokemon/base4-97/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-97/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/venonat-97/kbVeqdywqZXWSOs7"
@@ -1048,7 +1048,7 @@
    "name": "Pokémon Breeder",
    "number": "105/130",
    "rarity": "Rare",
-   "price": 4.69,
+   "price": 4.7,
    "img": "https://images.scrydex.com/pokemon/base4-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-105/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/pokemon-breeder-105/3cZfR2UUvIzw33TQ"
@@ -1118,7 +1118,7 @@
    "name": "Maintenance",
    "number": "112/130",
    "rarity": "Uncommon",
-   "price": 1.14,
+   "price": 1.16,
    "img": "https://images.scrydex.com/pokemon/base4-112/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-112/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/maintenance-112/aK5nYGDqu6CYH5m8"
@@ -1148,7 +1148,7 @@
    "name": "Pokédex",
    "number": "115/130",
    "rarity": "Uncommon",
-   "price": 0.58,
+   "price": 0.61,
    "img": "https://images.scrydex.com/pokemon/base4-115/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-115/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/pokedex-115/FYdIOPTT6cnavLNX"
@@ -1158,7 +1158,7 @@
    "name": "Professor Oak",
    "number": "116/130",
    "rarity": "Uncommon",
-   "price": 1.36,
+   "price": 1.33,
    "img": "https://images.scrydex.com/pokemon/base4-116/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-116/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/professor-oak-116/5zc8rS7Y8pLz6dAK"
@@ -1208,7 +1208,7 @@
    "name": "Poké Ball",
    "number": "121/130",
    "rarity": "Common",
-   "price": 0.39,
+   "price": 0.38,
    "img": "https://images.scrydex.com/pokemon/base4-121/small",
    "imgLarge": "https://images.scrydex.com/pokemon/base4-121/large",
    "url": "https://www.rarecandy.com/pokemon/sets/base-set-2/poke-ball-121/y2OGnpZ2rTRpLfsk"

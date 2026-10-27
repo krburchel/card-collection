@@ -1,14 +1,14 @@
 {
  "setId": "p2tRbiKsY4uQSkIm",
  "name": "Paldea Evolved",
- "fetchedOn": "2026-10-26",
+ "fetchedOn": "2026-10-27",
  "cards": [
   {
    "id": "rc:FKD7RtsOuM9GsU5Z",
    "name": "Hoppip",
    "number": "001/193",
    "rarity": "Common",
-   "price": 0.17,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-1/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-1/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/hoppip-1/FKD7RtsOuM9GsU5Z"
@@ -28,7 +28,7 @@
    "name": "Jumpluff",
    "number": "003/193",
    "rarity": "Rare",
-   "price": 0.27,
+   "price": 0.25,
    "img": "https://images.scrydex.com/pokemon/sv2-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-3/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/jumpluff-3/7jbvqIB542xmWcVh"
@@ -48,7 +48,7 @@
    "name": "Forretress ex",
    "number": "005/193",
    "rarity": "Double Rare",
-   "price": 0.62,
+   "price": 0.67,
    "img": "https://images.scrydex.com/pokemon/sv2-5/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-5/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/forretress-ex-5/iNNazjfe61em7vDn"
@@ -78,7 +78,7 @@
    "name": "Combee",
    "number": "008/193",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv2-8/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-8/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/combee-8/yTSpzyqPiXngeSA3"
@@ -98,7 +98,7 @@
    "name": "Snover",
    "number": "010/193",
    "rarity": "Common",
-   "price": 0.05,
+   "price": 0.06,
    "img": "https://images.scrydex.com/pokemon/sv2-10/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-10/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/snover-10/pjpJhlINwPAX8KJQ"
@@ -118,7 +118,7 @@
    "name": "Sprigatito",
    "number": "012/193",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-12/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/sprigatito-12/ztqrlt17HILc1ndQ"
@@ -138,7 +138,7 @@
    "name": "Floragato",
    "number": "014/193",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-14/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/floragato-14/lTHyvJNWm9NlINDA"
@@ -148,7 +148,7 @@
    "name": "Meowscarada ex",
    "number": "015/193",
    "rarity": "Double Rare",
-   "price": 0.92,
+   "price": 0.93,
    "img": "https://images.scrydex.com/pokemon/sv2-15/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-15/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/meowscarada-ex-15/LOjBtjFUDfznIYp1"
@@ -268,7 +268,7 @@
    "name": "Wo-Chien ex",
    "number": "027/193",
    "rarity": "Double Rare",
-   "price": 0.68,
+   "price": 0.71,
    "img": "https://images.scrydex.com/pokemon/sv2-27/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-27/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/wo-chien-ex-27/UBVfgy5D6ar9mlIU"
@@ -278,7 +278,7 @@
    "name": "Paldean Tauros",
    "number": "028/193",
    "rarity": "Uncommon",
-   "price": 0.16,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-28/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-28/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-tauros-28/xLpzDiOMpkUC4qwL"
@@ -328,7 +328,7 @@
    "name": "Oricorio",
    "number": "033/193",
    "rarity": "Rare",
-   "price": 0.18,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv2-33/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-33/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/oricorio-33/Xyrt962BuynpqeIA"
@@ -338,7 +338,7 @@
    "name": "Fuecoco",
    "number": "034/193",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-34/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-34/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/fuecoco-34/XmSjWEtYZSwX5onD"
@@ -368,7 +368,7 @@
    "name": "Skeledirge ex",
    "number": "037/193",
    "rarity": "Double Rare",
-   "price": 0.7,
+   "price": 0.67,
    "img": "https://images.scrydex.com/pokemon/sv2-37/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-37/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/skeledirge-ex-37/Anmee7k0wXfJs0mg"
@@ -388,7 +388,7 @@
    "name": "Charcadet",
    "number": "039/193",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv2-39/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-39/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/charcadet-39/VzZtvqU5W7qPLOSS"
@@ -398,7 +398,7 @@
    "name": "Chi-Yu ex",
    "number": "040/193",
    "rarity": "Double Rare",
-   "price": 0.94,
+   "price": 0.91,
    "img": "https://images.scrydex.com/pokemon/sv2-40/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-40/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chi-yu-ex-40/VcXxSMDVJld4L67f"
@@ -418,7 +418,7 @@
    "name": "Magikarp",
    "number": "042/193",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv2-42/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-42/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/magikarp-42/wI5KtITSDAMTWYKg"
@@ -428,7 +428,7 @@
    "name": "Gyarados",
    "number": "043/193",
    "rarity": "Rare",
-   "price": 0.31,
+   "price": 0.33,
    "img": "https://images.scrydex.com/pokemon/sv2-43/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-43/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/gyarados-43/ethTg8EuFmgW0lAC"
@@ -438,7 +438,7 @@
    "name": "Marill",
    "number": "044/193",
    "rarity": "Common",
-   "price": 0.08,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv2-44/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-44/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/marill-44/yaeGpLvtXvTIGMUb"
@@ -448,7 +448,7 @@
    "name": "Azumarill",
    "number": "045/193",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv2-45/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-45/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/azumarill-45/WPNBRg60zUEHDy86"
@@ -508,7 +508,7 @@
    "name": "Quaxwell",
    "number": "051/193",
    "rarity": "Uncommon",
-   "price": 0.15,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-51/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-51/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/quaxwell-51/5OwEFlzH0WJxg2Tb"
@@ -598,7 +598,7 @@
    "name": "Baxcalibur",
    "number": "060/193",
    "rarity": "Rare",
-   "price": 0.37,
+   "price": 0.35,
    "img": "https://images.scrydex.com/pokemon/sv2-60/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-60/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/baxcalibur-60/sNIG8fWsbZu12u4x"
@@ -608,7 +608,7 @@
    "name": "Chien-Pao ex",
    "number": "061/193",
    "rarity": "Double Rare",
-   "price": 0.94,
+   "price": 1,
    "img": "https://images.scrydex.com/pokemon/sv2-61/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-61/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chien-pao-ex-61/gr8QuaaTKMhhnIIR"
@@ -618,7 +618,7 @@
    "name": "Pikachu",
    "number": "062/193",
    "rarity": "Common",
-   "price": 0.25,
+   "price": 0.27,
    "img": "https://images.scrydex.com/pokemon/sv2-62/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-62/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pikachu-62/pPTMnA3glxWix1qx"
@@ -628,7 +628,7 @@
    "name": "Pikachu ex",
    "number": "063/193",
    "rarity": "Double Rare",
-   "price": 4.07,
+   "price": 4.12,
    "img": "https://images.scrydex.com/pokemon/sv2-63/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-63/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pikachu-ex-63/IMUImfPjdj6B3hQR"
@@ -648,7 +648,7 @@
    "name": "Magnemite",
    "number": "065/193",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-65/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-65/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/magnemite-65/volLKpmyOIBI35kf"
@@ -678,7 +678,7 @@
    "name": "Shinx",
    "number": "068/193",
    "rarity": "Common",
-   "price": 0.11,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv2-68/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-68/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/shinx-68/fCXUpuq9b2WOz2Js"
@@ -688,7 +688,7 @@
    "name": "Shinx",
    "number": "069/193",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-69/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-69/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/shinx-69/yRAJu7jZBNXX6rD4"
@@ -698,7 +698,7 @@
    "name": "Luxio",
    "number": "070/193",
    "rarity": "Uncommon",
-   "price": 0.06,
+   "price": 0.07,
    "img": "https://images.scrydex.com/pokemon/sv2-70/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-70/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/luxio-70/0ipuVIcUWZGeKao6"
@@ -718,7 +718,7 @@
    "name": "Pincurchin",
    "number": "072/193",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv2-72/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-72/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pincurchin-72/bOH9VjkOfrzU3qHI"
@@ -728,7 +728,7 @@
    "name": "Pincurchin",
    "number": "073/193",
    "rarity": "Uncommon",
-   "price": 0.08,
+   "price": 0.07,
    "img": "https://images.scrydex.com/pokemon/sv2-73/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-73/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pincurchin-73/K7DWGYVNbe46aHIA"
@@ -738,7 +738,7 @@
    "name": "Pawmi",
    "number": "074/193",
    "rarity": "Common",
-   "price": 0.13,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv2-74/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-74/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pawmi-74/F0mS5W6xLD4nmPXt"
@@ -758,7 +758,7 @@
    "name": "Pawmot",
    "number": "076/193",
    "rarity": "Rare",
-   "price": 0.11,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv2-76/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-76/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pawmot-76/jMb8gCCO0Bel04g3"
@@ -818,7 +818,7 @@
    "name": "Kilowattrel",
    "number": "082/193",
    "rarity": "Uncommon",
-   "price": 0.12,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-82/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-82/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/kilowattrel-82/BX2VKhRzKmSyyMNX"
@@ -828,7 +828,7 @@
    "name": "Jigglypuff",
    "number": "083/193",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.22,
    "img": "https://images.scrydex.com/pokemon/sv2-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-83/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/jigglypuff-83/FQnD3FfFUmHggulx"
@@ -848,7 +848,7 @@
    "name": "Slowpoke",
    "number": "085/193",
    "rarity": "Common",
-   "price": 0.27,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv2-85/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-85/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/slowpoke-85/LsrPA1m2bG3D3vZn"
@@ -858,7 +858,7 @@
    "name": "Slowking ex",
    "number": "086/193",
    "rarity": "Double Rare",
-   "price": 1.15,
+   "price": 1.22,
    "img": "https://images.scrydex.com/pokemon/sv2-86/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-86/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/slowking-ex-86/uOFZhGs1gq43yPKU"
@@ -888,7 +888,7 @@
    "name": "Spiritomb",
    "number": "089/193",
    "rarity": "Rare",
-   "price": 0.19,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv2-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-89/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/spiritomb-89/JSmA5VqsUurqau50"
@@ -898,7 +898,7 @@
    "name": "Gothita",
    "number": "090/193",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-90/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-90/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/gothita-90/8omdNQ5D5VlSfZA8"
@@ -908,7 +908,7 @@
    "name": "Gothorita",
    "number": "091/193",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv2-91/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-91/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/gothorita-91/nEAgoKTEYAENmNJE"
@@ -918,7 +918,7 @@
    "name": "Gothitelle",
    "number": "092/193",
    "rarity": "Uncommon",
-   "price": 0.15,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-92/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-92/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/gothitelle-92/B9MLOZpjNIhGjPuT"
@@ -958,7 +958,7 @@
    "name": "Palossand",
    "number": "096/193",
    "rarity": "Uncommon",
-   "price": 0.2,
+   "price": 0.19,
    "img": "https://images.scrydex.com/pokemon/sv2-96/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-96/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/palossand-96/GO9yVtQKXUWxb0t4"
@@ -968,7 +968,7 @@
    "name": "Mimikyu",
    "number": "097/193",
    "rarity": "Rare",
-   "price": 0.37,
+   "price": 0.35,
    "img": "https://images.scrydex.com/pokemon/sv2-97/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-97/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/mimikyu-97/LXLm8KItILZV6Ly4"
@@ -978,7 +978,7 @@
    "name": "Ceruledge",
    "number": "098/193",
    "rarity": "Rare",
-   "price": 0.3,
+   "price": 0.28,
    "img": "https://images.scrydex.com/pokemon/sv2-98/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-98/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/ceruledge-98/7SNtIHu7pFdHKrhM"
@@ -1018,7 +1018,7 @@
    "name": "Tinkatink",
    "number": "102/193",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-102/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tinkatink-102/2FuE6KQ2VpSJXbTz"
@@ -1088,7 +1088,7 @@
    "name": "Sudowoodo",
    "number": "109/193",
    "rarity": "Uncommon",
-   "price": 0.13,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv2-109/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-109/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/sudowoodo-109/XHVKXHdlcIjwggRk"
@@ -1108,7 +1108,7 @@
    "name": "Pupitar",
    "number": "111/193",
    "rarity": "Uncommon",
-   "price": 0.09,
+   "price": 0.12,
    "img": "https://images.scrydex.com/pokemon/sv2-111/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-111/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pupitar-111/LHCOeYKGzQuXJQDO"
@@ -1128,7 +1128,7 @@
    "name": "Hariyama",
    "number": "113/193",
    "rarity": "Rare",
-   "price": 0.13,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv2-113/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-113/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/hariyama-113/yeVApJLm8sLUoT67"
@@ -1158,7 +1158,7 @@
    "name": "Rockruff",
    "number": "116/193",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.16,
    "img": "https://images.scrydex.com/pokemon/sv2-116/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-116/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/rockruff-116/MJnTaqVXl4ApwS9C"
@@ -1168,7 +1168,7 @@
    "name": "Lycanroc ex",
    "number": "117/193",
    "rarity": "Double Rare",
-   "price": 1.06,
+   "price": 1.03,
    "img": "https://images.scrydex.com/pokemon/sv2-117/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-117/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/lycanroc-ex-117/P5NzfTkSOgBNSYeb"
@@ -1228,7 +1228,7 @@
    "name": "Garganacl",
    "number": "123/193",
    "rarity": "Rare",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-123/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-123/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/garganacl-123/HjKo96G5nQOiP5Qz"
@@ -1248,7 +1248,7 @@
    "name": "Glimmet",
    "number": "125/193",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv2-125/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-125/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/glimmet-125/TY7GCVoSmP5hBRl8"
@@ -1258,7 +1258,7 @@
    "name": "Glimmora",
    "number": "126/193",
    "rarity": "Rare",
-   "price": 0.09,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv2-126/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-126/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/glimmora-126/koJ4w0a2Ci42behb"
@@ -1268,7 +1268,7 @@
    "name": "Ting-Lu ex",
    "number": "127/193",
    "rarity": "Double Rare",
-   "price": 0.67,
+   "price": 0.65,
    "img": "https://images.scrydex.com/pokemon/sv2-127/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-127/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/ting-lu-ex-127/YNo3Zq3wAN3m9JWx"
@@ -1288,7 +1288,7 @@
    "name": "Paldean Wooper",
    "number": "129/193",
    "rarity": "Common",
-   "price": 0.17,
+   "price": 0.18,
    "img": "https://images.scrydex.com/pokemon/sv2-129/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-129/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-wooper-129/ybgR2rvXcreUEdzG"
@@ -1298,7 +1298,7 @@
    "name": "Paldean Clodsire ex",
    "number": "130/193",
    "rarity": "Double Rare",
-   "price": 0.83,
+   "price": 0.8,
    "img": "https://images.scrydex.com/pokemon/sv2-130/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-130/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-clodsire-ex-130/rI5zRkY44VgS2XtS"
@@ -1308,7 +1308,7 @@
    "name": "Murkrow",
    "number": "131/193",
    "rarity": "Common",
-   "price": 0.12,
+   "price": 0.11,
    "img": "https://images.scrydex.com/pokemon/sv2-131/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-131/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/murkrow-131/yM3bse2h5G6ImH11"
@@ -1348,7 +1348,7 @@
    "name": "Tyranitar",
    "number": "135/193",
    "rarity": "Rare",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv2-135/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-135/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tyranitar-135/oZJ99FtibGv5a1Bk"
@@ -1378,7 +1378,7 @@
    "name": "Deino",
    "number": "138/193",
    "rarity": "Common",
-   "price": 0.07,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv2-138/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-138/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/deino-138/Ql2MgRklM8yGKSSm"
@@ -1398,7 +1398,7 @@
    "name": "Hydreigon",
    "number": "140/193",
    "rarity": "Rare",
-   "price": 0.23,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv2-140/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-140/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/hydreigon-140/e91MhJyz4RdLXTxz"
@@ -1478,7 +1478,7 @@
    "name": "Corviknight",
    "number": "148/193",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-148/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-148/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/corviknight-148/lLMbo2iDv3PhMMX1"
@@ -1498,7 +1498,7 @@
    "name": "Copperajah ex",
    "number": "150/193",
    "rarity": "Double Rare",
-   "price": 0.65,
+   "price": 0.62,
    "img": "https://images.scrydex.com/pokemon/sv2-150/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-150/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/copperajah-ex-150/9ewKBuiEMnVkuDxZ"
@@ -1508,7 +1508,7 @@
    "name": "Orthworm",
    "number": "151/193",
    "rarity": "Rare",
-   "price": 0.22,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv2-151/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-151/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/orthworm-151/7ayO36UBGpJkjh3D"
@@ -1518,7 +1518,7 @@
    "name": "Noibat",
    "number": "152/193",
    "rarity": "Common",
-   "price": 0.15,
+   "price": 0.14,
    "img": "https://images.scrydex.com/pokemon/sv2-152/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-152/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/noibat-152/JBJpQwuxCY1tAA8J"
@@ -1528,7 +1528,7 @@
    "name": "Noivern ex",
    "number": "153/193",
    "rarity": "Double Rare",
-   "price": 0.69,
+   "price": 0.78,
    "img": "https://images.scrydex.com/pokemon/sv2-153/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-153/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/noivern-ex-153/q83wtTLiTEI19QeH"
@@ -1538,7 +1538,7 @@
    "name": "Girafarig",
    "number": "154/193",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv2-154/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-154/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/girafarig-154/3lK4p0NoT8hC1Ub7"
@@ -1558,7 +1558,7 @@
    "name": "Dunsparce",
    "number": "156/193",
    "rarity": "Common",
-   "price": 0.25,
+   "price": 0.24,
    "img": "https://images.scrydex.com/pokemon/sv2-156/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-156/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/dunsparce-156/7sJGncL0OIpSsvrP"
@@ -1568,7 +1568,7 @@
    "name": "Dudunsparce",
    "number": "157/193",
    "rarity": "Uncommon",
-   "price": 0.12,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-157/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-157/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/dudunsparce-157/gKrIfxMR7HoRwrrI"
@@ -1578,7 +1578,7 @@
    "name": "Wingull",
    "number": "158/193",
    "rarity": "Common",
-   "price": 0.05,
+   "price": 0.07,
    "img": "https://images.scrydex.com/pokemon/sv2-158/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-158/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/wingull-158/3dlnnesfrdBFGzOr"
@@ -1618,7 +1618,7 @@
    "name": "Slaking",
    "number": "162/193",
    "rarity": "Rare",
-   "price": 0.2,
+   "price": 0.21,
    "img": "https://images.scrydex.com/pokemon/sv2-162/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-162/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/slaking-162/pLtP0zWkRR5pf1nS"
@@ -1638,7 +1638,7 @@
    "name": "Rookidee",
    "number": "164/193",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv2-164/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-164/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/rookidee-164/3hXE0OFSyhV7Fxga"
@@ -1668,7 +1668,7 @@
    "name": "Tandemaus",
    "number": "167/193",
    "rarity": "Common",
-   "price": 0.26,
+   "price": 0.24,
    "img": "https://images.scrydex.com/pokemon/sv2-167/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-167/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tandemaus-167/9VSgcJGMSHP2OvSv"
@@ -1678,7 +1678,7 @@
    "name": "Maushold",
    "number": "168/193",
    "rarity": "Uncommon",
-   "price": 0.29,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv2-168/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-168/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/maushold-168/kfABnWEqeHv4wakd"
@@ -1688,7 +1688,7 @@
    "name": "Squawkabilly ex",
    "number": "169/193",
    "rarity": "Double Rare",
-   "price": 0.89,
+   "price": 0.91,
    "img": "https://images.scrydex.com/pokemon/sv2-169/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-169/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/squawkabilly-ex-169/AFkherZlPQqOUKAV"
@@ -1708,7 +1708,7 @@
    "name": "Artazon",
    "number": "171/193",
    "rarity": "Uncommon",
-   "price": 0.28,
+   "price": 0.26,
    "img": "https://images.scrydex.com/pokemon/sv2-171/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-171/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/artazon-171/lXBEGrwmQ0fhuFgj"
@@ -1718,7 +1718,7 @@
    "name": "Boss's Orders (Ghetsis)",
    "number": "172/193",
    "rarity": "Rare",
-   "price": 0.36,
+   "price": 0.35,
    "img": "https://images.scrydex.com/pokemon/sv2-172/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-172/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/bosss-orders-ghetsis-172/fvNKRv6NIPXzMGBi"
@@ -1838,7 +1838,7 @@
    "name": "Grusha",
    "number": "184/193",
    "rarity": "Uncommon",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-184/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-184/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/grusha-184/lPyQ9gfmlpoGCw7P"
@@ -1848,7 +1848,7 @@
    "name": "Iono",
    "number": "185/193",
    "rarity": "Uncommon",
-   "price": 0.27,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv2-185/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-185/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/iono-185/Eqg1IQa1xX2jMWsx"
@@ -1868,7 +1868,7 @@
    "name": "Saguaro",
    "number": "187/193",
    "rarity": "Uncommon",
-   "price": 0.15,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv2-187/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-187/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/saguaro-187/FqvFwglGFcOWZ4ww"
@@ -1878,7 +1878,7 @@
    "name": "Super Rod",
    "number": "188/193",
    "rarity": "Common",
-   "price": 0.31,
+   "price": 0.29,
    "img": "https://images.scrydex.com/pokemon/sv2-188/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-188/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/super-rod-188/voK8DoHqcP1ylPU3"
@@ -1908,7 +1908,7 @@
    "name": "Luminous Energy",
    "number": "191/193",
    "rarity": "Uncommon",
-   "price": 0.34,
+   "price": 0.33,
    "img": "https://images.scrydex.com/pokemon/sv2-191/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-191/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/luminous-energy-191/lH8jNS8ksofVJzeW"
@@ -1938,7 +1938,7 @@
    "name": "Heracross",
    "number": "194/193",
    "rarity": "Illustration Rare",
-   "price": 30.96,
+   "price": 30.57,
    "img": "https://images.scrydex.com/pokemon/sv2-194/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-194/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/heracross-194/odGz7ksr8JZt9zex"
@@ -1948,7 +1948,7 @@
    "name": "Tropius",
    "number": "195/193",
    "rarity": "Illustration Rare",
-   "price": 14.02,
+   "price": 14.01,
    "img": "https://images.scrydex.com/pokemon/sv2-195/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-195/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tropius-195/7HuWnUH9gVTzHnw1"
@@ -1968,7 +1968,7 @@
    "name": "Floragato",
    "number": "197/193",
    "rarity": "Illustration Rare",
-   "price": 19.57,
+   "price": 19.47,
    "img": "https://images.scrydex.com/pokemon/sv2-197/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-197/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/floragato-197/r38H2LptPPJ4jfaS"
@@ -1978,7 +1978,7 @@
    "name": "Bramblin",
    "number": "198/193",
    "rarity": "Illustration Rare",
-   "price": 10.26,
+   "price": 10.3,
    "img": "https://images.scrydex.com/pokemon/sv2-198/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-198/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/bramblin-198/QcBjejHtAyqsiSHC"
@@ -1988,7 +1988,7 @@
    "name": "Fletchinder",
    "number": "199/193",
    "rarity": "Illustration Rare",
-   "price": 18.27,
+   "price": 17.89,
    "img": "https://images.scrydex.com/pokemon/sv2-199/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-199/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/fletchinder-199/A6pYVFFN68h4aLoT"
@@ -1998,7 +1998,7 @@
    "name": "Pyroar",
    "number": "200/193",
    "rarity": "Illustration Rare",
-   "price": 15.55,
+   "price": 15.23,
    "img": "https://images.scrydex.com/pokemon/sv2-200/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-200/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/pyroar-200/hcbZB65reQ8Td7pS"
@@ -2008,7 +2008,7 @@
    "name": "Fuecoco",
    "number": "201/193",
    "rarity": "Illustration Rare",
-   "price": 41.55,
+   "price": 41.06,
    "img": "https://images.scrydex.com/pokemon/sv2-201/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-201/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/fuecoco-201/qU7GdSqXBwPfBTZf"
@@ -2018,7 +2018,7 @@
    "name": "Crocalor",
    "number": "202/193",
    "rarity": "Illustration Rare",
-   "price": 15.09,
+   "price": 15.25,
    "img": "https://images.scrydex.com/pokemon/sv2-202/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-202/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/crocalor-202/5rLA4cBxC99JHluv"
@@ -2028,7 +2028,7 @@
    "name": "Magikarp",
    "number": "203/193",
    "rarity": "Illustration Rare",
-   "price": 318.09,
+   "price": 311.34,
    "img": "https://images.scrydex.com/pokemon/sv2-203/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-203/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/magikarp-203/CPSxbaiTAxL5rjh0"
@@ -2038,7 +2038,7 @@
    "name": "Marill",
    "number": "204/193",
    "rarity": "Illustration Rare",
-   "price": 45.69,
+   "price": 45.52,
    "img": "https://images.scrydex.com/pokemon/sv2-204/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-204/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/marill-204/MNILhMNrniAipwel"
@@ -2058,7 +2058,7 @@
    "name": "Quaxly",
    "number": "206/193",
    "rarity": "Illustration Rare",
-   "price": 16.8,
+   "price": 16.75,
    "img": "https://images.scrydex.com/pokemon/sv2-206/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-206/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/quaxly-206/PWcN3LVLTlMZFHWe"
@@ -2068,7 +2068,7 @@
    "name": "Quaxwell",
    "number": "207/193",
    "rarity": "Illustration Rare",
-   "price": 8.26,
+   "price": 8.1,
    "img": "https://images.scrydex.com/pokemon/sv2-207/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-207/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/quaxwell-207/nb14YSfvXRdjS4jR"
@@ -2078,7 +2078,7 @@
    "name": "Frigibax",
    "number": "208/193",
    "rarity": "Illustration Rare",
-   "price": 20.06,
+   "price": 20.33,
    "img": "https://images.scrydex.com/pokemon/sv2-208/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-208/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/frigibax-208/PPsQ6Whk5HKifiym"
@@ -2088,7 +2088,7 @@
    "name": "Arctibax",
    "number": "209/193",
    "rarity": "Illustration Rare",
-   "price": 16.67,
+   "price": 16.91,
    "img": "https://images.scrydex.com/pokemon/sv2-209/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-209/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/arctibax-209/NAB5tf0GuiIqFqFe"
@@ -2098,7 +2098,7 @@
    "name": "Baxcalibur",
    "number": "210/193",
    "rarity": "Illustration Rare",
-   "price": 30.02,
+   "price": 30.1,
    "img": "https://images.scrydex.com/pokemon/sv2-210/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-210/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/baxcalibur-210/2RYYAEd4bVbrrVnY"
@@ -2108,7 +2108,7 @@
    "name": "Raichu",
    "number": "211/193",
    "rarity": "Illustration Rare",
-   "price": 92.95,
+   "price": 93.03,
    "img": "https://images.scrydex.com/pokemon/sv2-211/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-211/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/raichu-211/EOUk02gCKCZnYBkS"
@@ -2118,7 +2118,7 @@
    "name": "Mismagius",
    "number": "212/193",
    "rarity": "Illustration Rare",
-   "price": 34.52,
+   "price": 34.58,
    "img": "https://images.scrydex.com/pokemon/sv2-212/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-212/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/mismagius-212/cwwl1uYl7LCbRrDZ"
@@ -2128,7 +2128,7 @@
    "name": "Gothorita",
    "number": "213/193",
    "rarity": "Illustration Rare",
-   "price": 12.76,
+   "price": 13.1,
    "img": "https://images.scrydex.com/pokemon/sv2-213/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-213/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/gothorita-213/QSJsLIgeeSWMsFmE"
@@ -2138,7 +2138,7 @@
    "name": "Sandygast",
    "number": "214/193",
    "rarity": "Illustration Rare",
-   "price": 11.07,
+   "price": 11.02,
    "img": "https://images.scrydex.com/pokemon/sv2-214/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-214/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/sandygast-214/Y17FnrBYPXk2KqmO"
@@ -2148,7 +2148,7 @@
    "name": "Rabsca",
    "number": "215/193",
    "rarity": "Illustration Rare",
-   "price": 5.83,
+   "price": 5.94,
    "img": "https://images.scrydex.com/pokemon/sv2-215/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-215/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/rabsca-215/RwTEnZSIHA73Y86O"
@@ -2158,7 +2158,7 @@
    "name": "Tinkatink",
    "number": "216/193",
    "rarity": "Illustration Rare",
-   "price": 30.15,
+   "price": 29.06,
    "img": "https://images.scrydex.com/pokemon/sv2-216/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-216/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tinkatink-216/YkkjVvnyPQh490N7"
@@ -2168,7 +2168,7 @@
    "name": "Tinkatuff",
    "number": "217/193",
    "rarity": "Illustration Rare",
-   "price": 32.14,
+   "price": 31.05,
    "img": "https://images.scrydex.com/pokemon/sv2-217/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-217/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tinkatuff-217/SILcNlRTAogDs6aO"
@@ -2178,7 +2178,7 @@
    "name": "Paldean Tauros",
    "number": "218/193",
    "rarity": "Illustration Rare",
-   "price": 16.73,
+   "price": 17.12,
    "img": "https://images.scrydex.com/pokemon/sv2-218/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-218/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-tauros-218/sWBnv9yLctS29rJM"
@@ -2188,7 +2188,7 @@
    "name": "Sudowoodo",
    "number": "219/193",
    "rarity": "Illustration Rare",
-   "price": 30.8,
+   "price": 30.74,
    "img": "https://images.scrydex.com/pokemon/sv2-219/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-219/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/sudowoodo-219/kJ4xWuXCMISVWs8Q"
@@ -2198,7 +2198,7 @@
    "name": "Nacli",
    "number": "220/193",
    "rarity": "Illustration Rare",
-   "price": 6.43,
+   "price": 6.47,
    "img": "https://images.scrydex.com/pokemon/sv2-220/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-220/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/nacli-220/FNBVjpUREPp3fvS0"
@@ -2208,7 +2208,7 @@
    "name": "Paldean Wooper",
    "number": "221/193",
    "rarity": "Illustration Rare",
-   "price": 16.88,
+   "price": 16.83,
    "img": "https://images.scrydex.com/pokemon/sv2-221/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-221/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-wooper-221/PyJuDfVUbpJdThmh"
@@ -2218,7 +2218,7 @@
    "name": "Tyranitar",
    "number": "222/193",
    "rarity": "Illustration Rare",
-   "price": 66.2,
+   "price": 66.59,
    "img": "https://images.scrydex.com/pokemon/sv2-222/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-222/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tyranitar-222/4fUHRZ3mOljZ02C4"
@@ -2238,7 +2238,7 @@
    "name": "Orthworm",
    "number": "224/193",
    "rarity": "Illustration Rare",
-   "price": 6.37,
+   "price": 6.3,
    "img": "https://images.scrydex.com/pokemon/sv2-224/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-224/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/orthworm-224/JBTf6mx2pfTAiGY9"
@@ -2258,7 +2258,7 @@
    "name": "Maushold",
    "number": "226/193",
    "rarity": "Illustration Rare",
-   "price": 83.51,
+   "price": 82.25,
    "img": "https://images.scrydex.com/pokemon/sv2-226/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-226/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/maushold-226/1DpiNzHpStKwzaua"
@@ -2268,7 +2268,7 @@
    "name": "Flamigo",
    "number": "227/193",
    "rarity": "Illustration Rare",
-   "price": 11.87,
+   "price": 12.43,
    "img": "https://images.scrydex.com/pokemon/sv2-227/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-227/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/flamigo-227/zxxq9tSsrTtm1lPH"
@@ -2278,7 +2278,7 @@
    "name": "Farigiraf",
    "number": "228/193",
    "rarity": "Illustration Rare",
-   "price": 12.47,
+   "price": 12.71,
    "img": "https://images.scrydex.com/pokemon/sv2-228/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-228/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/farigiraf-228/JjPcqcdoZvV8KNNO"
@@ -2298,7 +2298,7 @@
    "name": "Forretress ex",
    "number": "230/193",
    "rarity": "Ultra Rare",
-   "price": 1.16,
+   "price": 1.14,
    "img": "https://images.scrydex.com/pokemon/sv2-230/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-230/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/forretress-ex-230/NZfUmITQJA3m0Flv"
@@ -2308,7 +2308,7 @@
    "name": "Meowscarada ex",
    "number": "231/193",
    "rarity": "Ultra Rare",
-   "price": 4.84,
+   "price": 4.79,
    "img": "https://images.scrydex.com/pokemon/sv2-231/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-231/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/meowscarada-ex-231/lOLLLOX9xQeQTnZ1"
@@ -2338,7 +2338,7 @@
    "name": "Chi-Yu ex",
    "number": "234/193",
    "rarity": "Ultra Rare",
-   "price": 4.6,
+   "price": 4.55,
    "img": "https://images.scrydex.com/pokemon/sv2-234/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-234/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chi-yu-ex-234/VSJLMqkOhhP9ckCO"
@@ -2358,7 +2358,7 @@
    "name": "Chien-Pao ex",
    "number": "236/193",
    "rarity": "Ultra Rare",
-   "price": 2.69,
+   "price": 2.67,
    "img": "https://images.scrydex.com/pokemon/sv2-236/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-236/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chien-pao-ex-236/eix1i48GxZJIGKT0"
@@ -2368,7 +2368,7 @@
    "name": "Bellibolt ex",
    "number": "237/193",
    "rarity": "Ultra Rare",
-   "price": 3.25,
+   "price": 3.19,
    "img": "https://images.scrydex.com/pokemon/sv2-237/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-237/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/bellibolt-ex-237/uTEAxdRLcPlZZQaD"
@@ -2378,7 +2378,7 @@
    "name": "Slowking ex",
    "number": "238/193",
    "rarity": "Ultra Rare",
-   "price": 9.18,
+   "price": 9.17,
    "img": "https://images.scrydex.com/pokemon/sv2-238/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-238/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/slowking-ex-238/iQuVPPA1LmoJy5nX"
@@ -2388,7 +2388,7 @@
    "name": "Dedenne ex",
    "number": "239/193",
    "rarity": "Ultra Rare",
-   "price": 16.06,
+   "price": 15.96,
    "img": "https://images.scrydex.com/pokemon/sv2-239/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-239/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/dedenne-ex-239/0aB9qf9gJRhJshRK"
@@ -2398,7 +2398,7 @@
    "name": "Tinkaton ex",
    "number": "240/193",
    "rarity": "Ultra Rare",
-   "price": 9.46,
+   "price": 10.09,
    "img": "https://images.scrydex.com/pokemon/sv2-240/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-240/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tinkaton-ex-240/BNndPVwj7obU0D9w"
@@ -2408,7 +2408,7 @@
    "name": "Lycanroc ex",
    "number": "241/193",
    "rarity": "Ultra Rare",
-   "price": 2.26,
+   "price": 2.29,
    "img": "https://images.scrydex.com/pokemon/sv2-241/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-241/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/lycanroc-ex-241/XuSpMX0l3JSYRmo1"
@@ -2418,7 +2418,7 @@
    "name": "Annihilape ex",
    "number": "242/193",
    "rarity": "Ultra Rare",
-   "price": 5.57,
+   "price": 5.63,
    "img": "https://images.scrydex.com/pokemon/sv2-242/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-242/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/annihilape-ex-242/0rd0ZmBWhyMAhkul"
@@ -2428,7 +2428,7 @@
    "name": "Ting-Lu ex",
    "number": "243/193",
    "rarity": "Ultra Rare",
-   "price": 1.27,
+   "price": 1.26,
    "img": "https://images.scrydex.com/pokemon/sv2-243/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-243/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/ting-lu-ex-243/AbPUyO5ByVY8tRBL"
@@ -2438,7 +2438,7 @@
    "name": "Paldean Clodsire ex",
    "number": "244/193",
    "rarity": "Ultra Rare",
-   "price": 3.33,
+   "price": 3.3,
    "img": "https://images.scrydex.com/pokemon/sv2-244/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-244/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/paldean-clodsire-ex-244/HGksKf477UDVlK0i"
@@ -2448,7 +2448,7 @@
    "name": "Copperajah ex",
    "number": "245/193",
    "rarity": "Ultra Rare",
-   "price": 1.23,
+   "price": 1.25,
    "img": "https://images.scrydex.com/pokemon/sv2-245/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-245/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/copperajah-ex-245/aMq93JWjArs64A1j"
@@ -2458,7 +2458,7 @@
    "name": "Noivern ex",
    "number": "246/193",
    "rarity": "Ultra Rare",
-   "price": 2.29,
+   "price": 2.28,
    "img": "https://images.scrydex.com/pokemon/sv2-246/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-246/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/noivern-ex-246/DSM3q5l2LbuOCiaO"
@@ -2468,7 +2468,7 @@
    "name": "Squawkabilly ex",
    "number": "247/193",
    "rarity": "Ultra Rare",
-   "price": 1.63,
+   "price": 1.66,
    "img": "https://images.scrydex.com/pokemon/sv2-247/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-247/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/squawkabilly-ex-247/DpKgP2U9gimKGTdr"
@@ -2478,7 +2478,7 @@
    "name": "Boss's Orders (Ghetsis)",
    "number": "248/193",
    "rarity": "Ultra Rare",
-   "price": 10.51,
+   "price": 9.77,
    "img": "https://images.scrydex.com/pokemon/sv2-248/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-248/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/bosss-orders-ghetsis-248/K2ReKizB41QOFDmb"
@@ -2498,7 +2498,7 @@
    "name": "Dendra",
    "number": "250/193",
    "rarity": "Ultra Rare",
-   "price": 2.09,
+   "price": 2.06,
    "img": "https://images.scrydex.com/pokemon/sv2-250/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-250/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/dendra-250/vIIPKKc9aRIIbGFG"
@@ -2508,7 +2508,7 @@
    "name": "Falkner",
    "number": "251/193",
    "rarity": "Ultra Rare",
-   "price": 1.36,
+   "price": 1.35,
    "img": "https://images.scrydex.com/pokemon/sv2-251/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-251/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/falkner-251/RXVMVGHms7iBp6aA"
@@ -2518,7 +2518,7 @@
    "name": "Giacomo",
    "number": "252/193",
    "rarity": "Ultra Rare",
-   "price": 1.05,
+   "price": 1.03,
    "img": "https://images.scrydex.com/pokemon/sv2-252/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-252/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/giacomo-252/rtKKtQUAy9cvW16h"
@@ -2528,7 +2528,7 @@
    "name": "Grusha",
    "number": "253/193",
    "rarity": "Ultra Rare",
-   "price": 3.11,
+   "price": 3.12,
    "img": "https://images.scrydex.com/pokemon/sv2-253/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-253/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/grusha-253/ZwnU2XmH26NKbvX3"
@@ -2538,7 +2538,7 @@
    "name": "Iono",
    "number": "254/193",
    "rarity": "Ultra Rare",
-   "price": 10.48,
+   "price": 10.66,
    "img": "https://images.scrydex.com/pokemon/sv2-254/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-254/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/iono-254/S8vImnc2Ry6Ril42"
@@ -2548,7 +2548,7 @@
    "name": "Saguaro",
    "number": "255/193",
    "rarity": "Ultra Rare",
-   "price": 1.08,
+   "price": 1.02,
    "img": "https://images.scrydex.com/pokemon/sv2-255/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-255/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/saguaro-255/JeTPaMBXVW1rqIue"
@@ -2568,7 +2568,7 @@
    "name": "Wo-Chien ex",
    "number": "257/193",
    "rarity": "Special Illustration Rare",
-   "price": 14.37,
+   "price": 14.64,
    "img": "https://images.scrydex.com/pokemon/sv2-257/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-257/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/wo-chien-ex-257/GVaBOkSmMb9TTNoE"
@@ -2578,7 +2578,7 @@
    "name": "Skeledirge ex",
    "number": "258/193",
    "rarity": "Special Illustration Rare",
-   "price": 33.37,
+   "price": 33.33,
    "img": "https://images.scrydex.com/pokemon/sv2-258/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-258/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/skeledirge-ex-258/9wwFcdF74qIrJ0hu"
@@ -2588,7 +2588,7 @@
    "name": "Chi-Yu ex",
    "number": "259/193",
    "rarity": "Special Illustration Rare",
-   "price": 44.33,
+   "price": 44.28,
    "img": "https://images.scrydex.com/pokemon/sv2-259/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-259/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chi-yu-ex-259/gYQH11u14kLTq0sO"
@@ -2598,7 +2598,7 @@
    "name": "Quaquaval ex",
    "number": "260/193",
    "rarity": "Special Illustration Rare",
-   "price": 12.85,
+   "price": 13.07,
    "img": "https://images.scrydex.com/pokemon/sv2-260/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-260/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/quaquaval-ex-260/LqLtSfGFX1au14lW"
@@ -2608,7 +2608,7 @@
    "name": "Chien-Pao ex",
    "number": "261/193",
    "rarity": "Special Illustration Rare",
-   "price": 25.47,
+   "price": 25.33,
    "img": "https://images.scrydex.com/pokemon/sv2-261/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-261/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chien-pao-ex-261/UTwg7xfErmEbEhTU"
@@ -2618,7 +2618,7 @@
    "name": "Tinkaton ex",
    "number": "262/193",
    "rarity": "Special Illustration Rare",
-   "price": 50.33,
+   "price": 50.1,
    "img": "https://images.scrydex.com/pokemon/sv2-262/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-262/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/tinkaton-ex-262/TqhTukP29XSEiPIM"
@@ -2628,7 +2628,7 @@
    "name": "Ting-Lu ex",
    "number": "263/193",
    "rarity": "Special Illustration Rare",
-   "price": 10.23,
+   "price": 10.39,
    "img": "https://images.scrydex.com/pokemon/sv2-263/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-263/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/ting-lu-ex-263/IqrqdpPcjfqhLFa2"
@@ -2638,7 +2638,7 @@
    "name": "Squawkabilly ex",
    "number": "264/193",
    "rarity": "Special Illustration Rare",
-   "price": 11.58,
+   "price": 11.6,
    "img": "https://images.scrydex.com/pokemon/sv2-264/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-264/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/squawkabilly-ex-264/gOBtYGu9VyE6p79K"
@@ -2648,7 +2648,7 @@
    "name": "Boss's Orders (Ghetsis)",
    "number": "265/193",
    "rarity": "Special Illustration Rare",
-   "price": 14.82,
+   "price": 14.95,
    "img": "https://images.scrydex.com/pokemon/sv2-265/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-265/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/bosss-orders-ghetsis-265/k5a8Bw9QmSzkSJRt"
@@ -2658,7 +2658,7 @@
    "name": "Dendra",
    "number": "266/193",
    "rarity": "Special Illustration Rare",
-   "price": 8.51,
+   "price": 8.55,
    "img": "https://images.scrydex.com/pokemon/sv2-266/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-266/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/dendra-266/zkASRV90zvX7fWhd"
@@ -2668,7 +2668,7 @@
    "name": "Giacomo",
    "number": "267/193",
    "rarity": "Special Illustration Rare",
-   "price": 4.03,
+   "price": 4.07,
    "img": "https://images.scrydex.com/pokemon/sv2-267/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-267/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/giacomo-267/WulsBBVw0PdDGll8"
@@ -2678,7 +2678,7 @@
    "name": "Grusha",
    "number": "268/193",
    "rarity": "Special Illustration Rare",
-   "price": 20.15,
+   "price": 20.31,
    "img": "https://images.scrydex.com/pokemon/sv2-268/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-268/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/grusha-268/QtfmMdQ57X05LbXB"
@@ -2698,7 +2698,7 @@
    "name": "Saguaro",
    "number": "270/193",
    "rarity": "Special Illustration Rare",
-   "price": 15.03,
+   "price": 14.9,
    "img": "https://images.scrydex.com/pokemon/sv2-270/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-270/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/saguaro-270/OOfFrqJ1oXkQR5V2"
@@ -2708,7 +2708,7 @@
    "name": "Meowscarada ex",
    "number": "271/193",
    "rarity": "Hyper Rare",
-   "price": 9.1,
+   "price": 9.08,
    "img": "https://images.scrydex.com/pokemon/sv2-271/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-271/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/meowscarada-ex-271/uLLTRLdf3qu9dLMb"
@@ -2718,7 +2718,7 @@
    "name": "Skeledirge ex",
    "number": "272/193",
    "rarity": "Hyper Rare",
-   "price": 5.65,
+   "price": 5.68,
    "img": "https://images.scrydex.com/pokemon/sv2-272/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-272/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/skeledirge-ex-272/X9XeorUxtJj4Dsnv"
@@ -2728,7 +2728,7 @@
    "name": "Quaquaval ex",
    "number": "273/193",
    "rarity": "Hyper Rare",
-   "price": 5.65,
+   "price": 5.63,
    "img": "https://images.scrydex.com/pokemon/sv2-273/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-273/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/quaquaval-ex-273/1GCJazbzDCyd2In8"
@@ -2738,7 +2738,7 @@
    "name": "Chien-Pao ex",
    "number": "274/193",
    "rarity": "Hyper Rare",
-   "price": 6.15,
+   "price": 6.14,
    "img": "https://images.scrydex.com/pokemon/sv2-274/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-274/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/chien-pao-ex-274/wdI4cw0nGT9U12ev"
@@ -2748,7 +2748,7 @@
    "name": "Ting-Lu ex",
    "number": "275/193",
    "rarity": "Hyper Rare",
-   "price": 3.9,
+   "price": 3.87,
    "img": "https://images.scrydex.com/pokemon/sv2-275/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-275/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/ting-lu-ex-275/cbY2ENZNm8Yn1W74"
@@ -2758,7 +2758,7 @@
    "name": "Super Rod",
    "number": "276/193",
    "rarity": "Hyper Rare",
-   "price": 4.31,
+   "price": 5.21,
    "img": "https://images.scrydex.com/pokemon/sv2-276/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-276/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/super-rod-276/nXO7blR11MtzWfPm"
@@ -2768,7 +2768,7 @@
    "name": "Superior Energy Retrieval",
    "number": "277/193",
    "rarity": "Hyper Rare",
-   "price": 1.97,
+   "price": 1.89,
    "img": "https://images.scrydex.com/pokemon/sv2-277/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-277/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/superior-energy-retrieval-277/l2u4SCxxHsF8Pxzp"
@@ -2788,7 +2788,7 @@
    "name": "Basic Water Energy",
    "number": "279/193",
    "rarity": "Hyper Rare",
-   "price": 7.59,
+   "price": 7.6,
    "img": "https://images.scrydex.com/pokemon/sv2-279/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv2-279/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldea-evolved/basic-water-energy-279/2xROp1sFwd8deQV9"
