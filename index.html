@@ -35,6 +35,15 @@ header { padding: calc(18px + env(safe-area-inset-top)) 0 8px; }
 h1 { font-size: 24px; margin: 0; letter-spacing: -.01em; }
 .updated { color: var(--ink-3); font-size: 13px; }
 .updated a { color: var(--accent); text-decoration: none; margin-left: 6px; }
+.linkbtn { background: none; border: 0; padding: 0; margin-left: 8px; color: var(--accent); cursor: pointer; font-weight: 600; font-size: inherit; }
+.syncst { margin-left: 8px; display: inline-flex; align-items: center; gap: 6px; }
+.syncst.ok { color: var(--gain); } .syncst.err { color: var(--loss); }
+.syncst a { margin-left: 2px; }
+.spin { width: 12px; height: 12px; border: 2px solid var(--accent-soft); border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.steps { margin: 0 0 12px; padding-left: 20px; color: var(--ink-2); font-size: 14px; display: grid; gap: 6px; }
+.steps a { color: var(--accent); }
+.dlg input.tok { width: 100%; background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 9px 10px; margin-bottom: 4px; }
 
 .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 14px 0 6px; }
 .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; }
@@ -431,8 +440,8 @@ function renderHeader() {
     .map(([k, label, n]) => `<button class="chip" data-brand="${esc(k)}" aria-pressed="${state.brand === k}">${esc(label)}<span class="n">${n}</span></button>`).join("");
   $("#brands").style.display = brands.length > 1 ? "" : "none";
 
-  $("#updated").innerHTML = (state.updatedAt ? `Synced from Rare Candy ${timeAgo(state.updatedAt)}` : "") +
-    `<a href="https://github.com/${REPO}/actions/workflows/sync.yml" target="_blank" rel="noopener" title="Open the sync workflow and press “Run workflow”">Sync now ↗</a>`;
+  $("#updated").innerHTML = (state.updatedAt ? `Synced from Rare Candy ${timeAgo(state.updatedAt)}` : "") + `<span id="syncst"></span>`;
+  drawSync();
 }
 
 function fmtDate(iso) { return new Date(iso + "T12:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
@@ -1170,6 +1179,131 @@ function confirmDelete(deck) {
   };
 }
 
+/* ---------- one-tap sync ----------
+   Starts the sync workflow through the GitHub API with a fine-grained token
+   saved on this device (this repo only, Actions: read and write), follows the
+   run, then reloads once GitHub Pages is serving the new data. */
+const API = `https://api.github.com/repos/${REPO}`;
+const WORKFLOW_URL = `https://github.com/${REPO}/actions/workflows/sync.yml`;
+const TOKEN_URL = "https://github.com/settings/personal-access-tokens/new?" + new URLSearchParams({
+  name: "Card Collection sync", description: "Lets krburchel.github.io/card-collection start its Rare Candy sync",
+  target_name: REPO.split("/")[0], expires_in: "366", actions: "write",
+});
+const sync = { state: "idle", msg: "", runUrl: null };
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const gh = (path, token, opts = {}) => fetch(API + path, { ...opts, headers: {
+  Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" } });
+class TokenError extends Error {}
+
+function drawSync() {
+  const el = $("#syncst");
+  if (!el) return;
+  const btn = `<button class="linkbtn" data-sync title="Pull the latest cards from Rare Candy">Sync now</button>`;
+  const run = sync.runUrl ? ` <a href="${esc(sync.runUrl)}" target="_blank" rel="noopener">details ↗</a>` : "";
+  el.innerHTML = sync.state === "busy" ? `<span class="syncst"><i class="spin"></i>${esc(sync.msg)}</span>`
+    : sync.state === "done" ? `<span class="syncst ok">${esc(sync.msg)}</span>`
+    : sync.state === "error" ? `<span class="syncst err">${esc(sync.msg)}${run}</span>${btn}`
+    : btn;
+}
+let syncClear;
+function setSync(st, msg) {
+  sync.state = st; sync.msg = msg; drawSync();
+  clearTimeout(syncClear);
+  if (st === "done") syncClear = setTimeout(() => setSync("idle", ""), 10000);
+}
+
+async function runSync() {
+  const token = store.get("ghToken", null);
+  if (!token) return openSyncSetup();
+  if (sync.state === "busy") return;
+  const since = new Date(Date.now() - 10000); // a little slack for clock differences
+  const before = state.updatedAt;
+  sync.runUrl = null;
+  setSync("busy", "Starting sync…");
+  try {
+    const r = await gh("/actions/workflows/sync.yml/dispatches", token, { method: "POST", body: JSON.stringify({ ref: "main" }) });
+    if ([401, 403, 404].includes(r.status)) throw new TokenError(r.status === 401
+      ? "GitHub didn't accept the saved token. It has probably expired."
+      : "The saved token isn't allowed to run the sync. It needs Actions: Read and write on card-collection.");
+    if (!r.ok) throw new Error(`GitHub answered ${r.status}`);
+
+    // The dispatch call doesn't say which run it started; find the newest manual run since we asked
+    let run = null;
+    for (let i = 0; i < 40 && !run; i++) {
+      await sleep(3000);
+      const j = await gh("/actions/workflows/sync.yml/runs?event=workflow_dispatch&per_page=5", token).then(r => r.json());
+      run = (j.workflow_runs || []).find(x => new Date(x.created_at) >= since);
+    }
+    if (!run) throw new Error("GitHub never started the sync");
+    sync.runUrl = run.html_url;
+    const t0 = Date.now();
+    while (run.status !== "completed") {
+      const secs = Math.round((Date.now() - t0) / 1000);
+      setSync("busy", ["queued", "waiting", "pending", "requested"].includes(run.status) ? "Waiting for GitHub…" : `Syncing… ${secs}s`);
+      await sleep(4000);
+      run = await gh(`/actions/runs/${run.id}`, token).then(r => r.json());
+    }
+    if (run.conclusion !== "success") throw new Error("Sync failed");
+
+    // The sync only commits when something changed on Rare Candy
+    const commits = await fetch(`${API}/commits?path=data/rarecandy.json&since=${since.toISOString()}&per_page=1`).then(r => r.json()).catch(() => null);
+    if (Array.isArray(commits) && !commits.length) { setSync("done", "Already up to date ✓"); return; }
+    setSync("busy", "Publishing…");
+    for (let i = 0; i < 60; i++) { // GitHub Pages usually takes 1–2 minutes
+      const rc = await fetch(`data/rarecandy.json?t=${Date.now()}`, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+      if (rc?.updatedAt && rc.updatedAt !== before) { await load(); setSync("done", "Synced ✓"); return; }
+      await sleep(5000);
+    }
+    setSync("done", "Synced. Refresh in a minute to see it.");
+  } catch (e) {
+    if (e instanceof TokenError) { setSync("idle", ""); openSyncSetup(e.message); return; }
+    setSync("error", e.message || "Sync failed");
+  }
+}
+
+function openSyncSetup(problem = "") {
+  const has = !!store.get("ghToken", null);
+  const dlg = showDialog(`<div><h3>One-tap sync</h3>
+    ${problem ? `<p style="color:var(--loss)">${esc(problem)}</p>` : ""}
+    <p>To start the sync from here, this device needs a GitHub token that can only run this site's sync. You only set it up once per device.</p>
+    <ol class="steps">
+      <li><a href="${esc(TOKEN_URL)}" target="_blank" rel="noopener">Create a token on GitHub ↗</a></li>
+      <li>Repository access: <b>Only select repositories</b> → <b>card-collection</b></li>
+      <li>Permissions → Repository: <b>Actions → Read and write</b> (nothing else)</li>
+      <li>Expiration: as long as you like. When it runs out, this screen comes back.</li>
+      <li>Generate the token, copy it, and paste it here:</li>
+    </ol>
+    <input class="tok" id="tok" type="password" placeholder="github_pat_…" autocomplete="off" spellcheck="false">
+    <p id="tokmsg" style="color:var(--loss);min-height:1em"></p>
+    <div class="actions">
+      <button class="btn" id="toksave">Save &amp; sync</button>
+      <a class="btn ghost" href="${WORKFLOW_URL}" target="_blank" rel="noopener">Run it on GitHub instead ↗</a>
+      <button class="btn ghost" data-close>Cancel</button>
+    </div>
+    ${has ? `<p style="margin-top:14px"><button class="linkbtn" style="margin:0" id="tokforget">Remove the saved token from this device</button></p>` : ""}
+  </div>`);
+  $("#toksave").onclick = async () => {
+    const tok = $("#tok").value.trim();
+    if (!tok) { $("#tokmsg").textContent = "Paste the token first."; return; }
+    $("#tokmsg").textContent = "";
+    $("#toksave").disabled = true;
+    // Check it can see this repo's workflows before saving
+    const r = await gh("/actions/workflows/sync.yml", tok).catch(() => null);
+    $("#toksave").disabled = false;
+    if (!r?.ok) {
+      $("#tokmsg").textContent = r?.status === 401 ? "GitHub didn't accept that token. Check you copied all of it."
+        : r ? "That token can't see card-collection's Actions. Give it access to card-collection with Actions: Read and write."
+        : "Couldn't reach GitHub. Check your connection.";
+      return;
+    }
+    store.set("ghToken", tok);
+    dlg.close();
+    runSync();
+  };
+  $("#tokforget")?.addEventListener("click", () => { localStorage.removeItem("cc:ghToken"); dlg.close(); });
+  $("#tok").focus();
+}
+
 /* ---------- tooltip & dialog ---------- */
 const tip = $("#tip");
 function showTip(e, html) {
@@ -1247,6 +1381,7 @@ document.addEventListener("click", e => {
   const set = e.target.closest(".set[data-set]");
   if (set && set.dataset.setid) { state.setDetail = set.dataset.setid; state.setQ = ""; render(); scrollTo({ top: 0 }); return; }
   if (set) { state.set = set.dataset.set; state.tab = "cards"; state.sort = "set"; state.q = ""; state.rarity = ""; render(); scrollTo({ top: 0 }); return; }
+  if (e.target.closest("[data-sync]")) { runSync(); return; }
   if (handleDeckClick(e)) return;
   const card = e.target.closest("[data-id]");
   if (card) openCard(card.dataset.id);

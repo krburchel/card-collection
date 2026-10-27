@@ -4,7 +4,10 @@ Dashboard for my trading card collection: https://krburchel.github.io/card-colle
 
 - **Rare Candy sync**: `.github/workflows/sync.yml` runs `scripts/sync_rarecandy.py` every 30 minutes
   (GitHub may delay scheduled runs) and commits `data/rarecandy.json` + `data/history.json` when the
-  collection changes. Run it on demand from the Actions tab ("Run workflow").
+  collection changes. GitHub often delays scheduled runs by hours, so after adding cards tap **Sync now**
+  on the site: it starts the workflow through the GitHub API, follows the run and reloads when the new data
+  is live. Each device needs a fine-grained token once (only this repo, Actions: Read and write), saved in
+  that browser's localStorage. Without a token you can still run it from the Actions tab ("Run workflow").
   It also saves per-card price change points (`data/prices.json`, starting 2026-10-13, since Rare Candy's
   own price-history endpoint is broken) and, once a day, the full card list of every owned set
   (`data/sets/<setId>.json`) for the missing-cards view.
