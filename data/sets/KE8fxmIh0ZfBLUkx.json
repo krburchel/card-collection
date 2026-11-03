@@ -1,0 +1,117 @@
+{
+ "setId": "KE8fxmIh0ZfBLUkx",
+ "name": "Promo-B",
+ "fetchedOn": "2026-11-03",
+ "cards": [
+  {
+   "id": "rc:uVZ9H1UwS38TanlE",
+   "name": "Pikachu",
+   "number": "1",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-1/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-1/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/pikachu-1/uVZ9H1UwS38TanlE"
+  },
+  {
+   "id": "rc:P9ijdUGRmENOVGQj",
+   "name": "Petilil",
+   "number": "2",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-2/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-2/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/petilil-2/P9ijdUGRmENOVGQj"
+  },
+  {
+   "id": "rc:2RagJi2DnpcKwMwN",
+   "name": "Froakie",
+   "number": "3",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-3/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-3/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/froakie-3/2RagJi2DnpcKwMwN"
+  },
+  {
+   "id": "rc:oeXGn1ss2izylwq0",
+   "name": "Luxray",
+   "number": "4",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-4/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-4/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/luxray-4/oeXGn1ss2izylwq0"
+  },
+  {
+   "id": "rc:jaavpFYYzsmj95Ct",
+   "name": "Pidgey",
+   "number": "5",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-5/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-5/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/pidgey-5/jaavpFYYzsmj95Ct"
+  },
+  {
+   "id": "rc:aIZZ9V9ZnuwJtF6Q",
+   "name": "Mega Pidgeot ex",
+   "number": "6",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-6/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-6/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/mega-pidgeot-ex-6/aIZZ9V9ZnuwJtF6Q"
+  },
+  {
+   "id": "rc:J4vxrDoGKsTMHb70",
+   "name": "Torchic",
+   "number": "7",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-7/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-7/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/torchic-7/J4vxrDoGKsTMHb70"
+  },
+  {
+   "id": "rc:ZgUTEc8rl1cJser8",
+   "name": "Psyduck",
+   "number": "8",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-8/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-8/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/psyduck-8/ZgUTEc8rl1cJser8"
+  },
+  {
+   "id": "rc:UwI0SNKcGHe68r2P",
+   "name": "Mega Absol ex",
+   "number": "9",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-9/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-9/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/mega-absol-ex-9/UwI0SNKcGHe68r2P"
+  },
+  {
+   "id": "rc:tYureREUjepU66nK",
+   "name": "Drifblim",
+   "number": "10",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-10/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-10/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/drifblim-10/tYureREUjepU66nK"
+  },
+  {
+   "id": "rc:KFYH6bCh84Cj0hBk",
+   "name": "Eevee",
+   "number": "11",
+   "rarity": "Pocket Promo",
+   "price": null,
+   "img": "https://images.scrydex.com/pokemon/tcgp-PB-11/small",
+   "imgLarge": "https://images.scrydex.com/pokemon/tcgp-PB-11/large",
+   "url": "https://www.rarecandy.com/pokemon/sets/promo-b/eevee-11/KFYH6bCh84Cj0hBk"
+  }
+ ]
+}
