@@ -350,6 +350,31 @@
    "Amber Protection"
   ]
  },
+ "rc:0oIYcuGjS7GiyQhw": {
+  "tcgId": "sv2-118",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "118",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Make the Assist",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "70"
+   }
+  ]
+ },
  "rc:0sErxJvOeRbhmy1B": {
   "tcgId": "sv3pt5-127",
   "super": "Pokémon",
@@ -862,6 +887,30 @@
    }
   ]
  },
+ "rc:2WTZNdbnjRoKrZcZ": {
+  "tcgId": "sv2-145",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "145",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Spit Poison",
+    "c": [
+     "Darkness"
+    ],
+    "d": ""
+   }
+  ]
+ },
  "rc:2WrQVOoFErrVHE6y": {
   "tcgId": "sv3pt5-6",
   "super": "Pokémon",
@@ -1146,6 +1195,31 @@
    }
   ]
  },
+ "rc:3I7Xew6Htu8pV9Le": {
+  "tcgId": "sv2-112",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "112",
+  "hp": 90,
+  "attacks": [
+   {
+    "n": "Slap Push",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
  "rc:3JmtJzYXrsXXycrS": {
   "tcgId": "sv4pt5-67",
   "super": "Pokémon",
@@ -1315,6 +1389,31 @@
    }
   ]
  },
+ "rc:3dlnnesfrdBFGzOr": {
+  "tcgId": "sv2-158",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "158",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gust",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:3eOrWmrAwK9dnkek": {
   "tcgId": "sv3-163",
   "super": "Pokémon",
@@ -1338,6 +1437,64 @@
      "Colorless"
     ],
     "d": "40"
+   }
+  ]
+ },
+ "rc:3hXE0OFSyhV7Fxga": {
+  "tcgId": "sv2-164",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "164",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Send Back",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   }
+  ]
+ },
+ "rc:3lK4p0NoT8hC1Ub7": {
+  "tcgId": "sv2-154",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "154",
+  "hp": 100,
+  "attacks": [
+   {
+    "n": "Psy Bolt",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Headbang",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
    }
   ]
  },
@@ -1463,6 +1620,40 @@
    }
   ]
  },
+ "rc:4Bk8TT9UeXAU2RiL": {
+  "tcgId": "sv2-132",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "132",
+  "hp": 130,
+  "from": "Murkrow",
+  "attacks": [
+   {
+    "n": "Flap",
+    "c": [
+     "Darkness"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Dirty Throw",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
+   }
+  ]
+ },
  "rc:4QjA8pFqz0v5Btqr": {
   "tcgId": "sv3pt5-25",
   "super": "Pokémon",
@@ -1575,6 +1766,39 @@
      "Colorless"
     ],
     "d": "30+"
+   }
+  ]
+ },
+ "rc:4wde3UHVxBA0dfYh": {
+  "tcgId": "sv2-147",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "147",
+  "hp": 120,
+  "attacks": [
+   {
+    "n": "Delivery Pocket",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Dark Edge",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "120"
    }
   ]
  },
@@ -1703,6 +1927,73 @@
     "n": "Wave Splash",
     "c": [
      "Water",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
+ "rc:5T4lOxVjnsnCRqSV": {
+  "tcgId": "sv2-166",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "166",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Collect",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Gentle Slap",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:5kcQJIFFblo1MvdT": {
+  "tcgId": "sv2-142",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "142",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Smash Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Darkness",
+     "Colorless",
      "Colorless"
     ],
     "d": "50"
@@ -2062,6 +2353,36 @@
    }
   ]
  },
+ "rc:7ayO36UBGpJkjh3D": {
+  "tcgId": "sv2-151",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "151",
+  "hp": 130,
+  "abilities": [
+   "Nutritional Iron"
+  ],
+  "attacks": [
+   {
+    "n": "Shoot Through",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
+   }
+  ]
+ },
  "rc:7cwhykGvqZCRgUAv": {
   "tcgId": "sv4pt5-224",
   "super": "Pokémon",
@@ -2183,6 +2504,39 @@
      "Colorless"
     ],
     "d": "150"
+   }
+  ]
+ },
+ "rc:7sJGncL0OIpSsvrP": {
+  "tcgId": "sv2-156",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "156",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Find a Friend",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Bite",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
    }
   ]
  },
@@ -2581,6 +2935,69 @@
   "code": "SFA",
   "no": "59"
  },
+ "rc:9VSgcJGMSHP2OvSv": {
+  "tcgId": "sv2-167",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "167",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Attach",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Smash Kick",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
+ "rc:9ewKBuiEMnVkuDxZ": {
+  "tcgId": "sv2-150",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "150",
+  "hp": 300,
+  "from": "Cufant",
+  "abilities": [
+   "Bronze Body"
+  ],
+  "attacks": [
+   {
+    "n": "Nosequake",
+    "c": [
+     "Metal",
+     "Metal",
+     "Colorless"
+    ],
+    "d": "260"
+   }
+  ]
+ },
  "rc:9gg32iTJwufB9foc": {
   "tcgId": "sv3-79",
   "super": "Pokémon",
@@ -2928,6 +3345,34 @@
    }
   ]
  },
+ "rc:AFkherZlPQqOUKAV": {
+  "tcgId": "sv2-169",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "169",
+  "hp": 160,
+  "abilities": [
+   "Squawk and Seize"
+  ],
+  "attacks": [
+   {
+    "n": "Motivate",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:ARJFkt2ePmbHT3KO": {
   "tcgId": "sv3-81",
   "super": "Pokémon",
@@ -3115,6 +3560,37 @@
      "Colorless"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:B0uqHiUU6l6wVJPX": {
+  "tcgId": "sv2-128",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "128",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Find a Home",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Ram",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10"
    }
   ]
  },
@@ -3400,6 +3876,36 @@
    }
   ]
  },
+ "rc:BrDgbDmuKiotyy9l": {
+  "tcgId": "sv2-159",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "159",
+  "hp": 120,
+  "from": "Wingull",
+  "abilities": [
+   "Hearsay"
+  ],
+  "attacks": [
+   {
+    "n": "Wing Attack",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
  "rc:BrGaoSWPlRdsHF0p": {
   "tcgId": "sv3-230",
   "super": "Energy",
@@ -3578,6 +4084,31 @@
    }
   ]
  },
+ "rc:CKlJvoXC3XzlbhyC": {
+  "tcgId": "sv2-149",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "149",
+  "hp": 100,
+  "attacks": [
+   {
+    "n": "Stampede",
+    "c": [
+     "Metal",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
  "rc:CWLamXXyRGhjFmtk": {
   "tcgId": "sv8pt5-46",
   "super": "Pokémon",
@@ -3601,6 +4132,37 @@
      "Colorless"
     ],
     "d": "170"
+   }
+  ]
+ },
+ "rc:CbB9oH5ON5AoCJOw": {
+  "tcgId": "sv2-136",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "136",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Night Eyes",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Unseen Claw",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20+"
    }
   ]
  },
@@ -3834,6 +4396,18 @@
     "d": "10"
    }
   ]
+ },
+ "rc:DUdlVpaBGxr7fOx3": {
+  "tcgId": "sv2-173",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "173"
  },
  "rc:E129Kxv9Noo12B2c": {
   "tcgId": "sv3-131",
@@ -4401,6 +4975,39 @@
      "Colorless"
     ],
     "d": "20"
+   }
+  ]
+ },
+ "rc:FRF5h9hEHKxcOoGb": {
+  "tcgId": "sv2-115",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "115",
+  "hp": 130,
+  "from": "Croagunk",
+  "attacks": [
+   {
+    "n": "Pierce",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Knuckle Claws",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "60"
    }
   ]
  },
@@ -5130,6 +5737,35 @@
    }
   ]
  },
+ "rc:HjKo96G5nQOiP5Qz": {
+  "tcgId": "sv2-123",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "123",
+  "hp": 180,
+  "from": "Naclstack",
+  "abilities": [
+   "Blessed Salt"
+  ],
+  "attacks": [
+   {
+    "n": "Knocking Hammer",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "130"
+   }
+  ]
+ },
  "rc:HqoLC6QpkB30fgJL": {
   "tcgId": "sv4pt5-142",
   "super": "Pokémon",
@@ -5691,6 +6327,31 @@
    }
   ]
  },
+ "rc:JBJpQwuxCY1tAA8J": {
+  "tcgId": "sv2-152",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "152",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Gust",
+    "c": [
+     "Psychic",
+     "Darkness"
+    ],
+    "d": "40"
+   }
+  ]
+ },
  "rc:JE5xEBSb6gyhIQBY": {
   "tcgId": "sv4pt5-55",
   "super": "Pokémon",
@@ -5747,6 +6408,34 @@
      "Colorless"
     ],
     "d": "10"
+   }
+  ]
+ },
+ "rc:JYTn7BFxrbioHKTl": {
+  "tcgId": "sv2-170",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "170",
+  "hp": 110,
+  "abilities": [
+   "Insta-Flock"
+  ],
+  "attacks": [
+   {
+    "n": "United Wings",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20×"
    }
   ]
  },
@@ -5933,6 +6622,30 @@
   "code": "MEW",
   "no": "160"
  },
+ "rc:KhN8mOAxJWfQN7Ui": {
+  "tcgId": "sv2-114",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "114",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Poison Sting",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:KkiMewjFvS1IQNHO": {
   "tcgId": "sv4pt5-48",
   "super": "Pokémon",
@@ -6085,6 +6798,32 @@
   "code": "PRE",
   "no": "114"
  },
+ "rc:LHCOeYKGzQuXJQDO": {
+  "tcgId": "sv2-111",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "111",
+  "hp": 90,
+  "from": "Larvitar",
+  "attacks": [
+   {
+    "n": "Headbutt Bounce",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   }
+  ]
+ },
  "rc:LJzoHDx8EO74SKnS": {
   "tcgId": "sv2-20",
   "super": "Pokémon",
@@ -6106,6 +6845,36 @@
      "Grass"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:LOjBtjFUDfznIYp1": {
+  "tcgId": "sv2-15",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "15",
+  "hp": 310,
+  "from": "Floragato",
+  "abilities": [
+   "Bouquet Magic"
+  ],
+  "attacks": [
+   {
+    "n": "Scratching Nails",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
    }
   ]
  },
@@ -6566,6 +7335,39 @@
    }
   ]
  },
+ "rc:MJnTaqVXl4ApwS9C": {
+  "tcgId": "sv2-116",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "116",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rock Throw",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Bite",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   }
+  ]
+ },
  "rc:MPxzj6HU2TWv89SX": {
   "tcgId": "sv3-19",
   "super": "Pokémon",
@@ -6863,6 +7665,18 @@
    }
   ]
  },
+ "rc:NRX4UWTQo5TS5aNB": {
+  "tcgId": "sv2-174",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "174"
+ },
  "rc:Nam5doYr4apQqQF0": {
   "tcgId": "sv3-148",
   "super": "Pokémon",
@@ -6923,6 +7737,30 @@
   "expanded": true,
   "code": "PAF",
   "no": "77"
+ },
+ "rc:NdoyQUHfT6Zm3kJZ": {
+  "tcgId": "sv2-163",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "163",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Nosedive",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
  },
  "rc:Ne8pCF3liP8YecyD": {
   "tcgId": "sv3-37",
@@ -7408,6 +8246,41 @@
      "Colorless"
     ],
     "d": "10"
+   }
+  ]
+ },
+ "rc:P5NzfTkSOgBNSYeb": {
+  "tcgId": "sv2-117",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "117",
+  "hp": 260,
+  "from": "Rockruff",
+  "attacks": [
+   {
+    "n": "Rock Throw",
+    "c": [
+     "Fighting"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Scary Fangs",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "140"
    }
   ]
  },
@@ -7909,6 +8782,31 @@
    }
   ]
  },
+ "rc:Ql2MgRklM8yGKSSm": {
+  "tcgId": "sv2-138",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "138",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Ambush",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "20+"
+   }
+  ]
+ },
  "rc:QmYZBUU61Rl1cCHs": {
   "tcgId": "sv4pt5-83",
   "super": "Trainer",
@@ -8000,6 +8898,70 @@
      "Colorless"
     ],
     "d": "20"
+   }
+  ]
+ },
+ "rc:R11YcqMYpmWC3X5u": {
+  "tcgId": "sv2-134",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "134",
+  "hp": 110,
+  "from": "Sneasel",
+  "abilities": [
+   "Assaulting Hunt"
+  ],
+  "attacks": [
+   {
+    "n": "Slashing Claw",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "70"
+   }
+  ]
+ },
+ "rc:R7JFG0EsWiAFQXg5": {
+  "tcgId": "sv2-143",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "143",
+  "hp": 140,
+  "from": "Maschiff",
+  "attacks": [
+   {
+    "n": "Comeuppance",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Darkness Fang",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
    }
   ]
  },
@@ -8152,6 +9114,18 @@
    }
   ]
  },
+ "rc:S6hPgrGGoI1UDlqs": {
+  "tcgId": "sv2-176",
+  "super": "Trainer",
+  "sub": [
+   "Pokémon Tool"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "176"
+ },
  "rc:SAPTkyjxMYrIpwJS": {
   "tcgId": "sv3pt5-34",
   "super": "Pokémon",
@@ -8238,6 +9212,39 @@
      "Colorless"
     ],
     "d": ""
+   }
+  ]
+ },
+ "rc:SSLMh1igaIdw5kP7": {
+  "tcgId": "sv2-119",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "119",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Headbutt",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Reckless Charge Together",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70+"
    }
   ]
  },
@@ -8423,6 +9430,30 @@
      "Colorless"
     ],
     "d": "10"
+   }
+  ]
+ },
+ "rc:T4qp9a1C5XLLmi2J": {
+  "tcgId": "sv2-120",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "120",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Headbutt",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
    }
   ]
  },
@@ -8615,6 +9646,30 @@
      "Colorless"
     ],
     "d": "50+"
+   }
+  ]
+ },
+ "rc:TY7GCVoSmP5hBRl8": {
+  "tcgId": "sv2-125",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "125",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Rock Throw",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
    }
   ]
  },
@@ -9936,6 +10991,39 @@
    }
   ]
  },
+ "rc:XHVKXHdlcIjwggRk": {
+  "tcgId": "sv2-109",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "109",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Hit and Hide",
+    "c": [
+     "Fighting"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Elbow Strike",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "90"
+   }
+  ]
+ },
  "rc:XJf37mxb7ETB5gYQ": {
   "tcgId": "sv8pt5-72",
   "super": "Pokémon",
@@ -10450,6 +11538,32 @@
    }
   ]
  },
+ "rc:YcKimKWniQN2hSrt": {
+  "tcgId": "sv2-122",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "122",
+  "hp": 100,
+  "from": "Nacli",
+  "attacks": [
+   {
+    "n": "Salt Cannon",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "60×"
+   }
+  ]
+ },
  "rc:YdZdVEGk9U8JLpmi": {
   "tcgId": "sv3-71",
   "super": "Pokémon",
@@ -10471,6 +11585,40 @@
      "Lightning"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:YdyuPymbncSNtF6A": {
+  "tcgId": "sv2-165",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "165",
+  "hp": 90,
+  "from": "Rookidee",
+  "attacks": [
+   {
+    "n": "Glide",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Clutch",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
    }
   ]
  },
@@ -10953,6 +12101,41 @@
    }
   ]
  },
+ "rc:aR4gdkZZivnrGDqc": {
+  "tcgId": "sv2-161",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "161",
+  "hp": 90,
+  "from": "Slakoth",
+  "attacks": [
+   {
+    "n": "Confront",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Sharp Claws",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "60+"
+   }
+  ]
+ },
  "rc:acquQbMZm5Gcriwr": {
   "tcgId": "sv3-142",
   "super": "Pokémon",
@@ -11365,6 +12548,38 @@
      "Colorless"
     ],
     "d": "70"
+   }
+  ]
+ },
+ "rc:cnq1VRMaBfXbceJd": {
+  "tcgId": "sv2-121",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "121",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Salt Coating",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Tackle",
+    "c": [
+     "Fighting",
+     "Fighting"
+    ],
+    "d": "30"
    }
   ]
  },
@@ -11785,6 +13000,36 @@
      "Psychic"
     ],
     "d": "50"
+   }
+  ]
+ },
+ "rc:e91MhJyz4RdLXTxz": {
+  "tcgId": "sv2-140",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "140",
+  "hp": 180,
+  "from": "Zweilous",
+  "abilities": [
+   "Tri Howl"
+  ],
+  "attacks": [
+   {
+    "n": "Dark Cutter",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "160"
    }
   ]
  },
@@ -12278,6 +13523,18 @@
    }
   ]
  },
+ "rc:fvNKRv6NIPXzMGBi": {
+  "tcgId": "sv2-172",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "172"
+ },
  "rc:fxEIAIXoSUMkJONC": {
   "tcgId": "sv3pt5-198",
   "super": "Pokémon",
@@ -12393,6 +13650,41 @@
      "Grass"
     ],
     "d": "20"
+   }
+  ]
+ },
+ "rc:gKrIfxMR7HoRwrrI": {
+  "tcgId": "sv2-157",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "157",
+  "hp": 140,
+  "from": "Dunsparce",
+  "attacks": [
+   {
+    "n": "Mud-Slap",
+    "c": [
+     "Colorless"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Dig Away Flash",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
    }
   ]
  },
@@ -12512,6 +13804,40 @@
      "Grass"
     ],
     "d": "20"
+   }
+  ]
+ },
+ "rc:gpyzrizI6DNrOURn": {
+  "tcgId": "sv2-108",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "108",
+  "hp": 130,
+  "attacks": [
+   {
+    "n": "Raging Horns",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "20+"
+   },
+   {
+    "n": "Combat Tackle",
+    "c": [
+     "Fighting",
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "130"
    }
   ]
  },
@@ -12686,6 +14012,37 @@
    }
   ]
  },
+ "rc:hIMuqJhTDwd6nubS": {
+  "tcgId": "sv2-144",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "144",
+  "hp": 50,
+  "attacks": [
+   {
+    "n": "Berry Search",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Scratch",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10"
+   }
+  ]
+ },
  "rc:hXDnOVO3k8PoVeka": {
   "tcgId": "sv8pt5-54",
   "super": "Pokémon",
@@ -12836,6 +14193,30 @@
      "Colorless"
     ],
     "d": "40"
+   }
+  ]
+ },
+ "rc:hmZclsozkjDvzxJr": {
+  "tcgId": "sv2-141",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "141",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Ambush",
+    "c": [
+     "Darkness"
+    ],
+    "d": "10+"
    }
   ]
  },
@@ -13665,6 +15046,69 @@
    }
   ]
  },
+ "rc:kfABnWEqeHv4wakd": {
+  "tcgId": "sv2-168",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "168",
+  "hp": 60,
+  "from": "Tandemaus",
+  "attacks": [
+   {
+    "n": "Gentle Slap",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Gnaw Relentlessly",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
+   }
+  ]
+ },
+ "rc:koJ4w0a2Ci42behb": {
+  "tcgId": "sv2-126",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "126",
+  "hp": 130,
+  "from": "Glimmet",
+  "abilities": [
+   "Shattering Crystal"
+  ],
+  "attacks": [
+   {
+    "n": "Poison Petals",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   }
+  ]
+ },
  "rc:kodIQZVwrDGcht65": {
   "tcgId": "sv3pt5-169",
   "super": "Pokémon",
@@ -13754,6 +15198,73 @@
      "Colorless"
     ],
     "d": "70"
+   }
+  ]
+ },
+ "rc:l0LH3s8se2RqVJnL": {
+  "tcgId": "sv2-107",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "107",
+  "hp": 110,
+  "from": "Mankey",
+  "attacks": [
+   {
+    "n": "Low Kick",
+    "c": [
+     "Fighting"
+    ],
+    "d": "30"
+   },
+   {
+    "n": "Pummel",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "60+"
+   }
+  ]
+ },
+ "rc:lLMbo2iDv3PhMMX1": {
+  "tcgId": "sv2-148",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "148",
+  "hp": 170,
+  "from": "Corvisquire",
+  "attacks": [
+   {
+    "n": "Accelerate",
+    "c": [
+     "Metal"
+    ],
+    "d": "50"
+   },
+   {
+    "n": "Spinning Bird",
+    "c": [
+     "Metal",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
    }
   ]
  },
@@ -13865,6 +15376,18 @@
   "code": "MEW",
   "no": "156"
  },
+ "rc:lXBEGrwmQ0fhuFgj": {
+  "tcgId": "sv2-171",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "171"
+ },
  "rc:lYlo6LFwnM0h6WeU": {
   "tcgId": "sv3pt5-122",
   "super": "Pokémon",
@@ -13923,6 +15446,38 @@
      "Colorless"
     ],
     "d": "90+"
+   }
+  ]
+ },
+ "rc:lgnK1dsZFmqPndWu": {
+  "tcgId": "sv2-146",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "146",
+  "hp": 90,
+  "from": "Shroodle",
+  "attacks": [
+   {
+    "n": "Spit Poison",
+    "c": [
+     "Darkness"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Colorful Graffiti",
+    "c": [
+     "Darkness"
+    ],
+    "d": "40×"
    }
   ]
  },
@@ -14245,6 +15800,18 @@
   "code": "PRE",
   "no": "110"
  },
+ "rc:mkuFZ6FQgf366YdY": {
+  "tcgId": "sv2-175",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "175"
+ },
  "rc:mmEKL4Kg8TcF3y42": {
   "tcgId": "sv3pt5-79",
   "super": "Pokémon",
@@ -14510,6 +16077,30 @@
    }
   ]
  },
+ "rc:ncL3vA3K03ABYcYo": {
+  "tcgId": "sv2-124",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "124",
+  "hp": 40,
+  "attacks": [
+   {
+    "n": "Ascension",
+    "c": [
+     "Fighting"
+    ],
+    "d": ""
+   }
+  ]
+ },
  "rc:nv4FJw9yPeqzCC8a": {
   "tcgId": "sv3-129",
   "super": "Pokémon",
@@ -14711,6 +16302,39 @@
      "Psychic"
     ],
     "d": "30×"
+   }
+  ]
+ },
+ "rc:oZJ99FtibGv5a1Bk": {
+  "tcgId": "sv2-135",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "135",
+  "hp": 180,
+  "from": "Pupitar",
+  "attacks": [
+   {
+    "n": "Rout",
+    "c": [
+     "Darkness"
+    ],
+    "d": "30+"
+   },
+   {
+    "n": "Dread Mountain",
+    "c": [
+     "Darkness",
+     "Darkness"
+    ],
+    "d": "230"
    }
   ]
  },
@@ -14940,6 +16564,36 @@
      "Fighting"
     ],
     "d": "150+"
+   }
+  ]
+ },
+ "rc:pLtP0zWkRR5pf1nS": {
+  "tcgId": "sv2-162",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "162",
+  "hp": 180,
+  "from": "Vigoroth",
+  "abilities": [
+   "Stir and Snooze"
+  ],
+  "attacks": [
+   {
+    "n": "Slacker's Headstrike",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "240"
    }
   ]
  },
@@ -15210,6 +16864,41 @@
    }
   ]
  },
+ "rc:q83wtTLiTEI19QeH": {
+  "tcgId": "sv2-153",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Dragon"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "153",
+  "hp": 260,
+  "from": "Noibat",
+  "attacks": [
+   {
+    "n": "Covert Flight",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "70"
+   },
+   {
+    "n": "Dominating Echo",
+    "c": [
+     "Psychic",
+     "Darkness"
+    ],
+    "d": "140"
+   }
+  ]
+ },
  "rc:qFOKrxxcaTz9ttci": {
   "tcgId": "sv3-155",
   "super": "Pokémon",
@@ -15476,6 +17165,37 @@
      "Fighting"
     ],
     "d": "50"
+   }
+  ]
+ },
+ "rc:rI5zRkY44VgS2XtS": {
+  "tcgId": "sv2-130",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "130",
+  "hp": 280,
+  "from": "Paldean Wooper",
+  "abilities": [
+   "Toxic Wetland"
+  ],
+  "attacks": [
+   {
+    "n": "Needle Bone",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
    }
   ]
  },
@@ -15902,6 +17622,30 @@
    }
   ]
  },
+ "rc:skIYAnMLacuMq4ZA": {
+  "tcgId": "sv2-110",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "110",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Double Stab",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10×"
+   }
+  ]
+ },
  "rc:skOMXWApZMAWvmMV": {
   "tcgId": "sv3-197",
   "super": "Trainer",
@@ -16000,6 +17744,31 @@
      "Colorless"
     ],
     "d": "90"
+   }
+  ]
+ },
+ "rc:tJwiVX5FrLYQyd6Q": {
+  "tcgId": "sv2-160",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "160",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Yawn",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": ""
    }
   ]
  },
@@ -16685,6 +18454,38 @@
    }
   ]
  },
+ "rc:v77TvCWtnhAl48JX": {
+  "tcgId": "sv2-106",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "106",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Low Kick",
+    "c": [
+     "Fighting"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Hang Down",
+    "c": [
+     "Fighting",
+     "Colorless"
+    ],
+    "d": "30"
+   }
+  ]
+ },
  "rc:vIO86KeIgneVEb3x": {
   "tcgId": "sv3pt5-43",
   "super": "Pokémon",
@@ -17136,6 +18937,40 @@
   "code": "PRE",
   "no": "102"
  },
+ "rc:wStQNyoWSfc6MVu2": {
+  "tcgId": "sv2-139",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "139",
+  "hp": 100,
+  "from": "Deino",
+  "attacks": [
+   {
+    "n": "Find a Friend",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Headbutt Bounce",
+    "c": [
+     "Darkness",
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "80"
+   }
+  ]
+ },
  "rc:wb6mxydrF0RlgckN": {
   "super": "Energy",
   "sub": [
@@ -17576,6 +19411,38 @@
    }
   ]
  },
+ "rc:y0yo43ir9yGy5kFI": {
+  "tcgId": "sv2-137",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "137",
+  "hp": 110,
+  "attacks": [
+   {
+    "n": "Sharp Fang",
+    "c": [
+     "Colorless"
+    ],
+    "d": "20"
+   },
+   {
+    "n": "Cross-Cut",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "50+"
+   }
+  ]
+ },
  "rc:y2IMG67FCF6n8LrK": {
   "tcgId": "svp-173",
   "super": "Pokémon",
@@ -17701,6 +19568,37 @@
      "Colorless"
     ],
     "d": "30"
+   }
+  ]
+ },
+ "rc:yM3bse2h5G6ImH11": {
+  "tcgId": "sv2-131",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "131",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Spin Turn",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "United Wings",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20×"
    }
   ]
  },
@@ -17854,6 +19752,38 @@
    }
   ]
  },
+ "rc:ybgR2rvXcreUEdzG": {
+  "tcgId": "sv2-129",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "129",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Stampede",
+    "c": [
+     "Colorless"
+    ],
+    "d": "10"
+   },
+   {
+    "n": "Playful Kick",
+    "c": [
+     "Darkness",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:ycfB1Xi6IJA4JnmU": {
   "tcgId": "sv3pt5-151",
   "super": "Pokémon",
@@ -17881,6 +19811,36 @@
      "Colorless"
     ],
     "d": ""
+   }
+  ]
+ },
+ "rc:yeVApJLm8sLUoT67": {
+  "tcgId": "sv2-113",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Fighting"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "113",
+  "hp": 140,
+  "from": "Makuhita",
+  "abilities": [
+   "Arm Thrust Practice"
+  ],
+  "attacks": [
+   {
+    "n": "Rocket Slap",
+    "c": [
+     "Fighting",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "120"
    }
   ]
  },
@@ -18297,6 +20257,30 @@
    }
   ]
  },
+ "rc:zZ2kTD9F810Pr2ET": {
+  "tcgId": "sv2-133",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "133",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Dig Claws",
+    "c": [
+     "Darkness"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:zek5gcj3SKzTdafD": {
   "tcgId": "sv3-136",
   "super": "Pokémon",
@@ -18395,6 +20379,40 @@
      "Colorless"
     ],
     "d": "40"
+   }
+  ]
+ },
+ "rc:zn9b6N58CWtDMrq4": {
+  "tcgId": "sv2-155",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "155",
+  "hp": 140,
+  "from": "Girafarig",
+  "attacks": [
+   {
+    "n": "Either Face",
+    "c": [
+     "Colorless"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Power Beam",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "130"
    }
   ]
  },
