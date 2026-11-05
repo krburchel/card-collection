@@ -853,7 +853,7 @@
  },
  "rc:2RagJi2DnpcKwMwN": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:2SS8rWKLVOxrANBS": {
   "tcgId": "sv3-99",
@@ -1170,6 +1170,20 @@
     "d": ""
    }
   ]
+ },
+ "rc:2uy0dQiiU2MesOHy": {
+  "tcgId": "sv2-193",
+  "super": "Energy",
+  "sub": [
+   "Special"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "193"
  },
  "rc:3H8VGtMrY5W2qTWu": {
   "tcgId": "sv3pt5-100",
@@ -1498,6 +1512,18 @@
    }
   ]
  },
+ "rc:3pvWNCYBN9Fvci7k": {
+  "tcgId": "sv2-192",
+  "super": "Energy",
+  "sub": [
+   "Special"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "192"
+ },
  "rc:3soQ6vF5WmqY2yzg": {
   "tcgId": "sv3-150",
   "super": "Pokémon",
@@ -1699,6 +1725,39 @@
   "code": "PAF",
   "no": "91"
  },
+ "rc:4fUHRZ3mOljZ02C4": {
+  "tcgId": "sv2-222",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "222",
+  "hp": 180,
+  "from": "Pupitar",
+  "attacks": [
+   {
+    "n": "Rout",
+    "c": [
+     "Darkness"
+    ],
+    "d": "30+"
+   },
+   {
+    "n": "Dread Mountain",
+    "c": [
+     "Darkness",
+     "Darkness"
+    ],
+    "d": "230"
+   }
+  ]
+ },
  "rc:4iS2JMeq3jf6B9Ll": {
   "tcgId": "sv8pt5-93",
   "super": "Trainer",
@@ -1801,6 +1860,18 @@
     "d": "120"
    }
   ]
+ },
+ "rc:4xjy8yNKH8NRPEsc": {
+  "tcgId": "sv2-182",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "182"
  },
  "rc:4zL1onTctjgI785f": {
   "tcgId": "sv3pt5-70",
@@ -4109,6 +4180,30 @@
    }
   ]
  },
+ "rc:CPSxbaiTAxL5rjh0": {
+  "tcgId": "sv2-203",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "203",
+  "hp": 30,
+  "attacks": [
+   {
+    "n": "Expert Splasher",
+    "c": [
+     "Water"
+    ],
+    "d": "10+"
+   }
+  ]
+ },
  "rc:CWLamXXyRGhjFmtk": {
   "tcgId": "sv8pt5-46",
   "super": "Pokémon",
@@ -4497,6 +4592,18 @@
    }
   ]
  },
+ "rc:E6AB5Ef0SoBMUQH3": {
+  "tcgId": "sv2-186",
+  "super": "Trainer",
+  "sub": [
+   "Stadium"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "186"
+ },
  "rc:ECSVRCq6QgnIRd55": {
   "tcgId": "sv2-17",
   "super": "Pokémon",
@@ -4703,6 +4810,18 @@
     "d": "70"
    }
   ]
+ },
+ "rc:Eqg1IQa1xX2jMWsx": {
+  "tcgId": "sv2-185",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "185"
  },
  "rc:Euwk20XLXQPQsbVe": {
   "tcgId": "sv8pt5-63",
@@ -5152,6 +5271,18 @@
    }
   ]
  },
+ "rc:FqvFwglGFcOWZ4ww": {
+  "tcgId": "sv2-187",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "187"
+ },
  "rc:Fu6t6EdlpDRsmiSa": {
   "tcgId": "sv2-87",
   "super": "Pokémon",
@@ -5528,6 +5659,18 @@
    }
   ]
  },
+ "rc:H2SabUbAguIg8INC": {
+  "tcgId": "sv2-189",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "189"
+ },
  "rc:H8mHhoPPI4i7eIoD": {
   "tcgId": "sv2-26",
   "super": "Pokémon",
@@ -5580,6 +5723,37 @@
      "Colorless"
     ],
     "d": "90"
+   }
+  ]
+ },
+ "rc:HGksKf477UDVlK0i": {
+  "tcgId": "sv2-244",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1",
+   "ex"
+  ],
+  "types": [
+   "Darkness"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "244",
+  "hp": 280,
+  "from": "Paldean Wooper",
+  "abilities": [
+   "Toxic Wetland"
+  ],
+  "attacks": [
+   {
+    "n": "Needle Bone",
+    "c": [
+     "Darkness",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "200"
    }
   ]
  },
@@ -6266,7 +6440,7 @@
  },
  "rc:J4vxrDoGKsTMHb70": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:J5IiaS9jg2OBw5P6": {
   "tcgId": "sv3-11",
@@ -6349,6 +6523,36 @@
      "Darkness"
     ],
     "d": "40"
+   }
+  ]
+ },
+ "rc:JBTf6mx2pfTAiGY9": {
+  "tcgId": "sv2-224",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Metal"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "224",
+  "hp": 130,
+  "abilities": [
+   "Nutritional Iron"
+  ],
+  "attacks": [
+   {
+    "n": "Shoot Through",
+    "c": [
+     "Colorless",
+     "Colorless",
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100"
    }
   ]
  },
@@ -6509,7 +6713,7 @@
  },
  "rc:KFYH6bCh84Cj0hBk": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:KaBs71b975dD7EGA": {
   "tcgId": "sv3-74",
@@ -7368,6 +7572,31 @@
    }
   ]
  },
+ "rc:MNILhMNrniAipwel": {
+  "tcgId": "sv2-204",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "204",
+  "hp": 70,
+  "attacks": [
+   {
+    "n": "Bubble Drain",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "20"
+   }
+  ]
+ },
  "rc:MPxzj6HU2TWv89SX": {
   "tcgId": "sv3-19",
   "super": "Pokémon",
@@ -7602,6 +7831,41 @@
     "n": "Grasping Draw",
     "c": [],
     "d": ""
+   }
+  ]
+ },
+ "rc:NAB5tf0GuiIqFqFe": {
+  "tcgId": "sv2-209",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "209",
+  "hp": 90,
+  "from": "Frigibax",
+  "attacks": [
+   {
+    "n": "Sharp Fin",
+    "c": [
+     "Water",
+     "Colorless"
+    ],
+    "d": "40"
+   },
+   {
+    "n": "Frost Smash",
+    "c": [
+     "Water",
+     "Water",
+     "Colorless"
+    ],
+    "d": "80"
    }
   ]
  },
@@ -8320,7 +8584,7 @@
  },
  "rc:P9ijdUGRmENOVGQj": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:PByXenkBw8lu6wYv": {
   "tcgId": "sv4pt5-242",
@@ -8434,6 +8698,31 @@
     "c": [
      "Lightning",
      "Lightning"
+    ],
+    "d": "30"
+   }
+  ]
+ },
+ "rc:PPsQ6Whk5HKifiym": {
+  "tcgId": "sv2-208",
+  "super": "Pokémon",
+  "sub": [
+   "Basic"
+  ],
+  "types": [
+   "Water"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "208",
+  "hp": 60,
+  "attacks": [
+   {
+    "n": "Tackle",
+    "c": [
+     "Water",
+     "Colorless"
     ],
     "d": "30"
    }
@@ -8807,6 +9096,18 @@
    }
   ]
  },
+ "rc:Qlw96ulkUFi0XCYM": {
+  "tcgId": "sv2-179",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "179"
+ },
  "rc:QmYZBUU61Rl1cCHs": {
   "tcgId": "sv4pt5-83",
   "super": "Trainer",
@@ -9014,6 +9315,18 @@
    }
   ]
  },
+ "rc:RXVMVGHms7iBp6aA": {
+  "tcgId": "sv2-251",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "251"
+ },
  "rc:RaCFO7DDvaCVuyCg": {
   "tcgId": "sv3pt5-147",
   "super": "Pokémon",
@@ -9125,6 +9438,18 @@
   "expanded": true,
   "code": "PAL",
   "no": "176"
+ },
+ "rc:S8vImnc2Ry6Ril42": {
+  "tcgId": "sv2-254",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "254"
  },
  "rc:SAPTkyjxMYrIpwJS": {
   "tcgId": "sv3pt5-34",
@@ -9401,6 +9726,18 @@
     "d": "120"
    }
   ]
+ },
+ "rc:Sy1maKddgPqNhBdk": {
+  "tcgId": "sv2-177",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "177"
  },
  "rc:Sy5FhTGX1krA3V0f": {
   "tcgId": "sv3-178",
@@ -9819,6 +10156,18 @@
     "d": "80+"
    }
   ]
+ },
+ "rc:U5OVHgDfMRa7LfgD": {
+  "tcgId": "sv2-180",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "180"
  },
  "rc:U6Wr48OybbaLYoDT": {
   "tcgId": "sv3-64",
@@ -10309,6 +10658,18 @@
     "d": "100"
    }
   ]
+ },
+ "rc:VcZ62yPypzMu6zEs": {
+  "tcgId": "sv2-249",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "249"
  },
  "rc:VcehCMkR4UoQlCkB": {
   "tcgId": "sv4pt5-36",
@@ -11114,6 +11475,18 @@
     "d": "20"
    }
   ]
+ },
+ "rc:XU9cvLsHkMz6GcDE": {
+  "tcgId": "sv2-178",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "178"
  },
  "rc:XZIefTVkdsd4fwWF": {
   "tcgId": "sv4pt5-4",
@@ -12022,7 +12395,7 @@
  },
  "rc:aIZZ9V9ZnuwJtF6Q": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:aL2Pqx1gdHaIHqbQ": {
   "tcgId": "sv4pt5-84",
@@ -12610,6 +12983,35 @@
      "Colorless"
     ],
     "d": "80"
+   }
+  ]
+ },
+ "rc:cwwl1uYl7LCbRrDZ": {
+  "tcgId": "sv2-212",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 1"
+  ],
+  "types": [
+   "Psychic"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "212",
+  "hp": 90,
+  "from": "Misdreavus",
+  "abilities": [
+   "Magical Flick"
+  ],
+  "attacks": [
+   {
+    "n": "Psychic Sphere",
+    "c": [
+     "Psychic",
+     "Colorless"
+    ],
+    "d": "60"
    }
   ]
  },
@@ -13713,6 +14115,39 @@
    }
   ]
  },
+ "rc:gYQH11u14kLTq0sO": {
+  "tcgId": "sv2-259",
+  "super": "Pokémon",
+  "sub": [
+   "Basic",
+   "ex"
+  ],
+  "types": [
+   "Fire"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "259",
+  "hp": 190,
+  "attacks": [
+   {
+    "n": "Jealously Singe",
+    "c": [
+     "Fire"
+    ],
+    "d": ""
+   },
+   {
+    "n": "Flame Surge",
+    "c": [
+     "Fire",
+     "Fire"
+    ],
+    "d": "100"
+   }
+  ]
+ },
  "rc:gZ3RINkqYQ6L3Tho": {
   "tcgId": "sv4pt5-7",
   "super": "Pokémon",
@@ -14219,6 +14654,18 @@
     "d": "10+"
    }
   ]
+ },
+ "rc:hnJRzqZsv5e3XBnX": {
+  "tcgId": "sv2-183",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "183"
  },
  "rc:hp4bAOwxEJLLQqeZ": {
   "tcgId": "sv4pt5-41",
@@ -14865,7 +15312,7 @@
  },
  "rc:jaavpFYYzsmj95Ct": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:jgMZuVNYtXKLMLbM": {
   "tcgId": "sv4pt5-120",
@@ -15234,6 +15681,30 @@
    }
   ]
  },
+ "rc:l2u4SCxxHsF8Pxzp": {
+  "tcgId": "sv2-277",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "277"
+ },
+ "rc:lH8jNS8ksofVJzeW": {
+  "tcgId": "sv2-191",
+  "super": "Energy",
+  "sub": [
+   "Special"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "191"
+ },
  "rc:lLMbo2iDv3PhMMX1": {
   "tcgId": "sv2-148",
   "super": "Pokémon",
@@ -15330,6 +15801,48 @@
     "d": "10"
    }
   ]
+ },
+ "rc:lOLLLOX9xQeQTnZ1": {
+  "tcgId": "sv2-231",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "231",
+  "hp": 310,
+  "from": "Floragato",
+  "abilities": [
+   "Bouquet Magic"
+  ],
+  "attacks": [
+   {
+    "n": "Scratching Nails",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
+ "rc:lPyQ9gfmlpoGCw7P": {
+  "tcgId": "sv2-184",
+  "super": "Trainer",
+  "sub": [
+   "Supporter"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "184"
  },
  "rc:lTHyvJNWm9NlINDA": {
   "tcgId": "sv2-14",
@@ -15759,6 +16272,18 @@
    }
   ]
  },
+ "rc:mdDeVymCyePWPnKZ": {
+  "tcgId": "sv2-181",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "181"
+ },
  "rc:mfmumDMs3gAIRvAp": {
   "tcgId": "sv3pt5-68",
   "super": "Pokémon",
@@ -16048,6 +16573,18 @@
   "expanded": true,
   "code": "PRE",
   "no": "121"
+ },
+ "rc:nXO7blR11MtzWfPm": {
+  "tcgId": "sv2-276",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "276"
  },
  "rc:ncBmVbtJJyLa0WvS": {
   "tcgId": "sv3-174",
@@ -16372,7 +16909,7 @@
  },
  "rc:oeXGn1ss2izylwq0": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:oepBp0jgkHBfT88D": {
   "tcgId": "sv3pt5-54",
@@ -17081,6 +17618,20 @@
     "d": "110"
    }
   ]
+ },
+ "rc:r3Z4VnyMt0br3il0": {
+  "tcgId": "sv2-190",
+  "super": "Energy",
+  "sub": [
+   "Special"
+  ],
+  "types": [
+   "Colorless"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "190"
  },
  "rc:r4fKMeQM6fElnsYb": {
   "tcgId": "sv3-51",
@@ -18194,9 +18745,39 @@
    }
   ]
  },
+ "rc:uLLTRLdf3qu9dLMb": {
+  "tcgId": "sv2-271",
+  "super": "Pokémon",
+  "sub": [
+   "Stage 2",
+   "ex"
+  ],
+  "types": [
+   "Grass"
+  ],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "271",
+  "hp": 310,
+  "from": "Floragato",
+  "abilities": [
+   "Bouquet Magic"
+  ],
+  "attacks": [
+   {
+    "n": "Scratching Nails",
+    "c": [
+     "Colorless",
+     "Colorless"
+    ],
+    "d": "100+"
+   }
+  ]
+ },
  "rc:uVZ9H1UwS38TanlE": {
   "super": null,
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "rc:uXjOEzcimMs7DCgY": {
   "tcgId": "sv8pt5-127",
@@ -18604,6 +19185,18 @@
     "d": "10+"
    }
   ]
+ },
+ "rc:voK8DoHqcP1ylPU3": {
+  "tcgId": "sv2-188",
+  "super": "Trainer",
+  "sub": [
+   "Item"
+  ],
+  "types": [],
+  "mark": "G",
+  "expanded": true,
+  "code": "PAL",
+  "no": "188"
  },
  "rc:volLKpmyOIBI35kf": {
   "tcgId": "sv2-65",
