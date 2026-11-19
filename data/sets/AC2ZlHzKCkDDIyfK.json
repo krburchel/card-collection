@@ -1,7 +1,7 @@
 {
  "setId": "AC2ZlHzKCkDDIyfK",
  "name": "Paldean Fates",
- "fetchedOn": "2026-11-18",
+ "fetchedOn": "2026-11-19",
  "cards": [
   {
    "id": "rc:GQZNmUHxEK1VuVQf",
@@ -18,7 +18,7 @@
    "name": "Forretress ex",
    "number": "002/091",
    "rarity": "Double Rare",
-   "price": 0.49,
+   "price": 0.51,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-2/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-2/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/forretress-ex-2/NVGavg5nTgtj97sT"
@@ -28,7 +28,7 @@
    "name": "Maractus",
    "number": "003/091",
    "rarity": "Common",
-   "price": 0.07,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-3/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-3/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maractus-3/UVs6QC2xbK28gmee"
@@ -58,7 +58,7 @@
    "name": "Espathra ex",
    "number": "006/091",
    "rarity": "Double Rare",
-   "price": 0.49,
+   "price": 0.48,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-6/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-6/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-6/j8K2cCLhzMBzwNMR"
@@ -68,7 +68,7 @@
    "name": "Charmander",
    "number": "007/091",
    "rarity": "Common",
-   "price": 0.19,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-7/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-7/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmander-7/gZ3RINkqYQ6L3Tho"
@@ -88,7 +88,7 @@
    "name": "Magmar",
    "number": "009/091",
    "rarity": "Common",
-   "price": 0.09,
+   "price": 0.1,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-9/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-9/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/magmar-9/ABJj9SRNSJOP8aRw"
@@ -108,7 +108,7 @@
    "name": "Numel",
    "number": "011/091",
    "rarity": "Common",
-   "price": 0.05,
+   "price": 0.06,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-11/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-11/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/numel-11/GIxrd0JRzmvfvEqV"
@@ -118,7 +118,7 @@
    "name": "Camerupt",
    "number": "012/091",
    "rarity": "Uncommon",
-   "price": 0.08,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-12/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-12/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/camerupt-12/iyGVkW5hSfwfSmCF"
@@ -128,7 +128,7 @@
    "name": "Heat Rotom",
    "number": "013/091",
    "rarity": "Rare",
-   "price": 0.19,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-13/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-13/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/heat-rotom-13/jBt3Yd9Z8WPfjn3O"
@@ -138,7 +138,7 @@
    "name": "Charcadet",
    "number": "014/091",
    "rarity": "Common",
-   "price": 0.08,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-14/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-14/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charcadet-14/xGLHzYfMgrfk8MAO"
@@ -178,7 +178,7 @@
    "name": "Pikachu",
    "number": "018/091",
    "rarity": "Common",
-   "price": 0.27,
+   "price": 0.26,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-18/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-18/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pikachu-18/Xs1JiVnGBU3rSb7B"
@@ -188,7 +188,7 @@
    "name": "Raichu",
    "number": "019/091",
    "rarity": "Rare",
-   "price": 0.24,
+   "price": 0.23,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-19/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-19/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/raichu-19/XK7gCYLHH9WsvEEx"
@@ -258,7 +258,7 @@
    "name": "Xatu",
    "number": "026/091",
    "rarity": "Rare",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-26/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-26/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/xatu-26/cuviAqIVOrxzEvt6"
@@ -288,7 +288,7 @@
    "name": "Gardevoir ex",
    "number": "029/091",
    "rarity": "Double Rare",
-   "price": 0.68,
+   "price": 0.66,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-29/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-29/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gardevoir-ex-29/k47Z01qbnCB3Rkt3"
@@ -308,7 +308,7 @@
    "name": "Mime Jr.",
    "number": "031/091",
    "rarity": "Common",
-   "price": 0.16,
+   "price": 0.15,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-31/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-31/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mime-jr-31/Wtnfld5r0sXmNt65"
@@ -358,7 +358,7 @@
    "name": "Dedenne",
    "number": "036/091",
    "rarity": "Common",
-   "price": 0.18,
+   "price": 0.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-36/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-36/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dedenne-36/VcehCMkR4UoQlCkB"
@@ -518,7 +518,7 @@
    "name": "Grapploct",
    "number": "052/091",
    "rarity": "Uncommon",
-   "price": 0.07,
+   "price": 0.06,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-52/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-52/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/grapploct-52/w57u7UkiBMvjUzUq"
@@ -538,7 +538,7 @@
    "name": "Charizard ex",
    "number": "054/091",
    "rarity": "Double Rare",
-   "price": 4.81,
+   "price": 5.03,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-54/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-54/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charizard-ex-54/cRU3zfQ3uRm8knuE"
@@ -548,7 +548,7 @@
    "name": "Gastly",
    "number": "055/091",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.09,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-55/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-55/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gastly-55/JE5xEBSb6gyhIQBY"
@@ -558,7 +558,7 @@
    "name": "Haunter",
    "number": "056/091",
    "rarity": "Common",
-   "price": 0.14,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-56/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-56/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/haunter-56/hi9qsl2TsLI47r2I"
@@ -568,7 +568,7 @@
    "name": "Gengar",
    "number": "057/091",
    "rarity": "Uncommon",
-   "price": 0.3,
+   "price": 0.34,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-57/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-57/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gengar-57/YTCBm4FeWBi2IK6z"
@@ -588,7 +588,7 @@
    "name": "Paldean Clodsire ex",
    "number": "059/091",
    "rarity": "Double Rare",
-   "price": 0.52,
+   "price": 0.53,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-59/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-59/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-clodsire-ex-59/MHnH35XhbfguQxfH"
@@ -658,7 +658,7 @@
    "name": "Iron Treads ex",
    "number": "066/091",
    "rarity": "Double Rare",
-   "price": 0.44,
+   "price": 0.43,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-66/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-66/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/iron-treads-ex-66/ZzJ3dOXAAAOzHcWi"
@@ -678,7 +678,7 @@
    "name": "Noibat",
    "number": "068/091",
    "rarity": "Common",
-   "price": 0.1,
+   "price": 0.08,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-68/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-68/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/noibat-68/s5G9ByPaY3JnNPQ9"
@@ -748,7 +748,7 @@
    "name": "Squawkabilly ex",
    "number": "075/091",
    "rarity": "Double Rare",
-   "price": 0.56,
+   "price": 0.54,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-75/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-75/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/squawkabilly-ex-75/99W26cThOarTHUUR"
@@ -798,7 +798,7 @@
    "name": "Iono",
    "number": "080/091",
    "rarity": "Uncommon",
-   "price": 0.27,
+   "price": 0.28,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-80/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-80/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/iono-80/VvYmojty2fKBkaQa"
@@ -828,7 +828,7 @@
    "name": "Nemona's Backpack",
    "number": "083/091",
    "rarity": "Uncommon",
-   "price": 0.15,
+   "price": 0.13,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-83/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-83/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemonas-backpack-83/QmYZBUU61Rl1cCHs"
@@ -888,7 +888,7 @@
    "name": "Rare Candy",
    "number": "089/091",
    "rarity": "Common",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-89/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-89/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/rare-candy-89/Yw9AZm9yT6LzmSe2"
@@ -908,7 +908,7 @@
    "name": "Ultra Ball",
    "number": "091/091",
    "rarity": "Uncommon",
-   "price": 0.21,
+   "price": 0.2,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-91/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-91/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ultra-ball-91/4S6fMz7BzMDUnnuG"
@@ -918,7 +918,7 @@
    "name": "Oddish",
    "number": "092/091",
    "rarity": "Shiny Rare",
-   "price": 10,
+   "price": 10.06,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-92/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-92/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/oddish-92/wOhTiddHSlxVnKD4"
@@ -948,7 +948,7 @@
    "name": "Scyther",
    "number": "095/091",
    "rarity": "Shiny Rare",
-   "price": 10.53,
+   "price": 10.54,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-95/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-95/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scyther-95/fMGIpLdGImXlNYZn"
@@ -968,7 +968,7 @@
    "name": "Skiploom",
    "number": "097/091",
    "rarity": "Shiny Rare",
-   "price": 3.26,
+   "price": 3.11,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-97/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-97/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/skiploom-97/6XmVG40JZB09DbDH"
@@ -1018,7 +1018,7 @@
    "name": "Smoliv",
    "number": "102/091",
    "rarity": "Shiny Rare",
-   "price": 5.45,
+   "price": 5.51,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-102/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-102/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/smoliv-102/wP84hDd9BGvse4on"
@@ -1048,7 +1048,7 @@
    "name": "Toedscool",
    "number": "105/091",
    "rarity": "Shiny Rare",
-   "price": 2.38,
+   "price": 2.46,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-105/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-105/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/toedscool-105/jHYGwT7Ub7XWsoUh"
@@ -1068,7 +1068,7 @@
    "name": "Scovillain",
    "number": "107/091",
    "rarity": "Shiny Rare",
-   "price": 2.16,
+   "price": 2.11,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-107/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-107/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/scovillain-107/GcrLhjHW1Og1o5P3"
@@ -1078,7 +1078,7 @@
    "name": "Rellor",
    "number": "108/091",
    "rarity": "Shiny Rare",
-   "price": 1.94,
+   "price": 1.89,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-108/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-108/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/rellor-108/xYGL2dr46Ae4PiJj"
@@ -1088,7 +1088,7 @@
    "name": "Charmander",
    "number": "109/091",
    "rarity": "Shiny Rare",
-   "price": 33.69,
+   "price": 33.85,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-109/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-109/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmander-109/4m59LCmhP1H6GsuJ"
@@ -1098,7 +1098,7 @@
    "name": "Charmeleon",
    "number": "110/091",
    "rarity": "Shiny Rare",
-   "price": 12.71,
+   "price": 12.87,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-110/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-110/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/charmeleon-110/ws6wLuc0B2TUXcQP"
@@ -1128,7 +1128,7 @@
    "name": "Oricorio",
    "number": "113/091",
    "rarity": "Shiny Rare",
-   "price": 2.63,
+   "price": 2.57,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-113/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-113/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/oricorio-113/ClQRfvWQPCl8pig1"
@@ -1168,7 +1168,7 @@
    "name": "Slowbro",
    "number": "117/091",
    "rarity": "Shiny Rare",
-   "price": 19.28,
+   "price": 17.56,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-117/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-117/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/slowbro-117/pcsLedAO7z4Ld2b7"
@@ -1208,7 +1208,7 @@
    "name": "Wiglett",
    "number": "121/091",
    "rarity": "Shiny Rare",
-   "price": 3.22,
+   "price": 3.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-121/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-121/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wiglett-121/bGzGWClFinNrhCzG"
@@ -1278,7 +1278,7 @@
    "name": "Frigibax",
    "number": "128/091",
    "rarity": "Shiny Rare",
-   "price": 3.26,
+   "price": 3.25,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-128/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-128/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/frigibax-128/p4GX1hJbxGKxT5mG"
@@ -1288,7 +1288,7 @@
    "name": "Arctibax",
    "number": "129/091",
    "rarity": "Shiny Rare",
-   "price": 4.57,
+   "price": 4.58,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-129/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-129/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/arctibax-129/OYKBcdq8kg1Uowf3"
@@ -1298,7 +1298,7 @@
    "name": "Baxcalibur",
    "number": "130/091",
    "rarity": "Shiny Rare",
-   "price": 5.31,
+   "price": 4.93,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-130/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-130/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/baxcalibur-130/ZJvILWFqCpshQhuq"
@@ -1328,7 +1328,7 @@
    "name": "Voltorb",
    "number": "133/091",
    "rarity": "Shiny Rare",
-   "price": 5.07,
+   "price": 4.97,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-133/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-133/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/voltorb-133/LLqeZDVzPWjgwWHO"
@@ -1378,7 +1378,7 @@
    "name": "Pachirisu",
    "number": "138/091",
    "rarity": "Shiny Rare",
-   "price": 9.51,
+   "price": 9.43,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-138/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-138/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pachirisu-138/kt9FJepVRe41z9LS"
@@ -1438,7 +1438,7 @@
    "name": "Pawmot",
    "number": "144/091",
    "rarity": "Shiny Rare",
-   "price": 3.65,
+   "price": 3.64,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-144/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-144/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmot-144/sIwiISK5J3FgB1Og"
@@ -1448,7 +1448,7 @@
    "name": "Wattrel",
    "number": "145/091",
    "rarity": "Shiny Rare",
-   "price": 2.9,
+   "price": 2.93,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-145/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-145/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wattrel-145/WXjtNXFvoYPkiw5B"
@@ -1468,7 +1468,7 @@
    "name": "Wigglytuff",
    "number": "147/091",
    "rarity": "Shiny Rare",
-   "price": 6.54,
+   "price": 6.53,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-147/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-147/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wigglytuff-147/TwP3IlZTT9udv6Ox"
@@ -1488,7 +1488,7 @@
    "name": "Kadabra",
    "number": "149/091",
    "rarity": "Shiny Rare",
-   "price": 10.7,
+   "price": 10.61,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-149/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-149/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kadabra-149/mKFbadI5Hg1PSrBJ"
@@ -1508,7 +1508,7 @@
    "name": "Natu",
    "number": "151/091",
    "rarity": "Shiny Rare",
-   "price": 2.59,
+   "price": 2.58,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-151/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-151/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/natu-151/yvV5eHNZJETbqLZc"
@@ -1528,7 +1528,7 @@
    "name": "Ralts",
    "number": "153/091",
    "rarity": "Shiny Rare",
-   "price": 10.82,
+   "price": 10.77,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-153/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-153/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/ralts-153/MFzFk7TA7XVoqa44"
@@ -1538,7 +1538,7 @@
    "name": "Kirlia",
    "number": "154/091",
    "rarity": "Shiny Rare",
-   "price": 7.88,
+   "price": 7.83,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-154/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-154/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/kirlia-154/ev0dMdNtI6coiJXG"
@@ -1568,7 +1568,7 @@
    "name": "Mime Jr.",
    "number": "157/091",
    "rarity": "Shiny Rare",
-   "price": 5.9,
+   "price": 5.82,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-157/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-157/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mime-jr-157/NpxetaHUgzZQHlbb"
@@ -1588,7 +1588,7 @@
    "name": "Klefki",
    "number": "159/091",
    "rarity": "Shiny Rare",
-   "price": 3.46,
+   "price": 3.51,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-159/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-159/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/klefki-159/mPR0riSYcRY8Hfro"
@@ -1598,7 +1598,7 @@
    "name": "Mimikyu",
    "number": "160/091",
    "rarity": "Shiny Rare",
-   "price": 47.98,
+   "price": 48.09,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-160/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-160/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mimikyu-160/tkzLyKWlsV34b21r"
@@ -1628,7 +1628,7 @@
    "name": "Rabsca",
    "number": "163/091",
    "rarity": "Shiny Rare",
-   "price": 2.14,
+   "price": 2.13,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-163/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-163/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/rabsca-163/iP5IclUj99cbwbRY"
@@ -1648,7 +1648,7 @@
    "name": "Tinkatink",
    "number": "165/091",
    "rarity": "Shiny Rare",
-   "price": 7.63,
+   "price": 7.5,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-165/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-165/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/tinkatink-165/OnuPvfs64yXZGoeI"
@@ -1688,7 +1688,7 @@
    "name": "Mankey",
    "number": "169/091",
    "rarity": "Shiny Rare",
-   "price": 5.5,
+   "price": 5.4,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-169/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-169/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mankey-169/UBTezLi9fDUAKhLa"
@@ -1698,7 +1698,7 @@
    "name": "Primeape",
    "number": "170/091",
    "rarity": "Shiny Rare",
-   "price": 4.35,
+   "price": 4.39,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-170/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-170/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/primeape-170/r1WHylcCx0l34ZRG"
@@ -1728,7 +1728,7 @@
    "name": "Riolu",
    "number": "173/091",
    "rarity": "Shiny Rare",
-   "price": 12.22,
+   "price": 12.18,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-173/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-173/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/riolu-173/8Bx68bzm8xFckEfD"
@@ -1738,7 +1738,7 @@
    "name": "Lucario",
    "number": "174/091",
    "rarity": "Shiny Rare",
-   "price": 19.56,
+   "price": 19.36,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-174/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-174/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/lucario-174/EQgVbHzzF9E9lZwE"
@@ -1748,7 +1748,7 @@
    "name": "Hawlucha",
    "number": "175/091",
    "rarity": "Shiny Rare",
-   "price": 5.75,
+   "price": 5.72,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-175/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-175/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/hawlucha-175/E6QeDatJlfPXL0WL"
@@ -1778,7 +1778,7 @@
    "name": "Garganacl",
    "number": "178/091",
    "rarity": "Shiny Rare",
-   "price": 2.13,
+   "price": 2.19,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-178/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-178/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/garganacl-178/wcZE4qLieUVmY7WU"
@@ -1798,7 +1798,7 @@
    "name": "Paldean Wooper",
    "number": "180/091",
    "rarity": "Shiny Rare",
-   "price": 12.92,
+   "price": 12.76,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-180/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-180/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-wooper-180/HniE51UMbf5IU9jR"
@@ -1818,7 +1818,7 @@
    "name": "Sneasel",
    "number": "182/091",
    "rarity": "Shiny Rare",
-   "price": 3.58,
+   "price": 3.57,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-182/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-182/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/sneasel-182/3g8FI0Lm2whT9RAJ"
@@ -1838,7 +1838,7 @@
    "name": "Sableye",
    "number": "184/091",
    "rarity": "Shiny Rare",
-   "price": 9.93,
+   "price": 9.91,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-184/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-184/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/sableye-184/swsHlFnwXhUmiFvY"
@@ -1878,7 +1878,7 @@
    "name": "Mabosstiff",
    "number": "188/091",
    "rarity": "Shiny Rare",
-   "price": 2.42,
+   "price": 2.45,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-188/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-188/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mabosstiff-188/YesUxmlf1jMlaoQK"
@@ -1918,7 +1918,7 @@
    "name": "Varoom",
    "number": "192/091",
    "rarity": "Shiny Rare",
-   "price": 1.65,
+   "price": 1.69,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-192/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-192/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/varoom-192/r6JBLXJB8s8Q2xT6"
@@ -1938,7 +1938,7 @@
    "name": "Noibat",
    "number": "194/091",
    "rarity": "Shiny Rare",
-   "price": 4.61,
+   "price": 4.49,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-194/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-194/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/noibat-194/KVF7oahjvEpXwMWg"
@@ -1958,7 +1958,7 @@
    "name": "Pidgey",
    "number": "196/091",
    "rarity": "Shiny Rare",
-   "price": 7.08,
+   "price": 7.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-196/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-196/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pidgey-196/Pt2UVep7U5K1rWr3"
@@ -1968,7 +1968,7 @@
    "name": "Pidgeotto",
    "number": "197/091",
    "rarity": "Shiny Rare",
-   "price": 5.42,
+   "price": 5.44,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-197/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-197/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pidgeotto-197/rU8MhPqSnfM2IRua"
@@ -1978,7 +1978,7 @@
    "name": "Jigglypuff",
    "number": "198/091",
    "rarity": "Shiny Rare",
-   "price": 21.25,
+   "price": 21.27,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-198/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-198/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/jigglypuff-198/8y1gKbOQdgeDTMeg"
@@ -1988,7 +1988,7 @@
    "name": "Doduo",
    "number": "199/091",
    "rarity": "Shiny Rare",
-   "price": 4.53,
+   "price": 4.54,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-199/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-199/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/doduo-199/QL46wb6H6eLqIKX2"
@@ -1998,7 +1998,7 @@
    "name": "Dodrio",
    "number": "200/091",
    "rarity": "Shiny Rare",
-   "price": 4.29,
+   "price": 4.3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-200/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-200/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/dodrio-200/HiWyFdLaSPp6FIhn"
@@ -2038,7 +2038,7 @@
    "name": "Pelipper",
    "number": "204/091",
    "rarity": "Shiny Rare",
-   "price": 2.63,
+   "price": 2.65,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-204/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-204/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pelipper-204/rldOLBdRM4U4g3zl"
@@ -2078,7 +2078,7 @@
    "name": "Oinkologne",
    "number": "208/091",
    "rarity": "Shiny Rare",
-   "price": 4.57,
+   "price": 4.59,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-208/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-208/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/oinkologne-208/gY7e3vNlm1EYC4Wl"
@@ -2098,7 +2098,7 @@
    "name": "Maushold",
    "number": "210/091",
    "rarity": "Shiny Rare",
-   "price": 30.98,
+   "price": 31.21,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-210/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-210/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/maushold-210/jMmUzRsl1un8HZ5Y"
@@ -2108,7 +2108,7 @@
    "name": "Flamigo",
    "number": "211/091",
    "rarity": "Shiny Rare",
-   "price": 3.19,
+   "price": 3.18,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-211/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-211/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/flamigo-211/OvsqtL29pZmWAvr2"
@@ -2128,7 +2128,7 @@
    "name": "Toedscruel ex",
    "number": "213/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 1.64,
+   "price": 1.58,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-213/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-213/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/toedscruel-ex-213/2pptREFGfmiaeESW"
@@ -2138,7 +2138,7 @@
    "name": "Espathra ex",
    "number": "214/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 1.07,
+   "price": 1.09,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-214/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-214/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/espathra-ex-214/AYFU9vrhh86ZBMSZ"
@@ -2148,7 +2148,7 @@
    "name": "Alakazam ex",
    "number": "215/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 5.9,
+   "price": 6.07,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-215/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-215/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/alakazam-ex-215/hJUQrzSQMdSAtF75"
@@ -2158,7 +2158,7 @@
    "name": "Mew ex",
    "number": "216/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 36.89,
+   "price": 35.3,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-216/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-216/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/mew-ex-216/ibtWeNlhrRZTnZsD"
@@ -2168,7 +2168,7 @@
    "name": "Gardevoir ex",
    "number": "217/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 7.92,
+   "price": 8.01,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-217/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-217/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gardevoir-ex-217/UC4qDjxSL79zm057"
@@ -2178,7 +2178,7 @@
    "name": "Glimmora ex",
    "number": "218/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 0.94,
+   "price": 0.9,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-218/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-218/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/glimmora-ex-218/l6Z1iM0exRi4OuN7"
@@ -2188,7 +2188,7 @@
    "name": "Paldean Clodsire ex",
    "number": "219/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 2.34,
+   "price": 2.35,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-219/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-219/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-clodsire-ex-219/PS1IrXhN0fa9NWsz"
@@ -2198,7 +2198,7 @@
    "name": "Noivern ex",
    "number": "220/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 1.66,
+   "price": 1.65,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-220/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-220/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/noivern-ex-220/23ytBTVafa7fmMq5"
@@ -2208,7 +2208,7 @@
    "name": "Pidgeot ex",
    "number": "221/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 2.22,
+   "price": 2.07,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-221/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-221/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pidgeot-ex-221/RtXkwHLlvRD9LwUR"
@@ -2218,7 +2218,7 @@
    "name": "Wigglytuff ex",
    "number": "222/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 2.11,
+   "price": 2.07,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-222/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-222/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wigglytuff-ex-222/aXSv4kiixwme8P0K"
@@ -2228,7 +2228,7 @@
    "name": "Squawkabilly ex",
    "number": "223/091",
    "rarity": "Shiny Ultra Rare",
-   "price": 1.17,
+   "price": 1.19,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-223/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-223/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/squawkabilly-ex-223/dPRMsygc8NsgqWg6"
@@ -2238,7 +2238,7 @@
    "name": "Wugtrio",
    "number": "224/091",
    "rarity": "Illustration Rare",
-   "price": 1.98,
+   "price": 2.02,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-224/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-224/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wugtrio-224/7cwhykGvqZCRgUAv"
@@ -2248,7 +2248,7 @@
    "name": "Palafin",
    "number": "225/091",
    "rarity": "Illustration Rare",
-   "price": 1.7,
+   "price": 1.74,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-225/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-225/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/palafin-225/ln3tdT7AweA8hukq"
@@ -2258,7 +2258,7 @@
    "name": "Pawmi",
    "number": "226/091",
    "rarity": "Illustration Rare",
-   "price": 2.95,
+   "price": 3.03,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-226/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-226/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/pawmi-226/2ncrDkUnhhyTgFxR"
@@ -2268,7 +2268,7 @@
    "name": "Clive",
    "number": "227/091",
    "rarity": "Ultra Rare",
-   "price": 0.63,
+   "price": 0.62,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-227/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-227/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clive-227/SREHI9VSo55yc9Kj"
@@ -2278,7 +2278,7 @@
    "name": "Judge",
    "number": "228/091",
    "rarity": "Ultra Rare",
-   "price": 1.31,
+   "price": 1.44,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-228/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-228/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/judge-228/DRtvX2KFHlQFcyLO"
@@ -2288,7 +2288,7 @@
    "name": "Nemona",
    "number": "229/091",
    "rarity": "Ultra Rare",
-   "price": 0.74,
+   "price": 0.78,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-229/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-229/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemona-229/O8joAmIJ228YKlmh"
@@ -2298,7 +2298,7 @@
    "name": "Paldean Student",
    "number": "230/091",
    "rarity": "Ultra Rare",
-   "price": 0.74,
+   "price": 0.73,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-230/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-230/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-230/iE4CBRPjpBumTNQE"
@@ -2308,7 +2308,7 @@
    "name": "Paldean Student",
    "number": "231/091",
    "rarity": "Ultra Rare",
-   "price": 0.84,
+   "price": 0.88,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-231/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-231/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/paldean-student-231/E3eaongmL482I6GR"
@@ -2328,7 +2328,7 @@
    "name": "Gardevoir ex",
    "number": "233/091",
    "rarity": "Special Illustration Rare",
-   "price": 146.87,
+   "price": 145.59,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-233/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-233/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/gardevoir-ex-233/c2SFMaTIU7smhd7h"
@@ -2348,7 +2348,7 @@
    "name": "Arven",
    "number": "235/091",
    "rarity": "Special Illustration Rare",
-   "price": 8.25,
+   "price": 8.26,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-235/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-235/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/arven-235/cNupu16uq3skgU5d"
@@ -2358,7 +2358,7 @@
    "name": "Clive",
    "number": "236/091",
    "rarity": "Special Illustration Rare",
-   "price": 18.94,
+   "price": 18.91,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-236/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-236/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/clive-236/LXap6cWnt3vQ3byP"
@@ -2368,7 +2368,7 @@
    "name": "Iono",
    "number": "237/091",
    "rarity": "Special Illustration Rare",
-   "price": 20.35,
+   "price": 20.17,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-237/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-237/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/iono-237/BUUaovHXEylkG1f8"
@@ -2378,7 +2378,7 @@
    "name": "Nemona",
    "number": "238/091",
    "rarity": "Special Illustration Rare",
-   "price": 5.75,
+   "price": 5.73,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-238/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-238/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/nemona-238/hCfYuXYo4yACXy6i"
@@ -2388,7 +2388,7 @@
    "name": "Penny",
    "number": "239/091",
    "rarity": "Special Illustration Rare",
-   "price": 9.9,
+   "price": 10.07,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-239/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-239/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/penny-239/4wbn96F6I3SyxqYn"
@@ -2398,7 +2398,7 @@
    "name": "Wo-Chien ex",
    "number": "240/091",
    "rarity": "Hyper Rare",
-   "price": 7.4,
+   "price": 7.42,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-240/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-240/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/wo-chien-ex-240/cc2eCDKeuOizI37g"
@@ -2418,7 +2418,7 @@
    "name": "Chien-Pao ex",
    "number": "242/091",
    "rarity": "Hyper Rare",
-   "price": 9.53,
+   "price": 9.41,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-242/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-242/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/chien-pao-ex-242/PByXenkBw8lu6wYv"
@@ -2428,7 +2428,7 @@
    "name": "Miraidon ex",
    "number": "243/091",
    "rarity": "Hyper Rare",
-   "price": 14.86,
+   "price": 14.87,
    "img": "https://images.scrydex.com/pokemon/sv4pt5-243/small",
    "imgLarge": "https://images.scrydex.com/pokemon/sv4pt5-243/large",
    "url": "https://www.rarecandy.com/pokemon/sets/paldean-fates/miraidon-ex-243/TQFhazeeDIFgUuGQ"
